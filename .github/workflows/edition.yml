@@ -1,0 +1,67 @@
+name: Build edition
+
+on:
+  schedule:
+    # Times are UTC. Each slot fires twice, an hour apart, so one run always lands
+    # in the Pacific-time window whether or not daylight saving is on.
+    # The script skips the second run if the edition already exists.
+    - cron: "5 13,14 * * *"   # morning: 5-7 AM PT
+    - cron: "5 0,1 * * *"     # evening: 4-6 PM PT
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Build this edition now (overwrites today's)"
+        type: choice
+        options: [morning, evening]
+        default: morning
+      skip_email:
+        description: "Skip the email"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: edition
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build edition
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          GEMINI_MODELS: ${{ vars.GEMINI_MODELS }}
+          # Optional paid fallback: set LLM_PROVIDER=claude and add ANTHROPIC_API_KEY.
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          FORCE_SLOT: ${{ inputs.slot }}
+          SKIP_EMAIL: ${{ inputs.skip_email && '1' || '' }}
+        run: node scripts/edition.mjs
+
+      - name: Publish edition
+        run: |
+          git config user.name "first-serve-bot"
+          git config user.email "first-serve-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new edition."
+          else
+            git commit -m "Edition $(jq -r .id data/latest.json)"
+            git push
+          fi

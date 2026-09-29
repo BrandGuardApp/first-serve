@@ -1,0 +1,244 @@
+{
+  "id": "2026-09-29-am",
+  "slot": "morning",
+  "date": "2026-09-29",
+  "dateLabel": "Tue, Sep 29, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-09-29T13:10:00.000Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic files for a $2T IPO, Goldman plans its next CEO, and your 2-minute startup question.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "11:42 AM ET, Sep 29",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,665",
+        "change": "−0.30%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,793",
+        "change": "−0.18%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,205",
+        "change": "−0.64%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.28%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,157",
+        "change": "+1.00%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic's IPO filing asks for a $2 trillion valuation",
+    "body": "Anthropic, the company behind Claude, is heading for a Nasdaq listing, and its prospectus (the S-1) is out. Revenue is exploding, but so is spending: the company plans to put $518 billion into cloud and data centers.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/09/29/anthropic-ipo-s-1-prospectus-income-statement/"
+      },
+      {
+        "name": "The Motley Fool",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/29/stock-market-midday-sept-29-stocks-edge-lower-despite-usd2-trillion-anthropic-valuation/"
+      }
+    ],
+    "why": "Every IPO filing lists its risks. Two customers bringing in a quarter of revenue is called customer concentration, and it's one of the first things a consultant or investor checks. Lose one of those clients and the story changes fast.",
+    "kicker": "AI + IPOs",
+    "figures": [
+      {
+        "value": "$4.6B",
+        "label": "2025 revenue"
+      },
+      {
+        "value": "$11.5B",
+        "label": "Q2 2026 revenue, one quarter"
+      },
+      {
+        "value": "~25%",
+        "label": "of revenue from just two customers"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Goldman Sachs starts planning for its next CEO",
+          "body": "COO John Waldron is the leading candidate to succeed David Solomon, who would stay on as executive chairman for a year or two before leaving.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html"
+            }
+          ],
+          "why": "Succession at a top bank shapes strategy for a decade. Notice the path: Waldron ran operations before getting the top job."
+        },
+        {
+          "headline": "Oura delays its IPO even though it's profitable",
+          "body": "The smart-ring maker has $1.21 billion in sales so far this year and makes money, but pushed back its Nasdaq debut, citing uncertainty in the IPO market.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html#oura"
+            }
+          ],
+          "why": "Going public is about timing as much as quality. A strong company can still wait if investors are nervous."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "AMD buys Fei-Fei Li's World Labs for $8.2 billion",
+          "body": "The chipmaker is buying the spatial-intelligence startup, and Li becomes AMD's chief scientist. The deal should close by year-end if regulators approve.",
+          "sources": [
+            {
+              "name": "AI Weekly",
+              "url": "https://aiweekly.co/ai-news-today"
+            }
+          ],
+          "why": "Big companies often buy talent and technology instead of building it. This is an \"acqui-hire\" at a very large scale."
+        },
+        {
+          "headline": "OpenAI holds back a new model over safety concerns",
+          "body": "OpenAI postponed its next model, citing \"alignment\" problems, including whether the model accurately reports its own actions.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html#openai"
+            }
+          ],
+          "why": "AI companies are now delaying revenue to manage risk. Safety is becoming a business decision, not only a research one."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Summer 2027 internship recruiting is already moving",
+          "body": "Banks started posting roles as early as December 2025, and the average finance posting draws about 273 applications. Big tech posts in the fall; startups hire mostly in spring.",
+          "sources": [
+            {
+              "name": "Scalis",
+              "url": "https://earlycareers.scalis.ai/p/the-summer-2027-race-already-started-most-students-have-no-idea"
+            }
+          ],
+          "why": "As a freshman you're not expected to land one of these yet. What you can do now: pick five firms you're curious about and follow their careers pages."
+        },
+        {
+          "headline": "At McKinsey, AI now builds the slides",
+          "body": "About 75% of McKinsey staff use its internal AI tool, Lilli, which drafts presentations and charts. The firm says it saved 1.5 million hours of work in a year.",
+          "sources": [
+            {
+              "name": "Entrepreneur",
+              "url": "https://www.entrepreneur.com/business-news/mckinsey-consultants-are-letting-ai-take-over-their-work"
+            }
+          ],
+          "why": "Junior consulting work is shifting from making decks to judgment and client skills. Those are the skills to build in college."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI ranks 8th among U.S. public universities",
+          "body": "U.S. News placed UCI in the public top 10 for the 12th year running, and 34th among all national universities.",
+          "sources": [
+            {
+              "name": "UCI News",
+              "url": "https://news.uci.edu/2026/09/22/uc-irvine-places-eighth-among-nations-best-public-universities/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Team Europe takes back the Laver Cup, 13–5",
+          "body": "Alexander Zverev clinched it in London by beating Learner Tien 7-6(3), 6-3.",
+          "sources": [
+            {
+              "name": "ATP Tour",
+              "url": "https://www.atptour.com/en/news/laver-cup-2026-results"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Shiller CAPE ratio",
+    "definition": "The stock price compared with 10 years of average earnings, adjusted for inflation. A high number means stocks are expensive relative to what companies have actually earned. It's now at levels not seen since 1999, right before the dot-com crash, which is why some analysts are warning about a downturn.",
+    "sources": [
+      {
+        "name": "The Motley Fool",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/29/stock-market-midday-sept-29-stocks-edge-lower-despite-usd2-trillion-anthropic-valuation/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Atomic raised $12.5M to fix inventory planning",
+    "body": "Atomic, a Boston startup, uses AI to help supply-chain teams decide how much stock to hold, a job many still run in spreadsheets. Madrona and Klass Capital led the Series A.",
+    "questions": [
+      "What's one thing at UCI that still runs on spreadsheets or group chats?",
+      "Who would pay to fix it: students, clubs, or the university?",
+      "What's the smallest version you could test this week?"
+    ],
+    "sources": [
+      {
+        "name": "Tech Startups",
+        "url": "https://techstartups.com/2026/09/29/startup-funding-news-today-september-29-2026-atomic-anote-helix-marble-reverion-more/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic files for a $2 trillion IPO.",
+      "blurb": "Revenue is soaring, but a quarter of it comes from two customers."
+    },
+    {
+      "headline": "Goldman Sachs plans its next CEO.",
+      "blurb": "COO John Waldron is the frontrunner to succeed David Solomon."
+    },
+    {
+      "headline": "AMD buys World Labs for $8.2 billion.",
+      "blurb": "Fei-Fei Li becomes AMD's chief scientist."
+    },
+    {
+      "headline": "Summer 2027 internship recruiting is already moving.",
+      "blurb": "What a freshman can do now."
+    },
+    {
+      "headline": "UCI ranks 8th among U.S. public universities",
+      "blurb": "for the 12th straight year in the top 10."
+    }
+  ],
+  "emailQuestion": "What's one thing at UCI that still runs on spreadsheets or group chats?"
+}

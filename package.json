@@ -1,0 +1,12 @@
+{
+  "name": "first-serve",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Twice-daily news brief for Samrudh",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "edition": "node scripts/edition.mjs",
+    "test": "node test/run.mjs"
+  }
+}

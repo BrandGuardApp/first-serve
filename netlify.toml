@@ -1,0 +1,13 @@
+[build]
+  publish = "site"
+  command = ""
+  # Editions are committed to data/ twice a day. The page reads them straight from
+  # GitHub, so skip a Netlify deploy unless the site itself changed.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- site/ netlify.toml"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

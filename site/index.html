@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>First Serve</title>
+<meta name="description" content="Samrudh's twice-daily brief on business, AI, careers, startups, UCI, and tennis.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#13233A">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23D6EE3F' stroke='%2313233A' stroke-width='2'/%3E%3Cpath d='M4 9c7 3 7 11 0 14M28 9c-7 3-7 11 0 14' fill='none' stroke='%2313233A' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: single reading column like a match program; scoreboard strip up top, lead story, then short sections by topic, ending on a startup prompt. */
+:root{
+  --chalk:#F2F5F8;      /* page ground, cool court-line white */
+  --paper:#FFFFFF;      /* raised surfaces */
+  --ink:#13233A;        /* text */
+  --muted:#5A6B80;      /* secondary text */
+  --court:#2B5A8A;      /* hard-court blue accent */
+  --ball:#D6EE3F;       /* optic yellow, highlight only */
+  --line:#D6DEE7;       /* rules */
+  --up:#1E7A4C; --down:#B23A2E;
+  --display:"Archivo", "Arial Narrow", system-ui, sans-serif;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --chalk:#0D1724;--paper:#132134;--ink:#E5ECF3;--muted:#93A4B8;--court:#86B0DD;--ball:#D6EE3F;--line:#24364D;--up:#5CC98F;--down:#F08A7E;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --chalk:#0D1724;--paper:#132134;--ink:#E5ECF3;--muted:#93A4B8;--court:#86B0DD;--ball:#D6EE3F;--line:#24364D;--up:#5CC98F;--down:#F08A7E;color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--chalk);color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.55;padding-inline:16px;padding-block:0 48px}
+.wrap{max-width:680px;margin:0 auto}
+a{color:var(--court)}
+a:focus-visible{outline:2px solid var(--court);outline-offset:2px;border-radius:2px}
+
+/* Masthead */
+.mast{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:20px 14px;border-bottom:3px solid var(--ink)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
+.brand svg{width:30px;height:30px;flex:none}
+.brand b{font-family:var(--display);font-stretch:118%;font-weight:850;font-size:22px;letter-spacing:.04em;text-transform:uppercase;line-height:1}
+.edition{font-family:var(--mono);font-size:12px;color:var(--muted);text-align:right;line-height:1.35}
+.edition strong{color:var(--ink);font-weight:500}
+
+.hello{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 16px;padding-block:18px 6px}
+.hello h1{font-family:var(--display);font-stretch:75%;font-weight:800;font-size:clamp(34px,8vw,48px);line-height:1;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.hello p{margin:0;font-family:var(--display);font-size:14px;color:var(--muted)}
+
+/* Scoreboard */
+.board{margin-block:18px 8px;background:var(--ink);color:var(--chalk);border-radius:6px;overflow:hidden}
+.board-head{display:flex;justify-content:space-between;gap:8px;padding:8px 14px;font-family:var(--display);font-size:11px;letter-spacing:.14em;text-transform:uppercase;border-bottom:1px solid color-mix(in srgb,var(--chalk) 18%,transparent)}
+.board-head span:last-child{font-family:var(--mono);letter-spacing:0;text-transform:none;opacity:.75}
+.board table{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:14px;font-variant-numeric:tabular-nums}
+.board td{padding:7px 14px;border-bottom:1px solid color-mix(in srgb,var(--chalk) 10%,transparent)}
+.board tr:last-child td{border-bottom:0}
+.board td:first-child{font-family:var(--display);font-weight:600;font-size:14px;letter-spacing:.02em}
+.board td.n{text-align:right}
+.board .chg{width:84px}
+.pos{color:#7FE0A8}.neg{color:#FF9C8F}
+:root .board{--chalk:#F2F5F8;--ink:#13233A}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .board{background:#060D16}}
+:root[data-theme="dark"] .board{background:#060D16}
+
+/* Sections */
+section{padding-block:26px 4px}
+.label{display:flex;align-items:center;gap:10px;font-family:var(--display);font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--court);margin:0 0 14px}
+.label::after{content:"";flex:1;height:1px;background:var(--line)}
+
+article{padding-block:14px;border-top:1px solid var(--line)}
+.label + article{border-top:0;padding-top:0}
+article h3{font-family:var(--display);font-weight:750;font-stretch:88%;font-size:21px;line-height:1.2;margin:0 0 6px;text-wrap:balance}
+article p{margin:0 0 8px}
+.why{font-style:italic;color:var(--ink);padding-left:12px;border-left:3px solid var(--ball)}
+.why b{font-family:var(--display);font-style:normal;font-size:12px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin-right:6px}
+.src{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.src a{color:var(--muted)}
+
+/* Lead story */
+.lead{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:20px}
+.lead h2{font-family:var(--display);font-stretch:80%;font-weight:850;font-size:clamp(26px,6vw,34px);line-height:1.05;margin:4px 0 12px;text-wrap:balance}
+.kicker{font-family:var(--display);font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--court)}
+.figs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:14px 0}
+.figs div{border-top:2px solid var(--ink);padding-top:6px}
+.figs strong{display:block;font-family:var(--display);font-stretch:80%;font-weight:800;font-size:24px;line-height:1.1;font-variant-numeric:tabular-nums}
+.figs span{font-family:var(--display);font-size:12px;color:var(--muted);line-height:1.3;display:block}
+
+/* Explainer */
+.term{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:16px 18px}
+.term dt{font-family:var(--display);font-weight:800;font-size:18px}
+.term dd{margin:4px 0 0}
+
+/* Your serve */
+.serve{margin-top:28px;background:var(--court);color:#fff;border-radius:6px;padding:22px 20px}
+.serve .label{color:#fff}
+.serve .label::after{background:rgba(255,255,255,.35)}
+.serve h2{font-family:var(--display);font-stretch:80%;font-weight:850;font-size:28px;line-height:1.1;margin:0 0 10px;text-wrap:balance}
+.serve p{margin:0 0 10px}
+.serve ol{margin:8px 0 0;padding-left:22px}
+.serve li{margin-bottom:6px}
+.serve li::marker{font-family:var(--display);font-weight:800;color:var(--ball)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .serve{background:#1D3D61}}
+:root[data-theme="dark"] .serve{background:#1D3D61}
+
+footer{margin-top:34px;padding-top:14px;border-top:3px solid var(--ink);font-family:var(--display);font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
+
+@media (max-width:480px){
+  body{font-size:16px}
+  .figs{grid-template-columns:1fr 1fr}
+  .figs div:last-child{grid-column:1/-1}
+  .board .chg{width:auto}
+}
+
+.state{padding-block:60px;text-align:center;font-family:var(--display);color:var(--muted)}
+.state strong{display:block;font-size:20px;color:var(--ink);margin-bottom:6px}
+.stale{margin-top:10px;font-family:var(--display);font-size:13px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <a class="brand" href="/" aria-label="First Serve home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--ball)" stroke="var(--ink)" stroke-width="2"/><path d="M4 9c7 3 7 11 0 14M28 9c-7 3-7 11 0 14" fill="none" stroke="var(--ink)" stroke-width="2" stroke-linecap="round"/></svg>
+      <b>First Serve</b>
+    </a>
+    <div class="edition" id="edition-meta"></div>
+  </header>
+  <main id="app">
+    <div class="state"><strong>Loading today's brief</strong>One second.</div>
+  </main>
+</div>
+
+<script>
+// Where the generator publishes each edition (the GitHub repo's data folder).
+const DATA_URL = "https://raw.githubusercontent.com/BrandGuardApp/first-serve/main/data/latest.json";
+
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? esc(u) : "#";
+const sources = (list, prefix) => list?.length
+  ? `<p class="src">${list.length > 1 ? "Sources" : "Source"}: ${list.map((s) => `<a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(" · ")}</p>`
+  : "";
+const why = (w) => w ? `<p class="why"><b>Why it matters</b>${esc(w)}</p>` : "";
+
+function render(ed) {
+  document.getElementById("edition-meta").innerHTML =
+    `<strong>${esc(ed.dateLabel)}</strong><br>${esc(ed.editionLabel)}`;
+  document.title = `First Serve · ${ed.dateLabel.replace(/, \d{4}$/, "")}`;
+
+  const hoursOld = (Date.now() - new Date(ed.generatedAt)) / 36e5;
+  const parts = [];
+
+  parts.push(`<div class="hello"><h1>${esc(ed.greeting)}</h1><p>${ed.storyCount} stories · about ${ed.readMinutes} minutes</p></div>`);
+  if (hoursOld > 20) parts.push(`<p class="stale">This edition is from ${esc(ed.dateLabel)}. A new one is on its way.</p>`);
+
+  if (ed.scoreboard) {
+    const rows = ed.scoreboard.rows.map((r) =>
+      `<tr><td>${esc(r.name)}</td><td class="n">${esc(r.value)}</td><td class="n chg ${r.direction === "up" ? "pos" : r.direction === "down" ? "neg" : ""}">${esc(r.change)}</td></tr>`).join("");
+    parts.push(`<div class="board" role="region" aria-label="Market scoreboard"><div class="board-head"><span>Scoreboard</span><span>${esc(ed.scoreboard.asOf)}</span></div><table>${rows}</table></div>`);
+  }
+
+  const L = ed.lead;
+  const figs = L.figures?.length
+    ? `<div class="figs">${L.figures.map((f) => `<div><strong>${esc(f.value)}</strong><span>${esc(f.label)}</span></div>`).join("")}</div>` : "";
+  parts.push(`<section aria-labelledby="lead-h"><div class="lead"><div class="kicker">The big one · ${esc(L.kicker)}</div><h2 id="lead-h">${esc(L.headline)}</h2><p>${esc(L.body)}</p>${figs}${why(L.why)}${sources(L.sources)}</div></section>`);
+
+  for (const s of ed.sections) {
+    const arts = s.stories.map((st) => `<article><h3>${esc(st.headline)}</h3><p>${esc(st.body)}</p>${why(st.why)}${sources(st.sources)}</article>`).join("");
+    parts.push(`<section aria-labelledby="sec-${esc(s.key)}"><h2 class="label" id="sec-${esc(s.key)}">${esc(s.title)}</h2>${arts}</section>`);
+    // The investing term sits after business & markets.
+    if (s.key === "business" && ed.term) parts.push(termBlock(ed.term));
+  }
+  if (ed.term && !ed.sections.some((s) => s.key === "business")) parts.push(termBlock(ed.term));
+
+  if (ed.serve) {
+    const S = ed.serve;
+    const qs = S.questions?.length ? `<p><strong>Think about it for two minutes:</strong></p><ol>${S.questions.map((q) => `<li>${esc(q)}</li>`).join("")}</ol>` : "";
+    const src = S.sources?.length ? `<p class="src" style="color:rgba(255,255,255,.8);margin-top:12px">Source: ${S.sources.map((x) => `<a style="color:#fff" href="${safeUrl(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" · ")}</p>` : "";
+    parts.push(`<aside class="serve" aria-labelledby="serve-h"><h2 class="label">Your serve</h2><h2 id="serve-h">${esc(S.headline)}</h2><p>${esc(S.body)}</p>${qs}${src}</aside>`);
+  }
+
+  parts.push(`<footer><span>${esc(ed.nextLabel)}</span><span>First Serve · made for Samrudh</span></footer>`);
+  document.getElementById("app").innerHTML = parts.join("");
+}
+
+function termBlock(t) {
+  return `<section aria-labelledby="term-h"><h2 class="label" id="term-h">Investing term of the day</h2><dl class="term"><dt>${esc(t.name)}</dt><dd>${esc(t.definition)}</dd>${t.sources?.length ? `<dd class="src" style="margin-top:8px">Source: ${t.sources.map((x) => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" · ")}</dd>` : ""}</dl></section>`;
+}
+
+async function load() {
+  try {
+    const res = await fetch(DATA_URL, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    render(await res.json());
+  } catch (e) {
+    document.getElementById("app").innerHTML =
+      `<div class="state"><strong>The brief didn't load</strong>Check your connection and refresh the page.</div>`;
+  }
+}
+load();
+// Pick up a new edition if the tab stays open.
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+</script>
+</body>
+</html>
