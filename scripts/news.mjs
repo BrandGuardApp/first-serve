@@ -2,6 +2,9 @@
 // Free GNews plan: 100 requests/day, 10 articles per request. Each run uses 9 requests.
 
 const BASE = "https://gnews.io/api/v4";
+const GAP_MS = Number(process.env.GNEWS_GAP_MS ?? 1500);
+const RETRY_MS = Number(process.env.GNEWS_RETRY_MS ?? 5000);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // Each feed maps to a section. "hours" is how far back to look.
 export const FEEDS = [
@@ -52,7 +55,17 @@ function similar(a, b) {
 
 // Returns a de-duplicated list with short ids (a1, a2, ...) Claude can cite.
 export async function gatherCandidates(apiKey, now = new Date()) {
-  const results = await Promise.allSettled(FEEDS.map((f) => fetchFeed(f, apiKey, now)));
+  // GNews free plan allows about 1 request per second, so fetch one feed at a time.
+  const results = [];
+  for (const [i, f] of FEEDS.entries()) {
+    if (i > 0) await sleep(GAP_MS);
+    let r = await fetchFeed(f, apiKey, now).then((value) => ({ status: "fulfilled", value }), (reason) => ({ status: "rejected", reason }));
+    if (r.status === "rejected" && / 429:/.test(r.reason.message)) {
+      await sleep(RETRY_MS); // one retry after a pause if rate-limited
+      r = await fetchFeed(f, apiKey, now).then((value) => ({ status: "fulfilled", value }), (reason) => ({ status: "rejected", reason }));
+    }
+    results.push(r);
+  }
   const errors = [];
   const all = [];
   results.forEach((r, i) => {
