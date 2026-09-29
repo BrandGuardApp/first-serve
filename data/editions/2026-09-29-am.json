@@ -5,73 +5,73 @@
   "dateLabel": "Tue, Sep 29, 2026",
   "editionLabel": "Morning edition",
   "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-09-29T13:10:00.000Z",
+  "generatedAt": "2026-09-29T21:05:15.881Z",
   "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic files for a $2T IPO, Goldman plans its next CEO, and your 2-minute startup question.",
+  "preheader": "Anthropic's $42B loss revealed, 30-year yields hit 2002 highs, and McKinsey's AI job outlook.",
   "storyCount": 11,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "11:42 AM ET, Sep 29",
+    "asOf": "Close, Sep 29",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,665",
-        "change": "−0.30%",
+        "value": "7,671",
+        "change": "−0.17%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,793",
-        "change": "−0.18%",
+        "value": "26,798",
+        "change": "−0.09%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,205",
-        "change": "−0.64%",
+        "value": "51,350",
+        "change": "−0.26%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.28%",
-        "change": "+4 bp",
+        "value": "5.25%",
+        "change": "+1 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,157",
-        "change": "+1.00%",
+        "value": "$4,213",
+        "change": "+1.06%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic's IPO filing asks for a $2 trillion valuation",
-    "body": "Anthropic, the company behind Claude, is heading for a Nasdaq listing, and its prospectus (the S-1) is out. Revenue is exploding, but so is spending: the company plans to put $518 billion into cloud and data centers.",
+    "headline": "Anthropic's prospectus reveals a $42 billion loss and massive computing plans",
+    "body": "Anthropic's IPO prospectus shows the company posted a $42 billion net loss in 2025 as it prepares to spend $518 billion on computing capacity. The startup is targeting a $2 trillion valuation based on the belief that artificial intelligence will transform the global economy. It also dedicated nearly a third of the filing to risk factors, including potential existential threats.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/09/29/anthropic-ipo-s-1-prospectus-income-statement/"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/09/29/business/anthropics-ipo-prospectus-shows-sweeping-ai-vision-and-surging-costs/"
       },
       {
-        "name": "The Motley Fool",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/29/stock-market-midday-sept-29-stocks-edge-lower-despite-usd2-trillion-anthropic-valuation/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
       }
     ],
-    "why": "Every IPO filing lists its risks. Two customers bringing in a quarter of revenue is called customer concentration, and it's one of the first things a consultant or investor checks. Lose one of those clients and the story changes fast.",
-    "kicker": "AI + IPOs",
+    "why": "When evaluating venture-backed companies in your finance classes, pay close attention to cash burn. Anthropic is betting that massive front-loaded spending will create an insurmountable competitive moat before capital markets tighten.",
+    "kicker": "Tech + Markets",
     "figures": [
       {
-        "value": "$4.6B",
-        "label": "2025 revenue"
+        "value": "$42B",
+        "label": "2025 net loss"
       },
       {
-        "value": "$11.5B",
-        "label": "Q2 2026 revenue, one quarter"
+        "value": "$518B",
+        "label": "Planned computing spend"
       },
       {
-        "value": "~25%",
-        "label": "of revenue from just two customers"
+        "value": "$2T",
+        "label": "Target valuation"
       }
     ]
   },
@@ -81,26 +81,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Goldman Sachs starts planning for its next CEO",
-          "body": "COO John Waldron is the leading candidate to succeed David Solomon, who would stay on as executive chairman for a year or two before leaving.",
+          "headline": "30-year Treasury yields climb to their highest mark since 2002",
+          "body": "Long-term U.S. government bond yields rose on Tuesday to levels not seen in over two decades. The move reflects ongoing investor worries about stubborn inflation and central bank interest rate policy.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html"
             }
           ],
-          "why": "Succession at a top bank shapes strategy for a decade. Notice the path: Waldron ran operations before getting the top job."
+          "why": "Higher benchmark yields increase borrowing costs across capital markets, which can depress equity valuations and slow down corporate dealmaking."
         },
         {
-          "headline": "Oura delays its IPO even though it's profitable",
-          "body": "The smart-ring maker has $1.21 billion in sales so far this year and makes money, but pushed back its Nasdaq debut, citing uncertainty in the IPO market.",
+          "headline": "The U.S. activates a $1 billion import ban on Canadian goods",
+          "body": "A trade ban covering nearly $1 billion worth of Canadian goods took effect early Tuesday. The restricted items include dairy, motorcycles, and roughly $800 million in alcoholic beverages.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html#oura"
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Business/wireStory/motorcycles-booze-us-ban-1-billion-worth-canadian-136843738"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/09/29/economy/trump-just-banned-canadian-booze-heres-what-you-need-to-know"
             }
           ],
-          "why": "Going public is about timing as much as quality. A strong company can still wait if investors are nervous."
+          "why": "Sudden trade policy shifts disrupt supply chains and pricing strategies, which are core case study topics in your Merage business operations courses."
         }
       ]
     },
@@ -109,26 +113,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "AMD buys Fei-Fei Li's World Labs for $8.2 billion",
-          "body": "The chipmaker is buying the spatial-intelligence startup, and Li becomes AMD's chief scientist. The deal should close by year-end if regulators approve.",
+          "headline": "Nvidia alumni are driving a wave of robotics startups",
+          "body": "Former Nvidia engineers are leaving the chip maker to launch physical AI and robotics startups backed by venture capital. Nvidia also stands to gain from their success, since these new ventures rely heavily on its hardware ecosystem.",
           "sources": [
             {
-              "name": "AI Weekly",
-              "url": "https://aiweekly.co/ai-news-today"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/nvidia-alumni-fueling-new-wave-robotics-ai-startups-2026-9"
             }
           ],
-          "why": "Big companies often buy talent and technology instead of building it. This is an \"acqui-hire\" at a very large scale."
+          "why": "Tracking where senior engineers migrate gives you an early look at where startup capital and internship opportunities will concentrate next."
         },
         {
-          "headline": "OpenAI holds back a new model over safety concerns",
-          "body": "OpenAI postponed its next model, citing \"alignment\" problems, including whether the model accurately reports its own actions.",
+          "headline": "Leading scientists urge governments to prepare for self-improving AI",
+          "body": "Researchers including Geoffrey Hinton and Yoshua Bengio issued a warning about a potential intelligence explosion. Their report notes that automated AI research could soon compress years of technological advancement into months.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-120647518.html#openai"
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/tech/ai-pioneers-warn-governments-to-prepare-for-a-possible-intelligence-explosion-14049103.html"
             }
           ],
-          "why": "AI companies are now delaying revenue to manage risk. Safety is becoming a business decision, not only a research one."
+          "why": "Anticipated government regulations on frontier AI will directly shape tech consulting advisory work and enterprise risk management."
         }
       ]
     },
@@ -137,26 +141,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Summer 2027 internship recruiting is already moving",
-          "body": "Banks started posting roles as early as December 2025, and the average finance posting draws about 273 applications. Big tech posts in the fall; startups hire mostly in spring.",
+          "headline": "McKinsey projects AI could shift 11 million U.S. workers by 2035",
+          "body": "A report from McKinsey warns that advances in automation could require 11 million Americans to change occupations over the next decade. The displacements are expected to hit office, retail, and logistics roles hardest.",
           "sources": [
             {
-              "name": "Scalis",
-              "url": "https://earlycareers.scalis.ai/p/the-summer-2027-race-already-started-most-students-have-no-idea"
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/business/millions-of-us-workers-will-lose-jobs-due-to-ai/story"
             }
           ],
-          "why": "As a freshman you're not expected to land one of these yet. What you can do now: pick five firms you're curious about and follow their careers pages."
+          "why": "Helping corporations navigate workforce restructuring and digital adoption will be a primary revenue driver for consulting firms over the next decade."
         },
         {
-          "headline": "At McKinsey, AI now builds the slides",
-          "body": "About 75% of McKinsey staff use its internal AI tool, Lilli, which drafts presentations and charts. The firm says it saved 1.5 million hours of work in a year.",
+          "headline": "New graduates push back against excessive entry-level job criteria",
+          "body": "A new survey found that 77% of recent college graduates believe employers demand too much prior experience for entry-level positions. Many applicants feel shut out despite holding relevant internships and extracurricular credentials.",
           "sources": [
             {
-              "name": "Entrepreneur",
-              "url": "https://www.entrepreneur.com/business-news/mckinsey-consultants-are-letting-ai-take-over-their-work"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html"
             }
           ],
-          "why": "Junior consulting work is shifting from making decks to judgment and client skills. Those are the skills to build in college."
+          "why": "To stand out early in business school, focus on securing project leadership and hands-on consulting club experience rather than relying on coursework alone."
         }
       ]
     },
@@ -165,12 +169,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI ranks 8th among U.S. public universities",
-          "body": "U.S. News placed UCI in the public top 10 for the 12th year running, and 34th among all national universities.",
+          "headline": "UC Irvine researchers design stealth chemotherapy to protect healthy cells",
+          "body": "Scientists at UCI developed a targeted cancer drug that carries a molecular safety lock. The drug remains inactive until it enters cancer cells displaying specific protein-destroying activity, leaving healthy tissue unharmed.",
           "sources": [
             {
-              "name": "UCI News",
-              "url": "https://news.uci.edu/2026/09/22/uc-irvine-places-eighth-among-nations-best-public-universities/"
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-09-experimental-chemotherapy-stealth-tactic-cancer.html"
             }
           ]
         }
@@ -181,12 +185,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Team Europe takes back the Laver Cup, 13–5",
-          "body": "Alexander Zverev clinched it in London by beating Learner Tien 7-6(3), 6-3.",
+          "headline": "Novak Djokovic prepares for China Open return after fitness break",
+          "body": "Novak Djokovic confirmed his body is responding well in training as the 24-time Grand Slam champion targets momentum at the China Open following recent physical setbacks.",
           "sources": [
             {
-              "name": "ATP Tour",
-              "url": "https://www.atptour.com/en/news/laver-cup-2026-results"
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/3983608-tennis-djokovic-says-body-feeling-good-ahead-of-china-open-comeback"
             }
           ]
         }
@@ -194,51 +198,51 @@
     }
   ],
   "term": {
-    "name": "Shiller CAPE ratio",
-    "definition": "The stock price compared with 10 years of average earnings, adjusted for inflation. A high number means stocks are expensive relative to what companies have actually earned. It's now at levels not seen since 1999, right before the dot-com crash, which is why some analysts are warning about a downturn.",
+    "name": "Capital Expenditure (CapEx)",
+    "definition": "Capital expenditure is the money a company spends to buy, build, or upgrade long-term physical assets, such as data centers or high-end servers. Unlike everyday operating costs, CapEx is recorded on the balance sheet and depreciated over time. Anthropic's projected $518 billion computing commitment represents an extraordinary CapEx bet to dominate frontier AI infrastructure.",
     "sources": [
       {
-        "name": "The Motley Fool",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/29/stock-market-midday-sept-29-stocks-edge-lower-despite-usd2-trillion-anthropic-valuation/"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/09/29/business/anthropics-ipo-prospectus-shows-sweeping-ai-vision-and-surging-costs/"
       }
     ]
   },
   "serve": {
-    "headline": "Atomic raised $12.5M to fix inventory planning",
-    "body": "Atomic, a Boston startup, uses AI to help supply-chain teams decide how much stock to hold, a job many still run in spreadsheets. Madrona and Klass Capital led the Series A.",
+    "headline": "Instinct raises $1B at a $10B valuation to build consumer AI agents",
+    "body": "AI assistant startup Instinct secured $1 billion in Series C funding led by Sequoia Capital, lifting its valuation to $10 billion. The company develops autonomous software agents capable of executing multi-step tasks rather than simply answering user prompts.",
     "questions": [
-      "What's one thing at UCI that still runs on spreadsheets or group chats?",
-      "Who would pay to fix it: students, clubs, or the university?",
-      "What's the smallest version you could test this week?"
+      "What repetitive campus or study tasks would you trust an autonomous software agent to handle for you?",
+      "As agent interfaces become common, how can an early-stage startup build defensible data moats against big tech?",
+      "Would students pay a monthly subscription for an AI agent that manages internship applications and scheduling?"
     ],
     "sources": [
       {
-        "name": "Tech Startups",
-        "url": "https://techstartups.com/2026/09/29/startup-funding-news-today-september-29-2026-atomic-anote-helix-marble-reverion-more/"
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/science/ai-start-up-instinct-raises-1b-at-10b-valuation/story"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic files for a $2 trillion IPO.",
-      "blurb": "Revenue is soaring, but a quarter of it comes from two customers."
+      "headline": "Anthropic's IPO filing details a $42 billion loss and massive computing plans.",
+      "blurb": "The AI lab disclosed plans to spend $518 billion on compute ahead of its targeted $2 trillion public valuation."
     },
     {
-      "headline": "Goldman Sachs plans its next CEO.",
-      "blurb": "COO John Waldron is the frontrunner to succeed David Solomon."
+      "headline": "30-year Treasury yields jumped to their highest levels since 2002.",
+      "blurb": "Persistent inflation worries and central bank interest rate policies pushed long-term borrowing benchmarks higher."
     },
     {
-      "headline": "AMD buys World Labs for $8.2 billion.",
-      "blurb": "Fei-Fei Li becomes AMD's chief scientist."
+      "headline": "McKinsey predicts AI could force 11 million Americans to switch jobs by 2035.",
+      "blurb": "The consulting firm anticipates occupational transition rates to triple as automation enters office and retail roles."
     },
     {
-      "headline": "Summer 2027 internship recruiting is already moving.",
-      "blurb": "What a freshman can do now."
+      "headline": "Nvidia alumni are driving a wave of venture-backed robotics startups.",
+      "blurb": "Engineers from the chip giant are leaving to build physical AI systems that continue to rely on Nvidia hardware."
     },
     {
-      "headline": "UCI ranks 8th among U.S. public universities",
-      "blurb": "for the 12th straight year in the top 10."
+      "headline": "UC Irvine researchers engineered stealth chemotherapy that activates only inside tumors.",
+      "blurb": "The team designed a molecular lock that keeps potent cancer treatments inactive until they enter target cancer cells."
     }
   ],
-  "emailQuestion": "What's one thing at UCI that still runs on spreadsheets or group chats?"
+  "emailQuestion": "What repetitive campus or study tasks would you trust an autonomous software agent to handle for you?"
 }
