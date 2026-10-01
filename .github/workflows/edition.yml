@@ -55,6 +55,8 @@ jobs:
         run: node scripts/edition.mjs
 
       - name: Publish edition
+        # Runs even if the email step failed, so the site still updates.
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "first-serve-bot"
           git config user.email "first-serve-bot@users.noreply.github.com"
