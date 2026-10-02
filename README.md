@@ -68,10 +68,7 @@ Ask Samrudh to add `brief@firstserve.news` to his contacts, or to move the first
 
 ## Schedule
 
-- **Morning edition** around 6:00 AM PT, with the email
-- **Evening edition** around 5:00 PM PT, page only
-
-GitHub cron runs in UTC, so each edition is scheduled twice, an hour apart. That keeps the timing right when daylight saving starts or ends; the second run sees the edition already exists and stops. GitHub can delay scheduled runs by 10 to 30 minutes when it's busy.
+Morning edition from 6:00 AM PT (with the email), evening edition from 5:00 PM PT. The workflow checks hourly because GitHub often starts scheduled runs late; each run builds whichever edition is due and exits early if it's already published.
 
 ## Running cost
 

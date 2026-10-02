@@ -2,18 +2,20 @@ name: Build edition
 
 on:
   schedule:
-    # Times are UTC. Each slot fires twice, an hour apart, so one run always lands
-    # in the Pacific-time window whether or not daylight saving is on.
-    # The script skips the second run if the edition already exists.
-    - cron: "5 13,14 * * *"   # morning: 5-7 AM PT
-    - cron: "5 0,1 * * *"     # evening: 4-6 PM PT
+    # GitHub often starts scheduled runs late or skips them, so check every hour.
+    # A run builds the edition that's due (morning from 6 AM PT, evening from 5 PM PT)
+    # and exits in seconds if it's already published.
+    - cron: "7 * * * *"
+  repository_dispatch:
+    # Lets an outside scheduler (e.g. cron-job.org) trigger a run on time.
+    types: [edition]
   workflow_dispatch:
     inputs:
       slot:
-        description: "Build this edition now (overwrites today's)"
+        description: "Which edition to build (auto = whichever is due)"
         type: choice
-        options: [morning, evening]
-        default: morning
+        options: [auto, morning, evening]
+        default: auto
       skip_email:
         description: "Skip the email"
         type: boolean
@@ -50,7 +52,7 @@ jobs:
           LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
-          FORCE_SLOT: ${{ inputs.slot }}
+          FORCE_SLOT: ${{ inputs.slot != 'auto' && inputs.slot || '' }}
           SKIP_EMAIL: ${{ inputs.skip_email && '1' || '' }}
         run: node scripts/edition.mjs
 

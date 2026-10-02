@@ -17,12 +17,16 @@ const fixture = JSON.parse(await readFile(new URL("fixture.json", import.meta.ur
 // ---- slot logic across daylight saving ----
 const s = (iso) => resolveSlot(new Date(iso))?.id ?? null;
 assert.equal(s("2026-09-29T13:05:00Z"), "2026-09-29-am"); // 6:05 AM PDT
-assert.equal(s("2026-09-29T14:05:00Z"), "2026-09-29-am"); // 7:05 AM PDT (second run, skipped by file check)
-assert.equal(s("2026-12-15T13:05:00Z"), "2026-12-15-am"); // 5:05 AM PST
-assert.equal(s("2026-12-15T14:05:00Z"), "2026-12-15-am"); // 6:05 AM PST
-assert.equal(s("2026-09-30T00:05:00Z"), "2026-09-29-pm"); // 5:05 PM PDT, still Sep 29 in LA
-assert.equal(s("2026-12-16T00:05:00Z"), "2026-12-15-pm"); // 4:05 PM PST
-assert.equal(s("2026-09-29T20:00:00Z"), null);            // 1 PM PT, no edition
+assert.equal(s("2026-09-29T18:48:00Z"), "2026-09-29-am"); // 11:48 AM PDT, a late GitHub run still builds the morning edition
+assert.equal(s("2026-09-29T23:59:00Z"), "2026-09-29-am"); // 4:59 PM PDT
+assert.equal(s("2026-09-30T00:05:00Z"), "2026-09-29-pm"); // 5:05 PM PDT
+assert.equal(s("2026-09-30T05:25:00Z"), "2026-09-29-pm"); // 10:25 PM PDT, late run builds the evening edition
+assert.equal(s("2026-09-30T12:30:00Z"), "2026-09-29-pm"); // 5:30 AM PDT next day, still the previous evening
+assert.equal(s("2026-09-30T13:00:00Z"), "2026-09-30-am"); // 6:00 AM PDT
+assert.equal(s("2026-12-15T14:05:00Z"), "2026-12-15-am"); // 6:05 AM PST (winter)
+assert.equal(s("2026-12-15T13:30:00Z"), "2026-12-14-pm"); // 5:30 AM PST, previous evening
+assert.equal(s("2026-12-16T01:05:00Z"), "2026-12-15-pm"); // 5:05 PM PST
+assert.equal(resolveSlot(new Date("2026-09-30T05:25:00Z")).dateLabel, "Tue, Sep 29, 2026");
 console.log("✓ slot logic");
 
 // ---- market formatting ----
