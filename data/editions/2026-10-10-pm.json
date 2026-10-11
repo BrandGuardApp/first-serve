@@ -1,0 +1,228 @@
+{
+  "id": "2026-10-10-pm",
+  "slot": "evening",
+  "date": "2026-10-10",
+  "dateLabel": "Sat, Oct 10, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-11T01:49:14.001Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Wall Street clashes on AI, McKinsey questions tech ROI, and Walmart struggles with warehouse robots.",
+  "storyCount": 10,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 9",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,812",
+        "change": "+0.59%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,366",
+        "change": "+0.64%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,655",
+        "change": "+0.83%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.24%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,216",
+        "change": "+1.43%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Three Top Brokerages Divide Over the AI Trade",
+    "body": "Wall Street is split on where artificial intelligence profits are headed. Goldman Sachs expects Asian corporate earnings to compound at 34% annually, while Jefferies warns the buildout is increasingly funded by corporate debt. At the same time, brokerage CLSA cautions that extreme market concentration and bond losses pose serious risks.",
+    "sources": [
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/goldman-is-bullish-jefferies-is-wary-clsa-is-counting-extremes-three-brokerages-one-ai-trade-12166729"
+      }
+    ],
+    "why": "When you pitch equities or evaluate corporate health in your Merage finance classes, you need both sides of the trade. Watching whether tech spending is backed by real cash flow or leverage shows you where market risk hides.",
+    "kicker": "Markets and Strategy",
+    "figures": [
+      {
+        "value": "34%",
+        "label": "Goldman projected annual Asia earnings growth"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Walmart's Expensive Warehouse Robots Stumble on Basic Tasks",
+          "body": "Walmart has spent billions of dollars automating its distribution network, but its machines are struggling with basic physical warehouse duties. The automated systems still have trouble with simple routines like lifting items out of standard cardboard boxes.",
+          "sources": [
+            {
+              "name": "Futurism",
+              "url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse"
+            }
+          ],
+          "why": "Operations consulting is all about measuring tech costs against ground-level execution. This is a classic case study in why flashy automation concepts fail if they cannot manage edge cases on the floor."
+        },
+        {
+          "headline": "Retailers Trim Product Assortments to Protect Margins",
+          "body": "Brands like Lululemon and BJ's Wholesale Club are actively pruning their product catalogs to clean up their balance sheets. Stores are cutting low-selling items to stabilize operations as customers pull back on spending.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
+            }
+          ],
+          "why": "Inventory rationalization is a standard project for retail strategy teams. Learning how companies prune underperforming products helps when analyzing working capital and supply chains."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Nvidia Reportedly Scraps RTX 5090 to Feed Enterprise AI Demand",
+          "body": "Nvidia is winding down production of its flagship consumer graphics card, the RTX 5090, to shift its GB202 silicon toward enterprise workstations. System integrators warn that consumer GPU prices are set to jump as hardware allocations prioritize corporate AI buyers.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/"
+            },
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/us-based-system-integrator-says-gpu-prices-are-expected-to-soar-significantly/"
+            },
+            {
+              "name": "Hot Hardware",
+              "url": "https://hothardware.com/news/nvidia-may-scrap-rtx-5090-production-feed-surging-ai-demand"
+            }
+          ],
+          "why": "Hardware shortages directly influence how much capital early-stage startups need to train and run models. If high-end silicon stays locked up by enterprise buyers, running local workloads gets much more expensive."
+        },
+        {
+          "headline": "OpenAI and Meta Clash Over AI Agent Privacy",
+          "body": "OpenAI CEO Sam Altman introduced Dots, an autonomous agent platform designed to execute complex tasks, while pledging stricter privacy protections. The launch included public jabs at Meta's competing agent Muse as tech giants race to convince customers their autonomous software is safe.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+            }
+          ],
+          "why": "Enterprise clients will not let autonomous agents touch their data without ironclad security boundaries. As an aspiring consultant, privacy architecture will be one of the first hurdles your clients bring up."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Chair Warns AI Aids Individual Workers More Than Companies",
+          "body": "Eric Kutcher, senior partner and chair of McKinsey North America, stated that artificial intelligence tools are making individual employees faster without lifting broader company performance. Kutcher noted that software efficiency has not yet produced measurable corporate output gains.",
+          "sources": [
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/feature/ai-making-workers-more-productive-not-companies-claims-mckinsey-top-executive-12166468"
+            }
+          ],
+          "why": "Firms spend millions on tech adoption, and consultants are hired to explain why productivity does not show up on the income statement. Understanding this gap will help you sound sharp in behavioral and case interviews."
+        },
+        {
+          "headline": "Deloitte Survey Finds 68% of Retailers Planning Agentic AI Rollouts",
+          "body": "A survey of 330 retail executives by Deloitte found that nearly 68% plan to deploy autonomous AI agents across operational and enterprise systems. Retailers want the software to link together inventory systems, task management, and customer engagement.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/retails-technology-boom-raises-stakes-ai-strategy-3808434"
+            }
+          ],
+          "why": "Consulting firms are pivoting their pitch decks from simple conversational tools to full autonomous workflows. Seeing where corporate software budgets go shows you what skills future client teams will demand."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Zheng Qinwen and Mirra Andreeva Set Up China Open Final Clash",
+          "body": "Olympic champion Zheng Qinwen beat Elise Mertens in straight fashion to reach the China Open final in Beijing. She will face Russian fourth seed Mirra Andreeva, who defeated Nikola Bartunkova 6-2, 6-2 to secure the World No. 3 ranking.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/3990144-tennis-home-favourite-zheng-sets-up-china-open-final-clash-with-andreeva"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/china-open-mirra-andreeva-beats-nikola-bartunkova-to-reach-final-secures-world-no3-ranking/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "SKU rationalization",
+    "definition": "The practice of reviewing a company's catalog to eliminate unprofitable or slow-moving items. Retailers use this strategy to cut warehouse holding costs and simplify logistics when consumer demand softens. In consulting, it is one of the quickest levers to free up tied-up cash and boost operating margins.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zeroset raised $5.2M to teach AI agents complex workplace steps",
+    "body": "Founded by college dropouts Akshat Kannan and William Zhang, Zeroset created Nebula to monitor workplace tools and map how employees finish complicated tasks over time. The funding will help them build software that teaches AI agents to execute multi-step business routines instead of just retrieving documents.",
+    "questions": [
+      "Which repetitive administrative tasks in student clubs or campus jobs take up the most manual hours?",
+      "How would you record and map those workflows without getting in the way of daily operations?",
+      "Could you package that operational map to sell automation tools to university departments?"
+    ],
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/world/business/meet-akshat-kannan-and-william-zhang-college-dropouts-who-launched-ai-startup-zeroset-heres-how-it-emerged-with-5-2-million-in-funding/articleshow/134855485.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Wall Street splits over AI risk as brokerages issue conflicting outlooks.",
+      "blurb": "Goldman forecasts rapid earnings growth while Jefferies warns that rising debt levels could jeopardize the trade."
+    },
+    {
+      "headline": "McKinsey's North America chair says AI helps individual workers, not bottom lines.",
+      "blurb": "Eric Kutcher pointed out that personal software efficiency has not translated into broader corporate output."
+    },
+    {
+      "headline": "Walmart struggles to automate warehouses as expensive robots fail basic jobs.",
+      "blurb": "Despite billions spent, the retailer finds simple physical tasks like unpacking boxes remain tough for machines."
+    },
+    {
+      "headline": "Nvidia reportedly halts RTX 5090 production to feed enterprise AI demand.",
+      "blurb": "Silicon allocations are shifting toward commercial workstations, threatening consumer graphics card supplies."
+    },
+    {
+      "headline": "Zheng Qinwen and Mirra Andreeva advance to the China Open final in Beijing.",
+      "blurb": "Zheng beat Elise Mertens while Andreeva swept Nikola Bartunkova to lock in the World No. 3 ranking."
+    }
+  ],
+  "emailQuestion": "Which repetitive administrative tasks in student clubs or campus jobs take up the most manual hours?"
+}
