@@ -1,0 +1,224 @@
+{
+  "id": "2026-10-11-pm",
+  "slot": "evening",
+  "date": "2026-10-11",
+  "dateLabel": "Sun, Oct 11, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-12T00:26:27.644Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Treasury yields hit multi-decade highs, bank earnings arrive, and Zheng makes history in Beijing.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 9",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,812",
+        "change": "+0.59%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,366",
+        "change": "+0.64%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,655",
+        "change": "+0.83%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.24%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,233",
+        "change": "+0.39%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Treasury yields hit multi-decade highs under hawkish Fed pressure",
+    "body": "Thirty-year Treasury yields have climbed to their highest levels since 2002 following a steep bond market selloff. In September alone, the 10-year yield rose more than half a percentage point to roughly 5.3%, marking the worst monthly drop for U.S. government debt in four years.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/11/the-hawk-fed-chair-who-broke-the-bond-market/"
+      }
+    ],
+    "why": "Higher yields push up debt financing costs for startups and corporate buyouts, which directly impacts the valuation models you will study in your Merage finance classes.",
+    "kicker": "Markets + Macro",
+    "figures": [
+      {
+        "value": "5.3%",
+        "label": "10-year Treasury yield"
+      },
+      {
+        "value": "2002",
+        "label": "last time 30-year yields reached this level"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Wall Street kicks off third-quarter earnings with major banks",
+          "body": "JPMorgan Chase, Goldman Sachs, Citigroup, and Wells Fargo report third-quarter earnings on Tuesday. JPMorgan enters the week having generated the most revenue from IPO fees of any bank so far in 2026.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
+            },
+            {
+              "name": "Markets Insider",
+              "url": "https://markets.businessinsider.com/news/stocks/earnings-to-watch-this-week-october-12-16-2026-1036614698"
+            }
+          ],
+          "why": "League table performance shows which investment banks have deal momentum, helping you target your applications for sophomore summer analyst programs."
+        },
+        {
+          "headline": "Starlink targets low pricing in India to rival Reliance Jio",
+          "body": "Elon Musk stated that Starlink will price its satellite broadband service affordably in India to compete with Mukesh Ambani's Reliance Jio. Both companies are awaiting regulatory security clearances as Jio prepares for an upcoming IPO.",
+          "sources": [
+            {
+              "name": "Outlook Business",
+              "url": "https://www.outlookbusiness.com/corporate/elon-musk-says-starlink-will-price-india-plans-affordably-to-take-on-ambanis-jio"
+            }
+          ],
+          "why": "This rivalry gives you a live case study in pricing strategy and market entry when taking on a dominant domestic incumbent."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Apple prepares smart home hub alongside potential ADT partnership",
+          "body": "Apple has invited media to a New York event on Tuesday, where it is expected to introduce an all-new smart home hub. Industry clues suggest the company may also announce a collaboration with security provider ADT.",
+          "sources": [
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/"
+            }
+          ],
+          "why": "Big tech firms often partner with legacy service companies to make their smart hardware platforms sticky for everyday consumers."
+        },
+        {
+          "headline": "Users run local AI models on personal hardware over privacy concerns",
+          "body": "More users are turning to open models like Qwen directly on personal Mac and Windows machines using tools like Hermes Agent. The move is driven by a desire to avoid sending sensitive personal data to cloud providers.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+            }
+          ],
+          "why": "Learning how on-device AI runs will help you understand data privacy requirements when building startup applications."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey projects 11 million Americans must change fields due to AI",
+          "body": "A new McKinsey report indicates that the U.S. economy will have more total jobs by 2035 than today, but the occupational mix will shift significantly. Roughly 11 million workers will need to leave shrinking sectors and complete retraining or credential programs.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+            }
+          ],
+          "why": "Corporations will turn to management consultants to design large workforce transitions and restructuring plans over the next decade."
+        },
+        {
+          "headline": "Operating model redesigns drive corporate AI payoffs",
+          "body": "McKinsey found that companies capture measurable value from AI only when they overhaul their broader operating models. Real advantages come from restructuring workflows and decision-making authority rather than simply buying new software licenses.",
+          "sources": [
+            {
+              "name": "News18",
+              "url": "https://www.news18.com/agency-feeds/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey-10376705.html"
+            }
+          ],
+          "why": "This is core strategy consulting work. Understanding how companies reorganize work will give you strong talking points in case interviews."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Qinwen Zheng makes history with China Open title",
+          "body": "Olympic champion Qinwen Zheng defeated 2026 French Open champion Mirra Andreeva 7-5, 6-4 on Sunday in Beijing. The victory makes Zheng the first Chinese player to ever win the China Open.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13597685/china-open-qinwen-zheng-stuns-mirra-andreeva-to-make-history-as-first-chinese-winner-of-wta-event-in-beijing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Hawkish",
+    "definition": "A hawkish stance describes central bank policymakers who prioritize fighting inflation by keeping interest rates high, even if that slows down economic expansion. When markets expect hawkish policy, bond prices fall and yields rise because investors require higher returns to commit their capital.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/11/the-hawk-fed-chair-who-broke-the-bond-market/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Persona raised $10M to build an AI personal assistant",
+    "body": "Nineteen-year-old founder Zach Yadegari raised $10 million for his new startup Persona after previously co-founding and selling calorie tracker Cal AI. The company is building an AI assistant focused on daily productivity and user retention.",
+    "questions": [
+      "What daily college tasks at UCI do you find messy enough that you would trust an AI agent to handle them?",
+      "Why might a founder who just sold an app choose to raise venture capital rather than self-fund their next idea?",
+      "How can an AI assistant prove it is reliable enough to retain users once the initial novelty wears off?"
+    ],
+    "sources": [
+      {
+        "name": "India Today",
+        "url": "https://www.indiatoday.in/jobs/in-focus/story/meet-zach-yadegari-19-rejected-by-top-us-colleges-raises-usd-10-million-for-ai-startup-persona-educ-3014593-2026-10-11"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Treasury yields climbed to their highest levels since 2002 after a brutal September bond selloff.",
+      "blurb": "The 10-year yield touched 5.3%, raising financing costs across the economy."
+    },
+    {
+      "headline": "JPMorgan and Goldman Sachs lead big bank earnings reporting this Tuesday.",
+      "blurb": "Third-quarter results will set the tone for Wall Street dealmaking and hiring."
+    },
+    {
+      "headline": "McKinsey predicts 11 million American workers will need new credentials as AI shifts jobs.",
+      "blurb": "The firm expects net job growth by 2035, but major occupational disruption."
+    },
+    {
+      "headline": "Qinwen Zheng became the first Chinese champion at the China Open.",
+      "blurb": "She took down French Open winner Mirra Andreeva in straight sets."
+    },
+    {
+      "headline": "Elon Musk plans aggressive Starlink pricing in India to compete with Reliance Jio.",
+      "blurb": "The satellite internet clash unfolds right as Jio prepares for its IPO."
+    }
+  ],
+  "emailQuestion": "What daily college tasks at UCI do you find messy enough that you would trust an AI agent to handle them?"
+}
