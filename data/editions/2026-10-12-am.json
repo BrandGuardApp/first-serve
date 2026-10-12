@@ -1,0 +1,242 @@
+{
+  "id": "2026-10-12-am",
+  "slot": "morning",
+  "date": "2026-10-12",
+  "dateLabel": "Mon, Oct 12, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-12T17:42:44.519Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Amazon eye AI deals, Fed rate hike bets rise, and enterprise tech updates.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "1:42 PM ET, Oct 12",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,804",
+        "change": "−0.10%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,246",
+        "change": "−0.44%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,864",
+        "change": "+0.40%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.24%",
+        "change": "0 bp",
+        "direction": "flat"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,190",
+        "change": "−0.64%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Amazon in talks to buy AI startup Decart for $7 billion",
+    "body": "Amazon is reportedly negotiating to acquire Israeli AI startup Decart after Anthropic walked away from a proposed deal following due diligence. Decart creates AI models that simulate environments for robotics and handle real-time video, and it already uses Amazon's custom Trainium chips.",
+    "sources": [
+      {
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
+      }
+    ],
+    "why": "Big tech M&A deals like this show you where massive capital is flowing in enterprise tech and cloud computing, which directly impacts corporate strategy and valuation models you study at Merage.",
+    "kicker": "Business + Cloud Infrastructure",
+    "figures": [
+      {
+        "value": "$7 billion",
+        "label": "reported acquisition price"
+      },
+      {
+        "value": "$300 million",
+        "label": "previous funding raised"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Oil prices climb 2% following attack on Saudi airport",
+          "body": "Brent crude futures rose to $106.81 a barrel after a deadly attack on an airport in Riyadh. The incident compounds energy market jitters as Ukraine also reported ongoing attacks on its energy facilities.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+            }
+          ],
+          "why": "Energy price spikes feed right back into broader inflation metrics, which dictates where central banks take interest rates next."
+        },
+        {
+          "headline": "Bank of America expects two more Fed rate hikes in 2026",
+          "body": "Resilient economic growth and sticky inflation could prompt the US Federal Reserve to raise interest rates in both October and December. Policymakers are weighing further monetary tightening even as they consider slowing down.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/business/3990655-strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa"
+            }
+          ],
+          "why": "Higher interest rates change the cost of capital for startups and alter how investors value future cash flows in corporate finance."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "IMF says AI investment is keeping global growth around 3%",
+          "body": "The artificial intelligence infrastructure boom is boosting advanced regional economies by up to one full percentage point. Asian economies supplying hardware are seeing major benefits from the spending surge.",
+          "sources": [
+            {
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/news/world/ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-says-imf/article71573742.ece"
+            }
+          ],
+          "why": "Understanding macroeconomic tailwinds helps you spot which sectors are pulling heavy weight in the global economy right now."
+        },
+        {
+          "headline": "White House reinstates UK access to AI models for safety tests",
+          "body": "The US reversed its request for major AI firms like Anthropic and OpenAI to withhold model access from the UK's AI Security Institute. The shift lets officials resume safety reviews of advanced systems like Claude.",
+          "sources": [
+            {
+              "name": "LBC",
+              "url": "https://www.lbc.co.uk/article/white-house-uk-ai-models-5Hjdjkw_2/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey research shows AI creating jobs while 11 million Americans shift fields",
+          "body": "While the US economy will net more jobs by 2035, the shift will require millions of workers to retrain and earn new credentials. Entry-level white-collar hiring is seeing headwinds as companies optimize workflows with generative tools.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+            }
+          ],
+          "why": "As someone aiming for consulting or tech roles, watching how firms adapt their entry-level hiring pipelines gives you a read on what core skills to build now."
+        },
+        {
+          "headline": "Operating models emerge as a primary competitive edge in the AI era",
+          "body": "According to McKinsey research, organizations that redesign how decisions are made and work is performed capture far more value from artificial intelligence. Merely adopting software is not enough without a structural redesign.",
+          "sources": [
+            {
+              "name": "News18",
+              "url": "https://www.news18.com/agency-feeds/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey-10376705.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine student found dead in residence hall",
+          "body": "An 18-year-old UCI student was tragically found dead in an Orange County campus residence over the weekend.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/06/us-news/uc-irvine-student-found-dead-in-dorm-room/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alex Eala slips to No. 19 in WTA rankings ahead of Wuhan Open",
+          "body": "Filipino tennis standout Alex Eala dropped one spot to No. 19 in the latest WTA rankings with 2,241 points. She opens her Wuhan Open campaign against China's Han Shi.",
+          "sources": [
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/12/sports/alex-eala-slips-one-spot-to-no-19-in-wta-rankings/2443385"
+            },
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/11/sports/alex-eala-faces-chinese-han-shi-in-wuhan-campaign-opener/2443285"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Due Diligence",
+    "definition": "Due diligence is the comprehensive appraisal of a business undertaken by a prospective buyer before signing a contract. In today's news, Anthropic backed out of acquiring Decart after running through this evaluation process. For investors and consultants, it is the crucial deep dive to check a company's financials, legal standing, and technical claims before committing billions.",
+    "sources": [
+      {
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Decart raised $300 million to build real-time AI simulation models",
+    "body": "The Israeli startup develops foundational AI models for real-time video editing and environmental simulation for robotics. Radical Ventures led its previous funding round before Amazon targeted it for a multibillion-dollar buyout.",
+    "questions": [
+      "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?",
+      "If you were advising Amazon, how would you justify integrating Decart's Trainium chip dependency over sticking with Nvidia hardware?",
+      "What operational risks does a startup face when a major potential buyer walks away during due diligence?"
+    ],
+    "sources": [
+      {
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-report/articleshow/134880456.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Amazon talks to buy AI startup Decart for $7 billion.",
+      "blurb": "The potential acquisition follows Anthropic's decision to walk away after completing due diligence."
+    },
+    {
+      "headline": "Oil prices rise following attack on Saudi airport.",
+      "blurb": "Brent crude climbed 2% to $106.81 a barrel amid ongoing energy infrastructure concerns."
+    },
+    {
+      "headline": "Bank of America expects two more Fed rate hikes in 2026.",
+      "blurb": "Resilient growth and sticky inflation could prompt the central bank to tighten monetary policy further."
+    },
+    {
+      "headline": "IMF highlights AI investment as key driver of global growth.",
+      "blurb": "Strong spending on infrastructure is keeping global growth around 3% with major Asia benefits."
+    },
+    {
+      "headline": "McKinsey emphasizes operating model redesigns for AI payoffs.",
+      "blurb": "Firms must change how decisions are made and work is performed to capture real value from tools."
+    }
+  ],
+  "emailQuestion": "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?"
+}

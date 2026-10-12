@@ -1,69 +1,69 @@
 {
-  "id": "2026-10-11-pm",
-  "slot": "evening",
-  "date": "2026-10-11",
-  "dateLabel": "Sun, Oct 11, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-12T00:26:27.644Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Treasury yields hit multi-decade highs, bank earnings arrive, and Zheng makes history in Beijing.",
-  "storyCount": 10,
+  "id": "2026-10-12-am",
+  "slot": "morning",
+  "date": "2026-10-12",
+  "dateLabel": "Mon, Oct 12, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-12T17:42:44.519Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Amazon eye AI deals, Fed rate hike bets rise, and enterprise tech updates.",
+  "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Oct 9",
+    "asOf": "1:42 PM ET, Oct 12",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,812",
-        "change": "+0.59%",
-        "direction": "up"
+        "value": "7,804",
+        "change": "−0.10%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "27,366",
-        "change": "+0.64%",
-        "direction": "up"
+        "value": "27,246",
+        "change": "−0.44%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,655",
-        "change": "+0.83%",
+        "value": "51,864",
+        "change": "+0.40%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
         "value": "5.24%",
-        "change": "+1 bp",
-        "direction": "up"
+        "change": "0 bp",
+        "direction": "flat"
       },
       {
         "name": "Gold",
-        "value": "$4,233",
-        "change": "+0.39%",
-        "direction": "up"
+        "value": "$4,190",
+        "change": "−0.64%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Treasury yields hit multi-decade highs under hawkish Fed pressure",
-    "body": "Thirty-year Treasury yields have climbed to their highest levels since 2002 following a steep bond market selloff. In September alone, the 10-year yield rose more than half a percentage point to roughly 5.3%, marking the worst monthly drop for U.S. government debt in four years.",
+    "headline": "Amazon in talks to buy AI startup Decart for $7 billion",
+    "body": "Amazon is reportedly negotiating to acquire Israeli AI startup Decart after Anthropic walked away from a proposed deal following due diligence. Decart creates AI models that simulate environments for robotics and handle real-time video, and it already uses Amazon's custom Trainium chips.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/11/the-hawk-fed-chair-who-broke-the-bond-market/"
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
       }
     ],
-    "why": "Higher yields push up debt financing costs for startups and corporate buyouts, which directly impacts the valuation models you will study in your Merage finance classes.",
-    "kicker": "Markets + Macro",
+    "why": "Big tech M&A deals like this show you where massive capital is flowing in enterprise tech and cloud computing, which directly impacts corporate strategy and valuation models you study at Merage.",
+    "kicker": "Business + Cloud Infrastructure",
     "figures": [
       {
-        "value": "5.3%",
-        "label": "10-year Treasury yield"
+        "value": "$7 billion",
+        "label": "reported acquisition price"
       },
       {
-        "value": "2002",
-        "label": "last time 30-year yields reached this level"
+        "value": "$300 million",
+        "label": "previous funding raised"
       }
     ]
   },
@@ -73,30 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Wall Street kicks off third-quarter earnings with major banks",
-          "body": "JPMorgan Chase, Goldman Sachs, Citigroup, and Wells Fargo report third-quarter earnings on Tuesday. JPMorgan enters the week having generated the most revenue from IPO fees of any bank so far in 2026.",
+          "headline": "Oil prices climb 2% following attack on Saudi airport",
+          "body": "Brent crude futures rose to $106.81 a barrel after a deadly attack on an airport in Riyadh. The incident compounds energy market jitters as Ukraine also reported ongoing attacks on its energy facilities.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
-            },
-            {
-              "name": "Markets Insider",
-              "url": "https://markets.businessinsider.com/news/stocks/earnings-to-watch-this-week-october-12-16-2026-1036614698"
+              "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
             }
           ],
-          "why": "League table performance shows which investment banks have deal momentum, helping you target your applications for sophomore summer analyst programs."
+          "why": "Energy price spikes feed right back into broader inflation metrics, which dictates where central banks take interest rates next."
         },
         {
-          "headline": "Starlink targets low pricing in India to rival Reliance Jio",
-          "body": "Elon Musk stated that Starlink will price its satellite broadband service affordably in India to compete with Mukesh Ambani's Reliance Jio. Both companies are awaiting regulatory security clearances as Jio prepares for an upcoming IPO.",
+          "headline": "Bank of America expects two more Fed rate hikes in 2026",
+          "body": "Resilient economic growth and sticky inflation could prompt the US Federal Reserve to raise interest rates in both October and December. Policymakers are weighing further monetary tightening even as they consider slowing down.",
           "sources": [
             {
-              "name": "Outlook Business",
-              "url": "https://www.outlookbusiness.com/corporate/elon-musk-says-starlink-will-price-india-plans-affordably-to-take-on-ambanis-jio"
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/business/3990655-strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa"
             }
           ],
-          "why": "This rivalry gives you a live case study in pricing strategy and market entry when taking on a dominant domestic incumbent."
+          "why": "Higher interest rates change the cost of capital for startups and alter how investors value future cash flows in corporate finance."
         }
       ]
     },
@@ -105,26 +101,25 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Apple prepares smart home hub alongside potential ADT partnership",
-          "body": "Apple has invited media to a New York event on Tuesday, where it is expected to introduce an all-new smart home hub. Industry clues suggest the company may also announce a collaboration with security provider ADT.",
+          "headline": "IMF says AI investment is keeping global growth around 3%",
+          "body": "The artificial intelligence infrastructure boom is boosting advanced regional economies by up to one full percentage point. Asian economies supplying hardware are seeing major benefits from the spending surge.",
           "sources": [
             {
-              "name": "MacRumors",
-              "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/"
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/news/world/ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-says-imf/article71573742.ece"
             }
           ],
-          "why": "Big tech firms often partner with legacy service companies to make their smart hardware platforms sticky for everyday consumers."
+          "why": "Understanding macroeconomic tailwinds helps you spot which sectors are pulling heavy weight in the global economy right now."
         },
         {
-          "headline": "Users run local AI models on personal hardware over privacy concerns",
-          "body": "More users are turning to open models like Qwen directly on personal Mac and Windows machines using tools like Hermes Agent. The move is driven by a desire to avoid sending sensitive personal data to cloud providers.",
+          "headline": "White House reinstates UK access to AI models for safety tests",
+          "body": "The US reversed its request for major AI firms like Anthropic and OpenAI to withhold model access from the UK's AI Security Institute. The shift lets officials resume safety reviews of advanced systems like Claude.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+              "name": "LBC",
+              "url": "https://www.lbc.co.uk/article/white-house-uk-ai-models-5Hjdjkw_2/"
             }
-          ],
-          "why": "Learning how on-device AI runs will help you understand data privacy requirements when building startup applications."
+          ]
         }
       ]
     },
@@ -133,26 +128,41 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey projects 11 million Americans must change fields due to AI",
-          "body": "A new McKinsey report indicates that the U.S. economy will have more total jobs by 2035 than today, but the occupational mix will shift significantly. Roughly 11 million workers will need to leave shrinking sectors and complete retraining or credential programs.",
+          "headline": "McKinsey research shows AI creating jobs while 11 million Americans shift fields",
+          "body": "While the US economy will net more jobs by 2035, the shift will require millions of workers to retrain and earn new credentials. Entry-level white-collar hiring is seeing headwinds as companies optimize workflows with generative tools.",
           "sources": [
             {
               "name": "Fortune",
               "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
             }
           ],
-          "why": "Corporations will turn to management consultants to design large workforce transitions and restructuring plans over the next decade."
+          "why": "As someone aiming for consulting or tech roles, watching how firms adapt their entry-level hiring pipelines gives you a read on what core skills to build now."
         },
         {
-          "headline": "Operating model redesigns drive corporate AI payoffs",
-          "body": "McKinsey found that companies capture measurable value from AI only when they overhaul their broader operating models. Real advantages come from restructuring workflows and decision-making authority rather than simply buying new software licenses.",
+          "headline": "Operating models emerge as a primary competitive edge in the AI era",
+          "body": "According to McKinsey research, organizations that redesign how decisions are made and work is performed capture far more value from artificial intelligence. Merely adopting software is not enough without a structural redesign.",
           "sources": [
             {
               "name": "News18",
               "url": "https://www.news18.com/agency-feeds/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey-10376705.html"
             }
-          ],
-          "why": "This is core strategy consulting work. Understanding how companies reorganize work will give you strong talking points in case interviews."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine student found dead in residence hall",
+          "body": "An 18-year-old UCI student was tragically found dead in an Orange County campus residence over the weekend.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/06/us-news/uc-irvine-student-found-dead-in-dorm-room/"
+            }
+          ]
         }
       ]
     },
@@ -161,12 +171,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Qinwen Zheng makes history with China Open title",
-          "body": "Olympic champion Qinwen Zheng defeated 2026 French Open champion Mirra Andreeva 7-5, 6-4 on Sunday in Beijing. The victory makes Zheng the first Chinese player to ever win the China Open.",
+          "headline": "Alex Eala slips to No. 19 in WTA rankings ahead of Wuhan Open",
+          "body": "Filipino tennis standout Alex Eala dropped one spot to No. 19 in the latest WTA rankings with 2,241 points. She opens her Wuhan Open campaign against China's Han Shi.",
           "sources": [
             {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13597685/china-open-qinwen-zheng-stuns-mirra-andreeva-to-make-history-as-first-chinese-winner-of-wta-event-in-beijing"
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/12/sports/alex-eala-slips-one-spot-to-no-19-in-wta-rankings/2443385"
+            },
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/11/sports/alex-eala-faces-chinese-han-shi-in-wuhan-campaign-opener/2443285"
             }
           ]
         }
@@ -174,51 +188,55 @@
     }
   ],
   "term": {
-    "name": "Hawkish",
-    "definition": "A hawkish stance describes central bank policymakers who prioritize fighting inflation by keeping interest rates high, even if that slows down economic expansion. When markets expect hawkish policy, bond prices fall and yields rise because investors require higher returns to commit their capital.",
+    "name": "Due Diligence",
+    "definition": "Due diligence is the comprehensive appraisal of a business undertaken by a prospective buyer before signing a contract. In today's news, Anthropic backed out of acquiring Decart after running through this evaluation process. For investors and consultants, it is the crucial deep dive to check a company's financials, legal standing, and technical claims before committing billions.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/11/the-hawk-fed-chair-who-broke-the-bond-market/"
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
       }
     ]
   },
   "serve": {
-    "headline": "Persona raised $10M to build an AI personal assistant",
-    "body": "Nineteen-year-old founder Zach Yadegari raised $10 million for his new startup Persona after previously co-founding and selling calorie tracker Cal AI. The company is building an AI assistant focused on daily productivity and user retention.",
+    "headline": "Decart raised $300 million to build real-time AI simulation models",
+    "body": "The Israeli startup develops foundational AI models for real-time video editing and environmental simulation for robotics. Radical Ventures led its previous funding round before Amazon targeted it for a multibillion-dollar buyout.",
     "questions": [
-      "What daily college tasks at UCI do you find messy enough that you would trust an AI agent to handle them?",
-      "Why might a founder who just sold an app choose to raise venture capital rather than self-fund their next idea?",
-      "How can an AI assistant prove it is reliable enough to retain users once the initial novelty wears off?"
+      "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?",
+      "If you were advising Amazon, how would you justify integrating Decart's Trainium chip dependency over sticking with Nvidia hardware?",
+      "What operational risks does a startup face when a major potential buyer walks away during due diligence?"
     ],
     "sources": [
       {
-        "name": "India Today",
-        "url": "https://www.indiatoday.in/jobs/in-focus/story/meet-zach-yadegari-19-rejected-by-top-us-colleges-raises-usd-10-million-for-ai-startup-persona-educ-3014593-2026-10-11"
+        "name": "CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-report/articleshow/134880456.cms"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Treasury yields climbed to their highest levels since 2002 after a brutal September bond selloff.",
-      "blurb": "The 10-year yield touched 5.3%, raising financing costs across the economy."
+      "headline": "Amazon talks to buy AI startup Decart for $7 billion.",
+      "blurb": "The potential acquisition follows Anthropic's decision to walk away after completing due diligence."
     },
     {
-      "headline": "JPMorgan and Goldman Sachs lead big bank earnings reporting this Tuesday.",
-      "blurb": "Third-quarter results will set the tone for Wall Street dealmaking and hiring."
+      "headline": "Oil prices rise following attack on Saudi airport.",
+      "blurb": "Brent crude climbed 2% to $106.81 a barrel amid ongoing energy infrastructure concerns."
     },
     {
-      "headline": "McKinsey predicts 11 million American workers will need new credentials as AI shifts jobs.",
-      "blurb": "The firm expects net job growth by 2035, but major occupational disruption."
+      "headline": "Bank of America expects two more Fed rate hikes in 2026.",
+      "blurb": "Resilient growth and sticky inflation could prompt the central bank to tighten monetary policy further."
     },
     {
-      "headline": "Qinwen Zheng became the first Chinese champion at the China Open.",
-      "blurb": "She took down French Open winner Mirra Andreeva in straight sets."
+      "headline": "IMF highlights AI investment as key driver of global growth.",
+      "blurb": "Strong spending on infrastructure is keeping global growth around 3% with major Asia benefits."
     },
     {
-      "headline": "Elon Musk plans aggressive Starlink pricing in India to compete with Reliance Jio.",
-      "blurb": "The satellite internet clash unfolds right as Jio prepares for its IPO."
+      "headline": "McKinsey emphasizes operating model redesigns for AI payoffs.",
+      "blurb": "Firms must change how decisions are made and work is performed to capture real value from tools."
     }
   ],
-  "emailQuestion": "What daily college tasks at UCI do you find messy enough that you would trust an AI agent to handle them?"
+  "emailQuestion": "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?"
 }
