@@ -1,22 +1,22 @@
 {
-  "id": "2026-10-12-am",
-  "slot": "morning",
+  "id": "2026-10-12-pm",
+  "slot": "evening",
   "date": "2026-10-12",
   "dateLabel": "Mon, Oct 12, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-12T17:42:44.519Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Amazon eye AI deals, Fed rate hike bets rise, and enterprise tech updates.",
-  "storyCount": 11,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-13T00:31:13.905Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Bain's AI hiring surge, McKinsey demotes senior partner, and Alcaraz upset in Shanghai.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "1:42 PM ET, Oct 12",
+    "asOf": "Close, Oct 12",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,804",
-        "change": "−0.10%",
+        "value": "7,807",
+        "change": "−0.06%",
         "direction": "down"
       },
       {
@@ -27,8 +27,8 @@
       },
       {
         "name": "Dow",
-        "value": "51,864",
-        "change": "+0.40%",
+        "value": "51,851",
+        "change": "+0.38%",
         "direction": "up"
       },
       {
@@ -39,31 +39,39 @@
       },
       {
         "name": "Gold",
-        "value": "$4,190",
-        "change": "−0.64%",
+        "value": "$4,189",
+        "change": "−0.03%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Amazon in talks to buy AI startup Decart for $7 billion",
-    "body": "Amazon is reportedly negotiating to acquire Israeli AI startup Decart after Anthropic walked away from a proposed deal following due diligence. Decart creates AI models that simulate environments for robotics and handle real-time video, and it already uses Amazon's custom Trainium chips.",
+    "headline": "Bain finds AI job openings jump 60% while entry hiring softens",
+    "body": "Bain & Company reported that global AI job postings surged 60% to roughly 351,000, even as general corporate hiring cooled in the second quarter. Entry-level opportunities weakened across major economies, though India showed relative resilience with a 5% decline in overall postings.",
     "sources": [
       {
-        "name": "CTech",
-        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
-      }
-    ],
-    "why": "Big tech M&A deals like this show you where massive capital is flowing in enterprise tech and cloud computing, which directly impacts corporate strategy and valuation models you study at Merage.",
-    "kicker": "Business + Cloud Infrastructure",
-    "figures": [
-      {
-        "value": "$7 billion",
-        "label": "reported acquisition price"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/economy/india-sees-5-drop-in-job-postings-in-q2-fares-better-than-major-economies-bain-company-11791805961766.html"
       },
       {
-        "value": "$300 million",
-        "label": "previous funding raised"
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/india-fares-better-amid-global-hiring-slowdown-job-postings-down-5-bain-company/"
+      }
+    ],
+    "why": "When recruiting for business internships, basic analyst tasks are increasingly automated, so learning to apply AI tools to class projects will help separate your resume from the pack.",
+    "kicker": "Careers + AI",
+    "figures": [
+      {
+        "value": "+60%",
+        "label": "global AI job openings"
+      },
+      {
+        "value": "351,000",
+        "label": "total AI job postings"
+      },
+      {
+        "value": "-5%",
+        "label": "India Q2 job postings"
       }
     ]
   },
@@ -73,26 +81,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Oil prices climb 2% following attack on Saudi airport",
-          "body": "Brent crude futures rose to $106.81 a barrel after a deadly attack on an airport in Riyadh. The incident compounds energy market jitters as Ukraine also reported ongoing attacks on its energy facilities.",
+          "headline": "SpaceX wireless strategy puts pressure on telecom stocks",
+          "body": "Shares of traditional telecommunications companies fell as investors evaluated Elon Musk's expansion into wireless services. The market pressure follows recent wireless spectrum purchases by SpaceX.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/spacex-wireless-bet-telecom-stocks-elon-musk/"
             }
           ],
-          "why": "Energy price spikes feed right back into broader inflation metrics, which dictates where central banks take interest rates next."
+          "why": "Telecom is historically treated as a stable dividend sector, but tech entrants can quickly challenge legacy infrastructure cash flows."
         },
         {
-          "headline": "Bank of America expects two more Fed rate hikes in 2026",
-          "body": "Resilient economic growth and sticky inflation could prompt the US Federal Reserve to raise interest rates in both October and December. Policymakers are weighing further monetary tightening even as they consider slowing down.",
+          "headline": "Cyberattack hits refrigeration across hundreds of French supermarkets",
+          "body": "Hackers struck French grocery chains Intermarché and Coopérative U overnight, disabling refrigerator systems at roughly 300 locations. The attack forced cooling units to defrost and ruined perishable inventory.",
           "sources": [
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/business/3990655-strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa"
+              "name": "France 24",
+              "url": "https://www.france24.com/en/france/20261012-french-supermarket-chains-say-cyberattack-shut-down-refrigerators"
             }
           ],
-          "why": "Higher interest rates change the cost of capital for startups and alter how investors value future cash flows in corporate finance."
+          "why": "Operational and digital vulnerabilities in physical supply chains show why risk assessment is a growing focus in management consulting."
         }
       ]
     },
@@ -101,25 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "IMF says AI investment is keeping global growth around 3%",
-          "body": "The artificial intelligence infrastructure boom is boosting advanced regional economies by up to one full percentage point. Asian economies supplying hardware are seeing major benefits from the spending surge.",
+          "headline": "Anthropic partners with HCLTech to deploy Claude to corporations",
+          "body": "HCLTech announced a Global Premier Partnership with Anthropic to create a dedicated business unit and Center of Excellence. The tech services firm will embed Claude models into enterprise client workflows.",
           "sources": [
             {
-              "name": "The Hindu Business Line",
-              "url": "https://www.thehindubusinessline.com/news/world/ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-says-imf/article71573742.ece"
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/hcltech-signs-pact-with-anthropic-to-set-up-dedicated-ai-business-unit-126101200830_1.html"
+            },
+            {
+              "name": "PR Newswire UK",
+              "url": "https://www.prnewswire.co.uk/news-releases/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises-302905630.html"
             }
           ],
-          "why": "Understanding macroeconomic tailwinds helps you spot which sectors are pulling heavy weight in the global economy right now."
+          "why": "Large tech consultancies are actively building out enterprise AI practices, opening future advisory roles focused on practical corporate rollouts."
         },
         {
-          "headline": "White House reinstates UK access to AI models for safety tests",
-          "body": "The US reversed its request for major AI firms like Anthropic and OpenAI to withhold model access from the UK's AI Security Institute. The shift lets officials resume safety reviews of advanced systems like Claude.",
+          "headline": "Cloud provider IREN climbs on reported Anthropic infrastructure deal",
+          "body": "Shares of IREN surged after reports that Anthropic signed a cloud services agreement with the data center firm. The agreement provides compute capacity as Anthropic accelerates its infrastructure buildout.",
           "sources": [
             {
-              "name": "LBC",
-              "url": "https://www.lbc.co.uk/article/white-house-uk-ai-models-5Hjdjkw_2/"
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/iren-stock-anthropic-ai-cloud-services-deal-data-center-buildout-reports/"
             }
-          ]
+          ],
+          "why": "Watching data center suppliers helps you understand how capital spending flows from foundation model developers into specialized hardware providers."
         }
       ]
     },
@@ -128,41 +141,38 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey research shows AI creating jobs while 11 million Americans shift fields",
-          "body": "While the US economy will net more jobs by 2035, the shift will require millions of workers to retrain and earn new credentials. Entry-level white-collar hiring is seeing headwinds as companies optimize workflows with generative tools.",
+          "headline": "McKinsey removes Chris Bradley from leadership role over online post",
+          "body": "McKinsey demoted senior partner Chris Bradley from his role at the McKinsey Global Institute following controversial social media comments regarding female executives. The consulting firm stated that his posts fell short of company standards.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/"
+              "name": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/10/12/female-bosses-want-to-be-victims-says-mckinsey-partner/"
+            },
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/mckinsey-senior-partner-demoted-over-controversial-social-media-post/"
+            },
+            {
+              "name": "Mashable India",
+              "url": "https://in.mashable.com/tech/114888/mckinsey-strips-chris-bradley-of-leadership-role-after-linkedin-posts-on-women-executives"
             }
           ],
-          "why": "As someone aiming for consulting or tech roles, watching how firms adapt their entry-level hiring pipelines gives you a read on what core skills to build now."
+          "why": "At top consulting firms, public conduct and leadership standards directly influence reputation, client trust, and career longevity."
         },
         {
-          "headline": "Operating models emerge as a primary competitive edge in the AI era",
-          "body": "According to McKinsey research, organizations that redesign how decisions are made and work is performed capture far more value from artificial intelligence. Merely adopting software is not enough without a structural redesign.",
+          "headline": "Deloitte accused of falsifying paperwork for Roman Abramovich",
+          "body": "The Cyprus branch of Deloitte and a spin-off entity face allegations of faking corporate documents to protect assets owned by former Chelsea FC owner Roman Abramovich. The investigation claims the firm helped shield wealth and evade taxes.",
           "sources": [
             {
-              "name": "News18",
-              "url": "https://www.news18.com/agency-feeds/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey-10376705.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "uci",
-      "title": "UC Irvine",
-      "stories": [
-        {
-          "headline": "UC Irvine student found dead in residence hall",
-          "body": "An 18-year-old UCI student was tragically found dead in an Orange County campus residence over the weekend.",
-          "sources": [
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/big-four-giant-deloitte-accused-of-faking-paperwork-to-hide-roman-abramovich-wealth/"
+            },
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/10/06/us-news/uc-irvine-student-found-dead-in-dorm-room/"
+              "name": "GB News",
+              "url": "https://www.gbnews.com/sport/football/roman-abramovich-wealth-tax-deloitte"
             }
-          ]
+          ],
+          "why": "Big Four firms face severe scrutiny over compliance, demonstrating why governance and audit integrity remain essential to professional services."
         }
       ]
     },
@@ -171,16 +181,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alex Eala slips to No. 19 in WTA rankings ahead of Wuhan Open",
-          "body": "Filipino tennis standout Alex Eala dropped one spot to No. 19 in the latest WTA rankings with 2,241 points. She opens her Wuhan Open campaign against China's Han Shi.",
+          "headline": "Carlos Alcaraz knocked out of Shanghai Masters by Zizou Bergs",
+          "body": "Carlos Alcaraz suffered an upset straight-sets loss to Belgium's Zizou Bergs, falling 5-7, 6-7 at the Shanghai Masters. The victory marked the first time Bergs has defeated Alcaraz on tour.",
           "sources": [
             {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/10/12/sports/alex-eala-slips-one-spot-to-no-19-in-wta-rankings/2443385"
-            },
-            {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/10/11/sports/alex-eala-faces-chinese-han-shi-in-wuhan-campaign-opener/2443285"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/carlos-alcaraz-crashes-out-of-shanghai-open-after-shock-defeat-to-zizou-bergs-article-156323910"
             }
           ]
         }
@@ -188,55 +194,51 @@
     }
   ],
   "term": {
-    "name": "Due Diligence",
-    "definition": "Due diligence is the comprehensive appraisal of a business undertaken by a prospective buyer before signing a contract. In today's news, Anthropic backed out of acquiring Decart after running through this evaluation process. For investors and consultants, it is the crucial deep dive to check a company's financials, legal standing, and technical claims before committing billions.",
+    "name": "Asset-Light Model",
+    "definition": "A business strategy where a company relies on outsourced manufacturing and partner facilities rather than owning heavy plants and machinery. This keeps fixed overhead low and allows faster expansion, which helped marketplace Zetwerk scale without building physical factories.",
     "sources": [
       {
-        "name": "CTech",
-        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/zetwerk-manufacturing-business-ipo-drhp-2-160-crore-fresh-issue-debt/53352795"
       }
     ]
   },
   "serve": {
-    "headline": "Decart raised $300 million to build real-time AI simulation models",
-    "body": "The Israeli startup develops foundational AI models for real-time video editing and environmental simulation for robotics. Radical Ventures led its previous funding round before Amazon targeted it for a multibillion-dollar buyout.",
+    "headline": "Zetwerk files for ₹2,160 crore IPO to pay down debt",
+    "body": "Zetwerk operates an asset-light manufacturing platform that connects industrial and consumer companies with supplier networks. The company filed draft paperwork for an initial public offering to raise ₹2,160 crore in fresh equity to cut company and subsidiary debt.",
     "questions": [
-      "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?",
-      "If you were advising Amazon, how would you justify integrating Decart's Trainium chip dependency over sticking with Nvidia hardware?",
-      "What operational risks does a startup face when a major potential buyer walks away during due diligence?"
+      "How could an asset-light marketplace model be applied to equipment sharing among student labs at UC Irvine?",
+      "Why might a fast-growing startup prioritize paying down debt over new acquisitions when preparing for an IPO?",
+      "What operational risks emerge when a manufacturing platform relies on third-party factories rather than owning its own facilities?"
     ],
     "sources": [
       {
-        "name": "CTech",
-        "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
-      },
-      {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/international/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-report/articleshow/134880456.cms"
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/zetwerk-manufacturing-business-ipo-drhp-2-160-crore-fresh-issue-debt/53352795"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Amazon talks to buy AI startup Decart for $7 billion.",
-      "blurb": "The potential acquisition follows Anthropic's decision to walk away after completing due diligence."
+      "headline": "Bain finds AI job openings jump 60% while entry hiring softens",
+      "blurb": "Global AI postings reached 351,000 as employers recalibrate demand for early career positions."
     },
     {
-      "headline": "Oil prices rise following attack on Saudi airport.",
-      "blurb": "Brent crude climbed 2% to $106.81 a barrel amid ongoing energy infrastructure concerns."
+      "headline": "Anthropic partners with HCLTech to scale Claude across enterprises",
+      "blurb": "HCLTech is launching a dedicated business unit to integrate Anthropic models into corporate clients."
     },
     {
-      "headline": "Bank of America expects two more Fed rate hikes in 2026.",
-      "blurb": "Resilient growth and sticky inflation could prompt the central bank to tighten monetary policy further."
+      "headline": "McKinsey demotes senior partner Chris Bradley over online post",
+      "blurb": "The firm stripped the McKinsey Global Institute leader of his post after comments questioning challenges faced by women executives."
     },
     {
-      "headline": "IMF highlights AI investment as key driver of global growth.",
-      "blurb": "Strong spending on infrastructure is keeping global growth around 3% with major Asia benefits."
+      "headline": "SpaceX wireless spectrum push puts pressure on telecom stocks",
+      "blurb": "Satellite connectivity moves are prompting investors to reprice legacy wireless carriers."
     },
     {
-      "headline": "McKinsey emphasizes operating model redesigns for AI payoffs.",
-      "blurb": "Firms must change how decisions are made and work is performed to capture real value from tools."
+      "headline": "Carlos Alcaraz stunned by Zizou Bergs at Shanghai Masters",
+      "blurb": "The Spanish star fell in straight sets 5-7, 6-7 in a surprise exit."
     }
   ],
-  "emailQuestion": "How would you evaluate whether a $7 billion valuation makes sense for a pre-revenue or early-revenue deep tech startup?"
+  "emailQuestion": "How could an asset-light marketplace model be applied to equipment sharing among student labs at UC Irvine?"
 }

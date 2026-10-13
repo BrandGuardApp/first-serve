@@ -1,0 +1,244 @@
+{
+  "id": "2026-10-12-pm",
+  "slot": "evening",
+  "date": "2026-10-12",
+  "dateLabel": "Mon, Oct 12, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-13T00:31:13.905Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Bain's AI hiring surge, McKinsey demotes senior partner, and Alcaraz upset in Shanghai.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 12",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,807",
+        "change": "−0.06%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,246",
+        "change": "−0.44%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,851",
+        "change": "+0.38%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.24%",
+        "change": "0 bp",
+        "direction": "flat"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,189",
+        "change": "−0.03%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Bain finds AI job openings jump 60% while entry hiring softens",
+    "body": "Bain & Company reported that global AI job postings surged 60% to roughly 351,000, even as general corporate hiring cooled in the second quarter. Entry-level opportunities weakened across major economies, though India showed relative resilience with a 5% decline in overall postings.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/economy/india-sees-5-drop-in-job-postings-in-q2-fares-better-than-major-economies-bain-company-11791805961766.html"
+      },
+      {
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/india-fares-better-amid-global-hiring-slowdown-job-postings-down-5-bain-company/"
+      }
+    ],
+    "why": "When recruiting for business internships, basic analyst tasks are increasingly automated, so learning to apply AI tools to class projects will help separate your resume from the pack.",
+    "kicker": "Careers + AI",
+    "figures": [
+      {
+        "value": "+60%",
+        "label": "global AI job openings"
+      },
+      {
+        "value": "351,000",
+        "label": "total AI job postings"
+      },
+      {
+        "value": "-5%",
+        "label": "India Q2 job postings"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "SpaceX wireless strategy puts pressure on telecom stocks",
+          "body": "Shares of traditional telecommunications companies fell as investors evaluated Elon Musk's expansion into wireless services. The market pressure follows recent wireless spectrum purchases by SpaceX.",
+          "sources": [
+            {
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/spacex-wireless-bet-telecom-stocks-elon-musk/"
+            }
+          ],
+          "why": "Telecom is historically treated as a stable dividend sector, but tech entrants can quickly challenge legacy infrastructure cash flows."
+        },
+        {
+          "headline": "Cyberattack hits refrigeration across hundreds of French supermarkets",
+          "body": "Hackers struck French grocery chains Intermarché and Coopérative U overnight, disabling refrigerator systems at roughly 300 locations. The attack forced cooling units to defrost and ruined perishable inventory.",
+          "sources": [
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/france/20261012-french-supermarket-chains-say-cyberattack-shut-down-refrigerators"
+            }
+          ],
+          "why": "Operational and digital vulnerabilities in physical supply chains show why risk assessment is a growing focus in management consulting."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic partners with HCLTech to deploy Claude to corporations",
+          "body": "HCLTech announced a Global Premier Partnership with Anthropic to create a dedicated business unit and Center of Excellence. The tech services firm will embed Claude models into enterprise client workflows.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/hcltech-signs-pact-with-anthropic-to-set-up-dedicated-ai-business-unit-126101200830_1.html"
+            },
+            {
+              "name": "PR Newswire UK",
+              "url": "https://www.prnewswire.co.uk/news-releases/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises-302905630.html"
+            }
+          ],
+          "why": "Large tech consultancies are actively building out enterprise AI practices, opening future advisory roles focused on practical corporate rollouts."
+        },
+        {
+          "headline": "Cloud provider IREN climbs on reported Anthropic infrastructure deal",
+          "body": "Shares of IREN surged after reports that Anthropic signed a cloud services agreement with the data center firm. The agreement provides compute capacity as Anthropic accelerates its infrastructure buildout.",
+          "sources": [
+            {
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/iren-stock-anthropic-ai-cloud-services-deal-data-center-buildout-reports/"
+            }
+          ],
+          "why": "Watching data center suppliers helps you understand how capital spending flows from foundation model developers into specialized hardware providers."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey removes Chris Bradley from leadership role over online post",
+          "body": "McKinsey demoted senior partner Chris Bradley from his role at the McKinsey Global Institute following controversial social media comments regarding female executives. The consulting firm stated that his posts fell short of company standards.",
+          "sources": [
+            {
+              "name": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/business/2026/10/12/female-bosses-want-to-be-victims-says-mckinsey-partner/"
+            },
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/mckinsey-senior-partner-demoted-over-controversial-social-media-post/"
+            },
+            {
+              "name": "Mashable India",
+              "url": "https://in.mashable.com/tech/114888/mckinsey-strips-chris-bradley-of-leadership-role-after-linkedin-posts-on-women-executives"
+            }
+          ],
+          "why": "At top consulting firms, public conduct and leadership standards directly influence reputation, client trust, and career longevity."
+        },
+        {
+          "headline": "Deloitte accused of falsifying paperwork for Roman Abramovich",
+          "body": "The Cyprus branch of Deloitte and a spin-off entity face allegations of faking corporate documents to protect assets owned by former Chelsea FC owner Roman Abramovich. The investigation claims the firm helped shield wealth and evade taxes.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/big-four-giant-deloitte-accused-of-faking-paperwork-to-hide-roman-abramovich-wealth/"
+            },
+            {
+              "name": "GB News",
+              "url": "https://www.gbnews.com/sport/football/roman-abramovich-wealth-tax-deloitte"
+            }
+          ],
+          "why": "Big Four firms face severe scrutiny over compliance, demonstrating why governance and audit integrity remain essential to professional services."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz knocked out of Shanghai Masters by Zizou Bergs",
+          "body": "Carlos Alcaraz suffered an upset straight-sets loss to Belgium's Zizou Bergs, falling 5-7, 6-7 at the Shanghai Masters. The victory marked the first time Bergs has defeated Alcaraz on tour.",
+          "sources": [
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/carlos-alcaraz-crashes-out-of-shanghai-open-after-shock-defeat-to-zizou-bergs-article-156323910"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Asset-Light Model",
+    "definition": "A business strategy where a company relies on outsourced manufacturing and partner facilities rather than owning heavy plants and machinery. This keeps fixed overhead low and allows faster expansion, which helped marketplace Zetwerk scale without building physical factories.",
+    "sources": [
+      {
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/zetwerk-manufacturing-business-ipo-drhp-2-160-crore-fresh-issue-debt/53352795"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zetwerk files for ₹2,160 crore IPO to pay down debt",
+    "body": "Zetwerk operates an asset-light manufacturing platform that connects industrial and consumer companies with supplier networks. The company filed draft paperwork for an initial public offering to raise ₹2,160 crore in fresh equity to cut company and subsidiary debt.",
+    "questions": [
+      "How could an asset-light marketplace model be applied to equipment sharing among student labs at UC Irvine?",
+      "Why might a fast-growing startup prioritize paying down debt over new acquisitions when preparing for an IPO?",
+      "What operational risks emerge when a manufacturing platform relies on third-party factories rather than owning its own facilities?"
+    ],
+    "sources": [
+      {
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/zetwerk-manufacturing-business-ipo-drhp-2-160-crore-fresh-issue-debt/53352795"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Bain finds AI job openings jump 60% while entry hiring softens",
+      "blurb": "Global AI postings reached 351,000 as employers recalibrate demand for early career positions."
+    },
+    {
+      "headline": "Anthropic partners with HCLTech to scale Claude across enterprises",
+      "blurb": "HCLTech is launching a dedicated business unit to integrate Anthropic models into corporate clients."
+    },
+    {
+      "headline": "McKinsey demotes senior partner Chris Bradley over online post",
+      "blurb": "The firm stripped the McKinsey Global Institute leader of his post after comments questioning challenges faced by women executives."
+    },
+    {
+      "headline": "SpaceX wireless spectrum push puts pressure on telecom stocks",
+      "blurb": "Satellite connectivity moves are prompting investors to reprice legacy wireless carriers."
+    },
+    {
+      "headline": "Carlos Alcaraz stunned by Zizou Bergs at Shanghai Masters",
+      "blurb": "The Spanish star fell in straight sets 5-7, 6-7 in a surprise exit."
+    }
+  ],
+  "emailQuestion": "How could an asset-light marketplace model be applied to equipment sharing among student labs at UC Irvine?"
+}
