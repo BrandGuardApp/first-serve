@@ -1,0 +1,125 @@
+{
+  "id": "2026-10-13-am",
+  "slot": "morning",
+  "date": "2026-10-13",
+  "dateLabel": "Tue, Oct 13, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-13T15:51:38.824Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "South Korea stocks drop 7%, chip startups pull $125M, and Alexander Zverev claims the tennis world number one spot.",
+  "storyCount": 4,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "11:50 AM ET, Oct 13",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,789",
+        "change": "−0.23%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "27,156",
+        "change": "−0.33%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,684",
+        "change": "−0.32%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.22%",
+        "change": "−2 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,183",
+        "change": "−0.18%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Asian markets tumble 7% in a semiconductor selloff following warnings of AI overheating",
+    "body": "South Korea's equity benchmark dropped sharply after global semiconductor stocks slid amid growing worries about artificial intelligence overheating and intense competition from China. Major tech names like Samsung Electronics and SK Hynix both saw their shares fall more than 8%.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/market/chip-selloff-triggers-7-korea-rout-after-ceo-s-casino-warning-11791863080322.html"
+      }
+    ],
+    "why": "Understanding how macro chip sentiment shifts valuation multiples will help you analyze tech sector risk during your finance and investing coursework.",
+    "kicker": "Markets + Semiconductors",
+    "figures": [
+      {
+        "value": "7%",
+        "label": "South Korea market drop"
+      },
+      {
+        "value": "8%",
+        "label": "Samsung and SK Hynix share drop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Kroger plans to cut 3,000 corporate jobs over the next three years",
+          "body": "CEO Greg Foran stated in an internal memo that the grocery chain has too many layers, handoffs, and overhead. The reduction aims to streamline corporate operations.",
+          "sources": [
+            {
+              "name": "Grocery Dive",
+              "url": "https://www.grocerydive.com/news/kroger-corporate-layoffs-3000-employees/832811/"
+            }
+          ],
+          "why": "This is a classic operational restructuring case study on eliminating middle-management overhead to expand margins, directly relevant to your Merage business strategy classes."
+        },
+        {
+          "headline": "SpaceX secures low-band spectrum licenses for Starlink Mobile service",
+          "body": "SpaceX announced that Starlink Mobile will gain access to up to 14 megahertz of paired, low-band spectrum across nationwide 800 MHz licenses. The move positions the satellite company to directly compete with traditional carriers like T-Mobile and AT&T.",
+          "sources": [
+            {
+              "name": "BGR",
+              "url": "https://www.bgr.com/2284698/starlink-upgrade-compete-t-mobile-att/"
+            }
+          ],
+          "why": "Analyzing how a disruptive infrastructure provider enters existing oligopolies gives you a framework for competitive strategy and telecom market disruption."
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Model Distillation",
+    "definition": "Model distillation is a machine learning technique where a smaller, more efficient AI model is trained using the outputs of a larger, more powerful frontier model. As seen in Anthropic's recent security updates, labs fiercely protect their proprietary models against this practice because it allows competitors to cheaply replicate advanced capabilities without spending billions on foundational research.",
+    "sources": []
+  },
+  "serve": null,
+  "emailItems": [
+    {
+      "headline": "Asian markets tumble 7% on chip selloff",
+      "blurb": "Semiconductor shares fell sharply as investors weighed concerns over AI overheating and rising Chinese competition."
+    },
+    {
+      "headline": "Kroger to cut 3,000 corporate jobs",
+      "blurb": "The grocery chain's CEO announced a three-year plan to strip out excess corporate overhead and layers."
+    },
+    {
+      "headline": "HCLTech partners with Anthropic",
+      "blurb": "The IT services firm is creating a dedicated unit to help corporate clients deploy Claude agents safely."
+    },
+    {
+      "headline": "McKinsey strips partner of leadership role",
+      "blurb": "Senior partner Chris Bradley lost his director title following controversial comments made on LinkedIn."
+    }
+  ],
+  "emailQuestion": "How would you price hardware components for a market facing extreme power and electrical constraints?"
+}
