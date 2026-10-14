@@ -1,35 +1,35 @@
 {
-  "id": "2026-10-13-am",
-  "slot": "morning",
+  "id": "2026-10-13-pm",
+  "slot": "evening",
   "date": "2026-10-13",
   "dateLabel": "Tue, Oct 13, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-13T15:51:38.824Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "South Korea stocks drop 7%, chip startups pull $125M, and Alexander Zverev claims the tennis world number one spot.",
-  "storyCount": 4,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-14T01:04:34.531Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Big bank earnings, AI self-replication warnings, and a massive VC fundraise.",
+  "storyCount": 10,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "11:50 AM ET, Oct 13",
+    "asOf": "Close, Oct 13",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,789",
-        "change": "−0.23%",
+        "value": "7,805",
+        "change": "−0.08%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "27,156",
-        "change": "−0.33%",
+        "value": "27,204",
+        "change": "−0.15%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,684",
-        "change": "−0.32%",
-        "direction": "down"
+        "value": "51,670",
+        "change": "+0.03%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
@@ -39,33 +39,24 @@
       },
       {
         "name": "Gold",
-        "value": "$4,183",
-        "change": "−0.18%",
-        "direction": "down"
+        "value": "$4,179",
+        "change": "+0.04%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Asian markets tumble 7% in a semiconductor selloff following warnings of AI overheating",
-    "body": "South Korea's equity benchmark dropped sharply after global semiconductor stocks slid amid growing worries about artificial intelligence overheating and intense competition from China. Major tech names like Samsung Electronics and SK Hynix both saw their shares fall more than 8%.",
+    "headline": "JPMorgan and Goldman Sachs post strong third-quarter profits as earnings season kicks off",
+    "body": "Wall Street kicked off the third-quarter earnings season with solid results from major financial institutions. Both JPMorgan Chase and Goldman Sachs reported strong profit jumps, driven by robust activity in areas like equities trading. Meanwhile, chip stocks faced continued downward pressure.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/market/chip-selloff-triggers-7-korea-rout-after-ceo-s-casino-warning-11791863080322.html"
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/jpmorgan-goldman-profits-jump-as-banks-kick-off-earnings-ce785dddde8cf726"
       }
     ],
-    "why": "Understanding how macro chip sentiment shifts valuation multiples will help you analyze tech sector risk during your finance and investing coursework.",
-    "kicker": "Markets + Semiconductors",
-    "figures": [
-      {
-        "value": "7%",
-        "label": "South Korea market drop"
-      },
-      {
-        "value": "8%",
-        "label": "Samsung and SK Hynix share drop"
-      }
-    ]
+    "why": "Understanding how major financial institutions perform gives you a direct read on corporate health and capital availability, which is crucial for both corporate finance classes and future consulting or banking roles.",
+    "kicker": "Markets and Banking",
+    "figures": []
   },
   "sections": [
     {
@@ -73,53 +64,148 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Kroger plans to cut 3,000 corporate jobs over the next three years",
-          "body": "CEO Greg Foran stated in an internal memo that the grocery chain has too many layers, handoffs, and overhead. The reduction aims to streamline corporate operations.",
+          "headline": "Federal regulators seek contempt order against Martin Shkreli",
+          "body": "The FTC and seven states asked a federal judge to hold Martin Shkreli in contempt for allegedly violating his lifetime ban from the pharmaceutical industry. The action follows an earlier trial that found he orchestrated an illegal scheme to maintain a monopoly on the drug Daraprim.",
           "sources": [
             {
-              "name": "Grocery Dive",
-              "url": "https://www.grocerydive.com/news/kroger-corporate-layoffs-3000-employees/832811/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html"
             }
           ],
-          "why": "This is a classic operational restructuring case study on eliminating middle-management overhead to expand margins, directly relevant to your Merage business strategy classes."
+          "why": "This is a clean case study in regulatory enforcement and market monopolies, directly relevant to competitive strategy topics in your business classes."
         },
         {
-          "headline": "SpaceX secures low-band spectrum licenses for Starlink Mobile service",
-          "body": "SpaceX announced that Starlink Mobile will gain access to up to 14 megahertz of paired, low-band spectrum across nationwide 800 MHz licenses. The move positions the satellite company to directly compete with traditional carriers like T-Mobile and AT&T.",
+          "headline": "UnitedHealth Group raises profit forecast after tightening medical cost spending",
+          "body": "UnitedHealth Group raised its full-year 2026 profit outlook on Tuesday following a third-quarter earnings beat. The company successfully boosted its financial performance by tightening spending on medical costs within its core health insurance business.",
           "sources": [
             {
-              "name": "BGR",
-              "url": "https://www.bgr.com/2284698/starlink-upgrade-compete-t-mobile-att/"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-raises-profit-forecast-100026393.html"
             }
           ],
-          "why": "Analyzing how a disruptive infrastructure provider enters existing oligopolies gives you a framework for competitive strategy and telecom market disruption."
+          "why": "Analyzing how a giant healthcare company manages operating margins and cost controls provides a practical look at cost-side operational efficiency."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic warns small AI models could soon self-replicate on everyday devices",
+          "body": "Anthropic's safety research team warned that smaller artificial intelligence models may be months away from gaining the capability to self-replicate on hardware like smart ovens and budget streaming boxes. The finding highlights emerging security risks as edge computing grows.",
+          "sources": [
+            {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664"
+            }
+          ],
+          "why": "As you look at tech startups, understanding the security and edge deployment limitations of AI models will help you evaluate infrastructure risks."
+        },
+        {
+          "headline": "Adani and Jabil partner to manufacture AI data centre hardware in India",
+          "body": "Adani Enterprises and US-based Jabil Inc. signed an agreement to form a 50:50 joint venture. The partnership will manufacture artificial intelligence and data center equipment in India to meet surging domestic and global computing demand.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/business/3991595-adani-enterprises-jabil-sign-mou-for-5050-jv-to-manufacture-ai-data-centre-hardware-in-india"
+            }
+          ],
+          "why": "This highlights how physical supply chains are expanding to support compute infrastructure, a massive growth area for international business strategy."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Bain report shows global job postings down 5 percent with sharper stress at entry level",
+          "body": "A new report from Bain and Company reveals that global job postings fell 5 percent year-on-year in the second quarter of 2026. Entry-level hiring faced a harsher contraction, even as global demand for specialized artificial intelligence roles continued to rise.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/jobs/in-focus/story/india-job-market-resilient-amid-global-hiring-slowdown-entry-level-jobs-fall-ai-hiring-rises-educ-3016181-2026-10-13"
+            }
+          ],
+          "why": "This macro hiring trend emphasizes why building specific technical skills, like AI literacy or data analysis, is vital for landing competitive internships."
+        },
+        {
+          "headline": "McKinsey research suggests automation could absorb half of US work hours by 2035",
+          "body": "A study by the McKinsey Global Institute estimates that technological shifts could reduce labor demand by the equivalent of 36 million jobs over the next decade. The report notes that millions of workers will likely need to transition into new occupations.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/"
+            }
+          ],
+          "why": "Consulting firms drive these large-scale labor market projections, giving you a preview of the macro transformation frameworks you will study."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev confirmed as ATP year-end World No. 1 for the 2026 season",
+          "body": "German tennis star Alexander Zverev secured the year-end World No. 1 ranking, dethroning Jannik Sinner. The milestone marks the first time a German player has achieved the feat since Boris Becker.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/sports/tennis-news/alexander-zverev-to-conclude-2026-as-world-no-1-ends-germanys-top-seed-drought-since-becker-14052384.html"
+            }
+          ]
         }
       ]
     }
   ],
   "term": {
-    "name": "Model Distillation",
-    "definition": "Model distillation is a machine learning technique where a smaller, more efficient AI model is trained using the outputs of a larger, more powerful frontier model. As seen in Anthropic's recent security updates, labs fiercely protect their proprietary models against this practice because it allows competitors to cheaply replicate advanced capabilities without spending billions on foundational research.",
-    "sources": []
+    "name": "Perpetual Futures",
+    "definition": "A type of derivative contract similar to a traditional futures contract, but with one key difference: it has no fixed expiry date. Traders can hold the position indefinitely as long as they maintain sufficient margin. Platforms like DeepSigma are now building decentralized paper-trading models around these instruments for real-world assets.",
+    "sources": [
+      {
+        "name": "Crypto News",
+        "url": "https://crypto.news/deepsigma-launches-rwa-perpetuals-demo-with-77-traditional-markets/"
+      }
+    ]
   },
-  "serve": null,
+  "serve": {
+    "headline": "Lightsprint raised $6.1 million to help non-engineers edit code using AI agents",
+    "body": "The Y Combinator-backed San Francisco startup provides tools that allow designers and product managers to directly make changes to an existing corporate codebase using artificial intelligence. The funding will expand its development efforts.",
+    "questions": [
+      "How does a product manager without a computer science degree validate the security of code written by an AI agent?",
+      "What customer acquisition strategy works best when your software bridges the gap between designers and engineering teams?",
+      "How would you price a developer tool that aims to eliminate simple coding bottlenecks for non-technical staff?"
+    ],
+    "sources": [
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/lightsprint-secures-funding-ai-coding-for-non-techies-2026-10"
+      }
+    ]
+  },
   "emailItems": [
     {
-      "headline": "Asian markets tumble 7% on chip selloff",
-      "blurb": "Semiconductor shares fell sharply as investors weighed concerns over AI overheating and rising Chinese competition."
+      "headline": "JPMorgan and Goldman Sachs post strong Q3 profits.",
+      "blurb": "Big bank earnings kicked off Wall Street's reporting season on a solid note."
     },
     {
-      "headline": "Kroger to cut 3,000 corporate jobs",
-      "blurb": "The grocery chain's CEO announced a three-year plan to strip out excess corporate overhead and layers."
+      "headline": "Anthropic warns of AI self-replication risks.",
+      "blurb": "Small models may soon run autonomously on devices like smart ovens."
     },
     {
-      "headline": "HCLTech partners with Anthropic",
-      "blurb": "The IT services firm is creating a dedicated unit to help corporate clients deploy Claude agents safely."
+      "headline": "Bain report details entry-level hiring contraction.",
+      "blurb": "Overall job postings fell 5 percent while AI roles continued to climb."
     },
     {
-      "headline": "McKinsey strips partner of leadership role",
-      "blurb": "Senior partner Chris Bradley lost his director title following controversial comments made on LinkedIn."
+      "headline": "Adani and Jabil join forces for AI hardware.",
+      "blurb": "The two firms formed a joint venture to build data center equipment in India."
+    },
+    {
+      "headline": "Alexander Zverev clinches year-end World No. 1.",
+      "blurb": "The German star secured the top spot and ended a long national drought."
     }
   ],
-  "emailQuestion": "How would you price hardware components for a market facing extreme power and electrical constraints?"
+  "emailQuestion": "How does a product manager without a computer science degree validate the security of code written by an AI agent?"
 }
