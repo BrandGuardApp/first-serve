@@ -1,62 +1,75 @@
 {
-  "id": "2026-10-13-pm",
-  "slot": "evening",
-  "date": "2026-10-13",
-  "dateLabel": "Tue, Oct 13, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-14T01:04:34.531Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Big bank earnings, AI self-replication warnings, and a massive VC fundraise.",
-  "storyCount": 10,
+  "id": "2026-10-14-am",
+  "slot": "morning",
+  "date": "2026-10-14",
+  "dateLabel": "Wed, Oct 14, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-14T20:34:18.424Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI engineer arrested, CVS pays $315M, and Nvidia targets Wall Street tick data.",
+  "storyCount": 11,
   "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Oct 13",
+    "asOf": "Close, Oct 14",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,805",
-        "change": "−0.08%",
+        "value": "7,719",
+        "change": "−1.11%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "27,204",
-        "change": "−0.15%",
+        "value": "26,693",
+        "change": "−1.88%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,670",
-        "change": "+0.03%",
-        "direction": "up"
+        "value": "51,621",
+        "change": "−0.09%",
+        "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.22%",
-        "change": "−2 bp",
+        "value": "5.19%",
+        "change": "−3 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,179",
-        "change": "+0.04%",
-        "direction": "up"
+        "value": "$4,122",
+        "change": "−1.32%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "JPMorgan and Goldman Sachs post strong third-quarter profits as earnings season kicks off",
-    "body": "Wall Street kicked off the third-quarter earnings season with solid results from major financial institutions. Both JPMorgan Chase and Goldman Sachs reported strong profit jumps, driven by robust activity in areas like equities trading. Meanwhile, chip stocks faced continued downward pressure.",
+    "headline": "OpenAI Engineer Arrested for Planting Hidden Mic in Executive Boardroom",
+    "body": "Federal agents arrested Abdulrahman Alfozan, a 35-year-old engineering lead at OpenAI, for allegedly hiding a recording device inside an executive conference room at the company's San Francisco headquarters. The Justice Department reported that staff discovered the device plugged into a USB port behind a television on September 30 to secretly record sensitive meetings.",
     "sources": [
       {
-        "name": "MarketScreener",
-        "url": "https://www.marketscreener.com/news/jpmorgan-goldman-profits-jump-as-banks-kick-off-earnings-ce785dddde8cf726"
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"
+      },
+      {
+        "name": "Rappler",
+        "url": "https://www.rappler.com/technology/fbi-arrests-saudi-openai-engineer-covert-recording-device/"
       }
     ],
-    "why": "Understanding how major financial institutions perform gives you a direct read on corporate health and capital availability, which is crucial for both corporate finance classes and future consulting or banking roles.",
-    "kicker": "Markets and Banking",
-    "figures": []
+    "why": "As AI labs race to build leading models, internal security and trade secret protection matter just as much as technical breakthroughs. Keep corporate governance and risk management in mind as you look toward tech internships.",
+    "kicker": "AI + Espionage",
+    "figures": [
+      {
+        "value": "Sept 30",
+        "label": "Date device discovered"
+      },
+      {
+        "value": "35",
+        "label": "Age of arrested engineer"
+      }
+    ]
   },
   "sections": [
     {
@@ -64,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Federal regulators seek contempt order against Martin Shkreli",
-          "body": "The FTC and seven states asked a federal judge to hold Martin Shkreli in contempt for allegedly violating his lifetime ban from the pharmaceutical industry. The action follows an earlier trial that found he orchestrated an illegal scheme to maintain a monopoly on the drug Daraprim.",
+          "headline": "CVS Agrees to Pay $315 Million to Settle Federal Opioid Claims",
+          "body": "CVS reached a $315 million settlement with the Department of Justice over claims that it illegally filled controlled substance prescriptions and improperly billed Medicare and other federal health programs.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/politics/cvs-pharmacy-reaches-315m-settlement-justice-department-over-controlled-substance-prescriptions"
             }
           ],
-          "why": "This is a clean case study in regulatory enforcement and market monopolies, directly relevant to competitive strategy topics in your business classes."
+          "why": "In your business law and finance classes, corporate compliance failures directly impact cash flows. Past operational oversights can trigger massive federal liabilities years after the fact."
         },
         {
-          "headline": "UnitedHealth Group raises profit forecast after tightening medical cost spending",
-          "body": "UnitedHealth Group raised its full-year 2026 profit outlook on Tuesday following a third-quarter earnings beat. The company successfully boosted its financial performance by tightening spending on medical costs within its core health insurance business.",
+          "headline": "Jio Platforms Prepares Record $3.6B IPO as Grey Market Demand Surges",
+          "body": "Reliance Industries-backed Jio Platforms is scheduled to open its 30,213-crore rupee public offering on October 21. Early grey market activity shows strong unofficial premiums for what is set to become India's largest initial public offering to date.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-raises-profit-forecast-100026393.html"
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/business/story/jio-ipo-gmp-today-subscription-date-price-band-listing-3017027-2026-10-14"
             }
           ],
-          "why": "Analyzing how a giant healthcare company manages operating margins and cost controls provides a practical look at cost-side operational efficiency."
+          "why": "Watching mega-listings in emerging markets gives you a clear window into how massive conglomerates carve out and monetize digital infrastructure."
         }
       ]
     },
@@ -92,26 +105,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic warns small AI models could soon self-replicate on everyday devices",
-          "body": "Anthropic's safety research team warned that smaller artificial intelligence models may be months away from gaining the capability to self-replicate on hardware like smart ovens and budget streaming boxes. The finding highlights emerging security risks as edge computing grows.",
+          "headline": "Nvidia and London Stock Exchange Partner on High-Speed Market Analytics",
+          "body": "Nvidia is teaming up with the London Stock Exchange to help financial institutions analyze vast archives of market tick data using AI systems.",
           "sources": [
             {
-              "name": "ABC News - Breaking News, Latest News and Videos",
-              "url": "https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664"
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/nvidia-and-lseg-want-to-rewrite-market-analysis-ce785dd2da81f721"
+            },
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/nvidia-london-stock-exchange-collaborate-on-data-analysis-ce785dd2da8ff12c"
             }
           ],
-          "why": "As you look at tech startups, understanding the security and edge deployment limitations of AI models will help you evaluate infrastructure risks."
+          "why": "If you are interested in quantitative trading or asset management, learning how AI processes high-frequency market data will be an essential skill before you hit a trading desk."
         },
         {
-          "headline": "Adani and Jabil partner to manufacture AI data centre hardware in India",
-          "body": "Adani Enterprises and US-based Jabil Inc. signed an agreement to form a 50:50 joint venture. The partnership will manufacture artificial intelligence and data center equipment in India to meet surging domestic and global computing demand.",
+          "headline": "Nvidia Commits $250 Million to UK AI Safety Testing",
+          "body": "Nvidia plans to invest $250 million over the next five years into UK-based AI security research. The funding allocates $50 million annually to test agentic systems and improve protections for developers.",
           "sources": [
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/business/3991595-adani-enterprises-jabil-sign-mou-for-5050-jv-to-manufacture-ai-data-centre-hardware-in-india"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/update-1-nvidia-pledges-250-million-to-uk-ai-safety-research/articleshow/134936637.cms"
             }
           ],
-          "why": "This highlights how physical supply chains are expanding to support compute infrastructure, a massive growth area for international business strategy."
+          "why": "As tech giants pour capital into AI auditing and safety frameworks, new consulting and compliance advisory roles will open up for business graduates."
         }
       ]
     },
@@ -120,26 +137,42 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Bain report shows global job postings down 5 percent with sharper stress at entry level",
-          "body": "A new report from Bain and Company reveals that global job postings fell 5 percent year-on-year in the second quarter of 2026. Entry-level hiring faced a harsher contraction, even as global demand for specialized artificial intelligence roles continued to rise.",
+          "headline": "McKinsey Demotes Senior Partner Over Public Comments on Women CEOs",
+          "body": "McKinsey removed senior partner Chris Bradley from his leadership role at the McKinsey Global Institute following controversial comments he posted on LinkedIn regarding the glass cliff concept and female chief executives.",
           "sources": [
             {
-              "name": "India Today",
-              "url": "https://www.indiatoday.in/jobs/in-focus/story/india-job-market-resilient-amid-global-hiring-slowdown-entry-level-jobs-fall-ai-hiring-rises-educ-3016181-2026-10-13"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/trending/mckinsey-director-demoted-over-glass-cliff-remarks-on-women-ceos-the-term-explained-101791965104017.html"
             }
           ],
-          "why": "This macro hiring trend emphasizes why building specific technical skills, like AI literacy or data analysis, is vital for landing competitive internships."
+          "why": "In management consulting, your personal brand and public remarks reflect directly on your firm. Professional services firms expect staff to uphold organizational values across public platforms."
         },
         {
-          "headline": "McKinsey research suggests automation could absorb half of US work hours by 2035",
-          "body": "A study by the McKinsey Global Institute estimates that technological shifts could reduce labor demand by the equivalent of 36 million jobs over the next decade. The report notes that millions of workers will likely need to transition into new occupations.",
+          "headline": "Deloitte Probes Apparent AI Errors in University Merger Report",
+          "body": "Deloitte opened a review into an economic analysis it prepared for the Western Australian government regarding a three-school university merger after outside observers flagged mistakes that show hallmarks of unverified AI outputs.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/"
+              "name": "Australian Financial Review",
+              "url": "https://www.afr.com/policy/health-and-education/deloitte-reviews-errors-in-wa-university-merger-analysis-20261014-p615ef"
             }
           ],
-          "why": "Consulting firms drive these large-scale labor market projections, giving you a preview of the macro transformation frameworks you will study."
+          "why": "When using AI for Merage coursework or case competitions, always verify underlying data. Blind reliance on automated text generation can severely damage client trust and professional reputation."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI and NASA JPL Model Predicts Doubled Sea-Level Rise from Thwaites Glacier",
+          "body": "A new ice sheet model developed by glaciologists at UC Irvine and NASA's Jet Propulsion Laboratory projects that Antarctica's melting Thwaites Glacier could cause up to 1.2 inches of global sea-level rise by 2100, double previous estimates.",
+          "sources": [
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
         }
       ]
     },
@@ -148,12 +181,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alexander Zverev confirmed as ATP year-end World No. 1 for the 2026 season",
-          "body": "German tennis star Alexander Zverev secured the year-end World No. 1 ranking, dethroning Jannik Sinner. The milestone marks the first time a German player has achieved the feat since Boris Becker.",
+          "headline": "Carlos Alcaraz Stunned in Shanghai as Toilet Break Sparks Rule Debate",
+          "body": "Carlos Alcaraz suffered an unexpected defeat to Zizou Bergs at the Shanghai Masters. The match sparked controversy when Bergs took an extended bathroom break after taking the first set, prompting coach Brad Gilbert to call for stricter penalties on long off-court delays.",
           "sources": [
             {
-              "name": "Firstpost",
-              "url": "https://www.firstpost.com/sports/tennis-news/alexander-zverev-to-conclude-2026-as-world-no-1-ends-germanys-top-seed-drought-since-becker-14052384.html"
+              "name": "Essentially Sports",
+              "url": "https://www.essentiallysports.com/tennis-news-coco-gauffs-ex-coach-calls-out-tennis-rule-after-controversial-moment-in-carlos-alcaraz-clash/"
             }
           ]
         }
@@ -161,51 +194,51 @@
     }
   ],
   "term": {
-    "name": "Perpetual Futures",
-    "definition": "A type of derivative contract similar to a traditional futures contract, but with one key difference: it has no fixed expiry date. Traders can hold the position indefinitely as long as they maintain sufficient margin. Platforms like DeepSigma are now building decentralized paper-trading models around these instruments for real-world assets.",
+    "name": "Grey Market Premium (GMP)",
+    "definition": "The grey market premium is the price spread at which an upcoming initial public offering's shares trade unofficially before they list on a public exchange. Investors track it to gauge retail and institutional sentiment ahead of debut day, even though transactions carry no regulatory backing. With Jio Platforms launching its massive offering, elevated grey market premiums indicate strong expected listing gains.",
     "sources": [
       {
-        "name": "Crypto News",
-        "url": "https://crypto.news/deepsigma-launches-rwa-perpetuals-demo-with-77-traditional-markets/"
+        "name": "India Today",
+        "url": "https://www.indiatoday.in/business/story/jio-ipo-gmp-today-subscription-date-price-band-listing-3017027-2026-10-14"
       }
     ]
   },
   "serve": {
-    "headline": "Lightsprint raised $6.1 million to help non-engineers edit code using AI agents",
-    "body": "The Y Combinator-backed San Francisco startup provides tools that allow designers and product managers to directly make changes to an existing corporate codebase using artificial intelligence. The funding will expand its development efforts.",
+    "headline": "Brellium raises $23M to catch medical billing errors with AI",
+    "body": "New York startup Brellium secured $23 million in venture financing to help healthcare providers detect administrative discrepancies in patient records before insurers trigger costly audits. The company introduced CortexLM, an AI tool that scans medical documentation for coding errors and gaps in recorded care.",
     "questions": [
-      "How does a product manager without a computer science degree validate the security of code written by an AI agent?",
-      "What customer acquisition strategy works best when your software bridges the gap between designers and engineering teams?",
-      "How would you price a developer tool that aims to eliminate simple coding bottlenecks for non-technical staff?"
+      "What administrative bottlenecks across UCI campus health centers or dining halls could automated software streamline?",
+      "How would you convince risk-averse hospital executives to trust an early-stage startup with sensitive medical records?",
+      "If you built an AI audit tool, would you charge clients a fixed SaaS subscription or take a cut of the recovered billing errors?"
     ],
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/lightsprint-secures-funding-ai-coding-for-non-techies-2026-10"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/13/brellium-raises-23m-to-catch-medical-billing-errors-with-ai-and-protect-healthcare-providers-from-costly-audits/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "JPMorgan and Goldman Sachs post strong Q3 profits.",
-      "blurb": "Big bank earnings kicked off Wall Street's reporting season on a solid note."
+      "headline": "OpenAI engineering lead arrested over planted boardroom microphone",
+      "blurb": "Federal agents charged an employee with placing a hidden audio recorder behind a television in an executive meeting room."
     },
     {
-      "headline": "Anthropic warns of AI self-replication risks.",
-      "blurb": "Small models may soon run autonomously on devices like smart ovens."
+      "headline": "CVS to pay $315 million over federal opioid prescription claims",
+      "blurb": "The pharmacy chain reached a settlement with the Department of Justice over controlled substance billing practices."
     },
     {
-      "headline": "Bain report details entry-level hiring contraction.",
-      "blurb": "Overall job postings fell 5 percent while AI roles continued to climb."
+      "headline": "Jio Platforms readies India's largest IPO at $3.6 billion",
+      "blurb": "The telecom and tech provider opens on October 21 with strong demand showing in unofficial grey market trading."
     },
     {
-      "headline": "Adani and Jabil join forces for AI hardware.",
-      "blurb": "The two firms formed a joint venture to build data center equipment in India."
+      "headline": "Nvidia and London Stock Exchange team up on financial data analysis",
+      "blurb": "The partnership uses AI to help financial institutions make sense of massive historical tick archives."
     },
     {
-      "headline": "Alexander Zverev clinches year-end World No. 1.",
-      "blurb": "The German star secured the top spot and ended a long national drought."
+      "headline": "McKinsey demotes senior partner following LinkedIn remarks",
+      "blurb": "Chris Bradley was stripped of leadership duties at the McKinsey Global Institute over comments questioning the glass cliff."
     }
   ],
-  "emailQuestion": "How does a product manager without a computer science degree validate the security of code written by an AI agent?"
+  "emailQuestion": "What administrative bottlenecks across UCI campus health centers or dining halls could automated software streamline?"
 }
