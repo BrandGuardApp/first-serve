@@ -1,0 +1,249 @@
+{
+  "id": "2026-10-15-am",
+  "slot": "morning",
+  "date": "2026-10-15",
+  "dateLabel": "Thu, Oct 15, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-15T14:49:44.699Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Markets slide on rate hike fears, AI risks hit credit, and tech giants face growing security pressures.",
+  "storyCount": 12,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "10:49 AM ET, Oct 15",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,714",
+        "change": "−0.07%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,543",
+        "change": "−0.56%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,001",
+        "change": "+0.73%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.05%",
+        "change": "−14 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,183",
+        "change": "+1.83%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street",
+    "body": "The global stock selloff deepened as Wall Street logged its worst day since July, driven by growing market concerns over potential Federal Reserve rate increases and the broader artificial intelligence trade. Top forecasters suggest a half-percentage-point rate hike could even be on the table for December as inflation pressures persist.",
+    "sources": [
+      {
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december-14052494.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/stock-selloff-deepens-in-asia-amid-ai-fed-rate-hike-concerns-ce785dd3d98df425"
+      }
+    ],
+    "why": "Higher interest rates directly impact corporate borrowing costs and equity valuations. For your finance classes, watch how macro sentiment shifts capital away from growth-heavy tech sectors.",
+    "kicker": "Markets + Macro",
+    "figures": [
+      {
+        "value": "7,714",
+        "label": "S&P 500 level"
+      },
+      {
+        "value": "5.05%",
+        "label": "10-year Treasury yield"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt",
+          "body": "CoreWeave stock dropped sharply alongside a selloff in its bonds, signaling growing anxiety among credit investors about the AI infrastructure provider's mounting debt burden and future borrowing costs.",
+          "sources": [
+            {
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/coreweave-stock-price-bonds-a8b8dfad"
+            }
+          ],
+          "why": "As an aspiring investor, pay attention to how debt markets price risk for capital-intensive startups compared to traditional software businesses."
+        },
+        {
+          "headline": "Rush University and Endeavor Health announce plans to merge",
+          "body": "Two major Chicago-area health systems announced plans to combine in a deal that impacts 12 hospitals, 46,000 employees, and 400 clinics to create one of the largest health systems in Illinois.",
+          "sources": [
+            {
+              "name": "NBC 5 Chicago",
+              "url": "https://www.nbcchicago.com/news/local/endeavor-health-rush-university-health-system-announce-plans-to-merge/4002361/"
+            }
+          ],
+          "why": "This is a textbook example of large-scale corporate consolidation. Look at how health systems use M&A to expand geographic footprint and operational scale."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Silicon Valley goes on espionage alert as AI trade secrets face insider threats",
+          "body": "From honey pots to unexpected encounters at local playgrounds, AI companies in Silicon Valley are stepping up espionage alerts to protect proprietary models and insider data from state and corporate spies.",
+          "sources": [
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b"
+            }
+          ],
+          "why": "Valuable intellectual property makes tech firms primary targets for espionage, raising the stakes for how startups secure their early-stage code."
+        },
+        {
+          "headline": "OpenAI voluntarily agrees not to use alleged Apple trade secrets",
+          "body": "Amid an ongoing legal battle, OpenAI has voluntarily agreed not to use Apple's alleged trade secrets while the lawsuit plays out in court.",
+          "sources": [
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/"
+            }
+          ],
+          "why": "IP litigation can freeze product roadmaps and derail partnerships. Keep this in mind when evaluating the legal risks of building atop proprietary tech platforms."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey turns to AI 'mayor' bots to test aspiring consultants",
+          "body": "Job applicants facing McKinsey and Company's notoriously grueling hiring process now risk encountering a demanding AI bot designed to test their wits during evaluations.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/14/business/mckinsey-job-applicants-are-facing-off-with-an-ai-mayor-to-test-their-wits-new-twist-in-challenging-process/"
+            }
+          ],
+          "why": "If you are recruiting for consulting firms, expect automated screening tools to test your problem-solving frameworks earlier in the funnel."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Wall Street brings life-size 'Fearless Girl' replica to UC Irvine for finance event",
+          "body": "A life-size replica of the famous bronze sculpture symbolizing female empowerment is on display at UC Irvine for an evening event hosted by Women Investing in Security and Education.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-10-14/newport-beach-finance-leaders-tackle-pink-wall-at-uc-irvine"
+            }
+          ]
+        },
+        {
+          "headline": "UC Irvine glaciologists project Thwaites Glacier melt could double sea-level rise",
+          "body": "A new ice sheet model developed by researchers at UC Irvine and NASA's Jet Propulsion Laboratory projects that melting in West Antarctica will contribute up to 30 millimeters of sea level rise by 2100.",
+          "sources": [
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Aryna Sabalenka stunned by unseeded Ann Li at Wuhan Open",
+          "body": "World number one's difficult run of form continued as she crashed out of the Wuhan Open in the round of 32 following a hard-fought defeat to unseeded American Ann Li.",
+          "sources": [
+            {
+              "name": "NewsX",
+              "url": "https://www.newsx.com/sports/wuhan-open-2026-aryna-sabalenka-stunned-as-unseeded-american-ann-li-eliminates-belarusian-tennis-star-283462/"
+            }
+          ]
+        },
+        {
+          "headline": "Gael Monfils quietly added to ITIA Retired Players List, ending 22-year career",
+          "body": "French tennis star Gael Monfils has officially retired at age 38, concluding a 22-year professional career featuring 13 ATP titles.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/14/sports/gael-monfils-retirement-plan-takes-surprising-twist-after-us-open/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Private Credit",
+    "definition": "Private credit refers to loans made by non-bank financial institutions to companies, often backed by private equity firms. Today's markets are closely watching private credit as heavy borrowing to fund artificial intelligence data centers raises concerns about lender risk if expected returns stall.",
+    "sources": [
+      {
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/ai-infrastructure-financing-boom-raises-risk-of-private-credit-bubble-8090-ceo-chamath-palihapitiya/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Confido Health raised $12.5M in funding led by Z47",
+    "body": "The healthcare startup develops artificial intelligence agents that automate administrative tasks for medical providers like patient calls, scheduling, and insurance verification. The funding round was led by venture firm Z47.",
+    "questions": [
+      "How does automating routine administrative tasks change the unit economics for small healthcare practices?",
+      "What customer acquisition challenges do AI startups face when selling to risk-averse medical institutions?",
+      "How would you price this software to appeal to healthcare CFOs looking to cut overhead?"
+    ],
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/startups/healthtech-startup-confido-health-raises-12-5-million-in-funding-led-by-z47/articleshow/134947006.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street.",
+      "blurb": "Markets test key levels as investors weigh potential Fed hikes and tech sector volatility."
+    },
+    {
+      "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt.",
+      "blurb": "Bond selloffs highlight growing investor anxiety over infrastructure debt burdens."
+    },
+    {
+      "headline": "Rush University and Endeavor Health announce plans to merge.",
+      "blurb": "A massive healthcare deal will combine 12 hospitals across the Chicago area."
+    },
+    {
+      "headline": "Silicon Valley goes on espionage alert over AI trade secrets.",
+      "blurb": "Tech firms ramp up security against insider threats and corporate spying."
+    },
+    {
+      "headline": "McKinsey introduces AI 'mayor' bots into its consulting recruitment process.",
+      "blurb": "Aspiring management consultants now face demanding automated screening tools."
+    }
+  ],
+  "emailQuestion": "How does automating routine administrative tasks change the unit economics for small healthcare practices?"
+}

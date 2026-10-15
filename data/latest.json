@@ -1,73 +1,73 @@
 {
-  "id": "2026-10-14-pm",
-  "slot": "evening",
-  "date": "2026-10-14",
-  "dateLabel": "Wed, Oct 14, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-15T04:20:21.732Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Apple hits $5T, Netflix cuts 6% of staff, BCG on banking AI, and Monfils retires.",
-  "storyCount": 10,
-  "readMinutes": 4,
+  "id": "2026-10-15-am",
+  "slot": "morning",
+  "date": "2026-10-15",
+  "dateLabel": "Thu, Oct 15, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-15T14:49:44.699Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Markets slide on rate hike fears, AI risks hit credit, and tech giants face growing security pressures.",
+  "storyCount": 12,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Oct 14",
+    "asOf": "10:49 AM ET, Oct 15",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,719",
-        "change": "−1.11%",
+        "value": "7,714",
+        "change": "−0.07%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,693",
-        "change": "−1.88%",
+        "value": "26,543",
+        "change": "−0.56%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,621",
-        "change": "−0.09%",
-        "direction": "down"
+        "value": "52,001",
+        "change": "+0.73%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.19%",
-        "change": "−3 bp",
+        "value": "5.05%",
+        "change": "−14 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,165",
-        "change": "+1.38%",
+        "value": "$4,183",
+        "change": "+1.83%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Apple reaches historic $5 trillion market valuation",
-    "body": "Apple has become the first company to cross the $5 trillion market valuation mark, supported by ten consecutive quarterly earnings beats and a 27% gain year-to-date. Wall Street holds a buy rating with a $395.69 price target. However, analysts note its 35x forward price-to-earnings multiple sits well above rivals Microsoft at 25x and Alphabet at 23x, even as Apple grows revenue more slowly.",
+    "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street",
+    "body": "The global stock selloff deepened as Wall Street logged its worst day since July, driven by growing market concerns over potential Federal Reserve rate increases and the broader artificial intelligence trade. Top forecasters suggest a half-percentage-point rate hike could even be on the table for December as inflation pressures persist.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-passed-5-trillion-160039183.html"
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december-14052494.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/stock-selloff-deepens-in-asia-amid-ai-fed-rate-hike-concerns-ce785dd3d98df425"
       }
     ],
-    "why": "In your Merage valuation and finance classes, you will study how premium multiples hold up. Apple is a live case study in whether high valuation multiples can survive slowing growth.",
-    "kicker": "Markets + Valuation",
+    "why": "Higher interest rates directly impact corporate borrowing costs and equity valuations. For your finance classes, watch how macro sentiment shifts capital away from growth-heavy tech sectors.",
+    "kicker": "Markets + Macro",
     "figures": [
       {
-        "value": "$5T",
-        "label": "Market valuation"
+        "value": "7,714",
+        "label": "S&P 500 level"
       },
       {
-        "value": "35x",
-        "label": "Forward P/E ratio"
-      },
-      {
-        "value": "$395.69",
-        "label": "Analyst price target"
+        "value": "5.05%",
+        "label": "10-year Treasury yield"
       }
     ]
   },
@@ -77,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Netflix cuts 6% of workforce in major corporate restructuring",
-          "body": "Netflix is laying off roughly 6% of its workforce, amounting to nearly 1,000 positions, across its product, tech, legal, and human resources teams. Co-CEOs Greg Peters and Ted Sarandos told employees the company must reallocate resources for future growth after third-quarter forecasts missed Wall Street expectations.",
+          "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt",
+          "body": "CoreWeave stock dropped sharply alongside a selloff in its bonds, signaling growing anxiety among credit investors about the AI infrastructure provider's mounting debt burden and future borrowing costs.",
           "sources": [
             {
-              "name": "The Atlanta Journal-Constitution",
-              "url": "https://www.ajc.com/news/2026/10/netflix-is-laying-off-6-of-its-workforce-in-biggest-round-of-job-cuts-at-streaming-giant-in-years/"
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/coreweave-stock-price-bonds-a8b8dfad"
             }
           ],
-          "why": "Even profitable tech companies will trim staff quickly when market expectations shift, an important dynamic to watch if you evaluate tech equities."
+          "why": "As an aspiring investor, pay attention to how debt markets price risk for capital-intensive startups compared to traditional software businesses."
         },
         {
-          "headline": "Citigroup beats third-quarter earnings on investment banking rebound",
-          "body": "Citigroup topped Wall Street forecasts for third-quarter profit, led by stronger revenue in investment banking and multinational corporate transactions. Wealth management earnings also rose, while trading profits saw a modest 2% gain.",
+          "headline": "Rush University and Endeavor Health announce plans to merge",
+          "body": "Two major Chicago-area health systems announced plans to combine in a deal that impacts 12 hospitals, 46,000 employees, and 400 clinics to create one of the largest health systems in Illinois.",
           "sources": [
             {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/10/15/business/foreign-business/citi-3rd-quarter-tops-wall-street-estimates/2445605"
+              "name": "NBC 5 Chicago",
+              "url": "https://www.nbcchicago.com/news/local/endeavor-health-rush-university-health-system-announce-plans-to-merge/4002361/"
             }
           ],
-          "why": "If you are planning to recruit for investment banking internships, climbing advisory revenue across the big banks signals a healthier dealmaking environment."
+          "why": "This is a textbook example of large-scale corporate consolidation. Look at how health systems use M&A to expand geographic footprint and operational scale."
         }
       ]
     },
@@ -105,30 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI alleges former engineer took device files to Apple",
-          "body": "A new filing in the trade secret dispute between OpenAI and Apple claims an engineer sent more than 100 confidential files regarding an unreleased device to personal accounts before leaving for Apple. The filing adds that the engineer later presented to a senior Apple executive.",
+          "headline": "Silicon Valley goes on espionage alert as AI trade secrets face insider threats",
+          "body": "From honey pots to unexpected encounters at local playgrounds, AI companies in Silicon Valley are stepping up espionage alerts to protect proprietary models and insider data from state and corporate spies.",
           "sources": [
             {
-              "name": "Firstpost",
-              "url": "https://www.firstpost.com/tech/openai-alleges-former-employee-took-unreleased-product-files-before-joining-apple-report-14052900.html"
-            },
-            {
-              "name": "9to5Mac",
-              "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/"
+              "name": "WSJ",
+              "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b"
             }
           ],
-          "why": "Hardware and proprietary AI design are the next battlegrounds for big tech talent, and intellectual property litigation will dictate how fast these devices reach consumers."
+          "why": "Valuable intellectual property makes tech firms primary targets for espionage, raising the stakes for how startups secure their early-stage code."
         },
         {
-          "headline": "Honeywell rolls out AI facility simulation platform with Nvidia and Dell",
-          "body": "Honeywell introduced Forge Cognition, a platform that uses artificial intelligence agents to simulate commercial facility operations. The system was built using open-source AI models from Nvidia alongside hardware infrastructure from Dell Technologies.",
+          "headline": "OpenAI voluntarily agrees not to use alleged Apple trade secrets",
+          "body": "Amid an ongoing legal battle, OpenAI has voluntarily agreed not to use Apple's alleged trade secrets while the lawsuit plays out in court.",
           "sources": [
             {
-              "name": "MarketScreener",
-              "url": "https://www.marketscreener.com/news/honeywell-rolls-out-ai-facility-simulation-platform-with-nvidia-dell-ce785dd2de80f12d"
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/"
             }
           ],
-          "why": "Enterprise AI is moving directly into physical infrastructure and facility management, creating consulting opportunities around operational efficiency."
+          "why": "IP litigation can freeze product roadmaps and derail partnerships. Keep this in mind when evaluating the legal risks of building atop proprietary tech platforms."
         }
       ]
     },
@@ -137,26 +133,41 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "BCG projects AI could free up 40% of banking back-office capacity by 2030",
-          "body": "A Boston Consulting Group report titled 'A Golden Window for Growth' states that AI could reshape operations across corporate and investment banks, freeing up to 40% of middle and back-office capacity by 2030. The firm notes banks are entering a critical phase of cost realignment.",
+          "headline": "McKinsey turns to AI 'mayor' bots to test aspiring consultants",
+          "body": "Job applicants facing McKinsey and Company's notoriously grueling hiring process now risk encountering a demanding AI bot designed to test their wits during evaluations.",
           "sources": [
             {
-              "name": "The Financial Express",
-              "url": "https://www.financialexpress.com/business/news/ai-could-free-up-40-of-middle-back-office-capacity-in-banking-sector-by-2030-report/4361304/"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/14/business/mckinsey-job-applicants-are-facing-off-with-an-ai-mayor-to-test-their-wits-new-twist-in-challenging-process/"
             }
           ],
-          "why": "Firms like BCG are actively selling operational overhauls to financial institutions. As a business student, building client-facing and strategic skills will help you stay ahead of routine automation."
+          "why": "If you are recruiting for consulting firms, expect automated screening tools to test your problem-solving frameworks earlier in the funnel."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Wall Street brings life-size 'Fearless Girl' replica to UC Irvine for finance event",
+          "body": "A life-size replica of the famous bronze sculpture symbolizing female empowerment is on display at UC Irvine for an evening event hosted by Women Investing in Security and Education.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-10-14/newport-beach-finance-leaders-tackle-pink-wall-at-uc-irvine"
+            }
+          ]
         },
         {
-          "headline": "Bain report shows entry-level hiring down 11% despite AI talent demand",
-          "body": "A report from Bain & Company showed that overall job postings in India fell 5% year-over-year in the second quarter of 2026, while entry-level roles saw a sharper drop of 11%. At the same time, employer demand for specialized AI skills continued to rise.",
+          "headline": "UC Irvine glaciologists project Thwaites Glacier melt could double sea-level rise",
+          "body": "A new ice sheet model developed by researchers at UC Irvine and NASA's Jet Propulsion Laboratory projects that melting in West Antarctica will contribute up to 30 millimeters of sea level rise by 2100.",
           "sources": [
             {
-              "name": "India Today",
-              "url": "https://www.indiatoday.in/jobs/in-focus/story/india-job-market-resilient-amid-global-hiring-slowdown-entry-level-jobs-fall-ai-hiring-rises-educ-3016181-2026-10-13"
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
             }
-          ],
-          "why": "Consulting data confirms junior hiring pools remain squeezed, so pairing your core business coursework with concrete technical and AI skills will be critical for your resume."
+          ]
         }
       ]
     },
@@ -165,12 +176,22 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Gael Monfils officially retires from professional tennis at 40",
-          "body": "The International Tennis Integrity Agency confirmed Wednesday that French tennis star Gael Monfils has been added to its retired players list, ending his professional career at age 40. The former world No. 6 leaves the sport with 13 ATP singles titles and two Grand Slam semi-final runs.",
+          "headline": "Aryna Sabalenka stunned by unseeded Ann Li at Wuhan Open",
+          "body": "World number one's difficult run of form continued as she crashed out of the Wuhan Open in the round of 32 following a hard-fought defeat to unseeded American Ann Li.",
           "sources": [
             {
-              "name": "India Today",
-              "url": "https://www.indiatoday.in/sports/tennis/story/gael-monfils-retirement-itia-listing-ends-planned-2026-farewell-season-3017190-2026-10-14"
+              "name": "NewsX",
+              "url": "https://www.newsx.com/sports/wuhan-open-2026-aryna-sabalenka-stunned-as-unseeded-american-ann-li-eliminates-belarusian-tennis-star-283462/"
+            }
+          ]
+        },
+        {
+          "headline": "Gael Monfils quietly added to ITIA Retired Players List, ending 22-year career",
+          "body": "French tennis star Gael Monfils has officially retired at age 38, concluding a 22-year professional career featuring 13 ATP titles.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/14/sports/gael-monfils-retirement-plan-takes-surprising-twist-after-us-open/"
             }
           ]
         }
@@ -178,51 +199,51 @@
     }
   ],
   "term": {
-    "name": "Forward P/E ratio",
-    "definition": "The forward price-to-earnings ratio divides a company's current stock price by its predicted earnings per share over the next twelve months. It shows what investors are paying today for every expected dollar of future profit. Apple's forward P/E recently hit 35x, well above Microsoft's 25x and Alphabet's 23x.",
+    "name": "Private Credit",
+    "definition": "Private credit refers to loans made by non-bank financial institutions to companies, often backed by private equity firms. Today's markets are closely watching private credit as heavy borrowing to fund artificial intelligence data centers raises concerns about lender risk if expected returns stall.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-passed-5-trillion-160039183.html"
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/ai-infrastructure-financing-boom-raises-risk-of-private-credit-bubble-8090-ceo-chamath-palihapitiya/"
       }
     ]
   },
   "serve": {
-    "headline": "Fragment raised $12 million to prevent AI agent payment errors",
-    "body": "New York-based startup Fragment raised a $12 million Series A round to build software that verifies transaction math before automated payments clear. Founded by CEO Thomas Neckel and CTO Varun Mohan, a former Robinhood engineer, the company focuses on keeping financial AI agents from making unauthorized or incorrect transfers.",
+    "headline": "Confido Health raised $12.5M in funding led by Z47",
+    "body": "The healthcare startup develops artificial intelligence agents that automate administrative tasks for medical providers like patient calls, scheduling, and insurance verification. The funding round was led by venture firm Z47.",
     "questions": [
-      "If student organizations at UCI used autonomous AI agents to manage budgets, what safeguards would you put in place first?",
-      "How would you price financial safety software for mid-sized firms that cannot afford dedicated audit teams?",
-      "What other university operations could AI agents run if transaction integrity was guaranteed?"
+      "How does automating routine administrative tasks change the unit economics for small healthcare practices?",
+      "What customer acquisition challenges do AI startups face when selling to risk-averse medical institutions?",
+      "How would you price this software to appeal to healthcare CFOs looking to cut overhead?"
     ],
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/startups/healthtech-startup-confido-health-raises-12-5-million-in-funding-led-by-z47/articleshow/134947006.cms"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Apple crosses the $5 trillion threshold.",
-      "blurb": "The company reached the historic valuation backed by ten straight earnings beats, though its forward P/E sits at a rich 35x."
+      "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street.",
+      "blurb": "Markets test key levels as investors weigh potential Fed hikes and tech sector volatility."
     },
     {
-      "headline": "Netflix cuts nearly 1,000 jobs in restructuring.",
-      "blurb": "The streaming platform is laying off 6% of its workforce after third-quarter forecasts trailed Wall Street expectations."
+      "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt.",
+      "blurb": "Bond selloffs highlight growing investor anxiety over infrastructure debt burdens."
     },
     {
-      "headline": "BCG expects AI to reshape 40% of back-office banking roles.",
-      "blurb": "Corporate and investment banks will face sweeping operational shifts by 2030 as routine workflows automate."
+      "headline": "Rush University and Endeavor Health announce plans to merge.",
+      "blurb": "A massive healthcare deal will combine 12 hospitals across the Chicago area."
     },
     {
-      "headline": "OpenAI alleges former employee took device files to Apple.",
-      "blurb": "A new filing claims an engineer transferred over 100 confidential hardware documents before joining Apple."
+      "headline": "Silicon Valley goes on espionage alert over AI trade secrets.",
+      "blurb": "Tech firms ramp up security against insider threats and corporate spying."
     },
     {
-      "headline": "Gael Monfils officially retires from tennis at age 40.",
-      "blurb": "The International Tennis Integrity Agency confirmed the French star's exit, capping a career that brought 13 ATP singles titles."
+      "headline": "McKinsey introduces AI 'mayor' bots into its consulting recruitment process.",
+      "blurb": "Aspiring management consultants now face demanding automated screening tools."
     }
   ],
-  "emailQuestion": "If student organizations at UCI used autonomous AI agents to manage budgets, what safeguards would you put in place first?"
+  "emailQuestion": "How does automating routine administrative tasks change the unit economics for small healthcare practices?"
 }
