@@ -1,0 +1,228 @@
+{
+  "id": "2026-10-14-pm",
+  "slot": "evening",
+  "date": "2026-10-14",
+  "dateLabel": "Wed, Oct 14, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-15T04:20:21.732Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Apple hits $5T, Netflix cuts 6% of staff, BCG on banking AI, and Monfils retires.",
+  "storyCount": 10,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 14",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,719",
+        "change": "−1.11%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,693",
+        "change": "−1.88%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,621",
+        "change": "−0.09%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.19%",
+        "change": "−3 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,165",
+        "change": "+1.38%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Apple reaches historic $5 trillion market valuation",
+    "body": "Apple has become the first company to cross the $5 trillion market valuation mark, supported by ten consecutive quarterly earnings beats and a 27% gain year-to-date. Wall Street holds a buy rating with a $395.69 price target. However, analysts note its 35x forward price-to-earnings multiple sits well above rivals Microsoft at 25x and Alphabet at 23x, even as Apple grows revenue more slowly.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-passed-5-trillion-160039183.html"
+      }
+    ],
+    "why": "In your Merage valuation and finance classes, you will study how premium multiples hold up. Apple is a live case study in whether high valuation multiples can survive slowing growth.",
+    "kicker": "Markets + Valuation",
+    "figures": [
+      {
+        "value": "$5T",
+        "label": "Market valuation"
+      },
+      {
+        "value": "35x",
+        "label": "Forward P/E ratio"
+      },
+      {
+        "value": "$395.69",
+        "label": "Analyst price target"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Netflix cuts 6% of workforce in major corporate restructuring",
+          "body": "Netflix is laying off roughly 6% of its workforce, amounting to nearly 1,000 positions, across its product, tech, legal, and human resources teams. Co-CEOs Greg Peters and Ted Sarandos told employees the company must reallocate resources for future growth after third-quarter forecasts missed Wall Street expectations.",
+          "sources": [
+            {
+              "name": "The Atlanta Journal-Constitution",
+              "url": "https://www.ajc.com/news/2026/10/netflix-is-laying-off-6-of-its-workforce-in-biggest-round-of-job-cuts-at-streaming-giant-in-years/"
+            }
+          ],
+          "why": "Even profitable tech companies will trim staff quickly when market expectations shift, an important dynamic to watch if you evaluate tech equities."
+        },
+        {
+          "headline": "Citigroup beats third-quarter earnings on investment banking rebound",
+          "body": "Citigroup topped Wall Street forecasts for third-quarter profit, led by stronger revenue in investment banking and multinational corporate transactions. Wealth management earnings also rose, while trading profits saw a modest 2% gain.",
+          "sources": [
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/15/business/foreign-business/citi-3rd-quarter-tops-wall-street-estimates/2445605"
+            }
+          ],
+          "why": "If you are planning to recruit for investment banking internships, climbing advisory revenue across the big banks signals a healthier dealmaking environment."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI alleges former engineer took device files to Apple",
+          "body": "A new filing in the trade secret dispute between OpenAI and Apple claims an engineer sent more than 100 confidential files regarding an unreleased device to personal accounts before leaving for Apple. The filing adds that the engineer later presented to a senior Apple executive.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/tech/openai-alleges-former-employee-took-unreleased-product-files-before-joining-apple-report-14052900.html"
+            },
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/"
+            }
+          ],
+          "why": "Hardware and proprietary AI design are the next battlegrounds for big tech talent, and intellectual property litigation will dictate how fast these devices reach consumers."
+        },
+        {
+          "headline": "Honeywell rolls out AI facility simulation platform with Nvidia and Dell",
+          "body": "Honeywell introduced Forge Cognition, a platform that uses artificial intelligence agents to simulate commercial facility operations. The system was built using open-source AI models from Nvidia alongside hardware infrastructure from Dell Technologies.",
+          "sources": [
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/honeywell-rolls-out-ai-facility-simulation-platform-with-nvidia-dell-ce785dd2de80f12d"
+            }
+          ],
+          "why": "Enterprise AI is moving directly into physical infrastructure and facility management, creating consulting opportunities around operational efficiency."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "BCG projects AI could free up 40% of banking back-office capacity by 2030",
+          "body": "A Boston Consulting Group report titled 'A Golden Window for Growth' states that AI could reshape operations across corporate and investment banks, freeing up to 40% of middle and back-office capacity by 2030. The firm notes banks are entering a critical phase of cost realignment.",
+          "sources": [
+            {
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/business/news/ai-could-free-up-40-of-middle-back-office-capacity-in-banking-sector-by-2030-report/4361304/"
+            }
+          ],
+          "why": "Firms like BCG are actively selling operational overhauls to financial institutions. As a business student, building client-facing and strategic skills will help you stay ahead of routine automation."
+        },
+        {
+          "headline": "Bain report shows entry-level hiring down 11% despite AI talent demand",
+          "body": "A report from Bain & Company showed that overall job postings in India fell 5% year-over-year in the second quarter of 2026, while entry-level roles saw a sharper drop of 11%. At the same time, employer demand for specialized AI skills continued to rise.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/jobs/in-focus/story/india-job-market-resilient-amid-global-hiring-slowdown-entry-level-jobs-fall-ai-hiring-rises-educ-3016181-2026-10-13"
+            }
+          ],
+          "why": "Consulting data confirms junior hiring pools remain squeezed, so pairing your core business coursework with concrete technical and AI skills will be critical for your resume."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Gael Monfils officially retires from professional tennis at 40",
+          "body": "The International Tennis Integrity Agency confirmed Wednesday that French tennis star Gael Monfils has been added to its retired players list, ending his professional career at age 40. The former world No. 6 leaves the sport with 13 ATP singles titles and two Grand Slam semi-final runs.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/sports/tennis/story/gael-monfils-retirement-itia-listing-ends-planned-2026-farewell-season-3017190-2026-10-14"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Forward P/E ratio",
+    "definition": "The forward price-to-earnings ratio divides a company's current stock price by its predicted earnings per share over the next twelve months. It shows what investors are paying today for every expected dollar of future profit. Apple's forward P/E recently hit 35x, well above Microsoft's 25x and Alphabet's 23x.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-passed-5-trillion-160039183.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Fragment raised $12 million to prevent AI agent payment errors",
+    "body": "New York-based startup Fragment raised a $12 million Series A round to build software that verifies transaction math before automated payments clear. Founded by CEO Thomas Neckel and CTO Varun Mohan, a former Robinhood engineer, the company focuses on keeping financial AI agents from making unauthorized or incorrect transfers.",
+    "questions": [
+      "If student organizations at UCI used autonomous AI agents to manage budgets, what safeguards would you put in place first?",
+      "How would you price financial safety software for mid-sized firms that cannot afford dedicated audit teams?",
+      "What other university operations could AI agents run if transaction integrity was guaranteed?"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Apple crosses the $5 trillion threshold.",
+      "blurb": "The company reached the historic valuation backed by ten straight earnings beats, though its forward P/E sits at a rich 35x."
+    },
+    {
+      "headline": "Netflix cuts nearly 1,000 jobs in restructuring.",
+      "blurb": "The streaming platform is laying off 6% of its workforce after third-quarter forecasts trailed Wall Street expectations."
+    },
+    {
+      "headline": "BCG expects AI to reshape 40% of back-office banking roles.",
+      "blurb": "Corporate and investment banks will face sweeping operational shifts by 2030 as routine workflows automate."
+    },
+    {
+      "headline": "OpenAI alleges former employee took device files to Apple.",
+      "blurb": "A new filing claims an engineer transferred over 100 confidential hardware documents before joining Apple."
+    },
+    {
+      "headline": "Gael Monfils officially retires from tennis at age 40.",
+      "blurb": "The International Tennis Integrity Agency confirmed the French star's exit, capping a career that brought 13 ATP singles titles."
+    }
+  ],
+  "emailQuestion": "If student organizations at UCI used autonomous AI agents to manage budgets, what safeguards would you put in place first?"
+}
