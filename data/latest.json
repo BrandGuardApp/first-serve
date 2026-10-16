@@ -1,73 +1,69 @@
 {
-  "id": "2026-10-15-am",
-  "slot": "morning",
+  "id": "2026-10-15-pm",
+  "slot": "evening",
   "date": "2026-10-15",
   "dateLabel": "Thu, Oct 15, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-15T14:49:44.699Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Markets slide on rate hike fears, AI risks hit credit, and tech giants face growing security pressures.",
-  "storyCount": 12,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-16T00:19:12.452Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic preps for IPO, Nvidia launches RTX Spark chips, and social security sees a bump.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "10:49 AM ET, Oct 15",
+    "asOf": "Close, Oct 15",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,714",
-        "change": "−0.07%",
-        "direction": "down"
+        "value": "7,744",
+        "change": "+0.33%",
+        "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "26,543",
-        "change": "−0.56%",
-        "direction": "down"
+        "value": "26,713",
+        "change": "+0.08%",
+        "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,001",
-        "change": "+0.73%",
+        "value": "52,178",
+        "change": "+1.08%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.05%",
-        "change": "−14 bp",
+        "value": "5.09%",
+        "change": "−10 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,183",
-        "change": "+1.83%",
+        "value": "$4,176",
+        "change": "+0.13%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street",
-    "body": "The global stock selloff deepened as Wall Street logged its worst day since July, driven by growing market concerns over potential Federal Reserve rate increases and the broader artificial intelligence trade. Top forecasters suggest a half-percentage-point rate hike could even be on the table for December as inflation pressures persist.",
+    "headline": "Anthropic hits $16.8 billion in quarterly revenue as it prepares to go public",
+    "body": "The AI company behind Claude reported massive financial growth ahead of its anticipated initial public offering. Prospective investors were told the firm generated positive free cash flow alongside an 85% adjusted gross margin in the third quarter.",
     "sources": [
       {
-        "name": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/business/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december-14052494.html"
-      },
-      {
-        "name": "MarketScreener",
-        "url": "https://www.marketscreener.com/news/stock-selloff-deepens-in-asia-amid-ai-fed-rate-hike-concerns-ce785dd3d98df425"
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo-12190133"
       }
     ],
-    "why": "Higher interest rates directly impact corporate borrowing costs and equity valuations. For your finance classes, watch how macro sentiment shifts capital away from growth-heavy tech sectors.",
-    "kicker": "Markets + Macro",
+    "why": "This is a blueprint for how massive AI startups scale into profitable enterprises. Keep an eye on its valuation multiples and margins for your upcoming finance and valuation classes.",
+    "kicker": "AI + IPOs",
     "figures": [
       {
-        "value": "7,714",
-        "label": "S&P 500 level"
+        "value": "$16.8B",
+        "label": "Q3 revenue"
       },
       {
-        "value": "5.05%",
-        "label": "10-year Treasury yield"
+        "value": "85%",
+        "label": "adjusted gross margin"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt",
-          "body": "CoreWeave stock dropped sharply alongside a selloff in its bonds, signaling growing anxiety among credit investors about the AI infrastructure provider's mounting debt burden and future borrowing costs.",
+          "headline": "Memory chip stocks face severe sell-off as oversupply and yield issues mount",
+          "body": "Major manufacturers like SK Hynix, Samsung, and Micron are taking a beating in the latest tech slide. Industry experts point to manufacturing yield complications, where half of certain architectural chips are ending up in the bin due to defects.",
           "sources": [
             {
-              "name": "Barron's",
-              "url": "https://www.barrons.com/articles/coreweave-stock-price-bonds-a8b8dfad"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html"
             }
           ],
-          "why": "As an aspiring investor, pay attention to how debt markets price risk for capital-intensive startups compared to traditional software businesses."
+          "why": "Understanding how hardware supply chains and manufacturing yields impact public tech equities is vital for both your investing portfolio and any tech sector consulting prep."
         },
         {
-          "headline": "Rush University and Endeavor Health announce plans to merge",
-          "body": "Two major Chicago-area health systems announced plans to combine in a deal that impacts 12 hospitals, 46,000 employees, and 400 clinics to create one of the largest health systems in Illinois.",
+          "headline": "Social Security benefits will increase by 3.6% in 2027",
+          "body": "The Social Security Administration announced its largest cost-of-living adjustment since 2023, driven by a year of high inflation. The adjustment will affect more than 72 million Americans starting next year.",
           "sources": [
             {
-              "name": "NBC 5 Chicago",
-              "url": "https://www.nbcchicago.com/news/local/endeavor-health-rush-university-health-system-announce-plans-to-merge/4002361/"
+              "name": "Yahoo",
+              "url": "https://www.yahoo.com/news/us/article/social-securitys-2027-cola-is-the-biggest-since-2023-how-it-affects-your-payments-102549636.html"
             }
           ],
-          "why": "This is a textbook example of large-scale corporate consolidation. Look at how health systems use M&A to expand geographic footprint and operational scale."
+          "why": "Tracking how inflation adjustments flow through government programs helps you map broader macroeconomic trends and consumer purchasing power."
         }
       ]
     },
@@ -105,26 +101,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Silicon Valley goes on espionage alert as AI trade secrets face insider threats",
-          "body": "From honey pots to unexpected encounters at local playgrounds, AI companies in Silicon Valley are stepping up espionage alerts to protect proprietary models and insider data from state and corporate spies.",
+          "headline": "Nvidia officially launches its RTX Spark PC platform built on MediaTek silicon",
+          "body": "Nvidia is rolling out a new class of Windows PCs featuring custom 18 and 20-core chips with up to 128GB of unified memory. Major creative software like Adobe Photoshop and Premiere has been entirely rearchitected to run on the new hardware.",
           "sources": [
             {
-              "name": "WSJ",
-              "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b"
+              "name": "Windows Central",
+              "url": "https://www.windowscentral.com/hardware/nvidia/rtx-spark-review-benchmarks-2026"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/"
             }
           ],
-          "why": "Valuable intellectual property makes tech firms primary targets for espionage, raising the stakes for how startups secure their early-stage code."
+          "why": "This marks a major shift in personal computing hardware as chipmakers chase local AI performance. Watch how hardware bundling affects enterprise software pricing models."
         },
         {
-          "headline": "OpenAI voluntarily agrees not to use alleged Apple trade secrets",
-          "body": "Amid an ongoing legal battle, OpenAI has voluntarily agreed not to use Apple's alleged trade secrets while the lawsuit plays out in court.",
+          "headline": "Amazon-owned Bee unveils new personal AI wearables starting at $75",
+          "body": "Bee introduced its first product lineup since being acquired by Amazon last year, including an updated wearable and a credit-card-sized recorder. The devices integrate with Alexa to summarize conversations and manage to-do lists.",
           "sources": [
             {
-              "name": "9to5Mac",
-              "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
             }
           ],
-          "why": "IP litigation can freeze product roadmaps and derail partnerships. Keep this in mind when evaluating the legal risks of building atop proprietary tech platforms."
+          "why": "Consumer hardware startups face massive distribution hurdles, making Amazon's acquisition playbook a great case study for your entrepreneurship classes."
         }
       ]
     },
@@ -133,15 +133,19 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey turns to AI 'mayor' bots to test aspiring consultants",
-          "body": "Job applicants facing McKinsey and Company's notoriously grueling hiring process now risk encountering a demanding AI bot designed to test their wits during evaluations.",
+          "headline": "McKinsey integrates AI client avatars into its entry-level interview process",
+          "body": "Candidates applying to McKinsey now have to conduct a 10-minute conversation with an AI-generated client avatar during in-office interviews. Human observers watch how applicants listen and respond to the virtual client's business concerns.",
           "sources": [
+            {
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/science/mckinsey-tests-ai-generated-client-avatars-in-interviews-for-entry-level-hires/story"
+            },
             {
               "name": "New York Post",
               "url": "https://nypost.com/2026/10/14/business/mckinsey-job-applicants-are-facing-off-with-an-ai-mayor-to-test-their-wits-new-twist-in-challenging-process/"
             }
           ],
-          "why": "If you are recruiting for consulting firms, expect automated screening tools to test your problem-solving frameworks earlier in the funnel."
+          "why": "Since you are interested in consulting, note how top firms are using generative AI to test human soft skills and structured problem-solving under pressure."
         }
       ]
     },
@@ -150,22 +154,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Wall Street brings life-size 'Fearless Girl' replica to UC Irvine for finance event",
-          "body": "A life-size replica of the famous bronze sculpture symbolizing female empowerment is on display at UC Irvine for an evening event hosted by Women Investing in Security and Education.",
+          "headline": "Newport Beach finance leaders bring 'Fearless Girl' replica to UC Irvine",
+          "body": "A life-size replica of the bronze statue that stands opposite the New York Stock Exchange was displayed at UC Irvine for an event hosted by Women Investing in Security and Education.",
           "sources": [
             {
               "name": "Los Angeles Times",
               "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-10-14/newport-beach-finance-leaders-tackle-pink-wall-at-uc-irvine"
-            }
-          ]
-        },
-        {
-          "headline": "UC Irvine glaciologists project Thwaites Glacier melt could double sea-level rise",
-          "body": "A new ice sheet model developed by researchers at UC Irvine and NASA's Jet Propulsion Laboratory projects that melting in West Antarctica will contribute up to 30 millimeters of sea level rise by 2100.",
-          "sources": [
-            {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
             }
           ]
         }
@@ -176,22 +170,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Aryna Sabalenka stunned by unseeded Ann Li at Wuhan Open",
-          "body": "World number one's difficult run of form continued as she crashed out of the Wuhan Open in the round of 32 following a hard-fought defeat to unseeded American Ann Li.",
+          "headline": "Jessica Pegula's Wuhan Open match interrupted by fan seeking an autograph",
+          "body": "A spectator approached Jessica Pegula mid-match with a hat and marker while she was discussing tactics with her coach during a medical timeout against Jelena Ostapenko.",
           "sources": [
             {
-              "name": "NewsX",
-              "url": "https://www.newsx.com/sports/wuhan-open-2026-aryna-sabalenka-stunned-as-unseeded-american-ann-li-eliminates-belarusian-tennis-star-283462/"
-            }
-          ]
-        },
-        {
-          "headline": "Gael Monfils quietly added to ITIA Retired Players List, ending 22-year career",
-          "body": "French tennis star Gael Monfils has officially retired at age 38, concluding a 22-year professional career featuring 13 ATP titles.",
-          "sources": [
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/10/14/sports/gael-monfils-retirement-plan-takes-surprising-twist-after-us-open/"
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/sports/jessica-pegulas-tennis-match-interrupted-by-fan-seeking-autograph-in-bizarre-mid-match-scenes-video"
             }
           ]
         }
@@ -199,51 +183,51 @@
     }
   ],
   "term": {
-    "name": "Private Credit",
-    "definition": "Private credit refers to loans made by non-bank financial institutions to companies, often backed by private equity firms. Today's markets are closely watching private credit as heavy borrowing to fund artificial intelligence data centers raises concerns about lender risk if expected returns stall.",
+    "name": "Convertible Note",
+    "definition": "A form of short-term debt that startup founders use to raise early-stage money without having to set a formal company valuation right away. The loan automatically converts into equity later when the startup hits a major milestone or raises a priced financing round. Today's news highlights how popular this instrument remains for early fundraising.",
     "sources": [
       {
-        "name": "The Tribune",
-        "url": "https://www.tribuneindia.com/news/business/ai-infrastructure-financing-boom-raises-risk-of-private-credit-bubble-8090-ceo-chamath-palihapitiya/"
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/lifestyle/convertible-notes-in-india-a-guide/story"
       }
     ]
   },
   "serve": {
-    "headline": "Confido Health raised $12.5M in funding led by Z47",
-    "body": "The healthcare startup develops artificial intelligence agents that automate administrative tasks for medical providers like patient calls, scheduling, and insurance verification. The funding round was led by venture firm Z47.",
+    "headline": "Abby Care raised $82 million to turn family members into paid caregivers",
+    "body": "Transformation Capital and CVS Health Ventures backed the health tech startup as it tackles the severe shortage of professional care specialists. The fresh capital will help expand its platform connecting families with structured compensation models.",
     "questions": [
-      "How does automating routine administrative tasks change the unit economics for small healthcare practices?",
-      "What customer acquisition challenges do AI startups face when selling to risk-averse medical institutions?",
-      "How would you price this software to appeal to healthcare CFOs looking to cut overhead?"
+      "How does a healthcare startup scale operations when its labor force consists of everyday family members rather than certified professionals?",
+      "What customer acquisition channels make the most sense when selling a caregiving platform to health systems and insurers?",
+      "If you were pitching CVS Health Ventures on this deal, what unit economic metrics would you highlight first?"
     ],
     "sources": [
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/tech/startups/healthtech-startup-confido-health-raises-12-5-million-in-funding-led-by-z47/articleshow/134947006.cms"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Global stocks slide as rate-hike fears and AI selling pressure grip Wall Street.",
-      "blurb": "Markets test key levels as investors weigh potential Fed hikes and tech sector volatility."
+      "headline": "Anthropic eyes IPO with $16.8B in revenue.",
+      "blurb": "The AI pioneer reported stellar margins and positive cash flow ahead of its public debut."
     },
     {
-      "headline": "CoreWeave shares sink as credit markets flash a warning on AI debt.",
-      "blurb": "Bond selloffs highlight growing investor anxiety over infrastructure debt burdens."
+      "headline": "Memory chip stocks take a hit.",
+      "blurb": "Oversupply worries and manufacturing yield issues are weighing down major suppliers."
     },
     {
-      "headline": "Rush University and Endeavor Health announce plans to merge.",
-      "blurb": "A massive healthcare deal will combine 12 hospitals across the Chicago area."
+      "headline": "Nvidia launches RTX Spark PC platform.",
+      "blurb": "New Windows machines feature custom silicon designed to supercharge local AI workflows."
     },
     {
-      "headline": "Silicon Valley goes on espionage alert over AI trade secrets.",
-      "blurb": "Tech firms ramp up security against insider threats and corporate spying."
+      "headline": "McKinsey tests aspiring consultants with AI bots.",
+      "blurb": "Job candidates now have to converse with virtual client avatars during the interview process."
     },
     {
-      "headline": "McKinsey introduces AI 'mayor' bots into its consulting recruitment process.",
-      "blurb": "Aspiring management consultants now face demanding automated screening tools."
+      "headline": "Social Security gets a 3.6% boost.",
+      "blurb": "The 2027 cost-of-living adjustment marks the largest payout increase since 2023."
     }
   ],
-  "emailQuestion": "How does automating routine administrative tasks change the unit economics for small healthcare practices?"
+  "emailQuestion": "How does a healthcare startup scale operations when its labor force consists of everyday family members rather than certified professionals?"
 }
