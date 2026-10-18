@@ -1,0 +1,244 @@
+{
+  "id": "2026-10-17-pm",
+  "slot": "evening",
+  "date": "2026-10-17",
+  "dateLabel": "Sat, Oct 17, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-18T04:14:05.855Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "OpenAI faces state lawsuits, Berkshire backs Bending Spoons, and UCI glacier research.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 16",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,659",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,140",
+        "change": "−2.14%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,002",
+        "change": "−0.34%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,181",
+        "change": "+0.26%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Eight US states sue OpenAI over safety protections and risks to minors",
+    "body": "Attorneys general in eight states filed separate lawsuits against OpenAI on October 14, including Arizona, Arkansas, and Iowa. The complaints allege that ChatGPT has harmed younger users and that the company misled the public regarding product safety. OpenAI stated that it has built safety protections for children and will continue updating its systems.",
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/states-sue-openai-chatgpt-children-safety"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/"
+      }
+    ],
+    "why": "As you study business ethics and tech policy at Merage, keep an eye on state-level regulatory pressure. Lawsuits against top foundation model makers can alter legal liabilities and shift enterprise software procurement standards.",
+    "kicker": "Tech + Regulation",
+    "figures": [
+      {
+        "value": "8",
+        "label": "States filing lawsuits"
+      },
+      {
+        "value": "Oct 14",
+        "label": "Lawsuit filing date"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Berkshire Hathaway backs software holding company Bending Spoons",
+          "body": "Berkshire Hathaway invested in Italian tech company Bending Spoons, which made its Nasdaq debut in July. Bending Spoons specializes in buying older web brands, holding assets such as AOL, Vimeo, Eventbrite, and Evernote.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html"
+            }
+          ],
+          "why": "This is a prime example of a digital roll-up strategy for your finance classes. Warren Buffett's conglomerate rarely backs pure-play tech, but it values proven cash generation from legacy software portfolios."
+        },
+        {
+          "headline": "Travel platform Klook cancels US IPO due to market volatility",
+          "body": "Travel booking company Klook Technology filed to withdraw its proposed US initial public offering on Friday. The firm stated that current market conditions made this the wrong time to move forward with a public listing.",
+          "sources": [
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/18/business/travel-booking-platform-klook-files-to-withdraw-its-us-listing/2447936"
+            }
+          ],
+          "why": "If you look at investment banking or equity research, this illustrates how choppy public markets can instantly shut down exit opportunities for late-stage venture-backed businesses."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "FBI arrests OpenAI engineer accused of bugging office conference room",
+          "body": "Federal authorities arrested an OpenAI engineer in San Francisco, charging him with intercepting oral communications. Court records show he used AI prompts to engineer covert audio listening devices, while company management used AI detection tools to identify him.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/california/story/2026-10-17/who-was-openai-engineer-who-allegedly-bugged-company-conference-room"
+            }
+          ],
+          "why": "Corporate espionage is becoming a serious operational threat as labs race to protect model weights. For tech strategy and management, physical and digital security are merging."
+        },
+        {
+          "headline": "Microsoft AI CEO says in-house model tops GPT-5.6 on a quarter of the compute",
+          "body": "Microsoft AI CEO Mustafa Suleyman claimed the company's internal model outperforms the base system powering OpenAI's GPT-5.6 Sol. He stated the new model achieved this result while using only 25% of the computing resources.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/microsoft-ai-ceo-mustafa-suleyman-claims-its-model-beats-openai-s-gpt-5-6-using-less-compute-why-he-said-so-11792244356088.html"
+            }
+          ],
+          "why": "Compute efficiency determines unit economics for AI startups. If foundational performance costs 75% less to run, software margins will improve significantly for new software ventures."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Gen Z and millennial founders drive hiring while older firms pause",
+          "body": "The Q3 2026 Small Business Index from Justworks and the U.S. Chamber of Commerce shows 46% of Gen Z and millennial business owners plan to hire staff in the coming year. Only 19% of baby boomer business owners plan to expand headcount.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/16/gen-z-millennial-small-business-owners-hiring-boomers-low-hire-low-fire-job-market/"
+            }
+          ],
+          "why": "When recruiting for early internships, early-stage firms led by younger founders are actively creating new roles even while larger legacy corporate recruiting remains cautious."
+        },
+        {
+          "headline": "Deloitte and Manufacturing Institute project 1.9 million open factory roles by 2033",
+          "body": "Research from Deloitte and The Manufacturing Institute projects that U.S. manufacturers could leave up to 1.9 million jobs unfilled by 2033 due to persistent skill gaps. The study calls for employer-led training programs to rebuild the technical labor pipeline.",
+          "sources": [
+            {
+              "name": "Winston-Salem Journal",
+              "url": "https://journalnow.com/opinion/column/article_d303d39c-cd3d-583d-b2d3-b8c4e588b845.html"
+            }
+          ],
+          "why": "Supply chain operations and human capital management are major advisory sectors. Knowing where structural labor bottlenecks exist gives you strong material for consulting case interviews."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine glaciologists project higher sea-level rise from Thwaites Glacier",
+          "body": "A new ice sheet model developed by researchers at UC Irvine and NASA's Jet Propulsion Laboratory found that warm ocean water reaching beneath West Antarctica's Thwaites Glacier could contribute up to 30 millimeters (1.2 inches) to global sea levels by 2100. The estimate is twice the level previously projected by climate models.",
+          "sources": [
+            {
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            },
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Maja Chwalinska upsets injured Iga Swiatek in Wuhan Open semi-finals",
+          "body": "Maja Chwalinska defeated her childhood friend and former junior doubles partner Iga Swiatek 7-5, 6-1 in the Wuhan Open semi-finals on Saturday. A left-leg injury hampered Swiatek throughout the second set as Chwalinska secured her spot in the tournament final.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/3994203-tennis-injured-swiatek-goes-down-fighting-in-wuhan-open-semi-final"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Roll-up strategy",
+    "definition": "An investment approach where a buyer acquires multiple mature or fragmented businesses within the same industry to combine operations, cut back-office overhead, and benefit from scale. Bending Spoons used this model to acquire established digital properties like AOL, Vimeo, and Eventbrite before winning backing from Berkshire Hathaway.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "RapidCanvas raised $29M to automate enterprise AI deployments",
+    "body": "RapidCanvas secured $29 million in Series B funding to provide software that lets companies build custom AI tools without hiring outside engineering teams. The platform aims to help enterprise clients deploy models directly instead of paying millions to management consulting firms.",
+    "questions": [
+      "If enterprise software can replace routine consulting advisory work, what high-value skills should future consultants focus on?",
+      "How would you price a software platform that directly displaces high-priced advisory contracts?",
+      "Could student organizations at Merage use low-code AI builders to streamline operations without technical budgets?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/16/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Eight states sue OpenAI over safety protections and risks to minors",
+      "blurb": "State attorneys general filed lawsuits claiming the company misled the public about chatbot risks."
+    },
+    {
+      "headline": "Berkshire Hathaway backs software holding company Bending Spoons",
+      "blurb": "The Italian firm continues to buy up mature internet brands like Vimeo, Eventbrite, and AOL."
+    },
+    {
+      "headline": "Microsoft AI CEO says in-house model tops GPT-5.6 on a quarter of the compute",
+      "blurb": "Mustafa Suleyman stated the company achieved comparable frontier performance with 75% fewer resources."
+    },
+    {
+      "headline": "Travel platform Klook cancels US IPO due to market volatility",
+      "blurb": "The booking platform withdrew its listing documents as public market conditions softened."
+    },
+    {
+      "headline": "UC Irvine glaciologists project higher sea-level rise from Thwaites Glacier",
+      "blurb": "A joint study with NASA JPL found melting could add 30 millimeters to sea levels by 2100."
+    }
+  ],
+  "emailQuestion": "If enterprise software can replace routine consulting advisory work, what high-value skills should future consultants focus on?"
+}

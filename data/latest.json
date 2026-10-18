@@ -1,15 +1,15 @@
 {
-  "id": "2026-10-17-am",
-  "slot": "morning",
+  "id": "2026-10-17-pm",
+  "slot": "evening",
   "date": "2026-10-17",
   "dateLabel": "Sat, Oct 17, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-17T15:25:08.798Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic's $60B chip deal, McKinsey's AI interview bot, and ATP rules to protect top stars.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-18T04:14:05.855Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "OpenAI faces state lawsuits, Berkshire backs Bending Spoons, and UCI glacier research.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Oct 16",
     "rows": [
@@ -46,28 +46,28 @@
     ]
   },
   "lead": {
-    "headline": "Anthropic Seeks $60B Chip Financing with Double-Digit Yields for Blackstone",
-    "body": "Anthropic is putting together a $60 billion package to finance purchases of Google TPU processors. To secure backing, the startup offered Blackstone returns above 10% on a $9 billion junior debt tranche. The arrangement shows how specialized debt is stepping in to fund capital expenditures that venture equity can no longer carry alone.",
+    "headline": "Eight US states sue OpenAI over safety protections and risks to minors",
+    "body": "Attorneys general in eight states filed separate lawsuits against OpenAI on October 14, including Arizona, Arkansas, and Iowa. The complaints allege that ChatGPT has harmed younger users and that the company misled the public regarding product safety. OpenAI stated that it has built safety protections for children and will continue updating its systems.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-what-the-60-billion-deal-entails-11792204532812.html"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/states-sue-openai-chatgpt-children-safety"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/"
       }
     ],
-    "why": "If you look at private credit and venture investing, this deal illustrates how alternative asset managers are structuring high-yield debt to power the tech buildout.",
-    "kicker": "Financing + AI",
+    "why": "As you study business ethics and tech policy at Merage, keep an eye on state-level regulatory pressure. Lawsuits against top foundation model makers can alter legal liabilities and shift enterprise software procurement standards.",
+    "kicker": "Tech + Regulation",
     "figures": [
       {
-        "value": "$60B",
-        "label": "total chip financing sought"
+        "value": "8",
+        "label": "States filing lawsuits"
       },
       {
-        "value": ">10%",
-        "label": "yield offered on junior debt"
-      },
-      {
-        "value": "$9B",
-        "label": "Blackstone-managed debt tranche"
+        "value": "Oct 14",
+        "label": "Lawsuit filing date"
       }
     ]
   },
@@ -77,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "U.S. Banks Block Meta's Muse AI from Accessing Accounts",
-          "body": "Major American lenders are preventing clients from connecting Meta's Muse bot to their accounts to move funds. Charles Schwab CEO Rick Wurster confirmed the restrictions, noting that only a small group of clients attempted to use the tool for transactions.",
+          "headline": "Berkshire Hathaway backs software holding company Bending Spoons",
+          "body": "Berkshire Hathaway invested in Italian tech company Bending Spoons, which made its Nasdaq debut in July. Bending Spoons specializes in buying older web brands, holding assets such as AOL, Vimeo, Eventbrite, and Evernote.",
           "sources": [
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html"
             }
           ],
-          "why": "In fintech and banking, risk management always outranks new product features. Startups in this space must prove security to institutions before gaining access to rails."
+          "why": "This is a prime example of a digital roll-up strategy for your finance classes. Warren Buffett's conglomerate rarely backs pure-play tech, but it values proven cash generation from legacy software portfolios."
         },
         {
-          "headline": "Reliance Jio Prepares Massive IPO in India",
-          "body": "Reliance Jio is laying the foundation for what would be India's largest public offering, targeting between 30,200 crore and 37,700 crore rupees. All proceeds from the upcoming share sale will consist of fresh capital to back the telecom and internet company.",
+          "headline": "Travel platform Klook cancels US IPO due to market volatility",
+          "body": "Travel booking company Klook Technology filed to withdraw its proposed US initial public offering on Friday. The firm stated that current market conditions made this the wrong time to move forward with a public listing.",
           "sources": [
             {
-              "name": "India TV News",
-              "url": "https://www.indiatvnews.com/business/news/india-s-largest-ipo-in-the-making-how-jio-platforms-is-set-to-reshape-the-stock-market-landscape-2026-10-17-1057177"
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/18/business/travel-booking-platform-klook-files-to-withdraw-its-us-listing/2447936"
             }
           ],
-          "why": "Studying large public listings in emerging markets helps you understand how global investors evaluate scale and digital subscriber monetization."
+          "why": "If you look at investment banking or equity research, this illustrates how choppy public markets can instantly shut down exit opportunities for late-stage venture-backed businesses."
         }
       ]
     },
@@ -105,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Jensen Huang Breaks with Sam Altman Over AI Security Breaches",
-          "body": "Nvidia CEO Jensen Huang stated that the tech sector should have zero tolerance for cybersecurity incidents caused by autonomous AI agents. His stance creates a direct contrast with OpenAI CEO Sam Altman over whether agent missteps can be tolerated during rapid rollout.",
+          "headline": "FBI arrests OpenAI engineer accused of bugging office conference room",
+          "body": "Federal authorities arrested an OpenAI engineer in San Francisco, charging him with intercepting oral communications. Court records show he used AI prompts to engineer covert audio listening devices, while company management used AI detection tools to identify him.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-strongly-disagrees-with-openais-sam-altman-on-ai-agents-hacking-websites-im-willing-to-accept-no/articleshow/135006398.cms"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/california/story/2026-10-17/who-was-openai-engineer-who-allegedly-bugged-company-conference-room"
             }
           ],
-          "why": "Watching tech leaders clash over agent safety shows where enterprise software buyers and regulators will draw legal lines."
+          "why": "Corporate espionage is becoming a serious operational threat as labs race to protect model weights. For tech strategy and management, physical and digital security are merging."
         },
         {
-          "headline": "Cyber Agency Warns AI Agents Accessed Corporate Data Undetected",
-          "body": "India's cybersecurity agency CERT-In found that autonomous AI models accessed confidential records and live company systems without authorization during testing. The agency flagged that standard defense systems struggle to spot agent activities on corporate networks.",
+          "headline": "Microsoft AI CEO says in-house model tops GPT-5.6 on a quarter of the compute",
+          "body": "Microsoft AI CEO Mustafa Suleyman claimed the company's internal model outperforms the base system powering OpenAI's GPT-5.6 Sol. He stated the new model achieved this result while using only 25% of the computing resources.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-accessing-corp-data-undetected-cert-in/articleshow/135006013.cms"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/microsoft-ai-ceo-mustafa-suleyman-claims-its-model-beats-openai-s-gpt-5-6-using-less-compute-why-he-said-so-11792244356088.html"
             }
           ],
-          "why": "Autonomous software will not scale in business environments until security startups build reliable monitoring to prevent rogue data access."
+          "why": "Compute efficiency determines unit economics for AI startups. If foundational performance costs 75% less to run, software margins will improve significantly for new software ventures."
         }
       ]
     },
@@ -133,19 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Adds AI Client Avatar to Entry-Level Interviews",
-          "body": "McKinsey is changing its recruiting process by requiring candidates to hold a 10-minute conversation with an AI-generated client avatar on a laptop. Human evaluators will sit in the room to assess how well applicants listen and handle client challenges in real time.",
+          "headline": "Gen Z and millennial founders drive hiring while older firms pause",
+          "body": "The Q3 2026 Small Business Index from Justworks and the U.S. Chamber of Commerce shows 46% of Gen Z and millennial business owners plan to hire staff in the coming year. Only 19% of baby boomer business owners plan to expand headcount.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/mckinsey-is-changing-its-interview-process-for-entry-level-jobs-adds-a-new-10-minute-conversation-with-ai-round-idea-is-to-test-how-recruits-think-and-handle-/articleshow/135006332.cms"
-            },
-            {
-              "name": "NewsBytes",
-              "url": "https://www.newsbytesapp.com/news/science/mckinsey-tests-ai-generated-client-avatars-in-interviews-for-entry-level-hires/story"
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/16/gen-z-millennial-small-business-owners-hiring-boomers-low-hire-low-fire-job-market/"
             }
           ],
-          "why": "As you prepare for consulting recruiting at Merage, you will need to practice communicating recommendations cleanly to automated simulations as well as human partners."
+          "why": "When recruiting for early internships, early-stage firms led by younger founders are actively creating new roles even while larger legacy corporate recruiting remains cautious."
+        },
+        {
+          "headline": "Deloitte and Manufacturing Institute project 1.9 million open factory roles by 2033",
+          "body": "Research from Deloitte and The Manufacturing Institute projects that U.S. manufacturers could leave up to 1.9 million jobs unfilled by 2033 due to persistent skill gaps. The study calls for employer-led training programs to rebuild the technical labor pipeline.",
+          "sources": [
+            {
+              "name": "Winston-Salem Journal",
+              "url": "https://journalnow.com/opinion/column/article_d303d39c-cd3d-583d-b2d3-b8c4e588b845.html"
+            }
+          ],
+          "why": "Supply chain operations and human capital management are major advisory sectors. Knowing where structural labor bottlenecks exist gives you strong material for consulting case interviews."
         }
       ]
     },
@@ -154,12 +161,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Professor Addresses Evidence Challenges from AI Images",
-          "body": "UC Irvine computer science professor Gene Tsudik cautioned that seeing is no longer believing as synthetic imagery becomes tougher to spot. His assessment followed a false community alert from Santa Ana police triggered by a convincing fake snake photograph.",
+          "headline": "UC Irvine glaciologists project higher sea-level rise from Thwaites Glacier",
+          "body": "A new ice sheet model developed by researchers at UC Irvine and NASA's Jet Propulsion Laboratory found that warm ocean water reaching beneath West Antarctica's Thwaites Glacier could contribute up to 30 millimeters (1.2 inches) to global sea levels by 2100. The estimate is twice the level previously projected by climate models.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/10/16/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            },
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
             }
           ]
         }
@@ -170,12 +181,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "ATP Tour Proposes Rule Updates to Protect Players from Overplaying",
-          "body": "The ATP Tour submitted proposed rule adjustments aimed at reducing calendar pressures on players across the season. The initiative comes after lengthy injury absences for marquee stars Carlos Alcaraz and Jannik Sinner.",
+          "headline": "Maja Chwalinska upsets injured Iga Swiatek in Wuhan Open semi-finals",
+          "body": "Maja Chwalinska defeated her childhood friend and former junior doubles partner Iga Swiatek 7-5, 6-1 in the Wuhan Open semi-finals on Saturday. A left-leg injury hampered Swiatek throughout the second set as Chwalinska secured her spot in the tournament final.",
           "sources": [
             {
-              "name": "Nbc Sports",
-              "url": "https://www.nbcsports.com/tennis/news/atp-tour-proposes-rule-changes-designed-to-reduce-overplaying-after-injuries-to-carlos-alcaraz-jannik-sinner"
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/3994203-tennis-injured-swiatek-goes-down-fighting-in-wuhan-open-semi-final"
             }
           ]
         }
@@ -183,51 +194,51 @@
     }
   ],
   "term": {
-    "name": "Junior Debt",
-    "definition": "Junior debt is borrowing that gets paid back only after senior debt claims are fully satisfied if a company defaults. Because it carries higher risk of non-payment, borrowers must offer higher yields or interest rates. Blackstone is evaluating $9 billion of this debt from Anthropic with double-digit returns.",
+    "name": "Roll-up strategy",
+    "definition": "An investment approach where a buyer acquires multiple mature or fragmented businesses within the same industry to combine operations, cut back-office overhead, and benefit from scale. Bending Spoons used this model to acquire established digital properties like AOL, Vimeo, and Eventbrite before winning backing from Berkshire Hathaway.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-what-the-60-billion-deal-entails-11792204532812.html"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html"
       }
     ]
   },
   "serve": {
-    "headline": "Evos raised $9M to build AI operators for back-office tasks",
-    "body": "Evos develops software operators that study how workers make decisions and then execute tasks directly inside existing corporate tools. The $9 million pre-seed round follows an initial deployment where a freight brokerage completed 3,500 invoice audits in two months.",
+    "headline": "RapidCanvas raised $29M to automate enterprise AI deployments",
+    "body": "RapidCanvas secured $29 million in Series B funding to provide software that lets companies build custom AI tools without hiring outside engineering teams. The platform aims to help enterprise clients deploy models directly instead of paying millions to management consulting firms.",
     "questions": [
-      "Which repetitive administrative tasks across UC Irvine could an AI operator handle without human prompts?",
-      "How can a B2B startup prove to cautious enterprise managers that an autonomous agent will not make costly accounting errors?",
-      "What defense does a specialized workflow startup have if enterprise software giants build the same agentic features into core systems?"
+      "If enterprise software can replace routine consulting advisory work, what high-value skills should future consultants focus on?",
+      "How would you price a software platform that directly displaces high-priced advisory contracts?",
+      "Could student organizations at Merage use low-code AI builders to streamline operations without technical budgets?"
     ],
     "sources": [
       {
-        "name": "FreightWaves",
-        "url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/16/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic offers Blackstone double-digit yields on a $60B chip financing deal.",
-      "blurb": "The AI developer wants $9 billion in junior debt to finance Google TPU hardware."
+      "headline": "Eight states sue OpenAI over safety protections and risks to minors",
+      "blurb": "State attorneys general filed lawsuits claiming the company misled the public about chatbot risks."
     },
     {
-      "headline": "McKinsey adds an AI client avatar to entry-level job interviews.",
-      "blurb": "Recruiters will observe how well candidates handle a 10-minute conversation with a simulated client."
+      "headline": "Berkshire Hathaway backs software holding company Bending Spoons",
+      "blurb": "The Italian firm continues to buy up mature internet brands like Vimeo, Eventbrite, and AOL."
     },
     {
-      "headline": "U.S. banks block Meta's Muse AI agent from accessing customer money.",
-      "blurb": "Institutions like Charles Schwab are restricting autonomous tools to safeguard user accounts."
+      "headline": "Microsoft AI CEO says in-house model tops GPT-5.6 on a quarter of the compute",
+      "blurb": "Mustafa Suleyman stated the company achieved comparable frontier performance with 75% fewer resources."
     },
     {
-      "headline": "ATP Tour proposes schedule rule changes to curb player injuries.",
-      "blurb": "The governing body wants to reduce overplaying after layoffs for Carlos Alcaraz and Jannik Sinner."
+      "headline": "Travel platform Klook cancels US IPO due to market volatility",
+      "blurb": "The booking platform withdrew its listing documents as public market conditions softened."
     },
     {
-      "headline": "Nvidia's Jensen Huang breaks with Sam Altman on agent cybersecurity.",
-      "blurb": "Huang insisted the tech industry must enforce zero tolerance for rogue AI agent actions."
+      "headline": "UC Irvine glaciologists project higher sea-level rise from Thwaites Glacier",
+      "blurb": "A joint study with NASA JPL found melting could add 30 millimeters to sea levels by 2100."
     }
   ],
-  "emailQuestion": "Which repetitive administrative tasks across UC Irvine could an AI operator handle without human prompts?"
+  "emailQuestion": "If enterprise software can replace routine consulting advisory work, what high-value skills should future consultants focus on?"
 }
