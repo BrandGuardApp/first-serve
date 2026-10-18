@@ -1,0 +1,233 @@
+{
+  "id": "2026-10-18-am",
+  "slot": "morning",
+  "date": "2026-10-18",
+  "dateLabel": "Sun, Oct 18, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-18T13:55:02.484Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "McKinsey tests recruits with AI clients, Jio readies a record IPO, and Nvidia launches Blackwell laptops.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 16",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,659",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,140",
+        "change": "−2.14%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,002",
+        "change": "−0.34%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,181",
+        "change": "+0.26%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "McKinsey introduces an AI client simulation to entry-level interviews",
+    "body": "McKinsey & Company is updating its hiring process by requiring select entry-level applicants to complete a 10-minute conversation with an AI-generated client avatar. Candidates sit in front of a laptop at McKinsey offices while human evaluators watch to assess active listening, composure, and problem-solving under pressure.",
+    "sources": [
+      {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mckinsey-is-changing-its-interview-process-for-entry-level-jobs-adds-a-new-10-minute-conversation-with-ai-round-idea-is-to-test-how-recruits-think-and-handle-/articleshow/135006332.cms"
+      },
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/science/mckinsey-tests-ai-generated-client-avatars-in-interviews-for-entry-level-hires/story"
+      }
+    ],
+    "why": "Consulting recruiting is pivoting toward evaluating live interpersonal skills rather than memorized case frameworks, so practicing adaptive speaking is now essential for your internship prep.",
+    "kicker": "Careers + Consulting",
+    "figures": [
+      {
+        "value": "10 minutes",
+        "label": "AI client simulation length"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Jio Platforms prepares India's largest public offering",
+          "body": "Jio Platforms is scheduled to open subscriptions for its public debut on Wednesday, targeting a record raise of around ₹30,200 crore to ₹30,213 crore. The price band has been fixed between ₹1,065 and ₹1,119 per share.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html"
+            },
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-jio-platforms-ipo-high-crude-oil-prices-and-q2-earnings-in-focus-562260-2026-10-18"
+            }
+          ],
+          "why": "This mega-deal offers a live case study in equity capital markets and valuation multiples for high-growth digital infrastructure."
+        },
+        {
+          "headline": "Asian tech suppliers wobble under rising AI financing costs",
+          "body": "A selloff across US technology stocks is pressuring Asian component makers that supply the artificial intelligence supply chain. Investors worry that higher borrowing costs could force tech giants to reduce the capital expenditures needed to sustain current buildout rates.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/17/ai-boom-vs-bust-bubble-warning-hyperscaler-spending-debt-coreweave-nvidia/"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html"
+            }
+          ],
+          "why": "Tracking how interest rate pressures cascade into component suppliers will help you analyze supply chain vulnerability in equity research."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Nvidia brings Blackwell chips to portable workstations",
+          "body": "Nvidia released its RTX Spark laptop lineup across six manufacturing partners, bringing the Blackwell graphics architecture to mobile machines for the first time. The computers start at $2,599 and are shipping from vendors including Dell, HP, Lenovo, and Microsoft.",
+          "sources": [
+            {
+              "name": "iTWire",
+              "url": "https://itwire.com/business-it-news/hardware-and-storage/nvidia-rtx-spark-laptops-go-on-sale-with-blackwell-superchip"
+            }
+          ],
+          "why": "Monitoring mobile compute releases shows how enterprise-grade model processing is shifting from centralized cloud clusters down to edge devices."
+        },
+        {
+          "headline": "OpenAI plans humanoid robot development",
+          "body": "OpenAI CEO Sam Altman confirmed that the company is pursuing a humanoid robotics project in addition to its software and consumer hardware roadmaps. Altman stated that building physical robot bodies is straightforward compared to creating the underlying intelligence required to control them.",
+          "sources": [
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
+            }
+          ],
+          "why": "If foundation model providers build their own physical robotics, pure-play hardware startups will face platform-level competition."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "One in five businesses pauses entry-level hiring amid AI use",
+          "body": "A survey of nearly 1,000 corporate leaders conducted by Resume.org revealed that 20% of employers have halted hiring for entry-level roles. Companies report wanting candidates who already hold practical experience operating and deploying automated tools.",
+          "sources": [
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-what-happens-to-the-talent-pipeline-if-ai-takes-all-the-entry-level/"
+            }
+          ],
+          "why": "Because routine analytical tasks are increasingly handled by software, standing out for summer internships requires showing hands-on project results rather than just coursework."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Buffalo Bills hold practice session at UC Irvine",
+          "body": "The Buffalo Bills used UC Irvine athletic facilities for their Friday practice session ahead of their weekend matchup against the Las Vegas Raiders. Offensive coordinator Joe Brady spoke to reporters on campus following the workout.",
+          "sources": [
+            {
+              "name": "Buffalo Buffalo News",
+              "url": "https://buffalonews.com/multimedia/video_01f4458f-3af4-5181-bec4-c75e6b5db250.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Sonay Kartal advances to maiden WTA 1000 final in Wuhan",
+          "body": "British player Sonay Kartal defeated Jelena Ostapenko 7-6, 7-6 on Saturday to reach her first career WTA 1000 final. Kartal faces Poland's Maja Chwalinska on Sunday for the Wuhan Open championship.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13600293/sonay-kartal-on-dream-come-true-wuhan-open-run-as-she-reaches-first-wta-1000-final"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Picks and shovels",
+    "definition": "An investing approach based on the California Gold Rush, where suppliers selling mining tools made reliable returns while most gold prospectors lost money. In modern markets, it describes investing in the essential hardware, chip foundries, and cooling providers that power the broader tech industry rather than betting solely on software developers.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Foundry raises ₹12 crore to design premium home appliances",
+    "body": "Former Dyson India managing director Ankit Jain secured ₹12 crore in pre-seed funding for his new hardware startup, Foundry. The venture will use the capital to fund product engineering and technology development ahead of a planned kitchen device rollout in late 2027.",
+    "questions": [
+      "How would you pitch early angel investors to fund a consumer hardware concept years before manufacturing starts?",
+      "What operational advantages does an experienced corporate executive hold over a student founder when building a hardware venture?",
+      "If you were designing a premium appliance specifically for college dorms or student apartments, what friction point would you solve first?"
+    ],
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/companies/people/who-is-ankit-jain-former-dyson-india-md-s-startup-foundry-raises-rs-12-crore-in-a-pre-seed-funding-round-11792225024953.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "McKinsey adds an AI client avatar to entry-level interviews.",
+      "blurb": "Applicants will face a 10-minute simulation with an automated client while human recruiters observe."
+    },
+    {
+      "headline": "Jio Platforms sets terms for India's largest public offering.",
+      "blurb": "The digital giant seeks to raise up to ₹30,213 crore when bidding opens on Wednesday."
+    },
+    {
+      "headline": "Asian AI hardware suppliers slide as borrowing costs rise.",
+      "blurb": "Elevated interest rates are prompting caution over whether hyperscaler capital spending can keep expanding."
+    },
+    {
+      "headline": "Nvidia brings Blackwell chips to portable workstations.",
+      "blurb": "The RTX Spark series starts at $2,599 across six hardware manufacturers, including Lenovo and HP."
+    },
+    {
+      "headline": "Sonay Kartal qualifies for her first WTA 1000 final.",
+      "blurb": "The British standout secured a straight-sets tiebreak win over Jelena Ostapenko at the Wuhan Open."
+    }
+  ],
+  "emailQuestion": "How would you pitch early angel investors to fund a consumer hardware concept years before manufacturing starts?"
+}
