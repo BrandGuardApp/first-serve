@@ -1,0 +1,233 @@
+{
+  "id": "2026-10-19-am",
+  "slot": "morning",
+  "date": "2026-10-19",
+  "dateLabel": "Mon, Oct 19, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-19T19:13:14.532Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "China grows 4.5% in Q3, Anthropic shifts junior hiring, and Davidovich Fokina wins Shanghai.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "3:12 PM ET, Oct 19",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,703",
+        "change": "+0.57%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,465",
+        "change": "+1.24%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,043",
+        "change": "+0.08%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.13%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,165",
+        "change": "−0.39%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "China's economy grows 4.5% in Q3 as AI exports offset domestic slumps",
+    "body": "China's gross domestic product expanded 4.5 percent in the July-September period compared to a year earlier, beating analyst forecasts. Foreign demand for technological goods helped power the growth, offsetting a deepening property slump and sluggish domestic consumer spending.",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
+      }
+    ],
+    "why": "Understanding macro trade trends and tech-driven export booms helps when analyzing international market dynamics in your global business coursework.",
+    "kicker": "Business & Global Growth",
+    "figures": [
+      {
+        "value": "4.5%",
+        "label": "Q3 GDP growth"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Datacenter buildout accelerates as leasing activity surges",
+          "body": "The global infrastructure buildout continues at a massive pace, with strong leasing figures recorded year-to-date and tens of gigawatts under construction to handle compute demand.",
+          "sources": [
+            {
+              "name": "SemiAnalysis",
+              "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration"
+            }
+          ],
+          "why": "Heavy capital expenditure in physical infrastructure impacts the supply chains and corporate valuations you study in finance and strategy modules."
+        },
+        {
+          "headline": "Asian tech stocks dip amid scrutiny over AI spending and returns",
+          "body": "Equities across Asian markets largely retreated as investors weighed the heavy capital costs of artificial intelligence infrastructure against immediate returns on investment.",
+          "sources": [
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/asian-tech-stocks-broadly-fall-as-unease-over-ai-spending-builds-update-ce785cdad080f720"
+            },
+            {
+              "name": "ANI (Asian News International)",
+              "url": "https://www.aninews.in/news/business/chinas-ai-data-centre-boom-faces-return-on-investment-test-as-financing-costs-rise-goldman-sachs20261019115650/"
+            }
+          ],
+          "why": "Monitoring how public markets price speculative tech infrastructure teaches you how investors evaluate capital efficiency versus growth."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic report shows junior technical hiring drop as AI agents scale",
+          "body": "Anthropic's internal research reveals that junior technical roles dropped from 27 percent to 9 percent of hires as AI agents take on a growing share of routine coding tasks.",
+          "sources": [
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+            },
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/tech/ai-is-changing-who-gets-hired-anthropics-junior-tech-recruitment-falls-to-9-14053779.html"
+            }
+          ],
+          "why": "As an entry-level job seeker, tracking how automation changes early career paths highlights the exact skills you need to build during college."
+        },
+        {
+          "headline": "Anthropic staff heavily bullish on AI making a Nobel-level discovery by 2030",
+          "body": "A survey conducted by Anthropic's research arm found that 91 percent of its staff expect artificial intelligence to achieve a Nobel-level discovery by the end of the decade, compared to 39 percent of U.S. adults.",
+          "sources": [
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/ai-insiders-far-more-bullish-than-public-on-nobel-level-discovery-12205131"
+            }
+          ],
+          "why": "Internal tech sentiment gives you a window into how fast foundational builders expect core capabilities to advance."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Zoom and financial firms adopt World's iris-scanning verification",
+          "body": "Digital security measures are tightening as Zoom and various financial companies integrate World's orb-based iris scans to issue 'Proof of Human' badges against deepfakes and fraud.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/18/zoom-adds-proof-of-human-feature-to-stop-deep-fakes-toowith-tech/"
+            }
+          ],
+          "why": "Identity verification tech creates new consulting problems in trust and security across consumer apps and enterprise software."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine and NASA JPL study projects accelerated melting for Thwaites Glacier",
+          "body": "A new ice sheet model developed by glaciologists at UC Irvine and NASA's Jet Propulsion Laboratory indicates that Antarctica's Thwaites Glacier could contribute up to 30 millimeters of global sea-level rise by 2100, twice previous estimates.",
+          "sources": [
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Davidovich Fokina triumphs in Shanghai to claim third title of 2026",
+          "body": "Alejandro Davidovich Fokina captured the Shanghai Masters title with a hard-fought comeback win over compatriot Rafael Jodar, sealing his third tournament victory of the season.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/19/tennis-after-years-of-frustration-davidovich-fokina-wins-third-title-of-2026"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Capital Efficiency",
+    "definition": "Capital efficiency measures how well a company uses its equity and debt financing to generate revenue and profit. In today's markets, as seen with infrastructure and data center investments, investors are shifting focus from pure capacity expansion to how effectively companies turn capital into returns.",
+    "sources": [
+      {
+        "name": "ANI (Asian News International)",
+        "url": "https://www.aninews.in/news/business/chinas-ai-data-centre-boom-faces-return-on-investment-test-as-financing-costs-rise-goldman-sachs20261019115650/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Discovered Materials raised $9 million in seed funding",
+    "body": "The AI startup uses autonomous agents to accelerate the discovery of semiconductor materials designed to manage heat in powerful chips. The seed round was backed by venture investors.",
+    "questions": [
+      "How would you price software services sold to semiconductor manufacturers?",
+      "What customer acquisition strategy works best for deeptech startups selling to hardware giants?",
+      "How does early-stage venture funding change when investors demand immediate capital efficiency?"
+    ],
+    "sources": [
+      {
+        "name": "India Today",
+        "url": "https://www.indiatoday.in/education-today/news/story/from-iit-madras-to-stanford-akash-ramdas-takes-his-research-into-the-ai-startup-world-3020472-2026-10-19"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "China's economy grows 4.5% in Q3",
+      "blurb": "Stronger-than-expected GDP growth is powered by an AI-driven export boom."
+    },
+    {
+      "headline": "Anthropic cuts junior tech hiring",
+      "blurb": "Internal data shows entry-level technical recruitment falling from 27% to 9%."
+    },
+    {
+      "headline": "Asian tech stocks slip on funding worries",
+      "blurb": "Markets weigh massive AI infrastructure costs against return on investment."
+    },
+    {
+      "headline": "Zoom adopts Proof of Human badges",
+      "blurb": "Companies deploy iris-scanning verification to combat deepfakes and fraud."
+    },
+    {
+      "headline": "Davidovich Fokina wins Shanghai Masters",
+      "blurb": "The Spaniard rallies past Rafael Jodar to secure his third title of the year."
+    }
+  ],
+  "emailQuestion": "How would you price software services sold to semiconductor manufacturers?"
+}
