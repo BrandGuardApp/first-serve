@@ -1,0 +1,252 @@
+{
+  "id": "2026-10-18-pm",
+  "slot": "evening",
+  "date": "2026-10-18",
+  "dateLabel": "Sun, Oct 18, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-19T01:02:59.102Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Microsoft exits Nscale data deal, Berkshire backs Bending Spoons, and Gen Z founders ramp up hiring.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 16",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,659",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,140",
+        "change": "−2.14%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,002",
+        "change": "−0.34%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,194",
+        "change": "+0.30%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Microsoft exits Nscale UK data center deal ahead of planned $3B IPO",
+    "body": "Microsoft has terminated its contract to anchor British cloud provider Nscale's new data center site in Essex. The project in Loughton had faced multiple delays. The sudden loss of one of its two largest customers introduces uncertainty as the startup prepares for a $3 billion public offering.",
+    "sources": [
+      {
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/tech/microsoft-withdraws-from-nscales-uk-data-center-project-report-14053667.html"
+      },
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo"
+      }
+    ],
+    "why": "When you analyze companies in finance or consulting, watch customer concentration. Losing an anchor tenant right before an IPO can force sharp valuation cuts and derail expansion plans.",
+    "kicker": "Cloud Infrastructure",
+    "figures": [
+      {
+        "value": "$3B",
+        "label": "planned IPO valuation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Berkshire Hathaway invests $330 million in Bending Spoons",
+          "body": "Berkshire Hathaway agreed to invest $330 million in Italian software and app acquirer Bending Spoons. The move marks a rare tech bet for the conglomerate since Warren Buffett stepped down as CEO and chairman earlier this year.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/warren-buffett-berkshire-bending-spoons-stock-investing-acquisitions-deals-strategy-2026-10"
+            }
+          ],
+          "why": "Berkshire typically avoids tech companies. Studying why they picked an acquisition-focused software firm gives you a great case study on valuation and capital allocation for your finance classes."
+        },
+        {
+          "headline": "Retailers face consumer backlash over AI-assisted pricing",
+          "body": "US grocers and restaurant chains are rapidly replacing paper price tags with digital systems powered by AI pricing algorithms. Shoppers are voicing frustration and confusion as high-tech tools fluctuate prices on everyday items.",
+          "sources": [
+            {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Technology/wireStory/consumer-apprehension-grows-us-retailers-adopt-ai-assisted-137357982"
+            }
+          ],
+          "why": "Consultants frequently pitch dynamic pricing to increase margins. Understanding customer pushback helps you evaluate consumer psychology and brand risk when designing business models."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "AI data center demand could push PlayStation 6 past $1,000",
+          "body": "Rising costs for RAM and solid-state drives, now estimated above $680, could push the launch price of Sony's next console over $1,000. Soaring component demand from AI data centers is driving up memory and storage costs across consumer electronics.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/sonys-playstation-6-price-set-to-surpass-1000-ram-ssd-costs-680/"
+            },
+            {
+              "name": "Push Square",
+              "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring"
+            }
+          ],
+          "why": "This is a clear example of supply chain spillover. Heavy AI infrastructure spending does not just benefit chipmakers; it also squeezes consumer hardware margins and lifts retail device prices."
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang insists AI market sell-off is temporary",
+          "body": "Nvidia Chief Executive Jensen Huang downplayed the recent drop in AI shares, telling investors that current market anxiety will pass. He argued that the practical economic benefits of the technology will soon outweigh Wall Street's concerns.",
+          "sources": [
+            {
+              "name": "Deccan Chronicle",
+              "url": "https://www.deccanchronicle.com/technology/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass-1996931"
+            }
+          ],
+          "why": "Tech valuations fluctuate whenever capital spending runs ahead of proven revenue. Tracking whether enterprise customers see real financial returns from AI tools will show you if Huang's optimism holds up."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Gen Z founders ramp up hiring while corporate America slows",
+          "body": "Data from the Q3 2026 Small Business Index shows that 46% of Gen Z and millennial business owners plan to add staff in the coming year. In contrast, only 19% of baby boomer business owners plan to expand headcount.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/16/gen-z-millennial-small-business-owners-hiring-boomers-low-hire-low-fire-job-market/"
+            }
+          ],
+          "why": "If big corporate hiring remains cautious, consider targeting younger venture-backed startups and growth companies for internships. Younger founders are actively looking to build out their teams."
+        },
+        {
+          "headline": "Deloitte report finds Gen Z workers build AI skills on their own",
+          "body": "Only 32% of Gen Z respondents have completed formal AI training, according to Deloitte India partner Kamlesh Vyas. Most younger workers instead build their skills through online tutorials, peer learning, and trial and error.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/ht-insight/future-tech/need-to-think-systemically-to-build-ai-skills-for-our-students-101792319652808.html"
+            }
+          ],
+          "why": "Do not wait for formal coursework to learn how to apply AI tools. Practical, self-taught fluency with modern software can be an immediate differentiator in case competitions and recruiting interviews."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine and NASA JPL find Thwaites Glacier melting faster than projected",
+          "body": "A new ice sheet model created by glaciologists at UC Irvine and NASA's Jet Propulsion Laboratory reveals warm seawater reaching beneath Antarctica's Thwaites Glacier. The study projects the melting glacier could add up to 30 millimeters to global sea levels by 2100, twice as much as earlier estimates.",
+          "sources": [
+            {
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            },
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Roger Federer watches Rafael Jodar and Davidovich Fokina in Shanghai",
+          "body": "Roger Federer sat in the stands during the Shanghai Masters final, applauding a winner from young Spaniard Rafael Jodar against Alejandro Davidovich Fokina. Davidovich Fokina was competing in the second Masters 1000 final of his career.",
+          "sources": [
+            {
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/sports/roger-federers-stunning-reaction-to-rafael-jodars-sensational-winner-against-alejandro-davidovich-fokina-leaves-tennis-fans-buzzing-video"
+            },
+            {
+              "name": "Daily Express",
+              "url": "https://www.express.co.uk/sport/tennis/2258167/tennis-live-wuhan-open-shanghai-masters-kartal-chwalinska-jodar-davidovich-fokina"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Anchor Tenant",
+    "definition": "In infrastructure and commercial real estate, an anchor tenant is a primary, creditworthy customer whose long-term commitment validates the project and secures financing. Lenders and public market investors rely heavily on anchor contracts to gauge a project's future cash flows. If an anchor customer walks away, the project's financing, timelines, and planned valuation can quickly come under pressure.",
+    "sources": [
+      {
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/tech/microsoft-withdraws-from-nscales-uk-data-center-project-report-14053667.html"
+      },
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "AIsa secures seed extension from Tether to build AI agent infrastructure",
+    "body": "San Francisco startup AIsa completed an extended seed funding round with strategic backing from Tether and HIVEN. The company builds enterprise infrastructure designed to support autonomous AI agents.",
+    "questions": [
+      "Which repetitive back-office workflows at a campus business or club could an autonomous AI agent manage entirely on its own?",
+      "Why would a digital asset firm like Tether want a strategic stake in enterprise AI agent infrastructure?",
+      "If you were pitching an AI agent startup to investors today, how would you prove your product can retain clients against big cloud providers?"
+    ],
+    "sources": [
+      {
+        "name": "Crypto Breaking News",
+        "url": "https://www.cryptobreaking.com/tether-invests-in-aisa-extends-2/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Microsoft abruptly withdrew from Nscale's UK data center project ahead of the cloud provider's planned $3B IPO.",
+      "blurb": "The loss of a primary anchor client leaves the startup facing unexpected valuation pressure in London."
+    },
+    {
+      "headline": "Berkshire Hathaway committed $330 million to Italian app developer Bending Spoons.",
+      "blurb": "The investment represents a rare software bet for the conglomerate following Warren Buffett's retirement."
+    },
+    {
+      "headline": "Nearly half of Gen Z and millennial business founders plan to expand hiring this year.",
+      "blurb": "Younger entrepreneurs are opening doors for talent while corporate America maintains tight headcounts."
+    },
+    {
+      "headline": "Rising component costs from AI data centers could push the PlayStation 6 price over $1,000.",
+      "blurb": "Memory and solid-state drive costs now exceed $680 as industrial computing demand crowds out consumer hardware."
+    },
+    {
+      "headline": "Roger Federer watched the Shanghai Masters final between Rafael Jodar and Alejandro Davidovich Fokina.",
+      "blurb": "The 20-time Grand Slam champion applauded from the stands as the finalists contested the title."
+    }
+  ],
+  "emailQuestion": "Which repetitive back-office workflows at a campus business or club could an autonomous AI agent manage entirely on its own?"
+}

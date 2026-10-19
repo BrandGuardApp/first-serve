@@ -1,15 +1,15 @@
 {
-  "id": "2026-10-18-am",
-  "slot": "morning",
+  "id": "2026-10-18-pm",
+  "slot": "evening",
   "date": "2026-10-18",
   "dateLabel": "Sun, Oct 18, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-18T13:55:02.484Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "McKinsey tests recruits with AI clients, Jio readies a record IPO, and Nvidia launches Blackwell laptops.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-19T01:02:59.102Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Microsoft exits Nscale data deal, Berkshire backs Bending Spoons, and Gen Z founders ramp up hiring.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Oct 16",
     "rows": [
@@ -39,31 +39,31 @@
       },
       {
         "name": "Gold",
-        "value": "$4,181",
-        "change": "+0.26%",
+        "value": "$4,194",
+        "change": "+0.30%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "McKinsey introduces an AI client simulation to entry-level interviews",
-    "body": "McKinsey & Company is updating its hiring process by requiring select entry-level applicants to complete a 10-minute conversation with an AI-generated client avatar. Candidates sit in front of a laptop at McKinsey offices while human evaluators watch to assess active listening, composure, and problem-solving under pressure.",
+    "headline": "Microsoft exits Nscale UK data center deal ahead of planned $3B IPO",
+    "body": "Microsoft has terminated its contract to anchor British cloud provider Nscale's new data center site in Essex. The project in Loughton had faced multiple delays. The sudden loss of one of its two largest customers introduces uncertainty as the startup prepares for a $3 billion public offering.",
     "sources": [
       {
-        "name": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mckinsey-is-changing-its-interview-process-for-entry-level-jobs-adds-a-new-10-minute-conversation-with-ai-round-idea-is-to-test-how-recruits-think-and-handle-/articleshow/135006332.cms"
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/tech/microsoft-withdraws-from-nscales-uk-data-center-project-report-14053667.html"
       },
       {
-        "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/science/mckinsey-tests-ai-generated-client-avatars-in-interviews-for-entry-level-hires/story"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo"
       }
     ],
-    "why": "Consulting recruiting is pivoting toward evaluating live interpersonal skills rather than memorized case frameworks, so practicing adaptive speaking is now essential for your internship prep.",
-    "kicker": "Careers + Consulting",
+    "why": "When you analyze companies in finance or consulting, watch customer concentration. Losing an anchor tenant right before an IPO can force sharp valuation cuts and derail expansion plans.",
+    "kicker": "Cloud Infrastructure",
     "figures": [
       {
-        "value": "10 minutes",
-        "label": "AI client simulation length"
+        "value": "$3B",
+        "label": "planned IPO valuation"
       }
     ]
   },
@@ -73,34 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Jio Platforms prepares India's largest public offering",
-          "body": "Jio Platforms is scheduled to open subscriptions for its public debut on Wednesday, targeting a record raise of around ₹30,200 crore to ₹30,213 crore. The price band has been fixed between ₹1,065 and ₹1,119 per share.",
+          "headline": "Berkshire Hathaway invests $330 million in Bending Spoons",
+          "body": "Berkshire Hathaway agreed to invest $330 million in Italian software and app acquirer Bending Spoons. The move marks a rare tech bet for the conglomerate since Warren Buffett stepped down as CEO and chairman earlier this year.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html"
-            },
-            {
-              "name": "Business Today",
-              "url": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-jio-platforms-ipo-high-crude-oil-prices-and-q2-earnings-in-focus-562260-2026-10-18"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/warren-buffett-berkshire-bending-spoons-stock-investing-acquisitions-deals-strategy-2026-10"
             }
           ],
-          "why": "This mega-deal offers a live case study in equity capital markets and valuation multiples for high-growth digital infrastructure."
+          "why": "Berkshire typically avoids tech companies. Studying why they picked an acquisition-focused software firm gives you a great case study on valuation and capital allocation for your finance classes."
         },
         {
-          "headline": "Asian tech suppliers wobble under rising AI financing costs",
-          "body": "A selloff across US technology stocks is pressuring Asian component makers that supply the artificial intelligence supply chain. Investors worry that higher borrowing costs could force tech giants to reduce the capital expenditures needed to sustain current buildout rates.",
+          "headline": "Retailers face consumer backlash over AI-assisted pricing",
+          "body": "US grocers and restaurant chains are rapidly replacing paper price tags with digital systems powered by AI pricing algorithms. Shoppers are voicing frustration and confusion as high-tech tools fluctuate prices on everyday items.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/10/17/ai-boom-vs-bust-bubble-warning-hyperscaler-spending-debt-coreweave-nvidia/"
-            },
-            {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html"
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Technology/wireStory/consumer-apprehension-grows-us-retailers-adopt-ai-assisted-137357982"
             }
           ],
-          "why": "Tracking how interest rate pressures cascade into component suppliers will help you analyze supply chain vulnerability in equity research."
+          "why": "Consultants frequently pitch dynamic pricing to increase margins. Understanding customer pushback helps you evaluate consumer psychology and brand risk when designing business models."
         }
       ]
     },
@@ -109,26 +101,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Nvidia brings Blackwell chips to portable workstations",
-          "body": "Nvidia released its RTX Spark laptop lineup across six manufacturing partners, bringing the Blackwell graphics architecture to mobile machines for the first time. The computers start at $2,599 and are shipping from vendors including Dell, HP, Lenovo, and Microsoft.",
+          "headline": "AI data center demand could push PlayStation 6 past $1,000",
+          "body": "Rising costs for RAM and solid-state drives, now estimated above $680, could push the launch price of Sony's next console over $1,000. Soaring component demand from AI data centers is driving up memory and storage costs across consumer electronics.",
           "sources": [
             {
-              "name": "iTWire",
-              "url": "https://itwire.com/business-it-news/hardware-and-storage/nvidia-rtx-spark-laptops-go-on-sale-with-blackwell-superchip"
+              "name": "Wccftech",
+              "url": "https://wccftech.com/sonys-playstation-6-price-set-to-surpass-1000-ram-ssd-costs-680/"
+            },
+            {
+              "name": "Push Square",
+              "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring"
             }
           ],
-          "why": "Monitoring mobile compute releases shows how enterprise-grade model processing is shifting from centralized cloud clusters down to edge devices."
+          "why": "This is a clear example of supply chain spillover. Heavy AI infrastructure spending does not just benefit chipmakers; it also squeezes consumer hardware margins and lifts retail device prices."
         },
         {
-          "headline": "OpenAI plans humanoid robot development",
-          "body": "OpenAI CEO Sam Altman confirmed that the company is pursuing a humanoid robotics project in addition to its software and consumer hardware roadmaps. Altman stated that building physical robot bodies is straightforward compared to creating the underlying intelligence required to control them.",
+          "headline": "Nvidia CEO Jensen Huang insists AI market sell-off is temporary",
+          "body": "Nvidia Chief Executive Jensen Huang downplayed the recent drop in AI shares, telling investors that current market anxiety will pass. He argued that the practical economic benefits of the technology will soon outweigh Wall Street's concerns.",
           "sources": [
             {
-              "name": "Engadget",
-              "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
+              "name": "Deccan Chronicle",
+              "url": "https://www.deccanchronicle.com/technology/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass-1996931"
             }
           ],
-          "why": "If foundation model providers build their own physical robotics, pure-play hardware startups will face platform-level competition."
+          "why": "Tech valuations fluctuate whenever capital spending runs ahead of proven revenue. Tracking whether enterprise customers see real financial returns from AI tools will show you if Huang's optimism holds up."
         }
       ]
     },
@@ -137,15 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "One in five businesses pauses entry-level hiring amid AI use",
-          "body": "A survey of nearly 1,000 corporate leaders conducted by Resume.org revealed that 20% of employers have halted hiring for entry-level roles. Companies report wanting candidates who already hold practical experience operating and deploying automated tools.",
+          "headline": "Gen Z founders ramp up hiring while corporate America slows",
+          "body": "Data from the Q3 2026 Small Business Index shows that 46% of Gen Z and millennial business owners plan to add staff in the coming year. In contrast, only 19% of baby boomer business owners plan to expand headcount.",
           "sources": [
             {
-              "name": "The Globe and Mail",
-              "url": "https://www.theglobeandmail.com/business/article-what-happens-to-the-talent-pipeline-if-ai-takes-all-the-entry-level/"
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/16/gen-z-millennial-small-business-owners-hiring-boomers-low-hire-low-fire-job-market/"
             }
           ],
-          "why": "Because routine analytical tasks are increasingly handled by software, standing out for summer internships requires showing hands-on project results rather than just coursework."
+          "why": "If big corporate hiring remains cautious, consider targeting younger venture-backed startups and growth companies for internships. Younger founders are actively looking to build out their teams."
+        },
+        {
+          "headline": "Deloitte report finds Gen Z workers build AI skills on their own",
+          "body": "Only 32% of Gen Z respondents have completed formal AI training, according to Deloitte India partner Kamlesh Vyas. Most younger workers instead build their skills through online tutorials, peer learning, and trial and error.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/ht-insight/future-tech/need-to-think-systemically-to-build-ai-skills-for-our-students-101792319652808.html"
+            }
+          ],
+          "why": "Do not wait for formal coursework to learn how to apply AI tools. Practical, self-taught fluency with modern software can be an immediate differentiator in case competitions and recruiting interviews."
         }
       ]
     },
@@ -154,12 +161,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Buffalo Bills hold practice session at UC Irvine",
-          "body": "The Buffalo Bills used UC Irvine athletic facilities for their Friday practice session ahead of their weekend matchup against the Las Vegas Raiders. Offensive coordinator Joe Brady spoke to reporters on campus following the workout.",
+          "headline": "UC Irvine and NASA JPL find Thwaites Glacier melting faster than projected",
+          "body": "A new ice sheet model created by glaciologists at UC Irvine and NASA's Jet Propulsion Laboratory reveals warm seawater reaching beneath Antarctica's Thwaites Glacier. The study projects the melting glacier could add up to 30 millimeters to global sea levels by 2100, twice as much as earlier estimates.",
           "sources": [
             {
-              "name": "Buffalo Buffalo News",
-              "url": "https://buffalonews.com/multimedia/video_01f4458f-3af4-5181-bec4-c75e6b5db250.html"
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            },
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
             }
           ]
         }
@@ -170,12 +181,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Sonay Kartal advances to maiden WTA 1000 final in Wuhan",
-          "body": "British player Sonay Kartal defeated Jelena Ostapenko 7-6, 7-6 on Saturday to reach her first career WTA 1000 final. Kartal faces Poland's Maja Chwalinska on Sunday for the Wuhan Open championship.",
+          "headline": "Roger Federer watches Rafael Jodar and Davidovich Fokina in Shanghai",
+          "body": "Roger Federer sat in the stands during the Shanghai Masters final, applauding a winner from young Spaniard Rafael Jodar against Alejandro Davidovich Fokina. Davidovich Fokina was competing in the second Masters 1000 final of his career.",
           "sources": [
             {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13600293/sonay-kartal-on-dream-come-true-wuhan-open-run-as-she-reaches-first-wta-1000-final"
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/sports/roger-federers-stunning-reaction-to-rafael-jodars-sensational-winner-against-alejandro-davidovich-fokina-leaves-tennis-fans-buzzing-video"
+            },
+            {
+              "name": "Daily Express",
+              "url": "https://www.express.co.uk/sport/tennis/2258167/tennis-live-wuhan-open-shanghai-masters-kartal-chwalinska-jodar-davidovich-fokina"
             }
           ]
         }
@@ -183,51 +198,55 @@
     }
   ],
   "term": {
-    "name": "Picks and shovels",
-    "definition": "An investing approach based on the California Gold Rush, where suppliers selling mining tools made reliable returns while most gold prospectors lost money. In modern markets, it describes investing in the essential hardware, chip foundries, and cooling providers that power the broader tech industry rather than betting solely on software developers.",
+    "name": "Anchor Tenant",
+    "definition": "In infrastructure and commercial real estate, an anchor tenant is a primary, creditworthy customer whose long-term commitment validates the project and secures financing. Lenders and public market investors rely heavily on anchor contracts to gauge a project's future cash flows. If an anchor customer walks away, the project's financing, timelines, and planned valuation can quickly come under pressure.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html"
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/tech/microsoft-withdraws-from-nscales-uk-data-center-project-report-14053667.html"
+      },
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo"
       }
     ]
   },
   "serve": {
-    "headline": "Foundry raises ₹12 crore to design premium home appliances",
-    "body": "Former Dyson India managing director Ankit Jain secured ₹12 crore in pre-seed funding for his new hardware startup, Foundry. The venture will use the capital to fund product engineering and technology development ahead of a planned kitchen device rollout in late 2027.",
+    "headline": "AIsa secures seed extension from Tether to build AI agent infrastructure",
+    "body": "San Francisco startup AIsa completed an extended seed funding round with strategic backing from Tether and HIVEN. The company builds enterprise infrastructure designed to support autonomous AI agents.",
     "questions": [
-      "How would you pitch early angel investors to fund a consumer hardware concept years before manufacturing starts?",
-      "What operational advantages does an experienced corporate executive hold over a student founder when building a hardware venture?",
-      "If you were designing a premium appliance specifically for college dorms or student apartments, what friction point would you solve first?"
+      "Which repetitive back-office workflows at a campus business or club could an autonomous AI agent manage entirely on its own?",
+      "Why would a digital asset firm like Tether want a strategic stake in enterprise AI agent infrastructure?",
+      "If you were pitching an AI agent startup to investors today, how would you prove your product can retain clients against big cloud providers?"
     ],
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/companies/people/who-is-ankit-jain-former-dyson-india-md-s-startup-foundry-raises-rs-12-crore-in-a-pre-seed-funding-round-11792225024953.html"
+        "name": "Crypto Breaking News",
+        "url": "https://www.cryptobreaking.com/tether-invests-in-aisa-extends-2/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "McKinsey adds an AI client avatar to entry-level interviews.",
-      "blurb": "Applicants will face a 10-minute simulation with an automated client while human recruiters observe."
+      "headline": "Microsoft abruptly withdrew from Nscale's UK data center project ahead of the cloud provider's planned $3B IPO.",
+      "blurb": "The loss of a primary anchor client leaves the startup facing unexpected valuation pressure in London."
     },
     {
-      "headline": "Jio Platforms sets terms for India's largest public offering.",
-      "blurb": "The digital giant seeks to raise up to ₹30,213 crore when bidding opens on Wednesday."
+      "headline": "Berkshire Hathaway committed $330 million to Italian app developer Bending Spoons.",
+      "blurb": "The investment represents a rare software bet for the conglomerate following Warren Buffett's retirement."
     },
     {
-      "headline": "Asian AI hardware suppliers slide as borrowing costs rise.",
-      "blurb": "Elevated interest rates are prompting caution over whether hyperscaler capital spending can keep expanding."
+      "headline": "Nearly half of Gen Z and millennial business founders plan to expand hiring this year.",
+      "blurb": "Younger entrepreneurs are opening doors for talent while corporate America maintains tight headcounts."
     },
     {
-      "headline": "Nvidia brings Blackwell chips to portable workstations.",
-      "blurb": "The RTX Spark series starts at $2,599 across six hardware manufacturers, including Lenovo and HP."
+      "headline": "Rising component costs from AI data centers could push the PlayStation 6 price over $1,000.",
+      "blurb": "Memory and solid-state drive costs now exceed $680 as industrial computing demand crowds out consumer hardware."
     },
     {
-      "headline": "Sonay Kartal qualifies for her first WTA 1000 final.",
-      "blurb": "The British standout secured a straight-sets tiebreak win over Jelena Ostapenko at the Wuhan Open."
+      "headline": "Roger Federer watched the Shanghai Masters final between Rafael Jodar and Alejandro Davidovich Fokina.",
+      "blurb": "The 20-time Grand Slam champion applauded from the stands as the finalists contested the title."
     }
   ],
-  "emailQuestion": "How would you pitch early angel investors to fund a consumer hardware concept years before manufacturing starts?"
+  "emailQuestion": "Which repetitive back-office workflows at a campus business or club could an autonomous AI agent manage entirely on its own?"
 }
