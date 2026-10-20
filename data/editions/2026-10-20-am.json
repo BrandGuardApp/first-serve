@@ -1,0 +1,247 @@
+{
+  "id": "2026-10-20-am",
+  "slot": "morning",
+  "date": "2026-10-20",
+  "dateLabel": "Tue, Oct 20, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-20T14:58:14.233Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI targets $1.4T valuation, Tenstorrent raises $1.5B, and McKinsey adds an AI interview round.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "10:54 AM ET, Oct 20",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,744",
+        "change": "+0.69%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,569",
+        "change": "+0.52%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,676",
+        "change": "+1.37%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.09%",
+        "change": "−5 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,171",
+        "change": "+0.25%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "OpenAI chases a $1.4 trillion valuation ahead of Anthropic's mid-November IPO",
+    "body": "OpenAI is rushing to lock down a massive $30 billion funding round that would push its valuation over $1.4 trillion. The frantic fundraising is timed to close right before its rival Anthropic makes its highly anticipated public market debut in mid-November.",
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say/articleshow/135059775.cms"
+      },
+      {
+        "name": "The Hindu Business Line",
+        "url": "https://www.thehindubusinessline.com/info-tech/openai-seeks-30-billion-funding-at-14-trillion-valuation-ahead-of-anthropic-ipo/article71603118.ece"
+      }
+    ],
+    "why": "Understanding how mega-cap tech valuations shift before public offerings helps you evaluate private equity appetite and market momentum for your finance classes.",
+    "kicker": "AI & Markets",
+    "figures": []
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "CoreWeave's bonds slide into distressed territory as AI infrastructure debt worries mount",
+          "body": "CoreWeave bonds slipped into distressed status this week after investors demanded steep yields, highlighting rising anxiety over the mountain of debt funding the artificial intelligence buildout.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+            }
+          ],
+          "why": "This is a great real-world case study for corporate finance classes on how high-growth startups finance capital-heavy infrastructure through debt markets."
+        },
+        {
+          "headline": "India's Jio Platforms IPO pulls in $30 billion in anchor demand ahead of debut",
+          "body": "Jio Platforms saw its initial public offering anchor book oversubscribed more than 30 times, drawing over $30 billion in institutional demand from major asset managers like BlackRock.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html"
+            },
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/jio-platforms-rs-8110-crore-anchor-book-attracts-over-rs-2-5-lakh-crore-in-institutional-demand-draws-marquee-global-investors/"
+            }
+          ],
+          "why": "A massive institutional order book shows how large private equity and asset management firms validate pricing before a major public listing."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Amazon launches TorchNeuron software to let developers run PyTorch code directly on Trainium chips",
+          "body": "Amazon is rolling out TorchNeuron to let developers run popular PyTorch AI code on its Trainium chips with a single configuration change and no code rewriting.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/amazon-launches-torchneuron-to-challenge-nvidia-s-ai-chip-dominance-126102000086_1.html"
+            }
+          ],
+          "why": "It highlights how major tech companies are building software ecosystems to challenge Nvidia's hardware dominance."
+        },
+        {
+          "headline": "Nvidia backs four German startups as Chancellor Merz urges businesses to adopt industrial AI",
+          "body": "Nvidia is expanding its investments in European AI by backing four German startups, aligning with a push by German leadership to accelerate local industrial tech adoption.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html"
+            }
+          ],
+          "why": "Observing how chipmakers use equity investments to lock in regional enterprise markets is key for understanding tech go-to-market strategies."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey adds a 10-minute AI conversation round to its entry-level consulting interviews",
+          "body": "McKinsey is updating its rigorous recruitment process by requiring some entry-level consulting applicants to spar with an AI avatar acting as a client during a 10-minute test.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/mckinsey-is-changing-its-interview-process-for-entry-level-jobs-adds-a-new-10-minute-conversation-with-ai-round-idea-is-to-test-how-recruits-think-and-handle-/articleshow/135006332.cms"
+            }
+          ],
+          "why": "Since you are interested in consulting, note how top firms are using AI to evaluate problem-solving skills early in the hiring funnel."
+        },
+        {
+          "headline": "Anthropic report shows junior technical hiring drop as AI agents handle entry-level work",
+          "body": "A new internal report from Anthropic reveals that the share of junior technical staff it hires has plummeted from 27% to 9% as automated AI agents take over routine workloads.",
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19"
+            },
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+            }
+          ],
+          "why": "It is a stark look at how entry-level career pipelines are shifting across tech and professional services as automation scales."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "New UC Irvine and NASA JPL study projects accelerated melting for Thwaites Glacier",
+          "body": "A new ice sheet model developed by glaciologists at UC Irvine and NASA's Jet Propulsion Laboratory projects that Antarctica's Thwaites Glacier will contribute up to 30 millimeters of sea-level rise by 2100.",
+          "sources": [
+            {
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            },
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-10-thwaites-glacier-contribute-sea-previously.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "James Duckworth books second-round spot with straight-sets win at Almaty Open",
+          "body": "Australian tennis veteran James Duckworth secured a 6-4, 6-3 victory over Miomir Kecmanovic on Monday at the indoor ATP 250 event in Kazakhstan.",
+          "sources": [
+            {
+              "name": "PerthNow",
+              "url": "https://www.perthnow.com.au/sport/tennis/dogged-duckworth-leads-aussie-charge-at-almaty-open-c-23044674"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Distressed Debt",
+    "definition": "Distressed debt refers to bonds or loans issued by companies that are experiencing severe financial distress or approaching potential default. When investors demand drastically higher yields to hold these bonds, it signals deep market concern over the company's ability to pay back its obligations, as seen with CoreWeave's recent debt slide.",
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Tenstorrent raises $1.5 billion in Series E funding at a $6.2 billion valuation to take on Nvidia",
+    "body": "The AI chip startup secured fresh capital to scale its custom servers and offer corporate buyers an alternative to Nvidia's hardware. The massive round was backed by enterprise investors looking to diversify chip supply.",
+    "questions": [
+      "If you were launching a hardware startup, how would you price your product to compete against an entrenched giant like Nvidia?",
+      "What customer segments would you target first when your product is more expensive to scale than software?",
+      "How does taking on $1.5 billion in a Series E round change a startup's operational pressure compared to bootstrapping?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/19/startup-funding-news-today-october-19-2026-tenstorrent-nouscom-even-healthcare-vessla-more/"
+      },
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/19/ai-chip-startup-tenstorrent-raises-1-5-billion-at-6-2-billion-valuation-to-take-on-nvidia/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "OpenAI chases a $1.4 trillion valuation",
+      "blurb": "The ChatGPT maker is rushing a $30 billion round ahead of Anthropic's mid-November IPO."
+    },
+    {
+      "headline": "CoreWeave bonds hit distressed territory",
+      "blurb": "Investors are demanding much higher yields as debt worries mount over AI infrastructure."
+    },
+    {
+      "headline": "Jio Platforms IPO draws massive demand",
+      "blurb": "The Indian tech listing secured over $30 billion in institutional interest from giants like BlackRock."
+    },
+    {
+      "headline": "McKinsey adds an AI interview round",
+      "blurb": "Consulting applicants now face a 10-minute conversation with an AI avatar playing a client."
+    },
+    {
+      "headline": "Tenstorrent scores a $1.5 billion Series E",
+      "blurb": "The Jim Keller-led chip startup doubled its valuation to take on Nvidia's hardware dominance."
+    }
+  ],
+  "emailQuestion": "If you were launching a hardware startup, how would you price your product to compete against an entrenched giant like Nvidia?"
+}
