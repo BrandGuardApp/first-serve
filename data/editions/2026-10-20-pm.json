@@ -1,0 +1,233 @@
+{
+  "id": "2026-10-20-pm",
+  "slot": "evening",
+  "date": "2026-10-20",
+  "dateLabel": "Tue, Oct 20, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-21T01:29:16.120Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "SpaceX earnings, AI cloud infrastructure rounds, and tennis updates for your evening brief.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 20",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,713",
+        "change": "+0.28%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,425",
+        "change": "−0.02%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,496",
+        "change": "+1.02%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.12%",
+        "change": "−2 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,126",
+        "change": "−0.40%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "SpaceX reports Q3 earnings as markets eye massive AI and data center spending",
+    "body": "SpaceX is reporting its third-quarter results after the bell today, marking only its second earnings report since its record IPO in June. Investors are watching closely to see how the defense tech conglomerate balances its heavy spending on Starlink and upcoming 2027 data center expansions against expected revenues.",
+    "sources": [
+      {
+        "name": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-news-october192026/"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+      }
+    ],
+    "why": "Understanding how massive conglomerates balance heavy capital expenditure with profitability is crucial for your finance classes and any future investing or consulting work.",
+    "kicker": "Tech + Markets",
+    "figures": [
+      {
+        "value": "2027",
+        "label": "Data center expansion year"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Disney budgets $180 million for staff from bankrupt Character.AI",
+          "body": "Disney is spending roughly $180 million over three years to compensate and retain 66 recruits from Character.AI, deepening ties with the troubled chatbot startup after hiring its former CEO.",
+          "sources": [
+            {
+              "name": "Cartoon Brew",
+              "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-character-ai-employee-hires-268139.html"
+            }
+          ],
+          "why": "This is a great real-world example of corporate development and acqui-hiring, where a legacy giant absorbs startup talent rather than building from scratch."
+        },
+        {
+          "headline": "Holiday airfares surge as booking sites report steep price hikes",
+          "body": "Travel booking site Hopper reports that domestic round-trip fares for Thanksgiving are up 31% from last year, while Christmas tickets are 23% higher due to surging demand.",
+          "sources": [
+            {
+              "name": "Newser",
+              "url": "https://www.newser.com/story/398467/buckle-up-for-highest-holiday-airfares-in-a-decade.html"
+            }
+          ],
+          "why": "Surging holiday travel costs show how macroeconomic inflation and consumer demand directly impact pricing power in the leisure and airline sectors."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Daytona raises $60 million Series B at a $1 billion valuation for its agentic cloud",
+          "body": "Startup Daytona has hit unicorn status after raising a $60 million funding round led by FirstMark, with backing from tech founders including Stripe's Patrick Collison. The company is building new cloud infrastructure specifically tailored to handle the heavy demands of AI agents.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+            }
+          ],
+          "why": "As you look at venture capital and startup trends, keep an eye on infrastructure plays that enable other software tools rather than just end-user apps."
+        },
+        {
+          "headline": "Ex-OpenAI executive launches manufacturing startup Arda at a $1.5 billion valuation",
+          "body": "Bob McGrew, OpenAI's former research chief, has launched Arda after raising $230 million. The startup aims to use artificial intelligence to bring manufacturing back to the United States.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
+            }
+          ],
+          "why": "Deep tech and industrial automation startups are attracting massive institutional capital, offering a glimpse into where the next wave of heavy enterprise disruption is heading."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Anthropic report highlights sharp drop in junior technical hiring as AI agents take over work",
+          "body": "An internal report from AI firm Anthropic reveals that its share of junior technical hires has fallen from 27% to 9% since December 2025 as AI agents handle more routine entry-level coding tasks. The company notes that AI working hours now outnumber employee hours six to one.",
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19"
+            },
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+            }
+          ],
+          "why": "This shift highlights why developing advanced problem-solving skills beyond basic execution will be vital for landing competitive internships in tech and consulting."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine computer science professor warns about increasingly convincing fake AI images",
+          "body": "As courts and police grapple with deepfakes, UC Irvine distinguished professor of computer science Gene Tsudik noted that seeing is no longer believing when it comes to digital media.",
+          "sources": [
+            {
+              "name": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Iga Swiatek withdraws from Ningbo Open due to thigh injury and misses WTA Finals",
+          "body": "Six-time Grand Slam champion Iga Swiatek pulled out of the Ningbo Open in China with a persistent thigh injury, confirming she will miss the season-ending WTA Finals in Turin.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/3995114-tennis-swiatek-loses-last-chance-to-qualify-for-wta-finals-after-withdrawing-from-ningbo"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/iga-swiatek-withdraws-from-ningbo-open-dimming-wta-finals-hopes/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Acqui-hiring",
+    "definition": "Acqui-hiring is the process of buying a startup primarily to acquire its talented engineering or leadership team rather than for its products or revenue. As seen with Disney recruiting engineering talent from struggling AI startups, legacy companies often use this strategy to instantly buy hard-to-find technical expertise.",
+    "sources": [
+      {
+        "name": "Cartoon Brew",
+        "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-character-ai-employee-hires-268139.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Daytona raised $60M at a $1 billion valuation to build the agentic cloud",
+    "body": "The startup secured its Series B round led by FirstMark to build infrastructure designed specifically for AI agents. The funding featured prominent backers including Stripe CEO Patrick Collison.",
+    "questions": [
+      "How does Daytona's 'agentic cloud' model differ from traditional AWS or Azure cloud hosting services?",
+      "If you were pitching FirstMark on a $1B valuation for an infrastructure startup, what key metrics would you emphasize?",
+      "How might UCI's computer science and business networks help you validate a developer tool startup idea on campus?"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "SpaceX reports Q3 earnings as markets track its massive data center spending.",
+      "blurb": "Investors are watching how Elon Musk's defense tech conglomerate balances capital expenditure with growth."
+    },
+    {
+      "headline": "Disney budgets $180 million over three years to retain Character.AI staff.",
+      "blurb": "The media giant is doubling down on startup talent acquisition after hiring the chatbot maker's former CEO."
+    },
+    {
+      "headline": "Startup Daytona hits a $1 billion valuation with a $60 million Series B round.",
+      "blurb": "The company is building specialized cloud infrastructure designed to handle the heavy demands of AI agents."
+    },
+    {
+      "headline": "Anthropic's hiring data shows junior technical roles dropping from 27% to 9%.",
+      "blurb": "The company's internal report highlights how automated AI agents are reshaping entry-level tech recruitment."
+    },
+    {
+      "headline": "Ex-OpenAI executive Bob McGrew launches manufacturing startup Arda.",
+      "blurb": "The new venture raised $230 million at a $1.5 billion valuation to bring U.S. manufacturing back using AI."
+    }
+  ],
+  "emailQuestion": "How does Daytona's 'agentic cloud' model differ from traditional AWS or Azure cloud hosting services?"
+}
