@@ -1,0 +1,244 @@
+{
+  "id": "2026-10-21-pm",
+  "slot": "evening",
+  "date": "2026-10-21",
+  "dateLabel": "Wed, Oct 21, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-22T01:26:22.625Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "McKinsey's $760B AI reality check, Boeing's MAX 10 win, and OpenAI on Google Cloud.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 21",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,757",
+        "change": "+0.58%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,703",
+        "change": "+1.05%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,856",
+        "change": "+0.69%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.15%",
+        "change": "+3 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,132",
+        "change": "−0.44%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "McKinsey Says AI Needs $760 Billion in Profit to Justify Infrastructure Boom",
+    "body": "A new McKinsey report estimates companies will direct $7 trillion into AI infrastructure by 2030. To justify that scale of capital spending, the sector must produce $760 billion in annual profit. McKinsey found that much of this financial return will have to come from businesses redesigning everyday work processes and boosting worker productivity.",
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-needs-760-billion-in-annual-profit-to-justify-7-trillion-infra-investment-by-2030-mckinsey/articleshow/135086407.cms"
+      }
+    ],
+    "why": "In your Merage finance and management courses, you will study capital allocation. This research shows that hardware spending alone cannot support company valuations without real operational gains.",
+    "kicker": "Consulting + AI Infrastructure",
+    "figures": [
+      {
+        "value": "$760B",
+        "label": "annual profit needed by 2030"
+      },
+      {
+        "value": "$7T",
+        "label": "projected infrastructure spend"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Boeing 737 MAX 10 Secures FAA Certification",
+          "body": "The Federal Aviation Administration certified Boeing's largest 737 MAX jet, clearing the path for commercial deliveries. The model carries 1,555 orders from over 30 airline customers, accounting for one-third of Boeing's total 737 MAX order book.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes"
+            }
+          ],
+          "why": "Understanding how industrial companies convert massive order backlogs into deliveries helps when analyzing cash flow and supply chain bottlenecks."
+        },
+        {
+          "headline": "IBM Beats Q3 Estimates and Raises Cash Flow Targets",
+          "body": "IBM reported third-quarter financial results that topped Wall Street estimates and raised its full-year free-cash-flow forecast. Shares rose following the update, though the company continues to manage broader operational turnaround challenges.",
+          "sources": [
+            {
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/ibm-earnings-stock-price-bba33897"
+            }
+          ],
+          "why": "Free cash flow is a core valuation metric you will use in equity research and investment analysis to gauge how much cash a business actually pockets."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI Launches Models on Google Cloud",
+          "body": "OpenAI reached an agreement to offer its artificial intelligence models to corporate software developers on Google Cloud. The expansion ends its historical exclusive distribution through Microsoft Azure and places its models on all three leading cloud networks.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
+            }
+          ],
+          "why": "For future software startups, multi-cloud availability prevents platform lock-in and gives developers more pricing leverage when deploying models."
+        },
+        {
+          "headline": "Nvidia Debuts Agent Guardrail Platform at GTC Berlin",
+          "body": "At its GTC conference in Berlin, Nvidia introduced a software platform designed to prevent autonomous AI agents from acting outside set parameters. Chief executive Jensen Huang also displayed new humanoid robotics blueprints for industrial applications.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html"
+            },
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/jensen-huang-berlin-gtc-keynote-protester-nvidia-robot-demo-2026-10"
+            }
+          ],
+          "why": "As autonomous software handles more enterprise tasks, safety and compliance guardrails will become standard tooling that consulting firms recommend to clients."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Finds AI Output Can Slow Strategic Decision-Making",
+          "body": "A study from McKinsey found that companies risk making slower strategic calls when deploying AI without proper human review. Executives frequently struggle to verify underlying assumptions while sifting through surging volumes of machine-generated reports.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/business/3995550-ai-generated-analysis-may-slow-strategic-decisions-without-human-oversight-mckinsey"
+            }
+          ],
+          "why": "In consulting case prep, this is a reminder that data volume does not equal insight. Quality analysis requires validating your core business assumptions."
+        },
+        {
+          "headline": "Anthropic Junior Tech Hiring Drops to 9% as Agents Expand",
+          "body": "Anthropic reported that the share of junior technical staff it hires dropped from 27% to 9% since late 2025. The company revealed that internal AI agents now record six hours of work for every one human employee hour.",
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19"
+            },
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+            }
+          ],
+          "why": "Entry-level tech work is transforming quickly, so business students need to develop problem-framing, client communication, and cross-functional project skills rather than routine technical execution."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Computer Science Professor Warns on Deceptive AI Images",
+          "body": "UC Irvine computer science professor Gene Tsudik cautioned that seeing is no longer believing as synthetic imagery grows increasingly convincing. His remarks followed an incident in Santa Ana where local police were alerted by a fabricated image of a venomous snake.",
+          "sources": [
+            {
+              "name": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Iga Swiatek Shuts Down Season Due to Thigh Injury",
+          "body": "Six-time Grand Slam champion Iga Swiatek withdrew from the Ningbo Open after suffering a thigh injury. The decision officially concludes her competitive season and ends her bid to qualify for the year-end WTA Finals.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/21/tennis-thigh-injury-ends-swiatek039s-season-and-wta-finals-bid"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Order Book",
+    "definition": "An order book is the total volume or value of confirmed client purchases a company has agreed to fulfill but has not yet completed. In manufacturing and aerospace, a deep order book gives investors visibility into future sales. For example, Boeing holds 1,555 unfilled orders for its certified 737 MAX 10 jet.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Peak Energy raises $108M to manufacture sodium-ion batteries",
+    "body": "General Motors led a $108 million Series B financing round for California clean-energy startup Peak Energy. The funding will scale up production of sodium-ion battery units for utility-scale energy storage.",
+    "questions": [
+      "How can campus facilities at UCI use grid storage to lower electricity bills during peak demand hours?",
+      "Why would an automaker like GM invest in stationary energy storage instead of just vehicle batteries?",
+      "What cost advantages do sodium-ion materials offer over standard lithium chemistry when scaling factories?"
+    ],
+    "sources": [
+      {
+        "name": "Spokane Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/oct/21/gm-leads-108-million-funding-round-for-sodium-ion-/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "McKinsey warns AI requires $760 billion in profit to justify its $7 trillion infrastructure tab.",
+      "blurb": "Firms must overhaul workflows and worker productivity to generate adequate financial returns."
+    },
+    {
+      "headline": "Boeing earns FAA certification for its largest 737 MAX jet.",
+      "blurb": "The approval opens customer deliveries for 1,555 backlogged aircraft orders."
+    },
+    {
+      "headline": "OpenAI expands its models to Google Cloud developers.",
+      "blurb": "The partnership broadens OpenAI distribution across all three major public cloud platforms."
+    },
+    {
+      "headline": "Anthropic cuts junior technical hiring from 27% to 9%.",
+      "blurb": "Internal AI agents now log six hours of work for every one human employee hour."
+    },
+    {
+      "headline": "Iga Swiatek ends her 2026 season due to a thigh injury.",
+      "blurb": "The withdrawal from Ningbo rules the six-time major champion out of the WTA Finals."
+    }
+  ],
+  "emailQuestion": "How can campus facilities at UCI use grid storage to lower electricity bills during peak demand hours?"
+}
