@@ -1,69 +1,77 @@
 {
-  "id": "2026-10-21-pm",
-  "slot": "evening",
-  "date": "2026-10-21",
-  "dateLabel": "Wed, Oct 21, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-22T01:26:22.625Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "McKinsey's $760B AI reality check, Boeing's MAX 10 win, and OpenAI on Google Cloud.",
-  "storyCount": 11,
-  "readMinutes": 4,
+  "id": "2026-10-22-am",
+  "slot": "morning",
+  "date": "2026-10-22",
+  "dateLabel": "Thu, Oct 22, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-22T13:42:20.102Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Meta introduces new shares for AI, Tesla builds Optimus robots, and Legora raises $550 million.",
+  "storyCount": 9,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Oct 21",
+    "asOf": "9:41 AM ET, Oct 22",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,757",
-        "change": "+0.58%",
-        "direction": "up"
+        "value": "7,694",
+        "change": "−0.81%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,703",
-        "change": "+1.05%",
-        "direction": "up"
+        "value": "26,311",
+        "change": "−1.47%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,856",
-        "change": "+0.69%",
-        "direction": "up"
+        "value": "52,725",
+        "change": "−0.25%",
+        "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.15%",
-        "change": "+3 bp",
-        "direction": "up"
+        "value": "5.04%",
+        "change": "−11 bp",
+        "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,132",
-        "change": "−0.44%",
+        "value": "$4,090",
+        "change": "−1.45%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "McKinsey Says AI Needs $760 Billion in Profit to Justify Infrastructure Boom",
-    "body": "A new McKinsey report estimates companies will direct $7 trillion into AI infrastructure by 2030. To justify that scale of capital spending, the sector must produce $760 billion in annual profit. McKinsey found that much of this financial return will have to come from businesses redesigning everyday work processes and boosting worker productivity.",
+    "headline": "Meta Launches Non-Voting Shares to Fund Massive AI Push",
+    "body": "Meta introduced a new class of non-voting shares on Wednesday to help fund its costly AI expansion. The Facebook and Instagram parent also reported strong growth for its consumer AI agent app Muse, which has surpassed 10 million users, and forecast fourth-quarter revenue above Wall Street estimates.",
     "sources": [
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-needs-760-billion-in-annual-profit-to-justify-7-trillion-infra-investment-by-2030-mckinsey/articleshow/135086407.cms"
-      }
-    ],
-    "why": "In your Merage finance and management courses, you will study capital allocation. This research shows that hardware spending alone cannot support company valuations without real operational gains.",
-    "kicker": "Consulting + AI Infrastructure",
-    "figures": [
-      {
-        "value": "$760B",
-        "label": "annual profit needed by 2030"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
       },
       {
-        "value": "$7T",
-        "label": "projected infrastructure spend"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
+      }
+    ],
+    "why": "This is a masterclass in corporate finance and capital structure. Understanding how big tech companies issue new classes of shares to fund capital-intensive projects gives you a front-row seat to how modern tech giants scale their infrastructure.",
+    "kicker": "Tech & Markets",
+    "figures": [
+      {
+        "value": "10M+",
+        "label": "Muse AI app users"
+      },
+      {
+        "value": "4%",
+        "label": "Stock gain in extended trading"
       }
     ]
   },
@@ -73,26 +81,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Boeing 737 MAX 10 Secures FAA Certification",
-          "body": "The Federal Aviation Administration certified Boeing's largest 737 MAX jet, clearing the path for commercial deliveries. The model carries 1,555 orders from over 30 airline customers, accounting for one-third of Boeing's total 737 MAX order book.",
+          "headline": "Tesla Starts Producing Optimus Robots at Fremont",
+          "body": "Tesla has begun manufacturing production-quality versions of its humanoid robot, Optimus, at its Fremont factory. Elon Musk stated he expects to begin customer deliveries at the end of 2027.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10"
             }
           ],
-          "why": "Understanding how industrial companies convert massive order backlogs into deliveries helps when analyzing cash flow and supply chain bottlenecks."
+          "why": "If you are interested in hardware startups and automation, watch how Tesla scales its robotics manufacturing. It bridges the gap between pure software AI and physical product execution."
         },
         {
-          "headline": "IBM Beats Q3 Estimates and Raises Cash Flow Targets",
-          "body": "IBM reported third-quarter financial results that topped Wall Street estimates and raised its full-year free-cash-flow forecast. Shares rose following the update, though the company continues to manage broader operational turnaround challenges.",
+          "headline": "Higher Electric Bills Force Consumers to Cut Back on Groceries",
+          "body": "A new Consumer Reports survey reveals that 1 in 5 Americans have cut grocery spending to afford rising electricity bills. Meanwhile, North Carolina regulators are considering proposed rate increases from Duke Energy.",
           "sources": [
             {
-              "name": "Barron's",
-              "url": "https://www.barrons.com/articles/ibm-earnings-stock-price-bba33897"
+              "name": "WRAL",
+              "url": "https://www.wral.com/news/local/why-power-bill-so-high-what-to-check-find-help/"
+            },
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/money/2026/10/21/higher-grocery-electric-bills-cut-back-survey/92367956007/"
             }
           ],
-          "why": "Free cash flow is a core valuation metric you will use in equity research and investment analysis to gauge how much cash a business actually pockets."
+          "why": "Macroeconomic pressures directly affect consumer discretionary spending. When utility costs squeeze household budgets, retail and consumer packaged goods companies feel the immediate downstream impact."
         }
       ]
     },
@@ -101,30 +113,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI Launches Models on Google Cloud",
-          "body": "OpenAI reached an agreement to offer its artificial intelligence models to corporate software developers on Google Cloud. The expansion ends its historical exclusive distribution through Microsoft Azure and places its models on all three leading cloud networks.",
+          "headline": "Walmart Unveils Tools for AI Shopping Agents",
+          "body": "Walmart has introduced new tools that allow artificial intelligence agents to shop and complete transactions on behalf of customers. The retail giant is positioning itself for the growing wave of AI assistants taking over online commerce.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/walmart-launches-tools-for-ai-agents-to-shop-for-customers"
             }
           ],
-          "why": "For future software startups, multi-cloud availability prevents platform lock-in and gives developers more pricing leverage when deploying models."
+          "why": "Retail tech is shifting from traditional search bars to autonomous agents. Think about how this changes customer acquisition costs and digital marketing strategies for brands selling online."
         },
         {
-          "headline": "Nvidia Debuts Agent Guardrail Platform at GTC Berlin",
-          "body": "At its GTC conference in Berlin, Nvidia introduced a software platform designed to prevent autonomous AI agents from acting outside set parameters. Chief executive Jensen Huang also displayed new humanoid robotics blueprints for industrial applications.",
+          "headline": "Anthropic Seeks Human Writers Amid AI Boom",
+          "body": "Despite creating advanced AI chatbots that can generate text instantly, Anthropic has opened a high-paying role for an experienced human writer. Experts note the opening reflects a rising premium placed on human judgment and complex editorial oversight.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/technology/article/nvidia-debuts-platform-for-keeping-ai-agents-from-going-rogue-and-humanoid-robot-design-at-gtc-berlin-113000342.html"
-            },
-            {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/jensen-huang-berlin-gtc-keynote-protester-nvidia-robot-demo-2026-10"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html"
             }
           ],
-          "why": "As autonomous software handles more enterprise tasks, safety and compliance guardrails will become standard tooling that consulting firms recommend to clients."
+          "why": "Even as generative AI automates routine tasks, companies are paying top dollar for sharp human judgment. It highlights the exact soft skills you should focus on developing during your business degree."
         }
       ]
     },
@@ -133,19 +141,8 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Finds AI Output Can Slow Strategic Decision-Making",
-          "body": "A study from McKinsey found that companies risk making slower strategic calls when deploying AI without proper human review. Executives frequently struggle to verify underlying assumptions while sifting through surging volumes of machine-generated reports.",
-          "sources": [
-            {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/business/3995550-ai-generated-analysis-may-slow-strategic-decisions-without-human-oversight-mckinsey"
-            }
-          ],
-          "why": "In consulting case prep, this is a reminder that data volume does not equal insight. Quality analysis requires validating your core business assumptions."
-        },
-        {
-          "headline": "Anthropic Junior Tech Hiring Drops to 9% as Agents Expand",
-          "body": "Anthropic reported that the share of junior technical staff it hires dropped from 27% to 9% since late 2025. The company revealed that internal AI agents now record six hours of work for every one human employee hour.",
+          "headline": "Anthropic Junior Tech Hiring Drops to 9%",
+          "body": "A recent Anthropic report highlights that its share of junior technical hires has fallen from 27% to 9% since December 2025. The company notes that AI agents are taking on more entry-level work, a shift that could signal changing hiring trends across the tech sector.",
           "sources": [
             {
               "name": "Business Today",
@@ -156,23 +153,7 @@
               "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
             }
           ],
-          "why": "Entry-level tech work is transforming quickly, so business students need to develop problem-framing, client communication, and cross-functional project skills rather than routine technical execution."
-        }
-      ]
-    },
-    {
-      "key": "uci",
-      "title": "UC Irvine",
-      "stories": [
-        {
-          "headline": "UCI Computer Science Professor Warns on Deceptive AI Images",
-          "body": "UC Irvine computer science professor Gene Tsudik cautioned that seeing is no longer believing as synthetic imagery grows increasingly convincing. His remarks followed an incident in Santa Ana where local police were alerted by a fabricated image of a venomous snake.",
-          "sources": [
-            {
-              "name": "The Mercury News",
-              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
-            }
-          ]
+          "why": "As a first-year business student looking at tech and consulting internships, you need to be aware of how AI is squeezing traditional entry-level pathways. Building high-level strategic skills early is your best defense."
         }
       ]
     },
@@ -181,12 +162,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Iga Swiatek Shuts Down Season Due to Thigh Injury",
-          "body": "Six-time Grand Slam champion Iga Swiatek withdrew from the Ningbo Open after suffering a thigh injury. The decision officially concludes her competitive season and ends her bid to qualify for the year-end WTA Finals.",
+          "headline": "James Duckworth Reaches Almaty Open Quarter-Finals",
+          "body": "Australian tennis veteran James Duckworth advanced to the quarter-finals of the Almaty Open in Kazakhstan. The 34-year-old continues his gritty run on the tour after years of battling injuries.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/10/21/tennis-thigh-injury-ends-swiatek039s-season-and-wta-finals-bid"
+              "name": "PerthNow",
+              "url": "https://www.perthnow.com.au/sport/tennis/almighty-in-almaty-aussie-tennis-veteran-flying-high-c-23055833"
             }
           ]
         }
@@ -194,51 +175,59 @@
     }
   ],
   "term": {
-    "name": "Order Book",
-    "definition": "An order book is the total volume or value of confirmed client purchases a company has agreed to fulfill but has not yet completed. In manufacturing and aerospace, a deep order book gives investors visibility into future sales. For example, Boeing holds 1,555 unfilled orders for its certified 737 MAX 10 jet.",
+    "name": "Non-Voting Shares",
+    "definition": "A class of stock that does not give shareholders voting rights on corporate matters, such as electing board members. Companies sometimes issue these shares to raise capital for massive projects like AI infrastructure while allowing founders and early executives to retain voting control.",
     "sources": [
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/markets/boeings-largest737-max-jet-wins-faa-certification-clearing-way-deliveries-1555-ordered-planes"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
       }
     ]
   },
   "serve": {
-    "headline": "Peak Energy raises $108M to manufacture sodium-ion batteries",
-    "body": "General Motors led a $108 million Series B financing round for California clean-energy startup Peak Energy. The funding will scale up production of sodium-ion battery units for utility-scale energy storage.",
+    "headline": "Legora raised $550M in Series E funding at an $8.8B valuation",
+    "body": "The Stockholm-based legal artificial intelligence startup secured the massive late-stage investment led by Atreides Management to accelerate its global expansion. Legora builds AI tools tailored for law firms and corporate legal departments.",
     "questions": [
-      "How can campus facilities at UCI use grid storage to lower electricity bills during peak demand hours?",
-      "Why would an automaker like GM invest in stationary energy storage instead of just vehicle batteries?",
-      "What cost advantages do sodium-ion materials offer over standard lithium chemistry when scaling factories?"
+      "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?",
+      "What customer acquisition strategies work best when selling AI tools to conservative industries like law?",
+      "How would you map out Legora's international expansion strategy from Stockholm to the US market?"
     ],
     "sources": [
       {
-        "name": "Spokane Spokesman-Review",
-        "url": "https://www.spokesman.com/stories/2026/oct/21/gm-leads-108-million-funding-round-for-sodium-ion-/"
+        "name": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-law/"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/legal-ai-startup-legora-valued-88-billion-new-550-million-funding-round-2026-10-21/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "McKinsey warns AI requires $760 billion in profit to justify its $7 trillion infrastructure tab.",
-      "blurb": "Firms must overhaul workflows and worker productivity to generate adequate financial returns."
+      "headline": "Meta issued non-voting shares to fund its expensive AI expansion.",
+      "blurb": "The company also reported over 10 million users for its Muse AI app."
     },
     {
-      "headline": "Boeing earns FAA certification for its largest 737 MAX jet.",
-      "blurb": "The approval opens customer deliveries for 1,555 backlogged aircraft orders."
+      "headline": "Tesla started producing its humanoid Optimus robot at Fremont.",
+      "blurb": "Customer deliveries are targeted to begin at the end of 2027."
     },
     {
-      "headline": "OpenAI expands its models to Google Cloud developers.",
-      "blurb": "The partnership broadens OpenAI distribution across all three major public cloud platforms."
+      "headline": "Higher electricity bills are forcing 1 in 5 Americans to cut grocery spending.",
+      "blurb": "Consumer Reports highlighted the strain as rate increases are weighed."
     },
     {
-      "headline": "Anthropic cuts junior technical hiring from 27% to 9%.",
-      "blurb": "Internal AI agents now log six hours of work for every one human employee hour."
+      "headline": "Walmart launched tools for AI agents to complete online purchases.",
+      "blurb": "The retailer is preparing for a future where bots handle customer shopping."
     },
     {
-      "headline": "Iga Swiatek ends her 2026 season due to a thigh injury.",
-      "blurb": "The withdrawal from Ningbo rules the six-time major champion out of the WTA Finals."
+      "headline": "Anthropic's junior technical hiring dropped sharply down to 9%.",
+      "blurb": "The company attributes the shift to AI agents taking on more entry-level work."
     }
   ],
-  "emailQuestion": "How can campus facilities at UCI use grid storage to lower electricity bills during peak demand hours?"
+  "emailQuestion": "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?"
 }

@@ -1,0 +1,233 @@
+{
+  "id": "2026-10-22-am",
+  "slot": "morning",
+  "date": "2026-10-22",
+  "dateLabel": "Thu, Oct 22, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-22T13:42:20.102Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Meta introduces new shares for AI, Tesla builds Optimus robots, and Legora raises $550 million.",
+  "storyCount": 9,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "9:41 AM ET, Oct 22",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,694",
+        "change": "−0.81%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,311",
+        "change": "−1.47%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,725",
+        "change": "−0.25%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.04%",
+        "change": "−11 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,090",
+        "change": "−1.45%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Meta Launches Non-Voting Shares to Fund Massive AI Push",
+    "body": "Meta introduced a new class of non-voting shares on Wednesday to help fund its costly AI expansion. The Facebook and Instagram parent also reported strong growth for its consumer AI agent app Muse, which has surpassed 10 million users, and forecast fourth-quarter revenue above Wall Street estimates.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
+      }
+    ],
+    "why": "This is a masterclass in corporate finance and capital structure. Understanding how big tech companies issue new classes of shares to fund capital-intensive projects gives you a front-row seat to how modern tech giants scale their infrastructure.",
+    "kicker": "Tech & Markets",
+    "figures": [
+      {
+        "value": "10M+",
+        "label": "Muse AI app users"
+      },
+      {
+        "value": "4%",
+        "label": "Stock gain in extended trading"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Tesla Starts Producing Optimus Robots at Fremont",
+          "body": "Tesla has begun manufacturing production-quality versions of its humanoid robot, Optimus, at its Fremont factory. Elon Musk stated he expects to begin customer deliveries at the end of 2027.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10"
+            }
+          ],
+          "why": "If you are interested in hardware startups and automation, watch how Tesla scales its robotics manufacturing. It bridges the gap between pure software AI and physical product execution."
+        },
+        {
+          "headline": "Higher Electric Bills Force Consumers to Cut Back on Groceries",
+          "body": "A new Consumer Reports survey reveals that 1 in 5 Americans have cut grocery spending to afford rising electricity bills. Meanwhile, North Carolina regulators are considering proposed rate increases from Duke Energy.",
+          "sources": [
+            {
+              "name": "WRAL",
+              "url": "https://www.wral.com/news/local/why-power-bill-so-high-what-to-check-find-help/"
+            },
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/money/2026/10/21/higher-grocery-electric-bills-cut-back-survey/92367956007/"
+            }
+          ],
+          "why": "Macroeconomic pressures directly affect consumer discretionary spending. When utility costs squeeze household budgets, retail and consumer packaged goods companies feel the immediate downstream impact."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Walmart Unveils Tools for AI Shopping Agents",
+          "body": "Walmart has introduced new tools that allow artificial intelligence agents to shop and complete transactions on behalf of customers. The retail giant is positioning itself for the growing wave of AI assistants taking over online commerce.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/walmart-launches-tools-for-ai-agents-to-shop-for-customers"
+            }
+          ],
+          "why": "Retail tech is shifting from traditional search bars to autonomous agents. Think about how this changes customer acquisition costs and digital marketing strategies for brands selling online."
+        },
+        {
+          "headline": "Anthropic Seeks Human Writers Amid AI Boom",
+          "body": "Despite creating advanced AI chatbots that can generate text instantly, Anthropic has opened a high-paying role for an experienced human writer. Experts note the opening reflects a rising premium placed on human judgment and complex editorial oversight.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html"
+            }
+          ],
+          "why": "Even as generative AI automates routine tasks, companies are paying top dollar for sharp human judgment. It highlights the exact soft skills you should focus on developing during your business degree."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Anthropic Junior Tech Hiring Drops to 9%",
+          "body": "A recent Anthropic report highlights that its share of junior technical hires has fallen from 27% to 9% since December 2025. The company notes that AI agents are taking on more entry-level work, a shift that could signal changing hiring trends across the tech sector.",
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19"
+            },
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+            }
+          ],
+          "why": "As a first-year business student looking at tech and consulting internships, you need to be aware of how AI is squeezing traditional entry-level pathways. Building high-level strategic skills early is your best defense."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "James Duckworth Reaches Almaty Open Quarter-Finals",
+          "body": "Australian tennis veteran James Duckworth advanced to the quarter-finals of the Almaty Open in Kazakhstan. The 34-year-old continues his gritty run on the tour after years of battling injuries.",
+          "sources": [
+            {
+              "name": "PerthNow",
+              "url": "https://www.perthnow.com.au/sport/tennis/almighty-in-almaty-aussie-tennis-veteran-flying-high-c-23055833"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Non-Voting Shares",
+    "definition": "A class of stock that does not give shareholders voting rights on corporate matters, such as electing board members. Companies sometimes issue these shares to raise capital for massive projects like AI infrastructure while allowing founders and early executives to retain voting control.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Legora raised $550M in Series E funding at an $8.8B valuation",
+    "body": "The Stockholm-based legal artificial intelligence startup secured the massive late-stage investment led by Atreides Management to accelerate its global expansion. Legora builds AI tools tailored for law firms and corporate legal departments.",
+    "questions": [
+      "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?",
+      "What customer acquisition strategies work best when selling AI tools to conservative industries like law?",
+      "How would you map out Legora's international expansion strategy from Stockholm to the US market?"
+    ],
+    "sources": [
+      {
+        "name": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-law/"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/legal-ai-startup-legora-valued-88-billion-new-550-million-funding-round-2026-10-21/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Meta issued non-voting shares to fund its expensive AI expansion.",
+      "blurb": "The company also reported over 10 million users for its Muse AI app."
+    },
+    {
+      "headline": "Tesla started producing its humanoid Optimus robot at Fremont.",
+      "blurb": "Customer deliveries are targeted to begin at the end of 2027."
+    },
+    {
+      "headline": "Higher electricity bills are forcing 1 in 5 Americans to cut grocery spending.",
+      "blurb": "Consumer Reports highlighted the strain as rate increases are weighed."
+    },
+    {
+      "headline": "Walmart launched tools for AI agents to complete online purchases.",
+      "blurb": "The retailer is preparing for a future where bots handle customer shopping."
+    },
+    {
+      "headline": "Anthropic's junior technical hiring dropped sharply down to 9%.",
+      "blurb": "The company attributes the shift to AI agents taking on more entry-level work."
+    }
+  ],
+  "emailQuestion": "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?"
+}
