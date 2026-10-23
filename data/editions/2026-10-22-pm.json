@@ -1,0 +1,256 @@
+{
+  "id": "2026-10-22-pm",
+  "slot": "evening",
+  "date": "2026-10-22",
+  "dateLabel": "Thu, Oct 22, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-23T07:23:31.168Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Global markets slip on AI spend fears, DeepSeek raises $15B, and Alex Eala bows out in Ningbo.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 22",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,663",
+        "change": "−1.21%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,009",
+        "change": "−2.60%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,868",
+        "change": "+0.02%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.95%",
+        "change": "−19 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,028",
+        "change": "−0.80%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Worldwide Drops for AI Stocks Send Wall Street Toward Worst Day Since July",
+    "body": "Global markets slid sharply as a major sell-off in artificial intelligence stocks dragged down Wall Street and international indexes. At the same time, mounting worries over a potential conflict involving Iran pushed oil prices to their highest levels since May. Safe-haven assets saw a massive surge, with US Treasury bonds posting their best single-day performance in over a year as investors panicked over heavy tech spending.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994"
+      },
+      {
+        "name": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/world/20261023/worldwide-drops-for-ai-stocks-send-wall-street-toward-its-worst-day-since-july"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms"
+      }
+    ],
+    "why": "When public tech valuations drop and safe havens spike, it changes how venture capitalists value startups and how corporate partners budget for new software. Keep a close eye on these shifts as you analyze market sentiment for your finance and investing classes.",
+    "kicker": "Markets + Tech",
+    "figures": [
+      {
+        "value": "1.4%",
+        "label": "S&P 500 drop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Tesla Driver Blames FSD After Fatal Crash on I-80",
+          "body": "A 71-year-old man was struck and killed by a Tesla in Vallejo, California, while crossing a highway. The driver told the California Highway Patrol that the vehicle was operating in Full Self-Driving mode at the time of the crash.",
+          "sources": [
+            {
+              "name": "San Francisco Chronicle",
+              "url": "https://www.sfchronicle.com/bayarea/article/self-driving-tesla-fatally-strikes-man-on-highway-22489051.php"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california"
+            }
+          ],
+          "why": "If you are looking at autonomous driving startups or tech liability in your business courses, cases like this highlight the massive legal and regulatory hurdles companies face when scaling AI hardware."
+        },
+        {
+          "headline": "Seasonal Job Hiring Surges at Amazon and Other Retailers",
+          "body": "Major employers are ramping up temporary holiday hiring to prepare for the upcoming shopping rush. Amazon announced plans to fill 300,000 seasonal part-time and full-time roles across its network.",
+          "sources": [
+            {
+              "name": "Good Morning America",
+              "url": "https://www.goodmorningamerica.com/news/story/seasonal-job-hiring-amazon-ups-spirit-halloween-surging-137471181"
+            }
+          ],
+          "why": "Understanding how massive supply chains handle seasonal labor demand gives you a practical framework for analyzing retail operations and inventory management."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Canva Launches In-House Image Generation Model in Race Against Tech Giants",
+          "body": "Design software giant Canva has released its first native image generation model, called Canva Craft. Built by its in-house research team, the tool is designed to compete directly with offerings from OpenAI, Google, and Meta after previous delays driven by high external AI costs.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+            },
+            {
+              "name": "Australian Financial Review",
+              "url": "https://www.afr.com/technology/canva-reveals-new-ai-image-tool-as-it-races-to-beat-google-openai-20261023-p617xj"
+            }
+          ],
+          "why": "This is a textbook case of a tech company managing unit economics by bringing expensive AI infrastructure in-house rather than relying entirely on third-party APIs."
+        },
+        {
+          "headline": "Nvidia and Tesla Pour Billions Into Advanced Chip Substrates",
+          "body": "Nvidia and Tesla have paid Samsung nearly $3 billion combined to secure long-term supply of Flip Chip-Ball Grid Array substrates. Both tech giants are aggressively locking down the specialized packaging layers needed to prevent a future hardware bottleneck for AI chips and humanoid robots.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/report-elon-musk-chases-jensen-huang-as-tesla-bankrolls-830-million-of-samsungs-substrate-plant-to-lock-5-years-of-supply-for-its-humanoid-robots-and-self-driving-cars/"
+            }
+          ],
+          "why": "Understanding hardware supply chain chokepoints is crucial for analyzing tech sector moats and capital expenditures in your investing coursework."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Share of Gen Z Carrying Credit Card Balances Jumps Nearly 20%",
+          "body": "A new Deloitte report shows that the share of Gen Z adults aged 18 to 29 carrying a credit card balance from month to month grew by more than 19% between late 2023 and mid-2026.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/make-it/2026/10/22/gen-z-credit-card-debt-investing.html"
+            }
+          ],
+          "why": "Consumer debt trends dictate retail spending and fintech adoption. Keep this statistic in mind when evaluating early-stage consumer finance startups."
+        },
+        {
+          "headline": "Korn Ferry Report Finds 81% of Employers Plan to Increase Early-Career Hiring",
+          "body": "New global research from Korn Ferry indicates that the vast majority of employers plan to increase early-career hiring as AI reshapes junior roles around problem-solving and human oversight.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/b2b/human-resources/story/2026-10-22/ai-entry-level-jobs-korn-ferry-report"
+            }
+          ],
+          "why": "Despite worries about automation replacing entry-level work, major firms are still actively hunting for young talent who can manage and supervise new technologies."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Computer Science Professor Warns of Convincing Fake AI Images",
+          "body": "As law enforcement deals with a surge of realistic AI-generated images circulating online, UC Irvine distinguished professor of computer science Gene Tsudik noted that seeing is no longer believing.",
+          "sources": [
+            {
+              "name": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alex Eala Bows Out of Ningbo Open Against Diana Shnaider",
+          "body": "Filipina tennis standout Alexandra Eala fell to world No. 13 Diana Shnaider of Russia in a tough 5-7, 4-6 match during the round-of-16 at the Ningbo Open.",
+          "sources": [
+            {
+              "name": "Rappler",
+              "url": "https://www.rappler.com/people/athletes/alex-eala-diana-shnaider-tennis-ningbo-open-october-22-2026/"
+            },
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/22/sports/eala-exits-ningbo-open-after-bowing-to-russian-foe/2451635"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Capex (Capital Expenditure)",
+    "definition": "Capex refers to funds used by a company to acquire, upgrade, and maintain physical assets like property, industrial buildings, or computer hardware. In today's news, heavy corporate spending on AI infrastructure and chip factories highlights how massive capital expenditures can rattle equity markets when investors worry about short-term returns.",
+    "sources": [
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994"
+      },
+      {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4656153-tractor-supply-outlines-capex-below-4-percent-of-sales-in-2027-as-it-targets-75m-in-sg-and-a"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Enact Intelligence raised $30M pre-seed to give robots a sense of touch",
+    "body": "Zurich-based Enact Intelligence builds robots that sense force and touch through their motors rather than just cameras. The startup emerged from stealth with a $30 million funding round backed by redalpine, Notion Capital, and firstminute capital.",
+    "questions": [
+      "If a robotics startup relies on motor feedback instead of cameras, how does that change its hardware manufacturing costs?",
+      "How would you pitch this tactile-sensing technology to enterprise warehouse operators at Merage pitch competitions?",
+      "What kind of recurring revenue model could a hardware startup like this build alongside its initial robot sales?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/enact-intelligence-30m-pre-seed-robot-touch"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Worldwide AI stock sell-off rattles Wall Street.",
+      "blurb": "Fears over heavy AI spending and geopolitical oil spikes triggered a sharp market drop."
+    },
+    {
+      "headline": "Tesla driver blames FSD in fatal I-80 crash.",
+      "blurb": "Authorities are reviewing dashcam footage after a 71-year-old pedestrian was struck."
+    },
+    {
+      "headline": "Canva launches in-house image generation model.",
+      "blurb": "The design giant built its own tool to avoid the high costs of third-party AI APIs."
+    },
+    {
+      "headline": "Gen Z credit card balances see a sharp uptick.",
+      "blurb": "Deloitte finds a nearly 20% increase in young adults carrying month-to-month debt."
+    },
+    {
+      "headline": "Enact secures $30M to give robots a sense of touch.",
+      "blurb": "The Zurich startup wants machines to feel force through their motors."
+    }
+  ],
+  "emailQuestion": "If a robotics startup relies on motor feedback instead of cameras, how does that change its hardware manufacturing costs?"
+}

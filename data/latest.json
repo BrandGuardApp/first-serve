@@ -1,77 +1,73 @@
 {
-  "id": "2026-10-22-am",
-  "slot": "morning",
+  "id": "2026-10-22-pm",
+  "slot": "evening",
   "date": "2026-10-22",
   "dateLabel": "Thu, Oct 22, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-22T13:42:20.102Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Meta introduces new shares for AI, Tesla builds Optimus robots, and Legora raises $550 million.",
-  "storyCount": 9,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-23T07:23:31.168Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Global markets slip on AI spend fears, DeepSeek raises $15B, and Alex Eala bows out in Ningbo.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "9:41 AM ET, Oct 22",
+    "asOf": "Close, Oct 22",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,694",
-        "change": "−0.81%",
+        "value": "7,663",
+        "change": "−1.21%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,311",
-        "change": "−1.47%",
+        "value": "26,009",
+        "change": "−2.60%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,725",
-        "change": "−0.25%",
-        "direction": "down"
+        "value": "52,868",
+        "change": "+0.02%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.04%",
-        "change": "−11 bp",
+        "value": "4.95%",
+        "change": "−19 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,090",
-        "change": "−1.45%",
+        "value": "$4,028",
+        "change": "−0.80%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Meta Launches Non-Voting Shares to Fund Massive AI Push",
-    "body": "Meta introduced a new class of non-voting shares on Wednesday to help fund its costly AI expansion. The Facebook and Instagram parent also reported strong growth for its consumer AI agent app Muse, which has surpassed 10 million users, and forecast fourth-quarter revenue above Wall Street estimates.",
+    "headline": "Worldwide Drops for AI Stocks Send Wall Street Toward Worst Day Since July",
+    "body": "Global markets slid sharply as a major sell-off in artificial intelligence stocks dragged down Wall Street and international indexes. At the same time, mounting worries over a potential conflict involving Iran pushed oil prices to their highest levels since May. Safe-haven assets saw a massive surge, with US Treasury bonds posting their best single-day performance in over a year as investors panicked over heavy tech spending.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+        "name": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/world/20261023/worldwide-drops-for-ai-stocks-send-wall-street-toward-its-worst-day-since-july"
       },
       {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms"
       }
     ],
-    "why": "This is a masterclass in corporate finance and capital structure. Understanding how big tech companies issue new classes of shares to fund capital-intensive projects gives you a front-row seat to how modern tech giants scale their infrastructure.",
-    "kicker": "Tech & Markets",
+    "why": "When public tech valuations drop and safe havens spike, it changes how venture capitalists value startups and how corporate partners budget for new software. Keep a close eye on these shifts as you analyze market sentiment for your finance and investing classes.",
+    "kicker": "Markets + Tech",
     "figures": [
       {
-        "value": "10M+",
-        "label": "Muse AI app users"
-      },
-      {
-        "value": "4%",
-        "label": "Stock gain in extended trading"
+        "value": "1.4%",
+        "label": "S&P 500 drop"
       }
     ]
   },
@@ -81,30 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Tesla Starts Producing Optimus Robots at Fremont",
-          "body": "Tesla has begun manufacturing production-quality versions of its humanoid robot, Optimus, at its Fremont factory. Elon Musk stated he expects to begin customer deliveries at the end of 2027.",
+          "headline": "Tesla Driver Blames FSD After Fatal Crash on I-80",
+          "body": "A 71-year-old man was struck and killed by a Tesla in Vallejo, California, while crossing a highway. The driver told the California Highway Patrol that the vehicle was operating in Full Self-Driving mode at the time of the crash.",
           "sources": [
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/tesla-starts-producing-optimus-robots-at-its-fremont-factory-2026-10"
-            }
-          ],
-          "why": "If you are interested in hardware startups and automation, watch how Tesla scales its robotics manufacturing. It bridges the gap between pure software AI and physical product execution."
-        },
-        {
-          "headline": "Higher Electric Bills Force Consumers to Cut Back on Groceries",
-          "body": "A new Consumer Reports survey reveals that 1 in 5 Americans have cut grocery spending to afford rising electricity bills. Meanwhile, North Carolina regulators are considering proposed rate increases from Duke Energy.",
-          "sources": [
-            {
-              "name": "WRAL",
-              "url": "https://www.wral.com/news/local/why-power-bill-so-high-what-to-check-find-help/"
+              "name": "San Francisco Chronicle",
+              "url": "https://www.sfchronicle.com/bayarea/article/self-driving-tesla-fatally-strikes-man-on-highway-22489051.php"
             },
             {
-              "name": "USA Today",
-              "url": "https://www.usatoday.com/story/money/2026/10/21/higher-grocery-electric-bills-cut-back-survey/92367956007/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california"
             }
           ],
-          "why": "Macroeconomic pressures directly affect consumer discretionary spending. When utility costs squeeze household budgets, retail and consumer packaged goods companies feel the immediate downstream impact."
+          "why": "If you are looking at autonomous driving startups or tech liability in your business courses, cases like this highlight the massive legal and regulatory hurdles companies face when scaling AI hardware."
+        },
+        {
+          "headline": "Seasonal Job Hiring Surges at Amazon and Other Retailers",
+          "body": "Major employers are ramping up temporary holiday hiring to prepare for the upcoming shopping rush. Amazon announced plans to fill 300,000 seasonal part-time and full-time roles across its network.",
+          "sources": [
+            {
+              "name": "Good Morning America",
+              "url": "https://www.goodmorningamerica.com/news/story/seasonal-job-hiring-amazon-ups-spirit-halloween-surging-137471181"
+            }
+          ],
+          "why": "Understanding how massive supply chains handle seasonal labor demand gives you a practical framework for analyzing retail operations and inventory management."
         }
       ]
     },
@@ -113,26 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Walmart Unveils Tools for AI Shopping Agents",
-          "body": "Walmart has introduced new tools that allow artificial intelligence agents to shop and complete transactions on behalf of customers. The retail giant is positioning itself for the growing wave of AI assistants taking over online commerce.",
+          "headline": "Canva Launches In-House Image Generation Model in Race Against Tech Giants",
+          "body": "Design software giant Canva has released its first native image generation model, called Canva Craft. Built by its in-house research team, the tool is designed to compete directly with offerings from OpenAI, Google, and Meta after previous delays driven by high external AI costs.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/walmart-launches-tools-for-ai-agents-to-shop-for-customers"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+            },
+            {
+              "name": "Australian Financial Review",
+              "url": "https://www.afr.com/technology/canva-reveals-new-ai-image-tool-as-it-races-to-beat-google-openai-20261023-p617xj"
             }
           ],
-          "why": "Retail tech is shifting from traditional search bars to autonomous agents. Think about how this changes customer acquisition costs and digital marketing strategies for brands selling online."
+          "why": "This is a textbook case of a tech company managing unit economics by bringing expensive AI infrastructure in-house rather than relying entirely on third-party APIs."
         },
         {
-          "headline": "Anthropic Seeks Human Writers Amid AI Boom",
-          "body": "Despite creating advanced AI chatbots that can generate text instantly, Anthropic has opened a high-paying role for an experienced human writer. Experts note the opening reflects a rising premium placed on human judgment and complex editorial oversight.",
+          "headline": "Nvidia and Tesla Pour Billions Into Advanced Chip Substrates",
+          "body": "Nvidia and Tesla have paid Samsung nearly $3 billion combined to secure long-term supply of Flip Chip-Ball Grid Array substrates. Both tech giants are aggressively locking down the specialized packaging layers needed to prevent a future hardware bottleneck for AI chips and humanoid robots.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html"
+              "name": "Wccftech",
+              "url": "https://wccftech.com/report-elon-musk-chases-jensen-huang-as-tesla-bankrolls-830-million-of-samsungs-substrate-plant-to-lock-5-years-of-supply-for-its-humanoid-robots-and-self-driving-cars/"
             }
           ],
-          "why": "Even as generative AI automates routine tasks, companies are paying top dollar for sharp human judgment. It highlights the exact soft skills you should focus on developing during your business degree."
+          "why": "Understanding hardware supply chain chokepoints is crucial for analyzing tech sector moats and capital expenditures in your investing coursework."
         }
       ]
     },
@@ -141,19 +141,42 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Anthropic Junior Tech Hiring Drops to 9%",
-          "body": "A recent Anthropic report highlights that its share of junior technical hires has fallen from 27% to 9% since December 2025. The company notes that AI agents are taking on more entry-level work, a shift that could signal changing hiring trends across the tech sector.",
+          "headline": "Share of Gen Z Carrying Credit Card Balances Jumps Nearly 20%",
+          "body": "A new Deloitte report shows that the share of Gen Z adults aged 18 to 29 carrying a credit card balance from month to month grew by more than 19% between late 2023 and mid-2026.",
           "sources": [
             {
-              "name": "Business Today",
-              "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19"
-            },
-            {
-              "name": "NDTV.com",
-              "url": "https://www.ndtv.com/artificial-intelligence/entry-level-tech-hiring-is-slowing-at-anthropic-its-report-explains-why-12205000"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/make-it/2026/10/22/gen-z-credit-card-debt-investing.html"
             }
           ],
-          "why": "As a first-year business student looking at tech and consulting internships, you need to be aware of how AI is squeezing traditional entry-level pathways. Building high-level strategic skills early is your best defense."
+          "why": "Consumer debt trends dictate retail spending and fintech adoption. Keep this statistic in mind when evaluating early-stage consumer finance startups."
+        },
+        {
+          "headline": "Korn Ferry Report Finds 81% of Employers Plan to Increase Early-Career Hiring",
+          "body": "New global research from Korn Ferry indicates that the vast majority of employers plan to increase early-career hiring as AI reshapes junior roles around problem-solving and human oversight.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/b2b/human-resources/story/2026-10-22/ai-entry-level-jobs-korn-ferry-report"
+            }
+          ],
+          "why": "Despite worries about automation replacing entry-level work, major firms are still actively hunting for young talent who can manage and supervise new technologies."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Computer Science Professor Warns of Convincing Fake AI Images",
+          "body": "As law enforcement deals with a surge of realistic AI-generated images circulating online, UC Irvine distinguished professor of computer science Gene Tsudik noted that seeing is no longer believing.",
+          "sources": [
+            {
+              "name": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+            }
+          ]
         }
       ]
     },
@@ -162,12 +185,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "James Duckworth Reaches Almaty Open Quarter-Finals",
-          "body": "Australian tennis veteran James Duckworth advanced to the quarter-finals of the Almaty Open in Kazakhstan. The 34-year-old continues his gritty run on the tour after years of battling injuries.",
+          "headline": "Alex Eala Bows Out of Ningbo Open Against Diana Shnaider",
+          "body": "Filipina tennis standout Alexandra Eala fell to world No. 13 Diana Shnaider of Russia in a tough 5-7, 4-6 match during the round-of-16 at the Ningbo Open.",
           "sources": [
             {
-              "name": "PerthNow",
-              "url": "https://www.perthnow.com.au/sport/tennis/almighty-in-almaty-aussie-tennis-veteran-flying-high-c-23055833"
+              "name": "Rappler",
+              "url": "https://www.rappler.com/people/athletes/alex-eala-diana-shnaider-tennis-ningbo-open-october-22-2026/"
+            },
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/10/22/sports/eala-exits-ningbo-open-after-bowing-to-russian-foe/2451635"
             }
           ]
         }
@@ -175,59 +202,55 @@
     }
   ],
   "term": {
-    "name": "Non-Voting Shares",
-    "definition": "A class of stock that does not give shareholders voting rights on corporate matters, such as electing board members. Companies sometimes issue these shares to raise capital for massive projects like AI infrastructure while allowing founders and early executives to retain voting control.",
+    "name": "Capex (Capital Expenditure)",
+    "definition": "Capex refers to funds used by a company to acquire, upgrade, and maintain physical assets like property, industrial buildings, or computer hardware. In today's news, heavy corporate spending on AI infrastructure and chip factories highlights how massive capital expenditures can rattle equity markets when investors worry about short-term returns.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21/"
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994"
       },
       {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/markets/meta-touts-ai-progress-while-escalating-its-bet-on-the-market-12217819"
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4656153-tractor-supply-outlines-capex-below-4-percent-of-sales-in-2027-as-it-targets-75m-in-sg-and-a"
       }
     ]
   },
   "serve": {
-    "headline": "Legora raised $550M in Series E funding at an $8.8B valuation",
-    "body": "The Stockholm-based legal artificial intelligence startup secured the massive late-stage investment led by Atreides Management to accelerate its global expansion. Legora builds AI tools tailored for law firms and corporate legal departments.",
+    "headline": "Enact Intelligence raised $30M pre-seed to give robots a sense of touch",
+    "body": "Zurich-based Enact Intelligence builds robots that sense force and touch through their motors rather than just cameras. The startup emerged from stealth with a $30 million funding round backed by redalpine, Notion Capital, and firstminute capital.",
     "questions": [
-      "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?",
-      "What customer acquisition strategies work best when selling AI tools to conservative industries like law?",
-      "How would you map out Legora's international expansion strategy from Stockholm to the US market?"
+      "If a robotics startup relies on motor feedback instead of cameras, how does that change its hardware manufacturing costs?",
+      "How would you pitch this tactile-sensing technology to enterprise warehouse operators at Merage pitch competitions?",
+      "What kind of recurring revenue model could a hardware startup like this build alongside its initial robot sales?"
     ],
     "sources": [
       {
-        "name": "SiliconANGLE News",
-        "url": "https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-law/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/transactional/legal-ai-startup-legora-valued-88-billion-new-550-million-funding-round-2026-10-21/"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/enact-intelligence-30m-pre-seed-robot-touch"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Meta issued non-voting shares to fund its expensive AI expansion.",
-      "blurb": "The company also reported over 10 million users for its Muse AI app."
+      "headline": "Worldwide AI stock sell-off rattles Wall Street.",
+      "blurb": "Fears over heavy AI spending and geopolitical oil spikes triggered a sharp market drop."
     },
     {
-      "headline": "Tesla started producing its humanoid Optimus robot at Fremont.",
-      "blurb": "Customer deliveries are targeted to begin at the end of 2027."
+      "headline": "Tesla driver blames FSD in fatal I-80 crash.",
+      "blurb": "Authorities are reviewing dashcam footage after a 71-year-old pedestrian was struck."
     },
     {
-      "headline": "Higher electricity bills are forcing 1 in 5 Americans to cut grocery spending.",
-      "blurb": "Consumer Reports highlighted the strain as rate increases are weighed."
+      "headline": "Canva launches in-house image generation model.",
+      "blurb": "The design giant built its own tool to avoid the high costs of third-party AI APIs."
     },
     {
-      "headline": "Walmart launched tools for AI agents to complete online purchases.",
-      "blurb": "The retailer is preparing for a future where bots handle customer shopping."
+      "headline": "Gen Z credit card balances see a sharp uptick.",
+      "blurb": "Deloitte finds a nearly 20% increase in young adults carrying month-to-month debt."
     },
     {
-      "headline": "Anthropic's junior technical hiring dropped sharply down to 9%.",
-      "blurb": "The company attributes the shift to AI agents taking on more entry-level work."
+      "headline": "Enact secures $30M to give robots a sense of touch.",
+      "blurb": "The Zurich startup wants machines to feel force through their motors."
     }
   ],
-  "emailQuestion": "How can a B2B startup justify an $8.8 billion valuation before achieving widespread enterprise deployment?"
+  "emailQuestion": "If a robotics startup relies on motor feedback instead of cameras, how does that change its hardware manufacturing costs?"
 }
