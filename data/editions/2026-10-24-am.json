@@ -1,0 +1,211 @@
+{
+  "id": "2026-10-24-am",
+  "slot": "morning",
+  "date": "2026-10-24",
+  "dateLabel": "Sat, Oct 24, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-24T14:28:03.334Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI drops live internet training, Medicare cuts hit millions, and Eka Robotics raises $150M.",
+  "storyCount": 10,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 23",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,624",
+        "change": "−0.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,955",
+        "change": "−0.21%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,215",
+        "change": "−1.23%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.99%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,008",
+        "change": "−1.29%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "OpenAI cuts live web access for AI training over unpredictability risks",
+    "body": "OpenAI is stepping back from training its frontier models on the live internet, opting instead for cached copies and simulated versions. The lab announced the shift just weeks after an engineer questioned whether the approach would work. At the same time, OpenAI resumed reinforcement learning after beefing up security and patching a data compression flaw in Brotli.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "name": "The Star",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access"
+      }
+    ],
+    "why": "As you build your startup knowledge, pay attention to how frontier labs manage operational risk. Infrastructure bottlenecks and security guardrails dictate the speed at which AI companies can scale.",
+    "kicker": "AI + Infrastructure",
+    "figures": []
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Humana and UnitedHealthcare cancel Medicare Advantage plans for 1 million seniors",
+          "body": "Two of the largest U.S. health insurers are discontinuing various Medicare Advantage plans starting next year, citing rising health care costs and a spike in patient utilization. The cuts leave millions of seniors scrambling for alternative coverage as broader market pressures mount.",
+          "sources": [
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/humana-unitedhealthcare-end-medicare-advantage-plans/"
+            }
+          ],
+          "why": "Understanding how regulatory shifts and rising costs force massive enterprises to prune business lines is a key analytical skill for corporate strategy and consulting."
+        },
+        {
+          "headline": "Trader Joe's chicken wraps confirmed as source of ongoing E. coli outbreak",
+          "body": "Federal health authorities and the Department of Agriculture have confirmed that chicken wraps sold at Trader Joe's caused an E. coli outbreak that has sickened at least 50 people. The investigation linked the illness directly to the retailer's pre-packaged food supply.",
+          "sources": [
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/money/food/2026/10/23/trader-joes-wraps-e-coli-outbreak/92403351007/"
+            }
+          ],
+          "why": "Supply chain failures in food retail highlight why rigorous quality control and risk management are critical when managing operations at scale."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "UK government commits $800 million to AI security and defense funding",
+          "body": "Britain's government has announced roughly $800 million in funding geared primarily toward defending against health and security threats tied to artificial intelligence. The bulk of the capital will target major systemic risks in automated environments.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding"
+            }
+          ],
+          "why": "Public sector investments in cybersecurity create massive compliance markets. This is fertile ground for tech consulting firms advising enterprise clients on risk management."
+        },
+        {
+          "headline": "Google Messages rolls out Enhanced Protection mode against spam and scams",
+          "body": "Google is rolling out an Enhanced Protection mode for Android users of Google Messages to counter sophisticated spam and scams. The feature upgrades the existing standard protection block list to handle modern threats.",
+          "sources": [
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/"
+            }
+          ],
+          "why": "Consumer software feature rollouts show how platform owners continuously layer security to build consumer trust, which is vital for maintaining app engagement."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey notes aging private jets could trigger a new business aviation capacity crunch",
+          "body": "The global business aviation industry faces a looming capacity shortage as older private jets approach major maintenance milestones or retirement. Limited new aircraft production makes it difficult for operators to replace aging fleets.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ageing-private-jets-could-trigger-fresh-capacity-crunch-in-business-aviation-mckinsey/"
+            }
+          ],
+          "why": "Niche asset shortages create high-margin consulting opportunities in fleet management, logistics, and capital allocation strategy."
+        },
+        {
+          "headline": "Korn Ferry report finds 76% of talent leaders say entry-level jobs are not disappearing due to AI",
+          "body": "New global research indicates that 81% of employers plan to increase early-career hiring. Talent leaders emphasize that junior roles are shifting toward human judgment, problem-solving, and oversight rather than vanishing entirely.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/b2b/human-resources/story/2026-10-22/ai-entry-level-jobs-korn-ferry-report"
+            }
+          ],
+          "why": "As a first-year business student, this is reassuring data on how corporate recruiting is adapting to AI rather than cutting entry-level pathways."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine criminology research prompts OC prosecutors to expunge DNA database profiles",
+          "body": "The Orange County district attorney's office agreed to remove profiles from its DNA database to settle a constitutional lawsuit. A UC Irvine criminology professor who challenged the program called the move an important step forward.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Trailing Dividend Yield",
+    "definition": "Trailing dividend yield is a financial metric calculated by dividing the total dividends a company paid over the last 12 months by its current share price. While investors use it to screen for high-income stocks, it can be misleading due to one-time special payouts or unsustainable payout ratios. For instance, Indian stocks currently offering high yields require deeper fundamental analysis rather than just surface-level screening.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Eka Robotics raised $150 million in a Series A round led by Andreessen Horowitz and F-Prime to teach robots to feel.",
+    "body": "The Cambridge, Massachusetts-based startup builds robots designed to handle objects using touch alongside sight, moving beyond traditional vision-only systems. The capital will fuel its mission to give industrial automation a better sense of physical touch.",
+    "questions": [
+      "How would you price hardware-as-a-service for a tactile robotics startup?",
+      "What customer acquisition channels would you target first for industrial tactile automation?",
+      "How does a $150M SeriesA change a startup's operational burn rate expectations?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "OpenAI stops training on the live web.",
+      "blurb": "The lab is shifting to cached data and simulations to manage unpredictable AI behavior."
+    },
+    {
+      "headline": "Humana and UnitedHealthcare cut Medicare Advantage plans.",
+      "blurb": "Rising medical costs are forcing major insurers to drop coverage for 1 million seniors."
+    },
+    {
+      "headline": "UK allocates $800M for AI defense.",
+      "blurb": "New government funding targets health and security threats posed by automated tech."
+    },
+    {
+      "headline": "Entry-level jobs are staying put.",
+      "blurb": "Korn Ferry research shows most talent leaders are hiring grads for human oversight roles."
+    }
+  ],
+  "emailQuestion": "How would you price hardware-as-a-service for a tactile robotics startup?"
+}
