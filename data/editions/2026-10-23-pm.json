@@ -1,0 +1,239 @@
+{
+  "id": "2026-10-23-pm",
+  "slot": "evening",
+  "date": "2026-10-23",
+  "dateLabel": "Fri, Oct 23, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-24T00:29:12.512Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic eyes a November IPO, OpenAI fires safety researchers, and Apple rolls out the iPhone Duo.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 23",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,624",
+        "change": "−0.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,955",
+        "change": "−0.21%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,215",
+        "change": "−1.23%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.99%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,010",
+        "change": "−1.24%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic targets November IPO as compute costs mount",
+    "body": "Anthropic is continuing preparations for a stock market debut as early as November. The Claude maker is balancing rising revenue against heavy computing costs, intense competition, and regulatory scrutiny. It is also pushing forward with a new venture named Hg.",
+    "sources": [
+      {
+        "name": "CoinGape",
+        "url": "https://coingape.com/anthropic-prepares-for-major-ipo-amid-ai-competition-and-regulatory-uncertainty/"
+      }
+    ],
+    "why": "For startup founders and investors, Anthropic's public valuation will set the pricing standard for generative AI firms that carry massive infrastructure overhead.",
+    "kicker": "AI + Public Markets",
+    "figures": []
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Jio Platforms sets record demand in India's largest share sale",
+          "body": "Jio Platforms drew Rs 4.9 lakh crore in public subscription bids, lifting total stock demand to Rs 7.4 lakh crore. The offering is the first globally to receive more than one crore investor applications.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-draws-record-rs-4-5-lakh-crore-in-public-subscription-bids-14058744.html"
+            },
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/ipo/jio-ipo-sets-record-with-many-firsts-for-an-indian-ipo-here-are-6-key-milestones-14058721.html"
+            }
+          ],
+          "why": "Tracking how emerging market giants structure massive share sales provides useful real-world context for your Merage finance courses."
+        },
+        {
+          "headline": "Airlines shrug off drop in passenger volume as fares rise",
+          "body": "Checkpoint screenings across the U.S. are on pace for their first annual drop since 2020 as airlines raise fares to offset fuel costs. Executives say travelers are accepting the higher prices, keeping revenues protected.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html"
+            }
+          ],
+          "why": "This is a direct look at pricing power in action: firms protecting margins by passing costs to customers even when unit demand cools."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI fires three safety researchers over suspected Signal leaks",
+          "body": "OpenAI dismissed three safety staff members after discovering Signal chats with an outside AI safety researcher that allegedly contained model designs. The researchers deny wrongdoing, and the dismissals follow an earlier arrest of an engineer who allegedly bugged an executive meeting room.",
+          "sources": [
+            {
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/tech/openai-fires-three-safety-researchers-over-signal-chats-suspecting-leak-of-sensitive-information-to-outside-expert"
+            }
+          ],
+          "why": "Corporate governance and data control are critical risks to watch when evaluating high-growth tech firms and startup investments."
+        },
+        {
+          "headline": "Apple launches its first foldable phone with tight retail supplies",
+          "body": "The iPhone Duo officially went on sale Friday, sparking long lines outside Apple stores. Retail supply remains tight across locations as initial pre-order shipments arrive.",
+          "sources": [
+            {
+              "name": "6abc Philadelphia",
+              "url": "https://6abc.com/post/excited-apple-fans-camp-outside-stores-ahead-new-iphone-duo-release/19971822/"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/"
+            }
+          ],
+          "why": "Consultants closely track major hardware launches to see how premium form factors influence upgrade cycles and component supply chains."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey estimates quantum computing could reach $2.7 trillion by 2035",
+          "body": "A new McKinsey report projects quantum computing could create between $1.3 trillion and $2.7 trillion in economic value globally over the next decade. The firm advises corporate leaders to invest early in partnerships, technical infrastructure, and specialist talent.",
+          "sources": [
+            {
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/info-tech/quantum-computing-could-generate-up-to-27-trillion-by-2035-mckinsey/article71614797.ece"
+            }
+          ],
+          "why": "Consulting practices expand rapidly around deep-tech inflection points, signaling which technology tracks may attract heavy advisory spending."
+        },
+        {
+          "headline": "McKinsey analysis highlights founder-led outperformance in Asia",
+          "body": "McKinsey Asia chairman Gautam Kumra reported that owner-led companies drove half of the $14 trillion in market value created by Asia's top 300 firms over the past 25 years. He urged Indian founders to look beyond domestic borders and build global corporate franchises.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-business-owners-need-to-match-the-global-ambitions-of-korean-and-chinese-peers-gautam-kumra-chairman-of-mckinseys-offices-in-asia/articleshow/135142802.cms"
+            }
+          ],
+          "why": "Evaluating owner-operator governance versus professional management is a staple case study topic in corporate strategy and equity research."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine study shows warm seawater melting Doomsday Glacier",
+          "body": "A research study led by UC Irvine and NASA's Jet Propulsion Laboratory found warm ocean water circulating beneath Antarctica's Doomsday Glacier. The team estimates the process could raise global sea levels by up to 3 centimeters by 2100.",
+          "sources": [
+            {
+              "name": "ThePrint",
+              "url": "https://theprint.in/science/scientists-doomsday-glacier-sea-levels-2100/3074564/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "ATP filters out 234,000 abusive comments targeting tour players",
+          "body": "The ATP announced that more than 85% of men's tennis players faced online abuse over the past year. The tour's monitoring service blocked roughly 234,000 toxic messages to protect players and fans from harassment.",
+          "sources": [
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/sport/tennis/atp-blocks-234000-abusive-comments-from-reaching-players-fans"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Pricing Power",
+    "definition": "Pricing power is a company's ability to raise prices without triggering a sharp drop in customer demand. In today's airline news, major carriers are passing higher fuel costs onto travelers. Even though passenger volume is heading toward its first annual decline since 2020, carriers remain financially comfortable because flyers continue to absorb the higher ticket prices.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Warhound raises $200M for genetically enhanced defense dogs",
+    "body": "Warhound, cofounded by Anduril's Palmer Luckey and Colossal Biosciences' Ben Lamm, raised $200 million out of stealth. The startup plans to develop genetically modified working dogs outfitted with advanced body armor for military and law enforcement agencies.",
+    "questions": [
+      "With Anduril right down the road in Costa Mesa, how can student founders at Merage tap into Orange County's defense tech network?",
+      "How would you pitch investors on a company combining high-risk biotechnology with strict defense contracting requirements?",
+      "What ethical and regulatory hurdles would your consulting team flag before bringing modified biological assets to market?"
+    ],
+    "sources": [
+      {
+        "name": "ThePrint",
+        "url": "https://theprint.in/world/anduril-cofounders-startup-warhound-raises-200-mn-to-develop-genetically-enhanced-military-dogs/3079440/"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic targets November IPO as compute costs mount",
+      "blurb": "The Claude maker is weighing soaring revenues against steep server costs and regulatory scrutiny."
+    },
+    {
+      "headline": "OpenAI fires three safety researchers over suspected Signal leaks",
+      "blurb": "The dismissals follow allegations of sharing model designs with an outside researcher."
+    },
+    {
+      "headline": "Apple launches its first foldable phone with tight retail supplies",
+      "blurb": "Long store lines and low inventory marked Friday's retail debut of the iPhone Duo."
+    },
+    {
+      "headline": "Jio Platforms sets record demand in India's largest share sale",
+      "blurb": "The mega IPO drew Rs 7.4 lakh crore in total demand with over one crore applications."
+    },
+    {
+      "headline": "McKinsey estimates quantum computing could reach $2.7 trillion by 2035",
+      "blurb": "The consultancy urges businesses to build partnerships and talent now to capture value."
+    }
+  ],
+  "emailQuestion": "With Anduril right down the road in Costa Mesa, how can student founders at Merage tap into Orange County's defense tech network?"
+}
