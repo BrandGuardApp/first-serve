@@ -1,14 +1,14 @@
 {
-  "id": "2026-10-24-am",
-  "slot": "morning",
+  "id": "2026-10-24-pm",
+  "slot": "evening",
   "date": "2026-10-24",
   "dateLabel": "Sat, Oct 24, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-24T14:28:03.334Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "OpenAI drops live internet training, Medicare cuts hit millions, and Eka Robotics raises $150M.",
-  "storyCount": 10,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-25T01:02:25.310Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Jio's record $100B IPO, Apple's folding phone cracks, and Gen Z trades the midterms.",
+  "storyCount": 11,
   "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Oct 23",
@@ -46,21 +46,34 @@
     ]
   },
   "lead": {
-    "headline": "OpenAI cuts live web access for AI training over unpredictability risks",
-    "body": "OpenAI is stepping back from training its frontier models on the live internet, opting instead for cached copies and simulated versions. The lab announced the shift just weeks after an engineer questioned whether the approach would work. At the same time, OpenAI resumed reinforcement learning after beefing up security and patching a data compression flaw in Brotli.",
+    "headline": "Jio Platforms IPO draws a record 1 crore applications",
+    "body": "Jio Platforms became the first public offering globally to cross 1 crore applications, with overall bidding reaching nearly seven times the available shares. Backed by Reliance Industries, the digital services company is set to join an exclusive club of founder-led businesses valued above $100 billion at IPO, alongside Meta, Alibaba, and SpaceX.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/jio-platforms-ipo-crosses-1-crore-applications-sets-global-record/54389852"
       },
       {
-        "name": "The Star",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access"
+        "name": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/jio-platforms-ipo-company-set-to-join-100-billion-valuation-club-alongside-meta-spacex"
       }
     ],
-    "why": "As you build your startup knowledge, pay attention to how frontier labs manage operational risk. Infrastructure bottlenecks and security guardrails dictate the speed at which AI companies can scale.",
-    "kicker": "AI + Infrastructure",
-    "figures": []
+    "why": "When studying market demand and valuation multiples at Merage, look at how emerging market digital infrastructure giants can generate massive institutional and retail demand.",
+    "kicker": "Markets + IPOs",
+    "figures": [
+      {
+        "value": "1 crore",
+        "label": "investor applications"
+      },
+      {
+        "value": "$100B",
+        "label": "valuation threshold"
+      },
+      {
+        "value": "7x",
+        "label": "shares subscribed"
+      }
+    ]
   },
   "sections": [
     {
@@ -68,26 +81,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Humana and UnitedHealthcare cancel Medicare Advantage plans for 1 million seniors",
-          "body": "Two of the largest U.S. health insurers are discontinuing various Medicare Advantage plans starting next year, citing rising health care costs and a spike in patient utilization. The cuts leave millions of seniors scrambling for alternative coverage as broader market pressures mount.",
+          "headline": "Gen Z treats midterm elections as a trading catalyst",
+          "body": "A survey from the Nationwide Retirement Institute revealed that 72% of Gen Z investors adjusted their retirement or investment portfolios ahead of the November elections, compared to just 17% of baby boomers. Younger investors are actively repositioning assets around political cycles rather than staying passive.",
           "sources": [
             {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/humana-unitedhealthcare-end-medicare-advantage-plans/"
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"
             }
           ],
-          "why": "Understanding how regulatory shifts and rising costs force massive enterprises to prune business lines is a key analytical skill for corporate strategy and consulting."
+          "why": "In your student investing pitches, test whether tactical reallocation around macro political events consistently outperforms regular dollar-cost averaging."
         },
         {
-          "headline": "Trader Joe's chicken wraps confirmed as source of ongoing E. coli outbreak",
-          "body": "Federal health authorities and the Department of Agriculture have confirmed that chicken wraps sold at Trader Joe's caused an E. coli outbreak that has sickened at least 50 people. The investigation linked the illness directly to the retailer's pre-packaged food supply.",
+          "headline": "Wall Street runs tokenized loans on its $359 billion repo market",
+          "body": "Financial institutions are using blockchain networks to execute short-term borrowing in the $359 billion daily repo market. The setup lets institutions pledge government bonds to unlock intraday cash between breakfast and lunch while lowering transaction costs.",
           "sources": [
             {
-              "name": "USA Today",
-              "url": "https://www.usatoday.com/story/money/food/2026/10/23/trader-joes-wraps-e-coli-outbreak/92403351007/"
+              "name": "CryptoSlate",
+              "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/"
             }
           ],
-          "why": "Supply chain failures in food retail highlight why rigorous quality control and risk management are critical when managing operations at scale."
+          "why": "Understanding how core banking plumbing like overnight repos is modernized gives you strong talking points for investment banking and fintech interviews."
         }
       ]
     },
@@ -96,26 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "UK government commits $800 million to AI security and defense funding",
-          "body": "Britain's government has announced roughly $800 million in funding geared primarily toward defending against health and security threats tied to artificial intelligence. The bulk of the capital will target major systemic risks in automated environments.",
+          "headline": "Apple releases $2,000 foldable iPhone Duo as display issues surface",
+          "body": "Apple rolled out its first folding phone, the iPhone Duo, with a $1,999 price tag across global stores. Early buyers have already begun reporting cracked inner displays along the fold line, with one owner noting screen failure after fewer than 20 folds.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding"
+              "name": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/Apple-s-2-000-foldable-iPhone-reportedly-cracks-within-hours-as-owners-report-display-failures.1432971.0.html"
+            },
+            {
+              "name": "Honolulu Star-Advertiser",
+              "url": "https://www.staradvertiser.com/2026/10/23/breaking-news/apples-2000-foldable-iphone-launches-amid-strong-demand/"
             }
           ],
-          "why": "Public sector investments in cybersecurity create massive compliance markets. This is fertile ground for tech consulting firms advising enterprise clients on risk management."
+          "why": "For product management and case competitions, track how quickly hardware reliability problems can harm consumer sentiment on high-margin flagship devices."
         },
         {
-          "headline": "Google Messages rolls out Enhanced Protection mode against spam and scams",
-          "body": "Google is rolling out an Enhanced Protection mode for Android users of Google Messages to counter sophisticated spam and scams. The feature upgrades the existing standard protection block list to handle modern threats.",
+          "headline": "Older Nvidia GPUs gain rental value as AI token use climbs",
+          "body": "Soaring AI token consumption is turning older graphics processors into appreciating assets in the cloud rental market. Six-year-old chips like Nvidia's A100 are commanding rental premiums of up to 143% as developers scramble for compute to run large language models.",
           "sources": [
             {
-              "name": "9to5Google",
-              "url": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/"
+              "name": "Wccftech",
+              "url": "https://wccftech.com/nvidia-gpus-appreciating-assets-a100-rental-premium/"
             }
           ],
-          "why": "Consumer software feature rollouts show how platform owners continuously layer security to build consumer trust, which is vital for maintaining app engagement."
+          "why": "If you model operating costs for an AI venture, compute expenses do not always fall over time when aggregate model inference demand spikes."
         }
       ]
     },
@@ -124,26 +141,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey notes aging private jets could trigger a new business aviation capacity crunch",
-          "body": "The global business aviation industry faces a looming capacity shortage as older private jets approach major maintenance milestones or retirement. Limited new aircraft production makes it difficult for operators to replace aging fleets.",
+          "headline": "MBA recruiters sweeten internship packages with housing and tuition",
+          "body": "Companies are turning internships into their primary pipeline for management hires, offering tuition assistance, subsidized housing, and executive access alongside standard pay. Career leaders report that employers increasingly want interns tackling live strategic challenges rather than standard busywork.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/ageing-private-jets-could-trigger-fresh-capacity-crunch-in-business-aviation-mckinsey/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/industry/beyond-the-stipend-how-firms-are-competing-for-mba-interns-11792741808909.html"
             }
           ],
-          "why": "Niche asset shortages create high-margin consulting opportunities in fleet management, logistics, and capital allocation strategy."
+          "why": "As you prepare for internship recruiting at Merage, look for programs that offer project ownership and direct mentorship rather than just high base stipends."
         },
         {
-          "headline": "Korn Ferry report finds 76% of talent leaders say entry-level jobs are not disappearing due to AI",
-          "body": "New global research indicates that 81% of employers plan to increase early-career hiring. Talent leaders emphasize that junior roles are shifting toward human judgment, problem-solving, and oversight rather than vanishing entirely.",
+          "headline": "McKinsey Asia head highlights strong performance of owner-led businesses",
+          "body": "McKinsey Asia chairman Gautam Kumra highlighted that owner-led companies produced $7 trillion of the $14 trillion in market value generated by Asia's top 300 firms over the past 25 years. He noted that sustaining this performance requires scaling beyond local borders and accelerating AI adoption.",
           "sources": [
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/b2b/human-resources/story/2026-10-22/ai-entry-level-jobs-korn-ferry-report"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-business-owners-need-to-match-the-global-ambitions-of-korean-and-chinese-peers-gautam-kumra-chairman-of-mckinseys-offices-in-asia/articleshow/135142802.cms"
             }
           ],
-          "why": "As a first-year business student, this is reassuring data on how corporate recruiting is adapting to AI rather than cutting entry-level pathways."
+          "why": "This is a clean corporate governance case study you can apply to strategic management classes when evaluating founder control versus hired management."
         }
       ]
     },
@@ -152,12 +169,28 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine criminology research prompts OC prosecutors to expunge DNA database profiles",
-          "body": "The Orange County district attorney's office agreed to remove profiles from its DNA database to settle a constitutional lawsuit. A UC Irvine criminology professor who challenged the program called the move an important step forward.",
+          "headline": "UC Irvine Langson OCMA opens exhibition for painter Tokio Ueyama",
+          "body": "UC Irvine's Langson Orange County Museum of Art is presenting 'Tokio Ueyama: The Hollows Between Mountains.' The exhibition displays landscape, still life, and portrait paintings that document the history and experiences of Japanese immigrants.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-23/tokio-ueyama-hollows-between-mountains-honors-artists-nuanced-identity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Leylah Fernandez beats Marie Bouzkova to reach Ningbo Open final",
+          "body": "Canada's Leylah Fernandez advanced to the final of the Ningbo Open after defeating Czech player Marie Bouzkova 6-3, 7-5 in the semifinals. The unseeded Canadian will face defending champion Elena Rybakina in the title match.",
+          "sources": [
+            {
+              "name": "CBC.ca",
+              "url": "https://www.cbc.ca/sports/tennis/leylah-fernandez-semifinals-ningbo-open-tennis-recap-9.7394299"
             }
           ]
         }
@@ -165,47 +198,51 @@
     }
   ],
   "term": {
-    "name": "Trailing Dividend Yield",
-    "definition": "Trailing dividend yield is a financial metric calculated by dividing the total dividends a company paid over the last 12 months by its current share price. While investors use it to screen for high-income stocks, it can be misleading due to one-time special payouts or unsustainable payout ratios. For instance, Indian stocks currently offering high yields require deeper fundamental analysis rather than just surface-level screening.",
+    "name": "Repo market",
+    "definition": "Short for repurchase agreement, the repo market is a vital financial hub where institutions borrow short-term cash by pledging safe securities, like government bonds, as collateral. The borrower agrees to buy the securities back shortly after, often overnight, at a slightly higher price that reflects interest. Wall Street relies on this multi-billion dollar daily market to keep funding flowing across the financial system.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html"
+        "name": "CryptoSlate",
+        "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/"
       }
     ]
   },
   "serve": {
-    "headline": "Eka Robotics raised $150 million in a Series A round led by Andreessen Horowitz and F-Prime to teach robots to feel.",
-    "body": "The Cambridge, Massachusetts-based startup builds robots designed to handle objects using touch alongside sight, moving beyond traditional vision-only systems. The capital will fuel its mission to give industrial automation a better sense of physical touch.",
+    "headline": "Higgsfield expands Series B with backing from Nvidia and TCV",
+    "body": "Higgsfield develops generative AI software for video and image creation aimed at marketing agencies and entertainment firms. The San Francisco startup secured fresh capital by extending its Series B round with investments from Nvidia and growth equity firm TCV.",
     "questions": [
-      "How would you price hardware-as-a-service for a tactile robotics startup?",
-      "What customer acquisition channels would you target first for industrial tactile automation?",
-      "How does a $150M SeriesA change a startup's operational burn rate expectations?"
+      "If anyone can generate commercial-quality video with a prompt, what makes an agency or creator defensible?",
+      "How would you pitch an AI video tool to student clubs or campus businesses at UC Irvine?",
+      "What infrastructure costs would you need to manage before selling generative video tools to enterprises?"
     ],
     "sources": [
       {
-        "name": "TNW",
-        "url": "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots"
+        "name": "Variety",
+        "url": "https://variety.com/2026/digital/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "OpenAI stops training on the live web.",
-      "blurb": "The lab is shifting to cached data and simulations to manage unpredictable AI behavior."
+      "headline": "Jio Platforms sets a global record with over 1 crore IPO applications.",
+      "blurb": "The digital giant's offering was subscribed nearly seven times as it joins the $100 billion valuation club."
     },
     {
-      "headline": "Humana and UnitedHealthcare cut Medicare Advantage plans.",
-      "blurb": "Rising medical costs are forcing major insurers to drop coverage for 1 million seniors."
+      "headline": "Gen Z investors are actively reallocating portfolios ahead of the midterms.",
+      "blurb": "A survey found 72% of younger investors moved assets before November, compared to 17% of baby boomers."
     },
     {
-      "headline": "UK allocates $800M for AI defense.",
-      "blurb": "New government funding targets health and security threats posed by automated tech."
+      "headline": "Apple's $2,000 foldable iPhone Duo faces reports of inner screen cracks.",
+      "blurb": "Early buyers reported display damage along the crease within hours of the global launch."
     },
     {
-      "headline": "Entry-level jobs are staying put.",
-      "blurb": "Korn Ferry research shows most talent leaders are hiring grads for human oversight roles."
+      "headline": "Older Nvidia graphics chips are fetching up to 143% rental premiums.",
+      "blurb": "Surging AI token demand is turning aging models like the A100 into appreciating rental assets."
+    },
+    {
+      "headline": "Recruiters are adding housing and tuition waivers to MBA internship offers.",
+      "blurb": "Companies are treating summer internships as their main management pipeline, offering live project access."
     }
   ],
-  "emailQuestion": "How would you price hardware-as-a-service for a tactile robotics startup?"
+  "emailQuestion": "If anyone can generate commercial-quality video with a prompt, what makes an agency or creator defensible?"
 }

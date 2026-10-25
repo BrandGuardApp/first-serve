@@ -1,0 +1,248 @@
+{
+  "id": "2026-10-24-pm",
+  "slot": "evening",
+  "date": "2026-10-24",
+  "dateLabel": "Sat, Oct 24, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-25T01:02:25.310Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Jio's record $100B IPO, Apple's folding phone cracks, and Gen Z trades the midterms.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 23",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,624",
+        "change": "−0.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,955",
+        "change": "−0.21%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,215",
+        "change": "−1.23%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.99%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,008",
+        "change": "−1.29%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Jio Platforms IPO draws a record 1 crore applications",
+    "body": "Jio Platforms became the first public offering globally to cross 1 crore applications, with overall bidding reaching nearly seven times the available shares. Backed by Reliance Industries, the digital services company is set to join an exclusive club of founder-led businesses valued above $100 billion at IPO, alongside Meta, Alibaba, and SpaceX.",
+    "sources": [
+      {
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/jio-platforms-ipo-crosses-1-crore-applications-sets-global-record/54389852"
+      },
+      {
+        "name": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/jio-platforms-ipo-company-set-to-join-100-billion-valuation-club-alongside-meta-spacex"
+      }
+    ],
+    "why": "When studying market demand and valuation multiples at Merage, look at how emerging market digital infrastructure giants can generate massive institutional and retail demand.",
+    "kicker": "Markets + IPOs",
+    "figures": [
+      {
+        "value": "1 crore",
+        "label": "investor applications"
+      },
+      {
+        "value": "$100B",
+        "label": "valuation threshold"
+      },
+      {
+        "value": "7x",
+        "label": "shares subscribed"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Gen Z treats midterm elections as a trading catalyst",
+          "body": "A survey from the Nationwide Retirement Institute revealed that 72% of Gen Z investors adjusted their retirement or investment portfolios ahead of the November elections, compared to just 17% of baby boomers. Younger investors are actively repositioning assets around political cycles rather than staying passive.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/24/gen-z-baby-boomers-midterms-investing-patterns/"
+            }
+          ],
+          "why": "In your student investing pitches, test whether tactical reallocation around macro political events consistently outperforms regular dollar-cost averaging."
+        },
+        {
+          "headline": "Wall Street runs tokenized loans on its $359 billion repo market",
+          "body": "Financial institutions are using blockchain networks to execute short-term borrowing in the $359 billion daily repo market. The setup lets institutions pledge government bonds to unlock intraday cash between breakfast and lunch while lowering transaction costs.",
+          "sources": [
+            {
+              "name": "CryptoSlate",
+              "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/"
+            }
+          ],
+          "why": "Understanding how core banking plumbing like overnight repos is modernized gives you strong talking points for investment banking and fintech interviews."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Apple releases $2,000 foldable iPhone Duo as display issues surface",
+          "body": "Apple rolled out its first folding phone, the iPhone Duo, with a $1,999 price tag across global stores. Early buyers have already begun reporting cracked inner displays along the fold line, with one owner noting screen failure after fewer than 20 folds.",
+          "sources": [
+            {
+              "name": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/Apple-s-2-000-foldable-iPhone-reportedly-cracks-within-hours-as-owners-report-display-failures.1432971.0.html"
+            },
+            {
+              "name": "Honolulu Star-Advertiser",
+              "url": "https://www.staradvertiser.com/2026/10/23/breaking-news/apples-2000-foldable-iphone-launches-amid-strong-demand/"
+            }
+          ],
+          "why": "For product management and case competitions, track how quickly hardware reliability problems can harm consumer sentiment on high-margin flagship devices."
+        },
+        {
+          "headline": "Older Nvidia GPUs gain rental value as AI token use climbs",
+          "body": "Soaring AI token consumption is turning older graphics processors into appreciating assets in the cloud rental market. Six-year-old chips like Nvidia's A100 are commanding rental premiums of up to 143% as developers scramble for compute to run large language models.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/nvidia-gpus-appreciating-assets-a100-rental-premium/"
+            }
+          ],
+          "why": "If you model operating costs for an AI venture, compute expenses do not always fall over time when aggregate model inference demand spikes."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "MBA recruiters sweeten internship packages with housing and tuition",
+          "body": "Companies are turning internships into their primary pipeline for management hires, offering tuition assistance, subsidized housing, and executive access alongside standard pay. Career leaders report that employers increasingly want interns tackling live strategic challenges rather than standard busywork.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/industry/beyond-the-stipend-how-firms-are-competing-for-mba-interns-11792741808909.html"
+            }
+          ],
+          "why": "As you prepare for internship recruiting at Merage, look for programs that offer project ownership and direct mentorship rather than just high base stipends."
+        },
+        {
+          "headline": "McKinsey Asia head highlights strong performance of owner-led businesses",
+          "body": "McKinsey Asia chairman Gautam Kumra highlighted that owner-led companies produced $7 trillion of the $14 trillion in market value generated by Asia's top 300 firms over the past 25 years. He noted that sustaining this performance requires scaling beyond local borders and accelerating AI adoption.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-business-owners-need-to-match-the-global-ambitions-of-korean-and-chinese-peers-gautam-kumra-chairman-of-mckinseys-offices-in-asia/articleshow/135142802.cms"
+            }
+          ],
+          "why": "This is a clean corporate governance case study you can apply to strategic management classes when evaluating founder control versus hired management."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Langson OCMA opens exhibition for painter Tokio Ueyama",
+          "body": "UC Irvine's Langson Orange County Museum of Art is presenting 'Tokio Ueyama: The Hollows Between Mountains.' The exhibition displays landscape, still life, and portrait paintings that document the history and experiences of Japanese immigrants.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-23/tokio-ueyama-hollows-between-mountains-honors-artists-nuanced-identity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Leylah Fernandez beats Marie Bouzkova to reach Ningbo Open final",
+          "body": "Canada's Leylah Fernandez advanced to the final of the Ningbo Open after defeating Czech player Marie Bouzkova 6-3, 7-5 in the semifinals. The unseeded Canadian will face defending champion Elena Rybakina in the title match.",
+          "sources": [
+            {
+              "name": "CBC.ca",
+              "url": "https://www.cbc.ca/sports/tennis/leylah-fernandez-semifinals-ningbo-open-tennis-recap-9.7394299"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Repo market",
+    "definition": "Short for repurchase agreement, the repo market is a vital financial hub where institutions borrow short-term cash by pledging safe securities, like government bonds, as collateral. The borrower agrees to buy the securities back shortly after, often overnight, at a slightly higher price that reflects interest. Wall Street relies on this multi-billion dollar daily market to keep funding flowing across the financial system.",
+    "sources": [
+      {
+        "name": "CryptoSlate",
+        "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Higgsfield expands Series B with backing from Nvidia and TCV",
+    "body": "Higgsfield develops generative AI software for video and image creation aimed at marketing agencies and entertainment firms. The San Francisco startup secured fresh capital by extending its Series B round with investments from Nvidia and growth equity firm TCV.",
+    "questions": [
+      "If anyone can generate commercial-quality video with a prompt, what makes an agency or creator defensible?",
+      "How would you pitch an AI video tool to student clubs or campus businesses at UC Irvine?",
+      "What infrastructure costs would you need to manage before selling generative video tools to enterprises?"
+    ],
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://variety.com/2026/digital/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Jio Platforms sets a global record with over 1 crore IPO applications.",
+      "blurb": "The digital giant's offering was subscribed nearly seven times as it joins the $100 billion valuation club."
+    },
+    {
+      "headline": "Gen Z investors are actively reallocating portfolios ahead of the midterms.",
+      "blurb": "A survey found 72% of younger investors moved assets before November, compared to 17% of baby boomers."
+    },
+    {
+      "headline": "Apple's $2,000 foldable iPhone Duo faces reports of inner screen cracks.",
+      "blurb": "Early buyers reported display damage along the crease within hours of the global launch."
+    },
+    {
+      "headline": "Older Nvidia graphics chips are fetching up to 143% rental premiums.",
+      "blurb": "Surging AI token demand is turning aging models like the A100 into appreciating rental assets."
+    },
+    {
+      "headline": "Recruiters are adding housing and tuition waivers to MBA internship offers.",
+      "blurb": "Companies are treating summer internships as their main management pipeline, offering live project access."
+    }
+  ],
+  "emailQuestion": "If anyone can generate commercial-quality video with a prompt, what makes an agency or creator defensible?"
+}
