@@ -1,0 +1,252 @@
+{
+  "id": "2026-10-25-pm",
+  "slot": "evening",
+  "date": "2026-10-25",
+  "dateLabel": "Sun, Oct 25, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-26T04:34:03.176Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Big tech earnings, tokenized stock pushback, and AI biosecurity labs lead tonight's brief.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 23",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,624",
+        "change": "−0.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,955",
+        "change": "−0.21%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,215",
+        "change": "−1.23%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.99%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,024",
+        "change": "+0.39%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Wall Street faces a high-stakes week of earnings and Federal Reserve decisions",
+    "body": "US stock investors are preparing for an important week as major technology companies report quarterly earnings and the Federal Reserve announces its interest rate decision on Wednesday. Over a third of S&P 500 companies, or 179 in total, are reporting their third-quarter results during this crucial stretch. Markets are heading into these announcements with cautious to negative sentiment following recent volatility.",
+    "sources": [
+      {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-news/wall-street-week-ahead-big-tech-earnings-and-fed-decision-to-test-us-stock-rally-101792940274371.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html"
+      }
+    ],
+    "why": "Since you are interested in investing, watching how tech earnings and the Fed's rate choice move the market gives you a front-row seat to how institutional capital reacts to real-time macroeconomic data.",
+    "kicker": "Markets and Big Tech",
+    "figures": [
+      {
+        "value": "36%",
+        "label": "S&P 500 companies reporting earnings"
+      },
+      {
+        "value": "179",
+        "label": "total companies reporting this week"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Major corporations push back against crypto platforms tokenizing stocks",
+          "body": "A growing group of 22 publicly traded companies, including Microsoft, McDonald's, Wells Fargo, and Cisco, have objected to having their shares traded on planned tokenized stock venues like OKX and ICE. These firms show that permissionless blockchain tech still requires real-world legal permission.",
+          "sources": [
+            {
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368"
+            },
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks"
+            }
+          ],
+          "why": "This is a great case study for understanding the friction points between traditional corporate governance and emerging financial technology."
+        },
+        {
+          "headline": "Accel trims its stake as manufacturing platform Zetwerk prices its IPO",
+          "body": "Venture capital firm Accel sold a slice of its stake in Zetwerk's 5,012 crore-rupee initial public offering on the BSE and NSE. The manufacturing platform's shares opened about 5 percent above their issue price.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+            }
+          ],
+          "why": "Tracking how early investors realize returns through public listings is core to understanding venture capital exits and startup lifecycle financing."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Tech giants back new British AI biosecurity laboratory",
+          "body": "Google DeepMind, OpenAI, and Anthropic are backing a new 100 million pound British AI biosecurity laboratory as part of government funding to tackle emerging technological threats. The lab will use artificial intelligence to monitor and detect biological risks.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/google-openai-and-anthropic-back-100m-uk-ai-biosecurity-lab/"
+            }
+          ],
+          "why": "As AI reshapes industry boundaries, understanding how tech giants collaborate with governments on risk mitigation is vital for future consulting and tech strategy frameworks."
+        },
+        {
+          "headline": "Modders unlock higher compute performance on consumer Nvidia GPUs",
+          "body": "Hardware modders have successfully bypassed firmware restrictions on Nvidia's GeForce RTX 30-series and RTX 40-series graphics cards to double their instruction issuing rate. These consumer cards share the same silicon dies as professional-grade GPUs.",
+          "sources": [
+            {
+              "name": "TechPowerUp",
+              "url": "https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-20-rtx-30-and-rtx-40-compute-performance-by-up-to-2x"
+            }
+          ],
+          "why": "Hardware constraints drive enterprise tech spending; seeing how developers unlock server-grade power from consumer parts highlights the hidden economics of compute infrastructure."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Western Australia seeks refund from Deloitte over flawed AI report",
+          "body": "The Western Australia government is asking for a fast refund from Deloitte after a report on university mergers was found to contain AI-generated fake references and incorrect cost totals. The blunder highlights the risks of unvetted automated tools in professional services.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report"
+            }
+          ],
+          "why": "As a business student eyeing consulting, this is a clear warning about quality control and the reputational risks of misusing AI in client deliverables."
+        },
+        {
+          "headline": "McKinsey highlights potential economic value and cost risks of AI",
+          "body": "A new McKinsey research report shows that artificial intelligence could generate 2.52 trillion dollars in annual global economic value by automating work. However, a 30 percent increase in effective deployment costs could reduce those potential gains by 34 percent.",
+          "sources": [
+            {
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/business/ai-could-unlock-annual-global-economic-value-worth-2-52t/story"
+            },
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ai-could-unlock-usd-2-52-trillion-in-annual-global-economic-value-rising-costs-pose-risk-mckinsey/"
+            }
+          ],
+          "why": "Consulting firms make big money helping companies navigate these exact cost-versus-value trade-offs in digital transformation."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine computer science professor weighs in on convincing AI images",
+          "body": "Following an alarming social media post featuring a fake AI-generated snake in Santa Ana, UC Irvine distinguished professor of computer science Gene Tsudik noted that seeing is no longer believing in courts and police investigations.",
+          "sources": [
+            {
+              "name": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Elena Rybakina defeats Leylah Fernandez to retain Ningbo Open title",
+          "body": "World number one Elena Rybakina defeated unseeded Canadian Leylah Fernandez 6-2, 6-2 in the Ningbo Open final on Sunday to lift her first trophy as the top-ranked player.",
+          "sources": [
+            {
+              "name": "Tsn (The Sports Network)",
+              "url": "https://www.tsn.ca/tennis/article/canadas-fernandez-falls-to-top-ranked-rybakina-in-ningbo-open-womens-tennis-final/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO is the first time a private company sells shares of stock to the public on a stock exchange to raise capital. Today's news highlighted this process as venture capital firm Accel sold part of its stake during Zetwerk's market debut. For investors, it marks the transition of a company from private venture backing to public market scrutiny.",
+    "sources": [
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zetwerk raised capital through an IPO to scale its manufacturing platform",
+    "body": "Zetwerk is a digital manufacturing platform that connects industrial buyers with suppliers to streamline production. Its recent market debut allowed early institutional investors like Accel to cash out portions of their early equity stake.",
+    "questions": [
+      "How does a manufacturing platform build defensibility against traditional supply chain brokers?",
+      "What metrics do public market investors look for when valuing a supply chain startup compared to a SaaS company?",
+      "How would you position Zetwerk's growth story to prospective institutional investors during a volatile market week?"
+    ],
+    "sources": [
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Wall Street faces a high-stakes week of earnings and Federal Reserve decisions",
+      "blurb": "Over a third of S&P 500 companies are reporting quarterly results amidst cautious market sentiment."
+    },
+    {
+      "headline": "Major corporations push back against crypto platforms tokenizing stocks",
+      "blurb": "Companies like Microsoft and Wells Fargo object to having their shares traded on upcoming blockchain venues."
+    },
+    {
+      "headline": "Accel trims its stake as manufacturing platform Zetwerk prices its IPO",
+      "blurb": "The Indian manufacturing platform opened five percent above its issue price on the BSE and NSE."
+    },
+    {
+      "headline": "Tech giants back new British AI biosecurity laboratory",
+      "blurb": "OpenAI, Google DeepMind, and Anthropic are supporting a 100 million pound facility to monitor biological threats."
+    },
+    {
+      "headline": "Western Australia seeks refund from Deloitte over flawed AI report",
+      "blurb": "The government demanded money back after discovering fake references and wrong cost totals in a university merger study."
+    }
+  ],
+  "emailQuestion": "How does a manufacturing platform build defensibility against traditional supply chain brokers?"
+}
