@@ -1,0 +1,236 @@
+{
+  "id": "2026-10-26-am",
+  "slot": "morning",
+  "date": "2026-10-26",
+  "dateLabel": "Mon, Oct 26, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-26T17:19:08.166Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "SpaceX lands $40B for AI chips, SoftBank targets Malaysia, and Naomi Osaka ponders her future.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "1:15 PM ET, Oct 26",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,687",
+        "change": "+0.83%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,247",
+        "change": "+1.12%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,362",
+        "change": "+0.28%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.98%",
+        "change": "−1 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,038",
+        "change": "+0.76%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "SpaceX Secures $40B in Debt to Buy AI Chips",
+    "body": "Elon Musk announced that SpaceX closed $40 billion in debt financing to purchase graphics processing units for artificial intelligence operations. The borrowing is backed by revenue from the company's Starlink satellite internet and rocket launch businesses.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation"
+      }
+    ],
+    "why": "If you want to build hardware-heavy tech or AI infrastructure, core cash-flowing units can leverage massive debt to fund growth without diluting founder equity.",
+    "kicker": "AI + CAPITAL",
+    "figures": [
+      {
+        "value": "$40B",
+        "label": "Debt raised for AI GPUs"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "SK Hynix considers $12 billion payout to shareholders",
+          "body": "South Korean chipmaker SK Hynix plans to announce shareholder return measures on Wednesday. Reports indicate the company is considering a special dividend of roughly 16 trillion won ($12 billion) after realizing large investment gains from its stake in Kioxia.",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-announce-steps-boost-shareholder-returns-wednesday-2026-10-26/"
+            }
+          ],
+          "why": "When analyzing semiconductor companies in finance class, watch how cash gains get returned to shareholders versus reinvested into new chip fabrication capacity."
+        },
+        {
+          "headline": "Lula wins fourth term as Brazil's president",
+          "body": "Luiz Inácio Lula da Silva won a fourth term as president of Brazil, staging a comeback win over Senator Flávio Bolsonaro after losing the first round. It is the first time since 1989 that a candidate won the final runoff after a first-round loss.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+            }
+          ],
+          "why": "Elections in major emerging markets can catch global financial markets off guard and shift political risk assessments for cross-border investments."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI resumes frontier AI model training",
+          "body": "OpenAI resumed training its most advanced AI models after cutting off internet access and tightening internal security defenses. During safety testing, the firm also discovered and reported a security flaw in widely used software.",
+          "sources": [
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece"
+            }
+          ],
+          "why": "Understanding AI safety protocols will help you evaluate tech risk when pitching startups or auditing software infrastructure for clients."
+        },
+        {
+          "headline": "SoftBank targets $50 billion investment in Malaysia",
+          "body": "SoftBank Group plans to invest $50 billion in Malaysia's tech sector, according to Prime Minister Anwar Ibrahim. The funds will focus on artificial intelligence infrastructure and data center construction across peninsular Malaysia and Sarawak.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html"
+            }
+          ],
+          "why": "Tech conglomerates are moving capital into Southeast Asia for AI infrastructure, creating advisory and supply chain opportunities across global markets."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Bain and BCG headline top business school recruiting",
+          "body": "The Indian Institute of Management Ahmedabad kicked off its summer placement process, with Bain, BCG, and Goldman Sachs leading the first cluster. Over 85 roles were offered across consulting, investment banking, and financial advisory.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/education-today/news/story/iim-ahmedabad-summer-placements-2026-pgp-batch-2028-top-recruiters-bain-bcg-goldman-sachs-cluster-1-3024062-2026-10-24"
+            }
+          ],
+          "why": "Top management consulting firms and investment banks continue to rely heavily on structured campus placement programs to build their entry-level talent pipeline."
+        },
+        {
+          "headline": "BCG study finds corporate failure risk dropped over two decades",
+          "body": "A Boston Consulting Group study of 30,000 public US companies shows five-year failure risks fell from about 40% in 2002 to 18% in 2025. BCG points to better financing access and changes in capital market structures as main drivers.",
+          "sources": [
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/world/story/why-smaller-firms-face-higher-failures-bcg-study-of-30000-us-firms-reveals-key-risks-563486-2026-10-25"
+            }
+          ],
+          "why": "Understanding public company survival rates gives you valuable context when evaluating corporate stability and risk management in business strategy courses."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Orange County to expunge profiles from DNA database",
+          "body": "Orange County prosecutors agreed to clear profiles from a controversial DNA database to settle a constitutional lawsuit. A UC Irvine criminology professor who challenged the database in a 2021 lawsuit called the decision an important step in the right direction.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Naomi Osaka considers stepping away for family",
+          "body": "Four-time Grand Slam champion Naomi Osaka said she would consider retiring if her three-year-old daughter Shai asks her to stop traveling for tournaments. Osaka recently returned to competition after taking a 15-month break following her daughter's birth.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/international-sports/she-didnt-want-me-to-naomi-osaka-admits-she-could-quit-tennis-if-her-daughter-asks-her-to-stop-travelling/articleshow/135189638.cms"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-wouldnt-ignore-that-naomi-osaka-open-to-quitting-tennis-for-daughter/articleshow/135192576.cms"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Special Dividend",
+    "definition": "A one-time cash payment made by a public company to its shareholders, separate from regular scheduled dividends. Companies usually issue special dividends after unexpected financial windfalls or major asset sales. For example, chipmaker SK Hynix is considering a $12 billion payout following large investment gains.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-announce-steps-boost-shareholder-returns-wednesday-2026-10-26/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Ailytics raises $7.4M Series A to bring vision AI to job sites",
+    "body": "Singapore-based startup Ailytics raised $7.4 million in a Series A funding round led by Tin Men Capital, with participation from SEEDS and camera maker Safie. The company turns existing industrial CCTV cameras into real-time safety and operational monitoring systems.",
+    "questions": [
+      "How could existing camera networks on UCI's campus be repurposed using AI software without buying new hardware?",
+      "What potential privacy concerns might workers or students raise when video feeds are analyzed automatically?",
+      "If you were pitching an enterprise AI tool to factory managers, how would you calculate the ROI of accident prevention?"
+    ],
+    "sources": [
+      {
+        "name": "The Manila Times",
+        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/tin-men-capital-leads-us74m-series-a-for-vision-ai-startup-ailytics-to-expand-across-apac-us-and-gulf/2453594"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "SpaceX borrows $40 billion to purchase advanced AI chips.",
+      "blurb": "The debt deal relies on steady revenue streams from Starlink internet and rocket launches."
+    },
+    {
+      "headline": "SK Hynix weighs a $12 billion special dividend for shareholders.",
+      "blurb": "The South Korean chipmaker reaped heavy investment gains from its previous stake in Kioxia."
+    },
+    {
+      "headline": "SoftBank plans a $50 billion tech investment in Malaysia.",
+      "blurb": "The investment will focus on building artificial intelligence data centers across the country."
+    },
+    {
+      "headline": "Bain and BCG dominate initial summer placement rounds at top business schools.",
+      "blurb": "Consulting and investment banking firms offered over 85 roles across major finance cohorts."
+    },
+    {
+      "headline": "Naomi Osaka admits she could quit tennis if her daughter asks her to stop traveling.",
+      "blurb": "The four-time major winner returned to tour in 2024 after taking a 15-month maternity leave."
+    }
+  ],
+  "emailQuestion": "How could existing camera networks on UCI's campus be repurposed using AI software without buying new hardware?"
+}

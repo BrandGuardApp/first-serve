@@ -1,77 +1,65 @@
 {
-  "id": "2026-10-25-pm",
-  "slot": "evening",
-  "date": "2026-10-25",
-  "dateLabel": "Sun, Oct 25, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-26T04:34:03.176Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Big tech earnings, tokenized stock pushback, and AI biosecurity labs lead tonight's brief.",
+  "id": "2026-10-26-am",
+  "slot": "morning",
+  "date": "2026-10-26",
+  "dateLabel": "Mon, Oct 26, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-26T17:19:08.166Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "SpaceX lands $40B for AI chips, SoftBank targets Malaysia, and Naomi Osaka ponders her future.",
   "storyCount": 11,
   "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Oct 23",
+    "asOf": "1:15 PM ET, Oct 26",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,624",
-        "change": "−0.52%",
-        "direction": "down"
-      },
-      {
-        "name": "Nasdaq",
-        "value": "25,955",
-        "change": "−0.21%",
-        "direction": "down"
-      },
-      {
-        "name": "Dow",
-        "value": "52,215",
-        "change": "−1.23%",
-        "direction": "down"
-      },
-      {
-        "name": "10-yr Treasury",
-        "value": "4.99%",
-        "change": "+4 bp",
+        "value": "7,687",
+        "change": "+0.83%",
         "direction": "up"
       },
       {
+        "name": "Nasdaq",
+        "value": "26,247",
+        "change": "+1.12%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,362",
+        "change": "+0.28%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.98%",
+        "change": "−1 bp",
+        "direction": "down"
+      },
+      {
         "name": "Gold",
-        "value": "$4,024",
-        "change": "+0.39%",
+        "value": "$4,038",
+        "change": "+0.76%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Wall Street faces a high-stakes week of earnings and Federal Reserve decisions",
-    "body": "US stock investors are preparing for an important week as major technology companies report quarterly earnings and the Federal Reserve announces its interest rate decision on Wednesday. Over a third of S&P 500 companies, or 179 in total, are reporting their third-quarter results during this crucial stretch. Markets are heading into these announcements with cautious to negative sentiment following recent volatility.",
+    "headline": "SpaceX Secures $40B in Debt to Buy AI Chips",
+    "body": "Elon Musk announced that SpaceX closed $40 billion in debt financing to purchase graphics processing units for artificial intelligence operations. The borrowing is backed by revenue from the company's Starlink satellite internet and rocket launch businesses.",
     "sources": [
       {
-        "name": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1"
-      },
-      {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/wall-street-week-ahead-big-tech-earnings-and-fed-decision-to-test-us-stock-rally-101792940274371.html"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation"
       }
     ],
-    "why": "Since you are interested in investing, watching how tech earnings and the Fed's rate choice move the market gives you a front-row seat to how institutional capital reacts to real-time macroeconomic data.",
-    "kicker": "Markets and Big Tech",
+    "why": "If you want to build hardware-heavy tech or AI infrastructure, core cash-flowing units can leverage massive debt to fund growth without diluting founder equity.",
+    "kicker": "AI + CAPITAL",
     "figures": [
       {
-        "value": "36%",
-        "label": "S&P 500 companies reporting earnings"
-      },
-      {
-        "value": "179",
-        "label": "total companies reporting this week"
+        "value": "$40B",
+        "label": "Debt raised for AI GPUs"
       }
     ]
   },
@@ -81,30 +69,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Major corporations push back against crypto platforms tokenizing stocks",
-          "body": "A growing group of 22 publicly traded companies, including Microsoft, McDonald's, Wells Fargo, and Cisco, have objected to having their shares traded on planned tokenized stock venues like OKX and ICE. These firms show that permissionless blockchain tech still requires real-world legal permission.",
+          "headline": "SK Hynix considers $12 billion payout to shareholders",
+          "body": "South Korean chipmaker SK Hynix plans to announce shareholder return measures on Wednesday. Reports indicate the company is considering a special dividend of roughly 16 trillion won ($12 billion) after realizing large investment gains from its stake in Kioxia.",
           "sources": [
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368"
-            },
-            {
-              "name": "Decrypt",
-              "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-announce-steps-boost-shareholder-returns-wednesday-2026-10-26/"
             }
           ],
-          "why": "This is a great case study for understanding the friction points between traditional corporate governance and emerging financial technology."
+          "why": "When analyzing semiconductor companies in finance class, watch how cash gains get returned to shareholders versus reinvested into new chip fabrication capacity."
         },
         {
-          "headline": "Accel trims its stake as manufacturing platform Zetwerk prices its IPO",
-          "body": "Venture capital firm Accel sold a slice of its stake in Zetwerk's 5,012 crore-rupee initial public offering on the BSE and NSE. The manufacturing platform's shares opened about 5 percent above their issue price.",
+          "headline": "Lula wins fourth term as Brazil's president",
+          "body": "Luiz Inácio Lula da Silva won a fourth term as president of Brazil, staging a comeback win over Senator Flávio Bolsonaro after losing the first round. It is the first time since 1989 that a candidate won the final runoff after a first-round loss.",
           "sources": [
             {
-              "name": "Business Standard",
-              "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
             }
           ],
-          "why": "Tracking how early investors realize returns through public listings is core to understanding venture capital exits and startup lifecycle financing."
+          "why": "Elections in major emerging markets can catch global financial markets off guard and shift political risk assessments for cross-border investments."
         }
       ]
     },
@@ -113,26 +97,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Tech giants back new British AI biosecurity laboratory",
-          "body": "Google DeepMind, OpenAI, and Anthropic are backing a new 100 million pound British AI biosecurity laboratory as part of government funding to tackle emerging technological threats. The lab will use artificial intelligence to monitor and detect biological risks.",
+          "headline": "OpenAI resumes frontier AI model training",
+          "body": "OpenAI resumed training its most advanced AI models after cutting off internet access and tightening internal security defenses. During safety testing, the firm also discovered and reported a security flaw in widely used software.",
           "sources": [
             {
-              "name": "City A.M.",
-              "url": "https://www.cityam.com/google-openai-and-anthropic-back-100m-uk-ai-biosecurity-lab/"
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece"
             }
           ],
-          "why": "As AI reshapes industry boundaries, understanding how tech giants collaborate with governments on risk mitigation is vital for future consulting and tech strategy frameworks."
+          "why": "Understanding AI safety protocols will help you evaluate tech risk when pitching startups or auditing software infrastructure for clients."
         },
         {
-          "headline": "Modders unlock higher compute performance on consumer Nvidia GPUs",
-          "body": "Hardware modders have successfully bypassed firmware restrictions on Nvidia's GeForce RTX 30-series and RTX 40-series graphics cards to double their instruction issuing rate. These consumer cards share the same silicon dies as professional-grade GPUs.",
+          "headline": "SoftBank targets $50 billion investment in Malaysia",
+          "body": "SoftBank Group plans to invest $50 billion in Malaysia's tech sector, according to Prime Minister Anwar Ibrahim. The funds will focus on artificial intelligence infrastructure and data center construction across peninsular Malaysia and Sarawak.",
           "sources": [
             {
-              "name": "TechPowerUp",
-              "url": "https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-20-rtx-30-and-rtx-40-compute-performance-by-up-to-2x"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html"
             }
           ],
-          "why": "Hardware constraints drive enterprise tech spending; seeing how developers unlock server-grade power from consumer parts highlights the hidden economics of compute infrastructure."
+          "why": "Tech conglomerates are moving capital into Southeast Asia for AI infrastructure, creating advisory and supply chain opportunities across global markets."
         }
       ]
     },
@@ -141,30 +125,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Western Australia seeks refund from Deloitte over flawed AI report",
-          "body": "The Western Australia government is asking for a fast refund from Deloitte after a report on university mergers was found to contain AI-generated fake references and incorrect cost totals. The blunder highlights the risks of unvetted automated tools in professional services.",
+          "headline": "Bain and BCG headline top business school recruiting",
+          "body": "The Indian Institute of Management Ahmedabad kicked off its summer placement process, with Bain, BCG, and Goldman Sachs leading the first cluster. Over 85 roles were offered across consulting, investment banking, and financial advisory.",
           "sources": [
             {
-              "name": "TNW",
-              "url": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report"
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/education-today/news/story/iim-ahmedabad-summer-placements-2026-pgp-batch-2028-top-recruiters-bain-bcg-goldman-sachs-cluster-1-3024062-2026-10-24"
             }
           ],
-          "why": "As a business student eyeing consulting, this is a clear warning about quality control and the reputational risks of misusing AI in client deliverables."
+          "why": "Top management consulting firms and investment banks continue to rely heavily on structured campus placement programs to build their entry-level talent pipeline."
         },
         {
-          "headline": "McKinsey highlights potential economic value and cost risks of AI",
-          "body": "A new McKinsey research report shows that artificial intelligence could generate 2.52 trillion dollars in annual global economic value by automating work. However, a 30 percent increase in effective deployment costs could reduce those potential gains by 34 percent.",
+          "headline": "BCG study finds corporate failure risk dropped over two decades",
+          "body": "A Boston Consulting Group study of 30,000 public US companies shows five-year failure risks fell from about 40% in 2002 to 18% in 2025. BCG points to better financing access and changes in capital market structures as main drivers.",
           "sources": [
             {
-              "name": "NewsBytes",
-              "url": "https://www.newsbytesapp.com/news/business/ai-could-unlock-annual-global-economic-value-worth-2-52t/story"
-            },
-            {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/ai-could-unlock-usd-2-52-trillion-in-annual-global-economic-value-rising-costs-pose-risk-mckinsey/"
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/world/story/why-smaller-firms-face-higher-failures-bcg-study-of-30000-us-firms-reveals-key-risks-563486-2026-10-25"
             }
           ],
-          "why": "Consulting firms make big money helping companies navigate these exact cost-versus-value trade-offs in digital transformation."
+          "why": "Understanding public company survival rates gives you valuable context when evaluating corporate stability and risk management in business strategy courses."
         }
       ]
     },
@@ -173,12 +153,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine computer science professor weighs in on convincing AI images",
-          "body": "Following an alarming social media post featuring a fake AI-generated snake in Santa Ana, UC Irvine distinguished professor of computer science Gene Tsudik noted that seeing is no longer believing in courts and police investigations.",
+          "headline": "Orange County to expunge profiles from DNA database",
+          "body": "Orange County prosecutors agreed to clear profiles from a controversial DNA database to settle a constitutional lawsuit. A UC Irvine criminology professor who challenged the database in a 2021 lawsuit called the decision an important step in the right direction.",
           "sources": [
             {
-              "name": "The Mercury News",
-              "url": "https://www.mercurynews.com/2026/10/20/fake-ai-generated-images-are-more-convincing-than-ever-are-courts-and-police-ready-to-combat-them/"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
             }
           ]
         }
@@ -189,12 +169,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Elena Rybakina defeats Leylah Fernandez to retain Ningbo Open title",
-          "body": "World number one Elena Rybakina defeated unseeded Canadian Leylah Fernandez 6-2, 6-2 in the Ningbo Open final on Sunday to lift her first trophy as the top-ranked player.",
+          "headline": "Naomi Osaka considers stepping away for family",
+          "body": "Four-time Grand Slam champion Naomi Osaka said she would consider retiring if her three-year-old daughter Shai asks her to stop traveling for tournaments. Osaka recently returned to competition after taking a 15-month break following her daughter's birth.",
           "sources": [
             {
-              "name": "Tsn (The Sports Network)",
-              "url": "https://www.tsn.ca/tennis/article/canadas-fernandez-falls-to-top-ranked-rybakina-in-ningbo-open-womens-tennis-final/"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/international-sports/she-didnt-want-me-to-naomi-osaka-admits-she-could-quit-tennis-if-her-daughter-asks-her-to-stop-travelling/articleshow/135189638.cms"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-wouldnt-ignore-that-naomi-osaka-open-to-quitting-tennis-for-daughter/articleshow/135192576.cms"
             }
           ]
         }
@@ -202,51 +186,51 @@
     }
   ],
   "term": {
-    "name": "Initial Public Offering (IPO)",
-    "definition": "An IPO is the first time a private company sells shares of stock to the public on a stock exchange to raise capital. Today's news highlighted this process as venture capital firm Accel sold part of its stake during Zetwerk's market debut. For investors, it marks the transition of a company from private venture backing to public market scrutiny.",
+    "name": "Special Dividend",
+    "definition": "A one-time cash payment made by a public company to its shareholders, separate from regular scheduled dividends. Companies usually issue special dividends after unexpected financial windfalls or major asset sales. For example, chipmaker SK Hynix is considering a $12 billion payout following large investment gains.",
     "sources": [
       {
-        "name": "Business Standard",
-        "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-announce-steps-boost-shareholder-returns-wednesday-2026-10-26/"
       }
     ]
   },
   "serve": {
-    "headline": "Zetwerk raised capital through an IPO to scale its manufacturing platform",
-    "body": "Zetwerk is a digital manufacturing platform that connects industrial buyers with suppliers to streamline production. Its recent market debut allowed early institutional investors like Accel to cash out portions of their early equity stake.",
+    "headline": "Ailytics raises $7.4M Series A to bring vision AI to job sites",
+    "body": "Singapore-based startup Ailytics raised $7.4 million in a Series A funding round led by Tin Men Capital, with participation from SEEDS and camera maker Safie. The company turns existing industrial CCTV cameras into real-time safety and operational monitoring systems.",
     "questions": [
-      "How does a manufacturing platform build defensibility against traditional supply chain brokers?",
-      "What metrics do public market investors look for when valuing a supply chain startup compared to a SaaS company?",
-      "How would you position Zetwerk's growth story to prospective institutional investors during a volatile market week?"
+      "How could existing camera networks on UCI's campus be repurposed using AI software without buying new hardware?",
+      "What potential privacy concerns might workers or students raise when video feeds are analyzed automatically?",
+      "If you were pitching an enterprise AI tool to factory managers, how would you calculate the ROI of accident prevention?"
     ],
     "sources": [
       {
-        "name": "Business Standard",
-        "url": "https://www.business-standard.com/companies/news/accel-once-rejected-zetwerk-now-it-sells-a-slice-of-its-stake-in-the-ipo-126102500667_1.html"
+        "name": "The Manila Times",
+        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/pr-newswire/tin-men-capital-leads-us74m-series-a-for-vision-ai-startup-ailytics-to-expand-across-apac-us-and-gulf/2453594"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Wall Street faces a high-stakes week of earnings and Federal Reserve decisions",
-      "blurb": "Over a third of S&P 500 companies are reporting quarterly results amidst cautious market sentiment."
+      "headline": "SpaceX borrows $40 billion to purchase advanced AI chips.",
+      "blurb": "The debt deal relies on steady revenue streams from Starlink internet and rocket launches."
     },
     {
-      "headline": "Major corporations push back against crypto platforms tokenizing stocks",
-      "blurb": "Companies like Microsoft and Wells Fargo object to having their shares traded on upcoming blockchain venues."
+      "headline": "SK Hynix weighs a $12 billion special dividend for shareholders.",
+      "blurb": "The South Korean chipmaker reaped heavy investment gains from its previous stake in Kioxia."
     },
     {
-      "headline": "Accel trims its stake as manufacturing platform Zetwerk prices its IPO",
-      "blurb": "The Indian manufacturing platform opened five percent above its issue price on the BSE and NSE."
+      "headline": "SoftBank plans a $50 billion tech investment in Malaysia.",
+      "blurb": "The investment will focus on building artificial intelligence data centers across the country."
     },
     {
-      "headline": "Tech giants back new British AI biosecurity laboratory",
-      "blurb": "OpenAI, Google DeepMind, and Anthropic are supporting a 100 million pound facility to monitor biological threats."
+      "headline": "Bain and BCG dominate initial summer placement rounds at top business schools.",
+      "blurb": "Consulting and investment banking firms offered over 85 roles across major finance cohorts."
     },
     {
-      "headline": "Western Australia seeks refund from Deloitte over flawed AI report",
-      "blurb": "The government demanded money back after discovering fake references and wrong cost totals in a university merger study."
+      "headline": "Naomi Osaka admits she could quit tennis if her daughter asks her to stop traveling.",
+      "blurb": "The four-time major winner returned to tour in 2024 after taking a 15-month maternity leave."
     }
   ],
-  "emailQuestion": "How does a manufacturing platform build defensibility against traditional supply chain brokers?"
+  "emailQuestion": "How could existing camera networks on UCI's campus be repurposed using AI software without buying new hardware?"
 }
