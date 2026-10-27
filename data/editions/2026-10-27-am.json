@@ -1,0 +1,244 @@
+{
+  "id": "2026-10-27-am",
+  "slot": "morning",
+  "date": "2026-10-27",
+  "dateLabel": "Tue, Oct 27, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-27T14:19:46.655Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "DoorDash eyes Instacart for $17B, FTC sues Dollar General, and OpenAI unveils dots.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "10:19 AM ET, Oct 27",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,683",
+        "change": "+0.08%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,244",
+        "change": "+0.29%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,308",
+        "change": "−0.10%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.00%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,052",
+        "change": "+0.34%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "DoorDash in talks to buy Instacart for $17 billion",
+    "body": "DoorDash is in advanced talks to acquire grocery delivery rival Instacart in a deal that could value the company at around $17 billion. An agreement could be reached as early as this week, though talks may still fall through. The potential deal comes as DoorDash seeks to expand its footprint in the grocery delivery market.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/retail/doordash-advanced-talks-acquire-instacart-potential-17b-deal-report"
+      }
+    ],
+    "why": "This deal is a huge consolidation play to analyze in your business classes. It shows how top delivery platforms are using M&A to control grocery logistics and defend market share.",
+    "kicker": "M&A + Delivery",
+    "figures": [
+      {
+        "value": "$17 billion",
+        "label": "Estimated acquisition price"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "FTC and 20 states sue Dollar General over checkout prices",
+          "body": "Federal and state regulators sued Dollar General, accusing the discount chain of routinely charging customers higher prices at checkout than what was advertised on store shelves. The lawsuit claims this pattern of inaccurate pricing affects millions of purchases across its 21,000 stores.",
+          "sources": [
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit"
+            }
+          ],
+          "why": "This highlights operational risk and pricing execution in retail, which is a common topic in consulting case studies."
+        },
+        {
+          "headline": "JetBlue shares rebound as creditors bring in restructuring advisers",
+          "body": "JetBlue shares jumped 11% in volatile trading despite posting a larger-than-expected quarterly loss. The rebound came after reports that its creditors are working with restructuring advisers following a sharp selloff in its bonds.",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26/"
+            }
+          ],
+          "why": "Understanding turnaround strategies and debt management is critical if you are interested in finance or distressed investing roles."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI models produce new scientific discoveries",
+          "body": "OpenAI announced that its AI models have generated three new scientific discoveries, including proving that the Exponential Time Hypothesis is false. The company is taking advice from academic scientists on how to publish the findings.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+            }
+          ],
+          "why": "This demonstrates AI moving beyond basic text tasks into complex mathematics and scientific research."
+        },
+        {
+          "headline": "OpenAI builds 'dots', an always-on background personal assistant",
+          "body": "OpenAI turned its coding tools into an always-on personal assistant called dots that operates continuously in the background without requiring active prompts. Executive Alexander Embiricos noted the system aims to handle ongoing workflows seamlessly.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+            }
+          ],
+          "why": "Autonomous background agents could shift day-to-day work habits before you join the full-time job market."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Deloitte EMEA chief pay rises to $9.5 million during job cuts",
+          "body": "Deloitte raised pay for its EMEA chief executive Richard Houston to $9.5 million, an amount equal to 93 times the median UK employee salary. The pay increase occurred while overall headcount fell and the firm cut around 1,000 jobs.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/deloitte-hikes-pay-for-top-boss-while-headcount-shrinks/"
+            },
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/business-economy/companies/93-times-workers-pay-deloitte-chiefs-9-5-million-package-under-spotlight-amid-1000-job-cuts-article-156410058"
+            }
+          ],
+          "why": "Executive compensation structures and corporate cost-cutting choices are central issues in management consulting."
+        },
+        {
+          "headline": "BCG study tracks surging interest in Indian electric two-wheelers",
+          "body": "A report by Boston Consulting Group found that 43 percent of two-wheeler buyers in India are considering electric vehicles. Growth is being driven by quick-commerce delivery expansion and urban Gen Z buyers.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/industry/renewables/nearly-half-of-indian-two-wheeler-buyers-eye-evs-bcg-report/articleshow/135215170.cms"
+            },
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/quick-commerce-non-metro-gen-z-riders-emerge-as-new-growth-opportunities-for-electric-two-wheelers-bcg/"
+            }
+          ],
+          "why": "Consulting firms frequently produce industry reports like this to advise mobility clients on market entry."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine museum hosts exhibition on artist Tokio Ueyama",
+          "body": "The UC Irvine Langson Orange County Museum of Art is presenting an exhibition honoring Japanese American artist Tokio Ueyama. The collection showcases landscapes, still lifes, and portraits that reflect the immigrant community experience.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-23/tokio-ueyama-hollows-between-mountains-honors-artists-nuanced-identity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Over 150 doubles players petition ATP board over tour reforms",
+          "body": "More than 150 men's doubles players on the ATP tour signed an open letter asking tennis leadership to reconsider controversial doubles reforms. The players urged the governing body to protect the traditional doubles format.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Restructuring Advisers",
+    "definition": "Financial or legal experts hired by distressed companies or their creditors to renegotiate debt terms, sell assets, or alter operations to avoid bankruptcy. In JetBlue's case, creditors hired advisers after bond prices dropped following deeper quarterly losses.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Nevis raises $70M for AI wealth management platform",
+    "body": "New York-based startup Nevis raised $70 million in Series B funding led by EQT Ventures, with participation from Charles Schwab. The AI wealth management platform reported growing client assets on its system to $700 billion.",
+    "questions": [
+      "How can AI wealth platforms maintain trust when managing hundreds of billions in client assets?",
+      "What traditional financial advisor tasks are most vulnerable to automation by startups like Nevis?",
+      "How could automated asset tracking tools be used in business school finance projects?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "DoorDash is in talks to acquire Instacart for $17 billion.",
+      "blurb": "The potential deal would unite food and grocery delivery giants."
+    },
+    {
+      "headline": "FTC sued Dollar General over pricing mismatches at checkout.",
+      "blurb": "Regulators allege improper charges occurred across its 21,000 stores."
+    },
+    {
+      "headline": "OpenAI models proved the Exponential Time Hypothesis is false.",
+      "blurb": "The discoveries mark a major push into automated scientific research."
+    },
+    {
+      "headline": "Deloitte EMEA chief pay reached $9.5 million amid 1,000 job cuts.",
+      "blurb": "The executive package equals 93 times the median UK employee salary."
+    },
+    {
+      "headline": "Over 150 ATP doubles players signed a letter protesting tour reforms.",
+      "blurb": "Players are urging the governing body to protect the traditional doubles format."
+    }
+  ],
+  "emailQuestion": "How can AI wealth platforms maintain trust when managing hundreds of billions in client assets?"
+}
