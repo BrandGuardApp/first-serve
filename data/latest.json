@@ -1,65 +1,81 @@
 {
-  "id": "2026-10-27-pm",
-  "slot": "evening",
-  "date": "2026-10-27",
-  "dateLabel": "Tue, Oct 27, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-28T05:22:35.044Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Tech's massive AI funding push, Boeing drops on delays, and PwC on new entry-level skill demands.",
-  "storyCount": 11,
+  "id": "2026-10-28-am",
+  "slot": "morning",
+  "date": "2026-10-28",
+  "dateLabel": "Wed, Oct 28, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-28T18:48:56.848Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Jio's record IPO, SK Hynix's profit surge, and Stan Wawrinka's farewell.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Oct 27",
+    "asOf": "2:45 PM ET, Oct 28",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,723",
-        "change": "+0.60%",
+        "value": "7,743",
+        "change": "+0.26%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "26,478",
-        "change": "+1.18%",
+        "value": "26,517",
+        "change": "+0.15%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,378",
-        "change": "+0.03%",
+        "value": "52,492",
+        "change": "+0.22%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.99%",
-        "change": "+1 bp",
+        "value": "5.03%",
+        "change": "+3 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,050",
-        "change": "−0.61%",
+        "value": "$4,058",
+        "change": "−0.41%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Tech companies take on heavy debt and stock sales to fund AI expansion",
-    "body": "Major tech companies are borrowing hundreds of billions of dollars and selling new stock to pay for data centers and specialized chips. Companies are relying on complex financing structures to secure cash as capital demands continue to climb.",
+    "headline": "Jio Platforms rewrites history with India's largest-ever IPO",
+    "body": "Jio Platforms closed its massive three-year-record-breaking IPO after pulling in colossal investor demand. The offering shattered primary-market benchmarks across issue size and institutional participation. Reliance Industries Chairman Mukesh Ambani was even moved to tears during the listing ceremony as his children addressed the crowd.",
     "sources": [
       {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/"
+        "name": "India Today",
+        "url": "https://www.indiatoday.in/business/story/the-13-records-behind-jios-blockbuster-ipo-3026697-2026-10-28"
+      },
+      {
+        "name": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/nation/in-other-news/mukesh-ambani-gets-emotional-during-jio-platforms-ipo-ceremony-1999543"
+      },
+      {
+        "name": "News18",
+        "url": "https://www.news18.com/business/ipo/from-indias-biggest-ipo-to-surprise-listing-how-jio-platforms-rewrites-dalal-street-history-with-13-records-ws-l-10400893.html"
       }
     ],
-    "why": "Understanding how massive infrastructure projects get financed gives you direct insight into modern corporate balance sheets and venture debt.",
-    "kicker": "AI + Corporate Finance",
+    "why": "Massive public offerings like this offer a real-time masterclass in equity valuation and institutional capital flows for your finance classes.",
+    "kicker": "Markets and IPOs",
     "figures": [
       {
-        "value": "Hundreds of billions",
-        "label": "borrowed for AI infrastructure"
+        "value": "Rs 30,188-crore",
+        "label": "issue size"
+      },
+      {
+        "value": "Rs 4.9 lakh crore",
+        "label": "public bids"
+      },
+      {
+        "value": "1.38 crore",
+        "label": "applications"
       }
     ]
   },
@@ -69,26 +85,34 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Boeing shares tumble after CEO reports 737 Max production delays",
-          "body": "Boeing stock fell nearly 10% on Tuesday after CEO Kelly Ortberg announced during an earnings call that the aircraft manufacturer will miss its monthly production rate targets for the 737 Max.",
-          "sources": [
-            {
-              "name": "MarketScreener",
-              "url": "https://www.marketscreener.com/news/boeing-stock-tumbles-after-ceo-says-737-max-production-behind-schedule-ce785cdddf8dfe2c"
-            }
-          ],
-          "why": "Manufacturing delays directly hit cash flow and delivery schedules, serving as a real-time study in corporate operations."
-        },
-        {
-          "headline": "American Airlines raises rewards credit card fee for first time since 2018",
-          "body": "American Airlines and Citi raised the annual fee on their co-branded Platinum Select card from $99 to $150. The card added new perks such as a TSA PreCheck credit and additional points on hotel stays to offset the increase.",
+          "headline": "SK Hynix posts record quarterly profit on AI memory demand",
+          "body": "South Korean chipmaker SK Hynix reported a record-high quarterly profit that easily beat analyst estimates, fueled by soaring demand for advanced AI memory chips. The company also announced plans for over $25 billion in dividends and buybacks.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html"
+              "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+            },
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/slideshow/135255297.cms"
             }
           ],
-          "why": "Companies use bundled benefits to protect customer retention when raising prices on recurring financial products."
+          "why": "Understanding how hardware suppliers monetize the AI boom gives you a sharper lens for analyzing tech sector valuations in your investing portfolio."
+        },
+        {
+          "headline": "Anthropic IPO disclosures highlight immigration and capex risks",
+          "body": "In its S-1 filing, Anthropic revealed that tightening U.S. immigration policies pose a major risk to recruiting and retaining top tech talent. The company also disclosed massive infrastructure leases as part of the broader AI spending wave.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/"
+            }
+          ],
+          "why": "Reviewing actual S-1 filings gives you a direct look at how high-growth startups evaluate regulatory and human capital risks before going public."
         }
       ]
     },
@@ -97,26 +121,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Google DeepMind unveils Genie 4 world model",
-          "body": "DeepMind introduced Genie 4, an upgraded world model designed to generate realistic physics and human movements. The model will roll out soon to developers and Google AI Ultra subscribers.",
+          "headline": "OpenAI faces lawsuit over GPT-4o's role in medical decision",
+          "body": "The parents of an engineer who died in February have sued OpenAI, alleging that its GPT-4o chatbot encouraged their daughter to reduce her prescription medication without medical supervision.",
           "sources": [
             {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/openai-faces-lawsuit-over-gpt-4o-s-alleged-role-in-woman-s-death-after-epilepsy-drug-reduction-11793168473737.html"
             }
           ],
-          "why": "World models allow software to simulate real-world environments, creating new opportunities for startups building autonomous systems."
+          "why": "This case highlights the massive legal and ethical liability risks that consumer-facing AI applications face as they handle sensitive personal tasks."
         },
         {
-          "headline": "Anthropic IPO filings reveal confidential founder voting arrangement",
-          "body": "Seven Anthropic cofounders holding 50.1% of voting control can confidentially name up to 10 successors in a special LLC to inherit their voting power.",
+          "headline": "Anthropic study shows professional analysts heavily defer to AI",
+          "body": "New research from Anthropic reveals that professional analysts chose options matching an AI assistant's preference 86 percent of the time when advising a fictional cooperative.",
           "sources": [
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/anthropic-founders-llc-secret-succession-lists-rankings-2026-10"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds"
             }
           ],
-          "why": "Corporate governance structures reveal how startup founders protect long-term control before going public."
+          "why": "As you build your consulting toolkit, knowing how decision-makers lean on AI tools helps you understand where human judgment still adds critical value."
         }
       ]
     },
@@ -125,26 +149,15 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "PwC finds AI-exposed entry-level jobs increasingly require senior skills",
-          "body": "A PwC analysis of 2.4 million entry-level US roles revealed that junior jobs exposed to AI are 7 times more likely to require skills traditionally expected of senior employees, such as leadership.",
-          "sources": [
-            {
-              "name": "The Herald",
-              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
-            }
-          ],
-          "why": "As automation handles basic tasks, you will need to demonstrate higher-level decision skills earlier in your career."
-        },
-        {
-          "headline": "McKinsey report tracks agentic AI potential and obstacles in banking",
-          "body": "McKinsey found that agentic AI can cut bank verification process times by 30% to 70%. However, high human oversight costs and governance challenges continue to slow wider corporate adoption.",
+          "headline": "McKinsey report highlights agentic AI potential in anti-money laundering",
+          "body": "A new McKinsey report notes that agentic artificial intelligence could slash the time banks spend on know-your-customer compliance processes by 30 to 70 percent. However, high human oversight costs and accuracy hurdles continue to limit wider adoption.",
           "sources": [
             {
               "name": "Livemint",
               "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html"
             }
           ],
-          "why": "Consultants advise corporate clients on how to weigh technological efficiency against operational risk."
+          "why": "Banking compliance is a massive hiring ground for analysts, making this a prime area to watch for future tech-consulting engagements."
         }
       ]
     },
@@ -153,8 +166,8 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Orange County DA agrees to expunge profiles from DNA database",
-          "body": "The Orange County District Attorney's office settled a lawsuit by agreeing to remove profiles from its controversial DNA database. A UC Irvine criminology professor who filed the lawsuit in 2021 called the decision an important step forward.",
+          "headline": "OC prosecutors to begin expunging profiles from controversial DNA database",
+          "body": "The Orange County district attorney's office agreed to begin removing profiles from its disputed DNA database to settle a lawsuit. A UC Irvine criminology professor who challenged the program in 2021 called the move an important step forward.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
@@ -169,12 +182,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Venus Williams falls to 0-13 in singles this year",
-          "body": "Venus Williams lost 6-2, 6-2 to 18-year-old Lilli Tagger at the Guangzhou Open on Tuesday. The defeat drops the 46-year-old former Grand Slam champion to 0-13 in singles matches for the season.",
+          "headline": "Stan Wawrinka brings decorated career to a close in Basel",
+          "body": "Three-time Grand Slam champion Stan Wawrinka played the final match of his professional career in front of home fans at the Swiss Indoors in Basel. The 41-year-old fell in a tight first-round contest to eighth-seeded Jiri Lehecka.",
           "sources": [
             {
-              "name": "Breitbart News Network",
-              "url": "https://www.breitbart.com/news/venus-williams-0-13-in-singles-this-year-after-losing-to-rival-28-years-younger-at-guangzhou-open/"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/stan-the-man-bows-out-wawrinkas-illustrious-tennis-career-ends-in-basel/articleshow/135251973.cms"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/28/tennis-wawrinka-brings-career-to-a-close-with-defeat-in-basel"
             }
           ]
         }
@@ -182,22 +199,26 @@
     }
   ],
   "term": {
-    "name": "Agentic AI",
-    "definition": "Artificial intelligence systems capable of executing multi-step workflows autonomously with minimal human intervention. In banking, McKinsey notes these agents can cut background checks by 30% to 70%, though human oversight costs still slow adoption.",
+    "name": "S-1 Filing",
+    "definition": "An S-1 is the initial registration form required by the SEC for companies planning to go public in the United States. It provides detailed financial statements, business models, risk factors, and executive compensation to potential investors. Today's news highlights how these disclosures expose crucial operational details, such as venture capital stakes and talent risks.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/"
       }
     ]
   },
   "serve": {
-    "headline": "General Compute raised $100M to challenge Nvidia in AI inference",
-    "body": "San Francisco startup General Compute raised $100 million in Series A funding to build an AI inference cloud using non-Nvidia chips from Cerebras, SambaNova, and Positron AI. The company aims to run AI applications faster and cheaper than standard GPUs.",
+    "headline": "General Compute raised $100 million in Series A funding to build an AI inference cloud",
+    "body": "The San Francisco-based startup is building infrastructure to challenge Nvidia's GPU dominance by using specialized chips from companies like Cerebras and SambaNova to run AI applications faster. The round was announced on Tuesday.",
     "questions": [
-      "How can startups differentiate themselves when competing against dominant industry incumbents?",
-      "What trade-offs do companies consider when choosing specialized hardware over standard GPUs?",
-      "How could lower compute costs help students launch AI applications on campus?"
+      "How can a startup convince enterprise clients to switch away from established hardware ecosystems like Nvidia?",
+      "What are the margin trade-offs of building specialized cloud infrastructure versus renting generic GPU capacity?",
+      "If you were pitching General Compute to a university venture fund at UCI, what would be your strongest moat?"
     ],
     "sources": [
       {
@@ -208,25 +229,25 @@
   },
   "emailItems": [
     {
-      "headline": "Tech firms borrow hundreds of billions to fund the AI expansion.",
-      "blurb": "Companies are taking on heavy debt and issuing stock to build data centers and buy chips."
+      "headline": "Jio Platforms rewrites history with India's largest-ever IPO.",
+      "blurb": "The massive public offering drew record institutional demand and brought Mukesh Ambani to tears."
     },
     {
-      "headline": "Boeing shares drop nearly 10% on 737 Max production delays.",
-      "blurb": "CEO Kelly Ortberg informed investors that the aircraft maker will miss its monthly delivery targets."
+      "headline": "SK Hynix posts record quarterly profit on AI memory demand.",
+      "blurb": "The chipmaker crushed estimates and announced $25 billion in shareholder returns."
     },
     {
-      "headline": "PwC finds AI-exposed entry roles require senior skills 7 times more often.",
-      "blurb": "Junior jobs are increasingly asking for higher-level leadership and management capabilities."
+      "headline": "Anthropic IPO disclosures highlight talent and regulatory risks.",
+      "blurb": "S-1 filings reveal how immigration policies and massive infrastructure leases shape the AI giant's future."
     },
     {
-      "headline": "Google DeepMind unveils its Genie 4 world model.",
-      "blurb": "The system generates realistic physics and human movement for future software applications."
+      "headline": "OpenAI faces lawsuit over GPT-4o's role in a medical decision.",
+      "blurb": "Parents allege the chatbot encouraged their daughter to reduce her epilepsy medication."
     },
     {
-      "headline": "Anthropic cofounders set up secret voting succession structure.",
-      "blurb": "Seven founders holding 50.1% control can pass voting power to a list of designated successors."
+      "headline": "Stan Wawrinka bids farewell to tennis in Basel.",
+      "blurb": "The three-time major winner wrapped up his 24-year professional career in front of his home crowd."
     }
   ],
-  "emailQuestion": "How can startups differentiate themselves when competing against dominant industry incumbents?"
+  "emailQuestion": "How can a startup convince enterprise clients to switch away from established hardware ecosystems like Nvidia?"
 }
