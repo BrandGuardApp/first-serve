@@ -1,65 +1,65 @@
 {
-  "id": "2026-10-27-am",
-  "slot": "morning",
+  "id": "2026-10-27-pm",
+  "slot": "evening",
   "date": "2026-10-27",
   "dateLabel": "Tue, Oct 27, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-27T14:19:46.655Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "DoorDash eyes Instacart for $17B, FTC sues Dollar General, and OpenAI unveils dots.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-28T05:22:35.044Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Tech's massive AI funding push, Boeing drops on delays, and PwC on new entry-level skill demands.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "10:19 AM ET, Oct 27",
+    "asOf": "Close, Oct 27",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,683",
-        "change": "+0.08%",
+        "value": "7,723",
+        "change": "+0.60%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "26,244",
-        "change": "+0.29%",
+        "value": "26,478",
+        "change": "+1.18%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,308",
-        "change": "−0.10%",
-        "direction": "down"
+        "value": "52,378",
+        "change": "+0.03%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.00%",
-        "change": "+2 bp",
+        "value": "4.99%",
+        "change": "+1 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,052",
-        "change": "+0.34%",
-        "direction": "up"
+        "value": "$4,050",
+        "change": "−0.61%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "DoorDash in talks to buy Instacart for $17 billion",
-    "body": "DoorDash is in advanced talks to acquire grocery delivery rival Instacart in a deal that could value the company at around $17 billion. An agreement could be reached as early as this week, though talks may still fall through. The potential deal comes as DoorDash seeks to expand its footprint in the grocery delivery market.",
+    "headline": "Tech companies take on heavy debt and stock sales to fund AI expansion",
+    "body": "Major tech companies are borrowing hundreds of billions of dollars and selling new stock to pay for data centers and specialized chips. Companies are relying on complex financing structures to secure cash as capital demands continue to climb.",
     "sources": [
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/retail/doordash-advanced-talks-acquire-instacart-potential-17b-deal-report"
+        "name": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/"
       }
     ],
-    "why": "This deal is a huge consolidation play to analyze in your business classes. It shows how top delivery platforms are using M&A to control grocery logistics and defend market share.",
-    "kicker": "M&A + Delivery",
+    "why": "Understanding how massive infrastructure projects get financed gives you direct insight into modern corporate balance sheets and venture debt.",
+    "kicker": "AI + Corporate Finance",
     "figures": [
       {
-        "value": "$17 billion",
-        "label": "Estimated acquisition price"
+        "value": "Hundreds of billions",
+        "label": "borrowed for AI infrastructure"
       }
     ]
   },
@@ -69,30 +69,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "FTC and 20 states sue Dollar General over checkout prices",
-          "body": "Federal and state regulators sued Dollar General, accusing the discount chain of routinely charging customers higher prices at checkout than what was advertised on store shelves. The lawsuit claims this pattern of inaccurate pricing affects millions of purchases across its 21,000 stores.",
+          "headline": "Boeing shares tumble after CEO reports 737 Max production delays",
+          "body": "Boeing stock fell nearly 10% on Tuesday after CEO Kelly Ortberg announced during an earnings call that the aircraft manufacturer will miss its monthly production rate targets for the 737 Max.",
           "sources": [
             {
-              "name": "CBS News",
-              "url": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/"
-            },
-            {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit"
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/boeing-stock-tumbles-after-ceo-says-737-max-production-behind-schedule-ce785cdddf8dfe2c"
             }
           ],
-          "why": "This highlights operational risk and pricing execution in retail, which is a common topic in consulting case studies."
+          "why": "Manufacturing delays directly hit cash flow and delivery schedules, serving as a real-time study in corporate operations."
         },
         {
-          "headline": "JetBlue shares rebound as creditors bring in restructuring advisers",
-          "body": "JetBlue shares jumped 11% in volatile trading despite posting a larger-than-expected quarterly loss. The rebound came after reports that its creditors are working with restructuring advisers following a sharp selloff in its bonds.",
+          "headline": "American Airlines raises rewards credit card fee for first time since 2018",
+          "body": "American Airlines and Citi raised the annual fee on their co-branded Platinum Select card from $99 to $150. The card added new perks such as a TSA PreCheck credit and additional points on hotel stays to offset the increase.",
           "sources": [
             {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html"
             }
           ],
-          "why": "Understanding turnaround strategies and debt management is critical if you are interested in finance or distressed investing roles."
+          "why": "Companies use bundled benefits to protect customer retention when raising prices on recurring financial products."
         }
       ]
     },
@@ -101,26 +97,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI models produce new scientific discoveries",
-          "body": "OpenAI announced that its AI models have generated three new scientific discoveries, including proving that the Exponential Time Hypothesis is false. The company is taking advice from academic scientists on how to publish the findings.",
+          "headline": "Google DeepMind unveils Genie 4 world model",
+          "body": "DeepMind introduced Genie 4, an upgraded world model designed to generate realistic physics and human movements. The model will roll out soon to developers and Google AI Ultra subscribers.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
             }
           ],
-          "why": "This demonstrates AI moving beyond basic text tasks into complex mathematics and scientific research."
+          "why": "World models allow software to simulate real-world environments, creating new opportunities for startups building autonomous systems."
         },
         {
-          "headline": "OpenAI builds 'dots', an always-on background personal assistant",
-          "body": "OpenAI turned its coding tools into an always-on personal assistant called dots that operates continuously in the background without requiring active prompts. Executive Alexander Embiricos noted the system aims to handle ongoing workflows seamlessly.",
+          "headline": "Anthropic IPO filings reveal confidential founder voting arrangement",
+          "body": "Seven Anthropic cofounders holding 50.1% of voting control can confidentially name up to 10 successors in a special LLC to inherit their voting power.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/anthropic-founders-llc-secret-succession-lists-rankings-2026-10"
             }
           ],
-          "why": "Autonomous background agents could shift day-to-day work habits before you join the full-time job market."
+          "why": "Corporate governance structures reveal how startup founders protect long-term control before going public."
         }
       ]
     },
@@ -129,34 +125,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Deloitte EMEA chief pay rises to $9.5 million during job cuts",
-          "body": "Deloitte raised pay for its EMEA chief executive Richard Houston to $9.5 million, an amount equal to 93 times the median UK employee salary. The pay increase occurred while overall headcount fell and the firm cut around 1,000 jobs.",
+          "headline": "PwC finds AI-exposed entry-level jobs increasingly require senior skills",
+          "body": "A PwC analysis of 2.4 million entry-level US roles revealed that junior jobs exposed to AI are 7 times more likely to require skills traditionally expected of senior employees, such as leadership.",
           "sources": [
             {
-              "name": "City A.M.",
-              "url": "https://www.cityam.com/deloitte-hikes-pay-for-top-boss-while-headcount-shrinks/"
-            },
-            {
-              "name": "Times Now",
-              "url": "https://www.timesnownews.com/business-economy/companies/93-times-workers-pay-deloitte-chiefs-9-5-million-package-under-spotlight-amid-1000-job-cuts-article-156410058"
+              "name": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
             }
           ],
-          "why": "Executive compensation structures and corporate cost-cutting choices are central issues in management consulting."
+          "why": "As automation handles basic tasks, you will need to demonstrate higher-level decision skills earlier in your career."
         },
         {
-          "headline": "BCG study tracks surging interest in Indian electric two-wheelers",
-          "body": "A report by Boston Consulting Group found that 43 percent of two-wheeler buyers in India are considering electric vehicles. Growth is being driven by quick-commerce delivery expansion and urban Gen Z buyers.",
+          "headline": "McKinsey report tracks agentic AI potential and obstacles in banking",
+          "body": "McKinsey found that agentic AI can cut bank verification process times by 30% to 70%. However, high human oversight costs and governance challenges continue to slow wider corporate adoption.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/industry/renewables/nearly-half-of-indian-two-wheeler-buyers-eye-evs-bcg-report/articleshow/135215170.cms"
-            },
-            {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/quick-commerce-non-metro-gen-z-riders-emerge-as-new-growth-opportunities-for-electric-two-wheelers-bcg/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html"
             }
           ],
-          "why": "Consulting firms frequently produce industry reports like this to advise mobility clients on market entry."
+          "why": "Consultants advise corporate clients on how to weigh technological efficiency against operational risk."
         }
       ]
     },
@@ -165,12 +153,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine museum hosts exhibition on artist Tokio Ueyama",
-          "body": "The UC Irvine Langson Orange County Museum of Art is presenting an exhibition honoring Japanese American artist Tokio Ueyama. The collection showcases landscapes, still lifes, and portraits that reflect the immigrant community experience.",
+          "headline": "Orange County DA agrees to expunge profiles from DNA database",
+          "body": "The Orange County District Attorney's office settled a lawsuit by agreeing to remove profiles from its controversial DNA database. A UC Irvine criminology professor who filed the lawsuit in 2021 called the decision an important step forward.",
           "sources": [
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-23/tokio-ueyama-hollows-between-mountains-honors-artists-nuanced-identity"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
             }
           ]
         }
@@ -181,12 +169,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Over 150 doubles players petition ATP board over tour reforms",
-          "body": "More than 150 men's doubles players on the ATP tour signed an open letter asking tennis leadership to reconsider controversial doubles reforms. The players urged the governing body to protect the traditional doubles format.",
+          "headline": "Venus Williams falls to 0-13 in singles this year",
+          "body": "Venus Williams lost 6-2, 6-2 to 18-year-old Lilli Tagger at the Guangzhou Open on Tuesday. The defeat drops the 46-year-old former Grand Slam champion to 0-13 in singles matches for the season.",
           "sources": [
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format"
+              "name": "Breitbart News Network",
+              "url": "https://www.breitbart.com/news/venus-williams-0-13-in-singles-this-year-after-losing-to-rival-28-years-younger-at-guangzhou-open/"
             }
           ]
         }
@@ -194,51 +182,51 @@
     }
   ],
   "term": {
-    "name": "Restructuring Advisers",
-    "definition": "Financial or legal experts hired by distressed companies or their creditors to renegotiate debt terms, sell assets, or alter operations to avoid bankruptcy. In JetBlue's case, creditors hired advisers after bond prices dropped following deeper quarterly losses.",
+    "name": "Agentic AI",
+    "definition": "Artificial intelligence systems capable of executing multi-step workflows autonomously with minimal human intervention. In banking, McKinsey notes these agents can cut background checks by 30% to 70%, though human oversight costs still slow adoption.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26/"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html"
       }
     ]
   },
   "serve": {
-    "headline": "Nevis raises $70M for AI wealth management platform",
-    "body": "New York-based startup Nevis raised $70 million in Series B funding led by EQT Ventures, with participation from Charles Schwab. The AI wealth management platform reported growing client assets on its system to $700 billion.",
+    "headline": "General Compute raised $100M to challenge Nvidia in AI inference",
+    "body": "San Francisco startup General Compute raised $100 million in Series A funding to build an AI inference cloud using non-Nvidia chips from Cerebras, SambaNova, and Positron AI. The company aims to run AI applications faster and cheaper than standard GPUs.",
     "questions": [
-      "How can AI wealth platforms maintain trust when managing hundreds of billions in client assets?",
-      "What traditional financial advisor tasks are most vulnerable to automation by startups like Nevis?",
-      "How could automated asset tracking tools be used in business school finance projects?"
+      "How can startups differentiate themselves when competing against dominant industry incumbents?",
+      "What trade-offs do companies consider when choosing specialized hardware over standard GPUs?",
+      "How could lower compute costs help students launch AI applications on campus?"
     ],
     "sources": [
       {
         "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/"
+        "url": "https://techstartups.com/2026/10/27/general-compute-raises-100m-to-build-ai-inference-cloud-that-challenges-nvidia-gpus-with-40x-faster-performance/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "DoorDash is in talks to acquire Instacart for $17 billion.",
-      "blurb": "The potential deal would unite food and grocery delivery giants."
+      "headline": "Tech firms borrow hundreds of billions to fund the AI expansion.",
+      "blurb": "Companies are taking on heavy debt and issuing stock to build data centers and buy chips."
     },
     {
-      "headline": "FTC sued Dollar General over pricing mismatches at checkout.",
-      "blurb": "Regulators allege improper charges occurred across its 21,000 stores."
+      "headline": "Boeing shares drop nearly 10% on 737 Max production delays.",
+      "blurb": "CEO Kelly Ortberg informed investors that the aircraft maker will miss its monthly delivery targets."
     },
     {
-      "headline": "OpenAI models proved the Exponential Time Hypothesis is false.",
-      "blurb": "The discoveries mark a major push into automated scientific research."
+      "headline": "PwC finds AI-exposed entry roles require senior skills 7 times more often.",
+      "blurb": "Junior jobs are increasingly asking for higher-level leadership and management capabilities."
     },
     {
-      "headline": "Deloitte EMEA chief pay reached $9.5 million amid 1,000 job cuts.",
-      "blurb": "The executive package equals 93 times the median UK employee salary."
+      "headline": "Google DeepMind unveils its Genie 4 world model.",
+      "blurb": "The system generates realistic physics and human movement for future software applications."
     },
     {
-      "headline": "Over 150 ATP doubles players signed a letter protesting tour reforms.",
-      "blurb": "Players are urging the governing body to protect the traditional doubles format."
+      "headline": "Anthropic cofounders set up secret voting succession structure.",
+      "blurb": "Seven founders holding 50.1% control can pass voting power to a list of designated successors."
     }
   ],
-  "emailQuestion": "How can AI wealth platforms maintain trust when managing hundreds of billions in client assets?"
+  "emailQuestion": "How can startups differentiate themselves when competing against dominant industry incumbents?"
 }
