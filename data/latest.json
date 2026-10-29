@@ -1,73 +1,85 @@
 {
-  "id": "2026-10-28-pm",
-  "slot": "evening",
-  "date": "2026-10-28",
-  "dateLabel": "Wed, Oct 28, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-29T02:22:53.286Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Trian bids $1.4B for Wendy's, the Fed holds rates steady, and PwC analyzes AI entry-level jobs.",
-  "storyCount": 10,
+  "id": "2026-10-29-am",
+  "slot": "morning",
+  "date": "2026-10-29",
+  "dateLabel": "Thu, Oct 29, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-29T16:51:12.252Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Big Tech AI spending surge, Kalshi faces state charges, and Wawrinka retires.",
+  "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Oct 28",
+    "asOf": "12:50 PM ET, Oct 29",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,744",
-        "change": "+0.28%",
-        "direction": "up"
+        "value": "7,713",
+        "change": "−0.40%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,550",
-        "change": "+0.27%",
-        "direction": "up"
+        "value": "26,184",
+        "change": "−1.38%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,475",
-        "change": "+0.19%",
-        "direction": "up"
+        "value": "52,268",
+        "change": "−0.39%",
+        "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.04%",
-        "change": "+5 bp",
-        "direction": "up"
+        "value": "5.00%",
+        "change": "−5 bp",
+        "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,070",
-        "change": "+0.45%",
-        "direction": "up"
+        "value": "$4,026",
+        "change": "−0.64%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Nelson Peltz's Trian offers $1.4 billion to take Wendy's private",
-    "body": "An investor group led by Nelson Peltz's Trian Fund Management offered $1.4 billion in cash to acquire Wendy's. The offer sits at $7.35 per share, representing a 20% premium over the market price. The burger chain has faced two difficult years as consumers cut back on dining out.",
+    "headline": "Big Tech AI Cloud Growth Sparks Heavy Infrastructure Spending",
+    "body": "Microsoft reported a 19% quarterly revenue increase to $92.3 billion, driven by strong cloud business growth. However, Alphabet saw its stock fall after-hours as investors worried that massive spending on AI infrastructure and data centers is pressuring profits.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars"
+      },
+      {
+        "name": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98"
+      },
+      {
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/business/3998610-microsoft-revenue-rises-19-to-usd-923-billion-as-cloud-growth-accelerates"
+      },
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower-126102900097_1.html"
       }
     ],
-    "why": "This is a prime case study for your corporate finance classes on how activist hedge funds step in to buy out struggling consumer brands at a discount.",
-    "kicker": "Private Equity + Retail",
+    "why": "As an investor and business student, watching how tech giants balance capital expenditures with profit margins gives you real insight into valuation models you will analyze in finance class.",
+    "kicker": "Tech & Earnings",
     "figures": [
       {
-        "value": "$1.4B",
-        "label": "proposed buyout value"
+        "value": "$92.3B",
+        "label": "Microsoft Q1 revenue"
       },
       {
-        "value": "$7.35",
-        "label": "cash offer per share"
+        "value": "19%",
+        "label": "Microsoft revenue growth YoY"
       },
       {
-        "value": "20%",
-        "label": "premium to market price"
+        "value": "$400B",
+        "label": "Alphabet market value wiped after-hours"
       }
     ]
   },
@@ -77,26 +89,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Federal Reserve holds key rate steady at 3.9%",
-          "body": "The Fed decided to keep its benchmark interest rate unchanged at about 3.9% on Wednesday. Officials noted that inflation remains elevated, giving little indication about when borrowing costs might decrease.",
+          "headline": "Utah files criminal charges against prediction market Kalshi",
+          "body": "Utah Attorney General Derek Brown filed criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for alleged illegal gambling. The state charges come right after federal regulators sued Utah over state jurisdiction.",
           "sources": [
             {
-              "name": "NewsBreak",
-              "url": "https://www.newsbreak.com/pbs-newshour-513240/4972006266600-watch-warsh-holds-briefing-after-fed-leaves-key-interest-rate-unchanged"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/29/kalshi-co-founders-hit-with-criminal-charges-in-us-state-of-utah"
+            },
+            {
+              "name": "NPR Utah | KUER",
+              "url": "https://www.kuer.org/politics-government/2026-10-28/kalshi-prediction-market-utah-gambling-criminal-charges"
             }
           ],
-          "why": "Higher rates keep the cost of capital high for corporate acquisitions, venture funding, and stock valuation models you will study in finance."
+          "why": "If you want to launch a fintech startup or trade on prediction markets, you need to understand how state laws can clash with federal oversight."
         },
         {
-          "headline": "DTCC launches tokenization service with 20 Wall Street firms",
-          "body": "The Depository Trust & Clearing Corporation rolled out its tokenization platform to move traditional financial securities onto Canton and Besu blockchains. The initial release supports 34 assets and connects 20 major financial institutions.",
+          "headline": "Zillow settles failed home-flipping lawsuit for $212.5 million",
+          "body": "Zillow agreed to pay $212.5 million in cash to settle a class action lawsuit accusing it of misleading investors about its defunct Zillow Offers venture. The company did not admit wrongdoing as part of the agreement.",
           "sources": [
             {
-              "name": "CoinGape",
-              "url": "https://coingape.com/dtcc-launches-securities-tokenization-service-with-initial-support-for-34-assets/"
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/"
             }
           ],
-          "why": "This marks a major step in institutional market infrastructure, showing how traditional finance firms are adopting blockchain technology for clearing and settlement."
+          "why": "This case shows why risk management and transparent reporting are crucial when a tech business pivots into asset-heavy operations."
         }
       ]
     },
@@ -105,26 +121,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Former DOJ trustbusters launch AI legal startup FluxCap",
-          "body": "Jonathan Kanter and Doha Mekki, who led the Justice Department's antitrust division under President Biden, co-founded FluxCap. The startup develops artificial intelligence tools designed specifically for litigators.",
+          "headline": "NYU valuation expert values Anthropic at $1.475 trillion",
+          "body": "Finance professor Aswath Damodaran published an IPO valuation estimating AI startup Anthropic's equity worth at $1.475 trillion. He projects Anthropic could approach $1 trillion in annual revenue by 2036 with a 27.5% operating margin.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html"
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/business-news/anthropic-ipo-valuation-guru-share-voting-structure-kim-jong-un-ai-firm-investors-12251891"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/markets/aswath-damodaran-of-nyu-stern-on-anthropic-worth-puts-a-number-on-it-anthropic-ipo-valuation-ipo-today-global-markets-finance-money-12251832"
             }
           ],
-          "why": "It shows how top regulatory officials are turning their specialized domain knowledge into software startups aimed at professional service industries."
+          "why": "Learning how top valuation experts project cash flows and margins helps you evaluate tech companies in your finance courses."
         },
         {
-          "headline": "OpenAI sets up election operations war room ahead of midterms",
-          "body": "OpenAI assembled hundreds of employees into an Election Operations Center to spot and mitigate misinformation and disruption efforts using its models. The operation will run through the completion of ballot counting.",
+          "headline": "New York restricts minors from using AI companion chatbots",
+          "body": "New York's governor signed a law prohibiting minors from using AI companion chatbots. Chatbot operators like OpenAI will now be required to verify user ages under the new restrictions.",
           "sources": [
             {
-              "name": "POLITICO",
-              "url": "https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690"
+              "name": "The New Indian Express",
+              "url": "https://www.newindianexpress.com/world/2026/Oct/29/new-york-passes-law-restricting-childrens-use-of-ai-chatbots"
             }
           ],
-          "why": "Enterprise AI platforms must invest heavily in trust and safety operations to maintain corporate contracts and satisfy regulators."
+          "why": "As AI consumer products scale, shifting compliance rules directly impact product design and go-to-market strategies for consumer tech startups."
         }
       ]
     },
@@ -133,26 +153,42 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "PwC finds AI-exposed junior roles demand senior skills",
-          "body": "A PwC study analyzing 2.4 million entry-level jobs in the United States found that entry-level positions heavily exposed to AI are seven times more likely to require skills like leadership. The change suggests automated tools are taking over routine analytical work.",
+          "headline": "Deloitte partners with Dayforce to expand AI HR tools",
+          "body": "Deloitte formed a strategic alliance with Dayforce to combine its human capital consulting experience with Dayforce's AI platform. The initiative aims to accelerate enterprise HR and payroll automation.",
           "sources": [
             {
-              "name": "The Herald",
-              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
+              "name": "iTWire",
+              "url": "https://itwire.com/it-industry-news/deals/dayforce-and-deloitte-form-strategic-alliance-to-advance-hr-and-payroll-transformation"
             }
           ],
-          "why": "For business students, technical coursework is no longer enough on its own. You will need to show client communication and project leadership skills in early interviews."
+          "why": "Major consulting firms are heavily integrating enterprise AI platforms, meaning future consultants will need to know how to implement automated software."
         },
         {
-          "headline": "Top consulting and finance firms recruit heavily at IIM Ahmedabad",
-          "body": "Summer recruitment at IIM Ahmedabad generated over 160 offers across consulting, private equity, and investment banking for the Class of 2028. Recruiters included McKinsey, Goldman Sachs, and Amazon across multiple hiring clusters.",
+          "headline": "Corporate leaders emphasize job readiness as AI shifts entry-level work",
+          "body": "At a recent industry panel, Grant Thornton partner Prashant Mehra emphasized that AI disruption requires graduates to demonstrate practical job skills immediately. Leaders noted that employers are seeking job-ready candidates rather than relying solely on degrees.",
           "sources": [
             {
-              "name": "The Financial Express",
-              "url": "https://www.financialexpress.com/jobs-career/iima-summer-placements-over-160-roles-offered-in-first-two-clusters-for-pgp-class-of-2028-4371451/"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/degrees-are-important-but-being-job-ready-is-crucial-in-ai-age/articleshow/135263550.cms"
             }
           ],
-          "why": "Global recruiting data gives you a useful benchmark for how top-tier consulting and banking pipelines are allocating internship slots this season."
+          "why": "To stand out for consulting and business internships, you should build hands-on experience with modern AI software alongside your Merage coursework."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI professor lawsuit leads to OC DNA database clean-up",
+          "body": "The Orange County district attorney agreed to remove profiles from a local DNA database following a lawsuit by a UC Irvine criminology professor that questioned the program's constitutionality.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+            }
+          ]
         }
       ]
     },
@@ -161,12 +197,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Novak Djokovic says retirement thoughts are growing closer",
-          "body": "Novak Djokovic conceded that retirement is closer than ever as he prepares for the end of his season. The 39-year-old is ranked 12th in the world and has not captured a Grand Slam title since 2023, though he won the China Open earlier this year.",
+          "headline": "Stan Wawrinka retires from professional tennis in Basel",
+          "body": "Three-time Grand Slam champion Stan Wawrinka officially ended his 24-year professional tennis career at age 41. He played his final match at the Swiss Indoors in Basel, falling in the first round.",
           "sources": [
             {
-              "name": "SPORTbible",
-              "url": "https://www.sportbible.com/tennis/novak-djokovic-tennis-retirement-thoughts-934542-20261028"
+              "name": "News18",
+              "url": "https://www.news18.com/sports/tennis/three-time-grand-slam-winner-ends-tennis-career-with-1st-round-defeat-in-basel-ws-l-10401040.html"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/stan-the-man-bows-out-wawrinkas-illustrious-tennis-career-ends-in-basel/articleshow/135251973.cms"
             }
           ]
         }
@@ -174,51 +214,51 @@
     }
   ],
   "term": {
-    "name": "Take-private transaction",
-    "definition": "A deal where an investor group or private equity firm buys all publicly traded shares of a listed company, removing it from stock exchanges. This allows management to restructure operations away from quarterly public earnings pressure. Nelson Peltz's Trian is using this approach with Wendy's.",
+    "name": "Capital Expenditures (CapEx)",
+    "definition": "Funds spent by a company to acquire, upgrade, or maintain physical assets like property, buildings, or tech infrastructure. Big Tech companies are allocating huge CapEx toward AI data centers and custom chips, which can lower short-term profit margins even when total revenue grows.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars"
       }
     ]
   },
   "serve": {
-    "headline": "Upwind raises $400M at a $3.8B valuation for cloud security",
-    "body": "Cloud and artificial intelligence security company Upwind Security closed a $400 million funding round at a $3.8 billion valuation. The company secured the capital after quadrupling its revenue.",
+    "headline": "Plato raises $16M to train AI agents in virtual workplaces",
+    "body": "San Francisco startup Plato raised a $16 million Series A round led by Nava Ventures, with participation from Microsoft AI chief Mustafa Suleyman. The company pays working professionals to recreate their daily jobs inside simulated environments so AI labs can train and test autonomous agents.",
     "questions": [
-      "If you were designing software for campus student groups, how would you secure member data across different cloud apps?",
-      "Why do cybersecurity companies command premium valuations even when broader enterprise software budgets tighten?",
-      "What metrics should a founder demonstrate before attempting to raise capital at a multi-billion dollar valuation?"
+      "What daily workflow tasks in your UCI business classes could be simulated to train AI software?",
+      "How can early-stage startups convince industry experts to share operational know-how for training data?",
+      "Would you pay human experts or rely on synthetic data when building niche AI agents?"
     ],
     "sources": [
       {
-        "name": "SiliconANGLE News",
-        "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/plato-16m-series-a-simulated-workplaces-ai-agents"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nelson Peltz's Trian bids $1.4B to take Wendy's private.",
-      "blurb": "The investment firm offered $7.35 per share in cash to turn around the struggling burger chain."
+      "headline": "Big Tech earnings reveal massive AI infrastructure spending.",
+      "blurb": "Microsoft revenue grew 19% on cloud demand, while Alphabet stock fell due to heavy spending."
     },
     {
-      "headline": "Federal Reserve holds interest rates steady at 3.9%.",
-      "blurb": "Persistent inflation means borrowing costs will stay elevated across corporate and consumer markets."
+      "headline": "Utah brings criminal charges against prediction market Kalshi.",
+      "blurb": "State prosecutors allege illegal gambling, clashing with federal regulators over jurisdiction."
     },
     {
-      "headline": "Former DOJ antitrust chiefs co-found legal AI startup FluxCap.",
-      "blurb": "Jonathan Kanter and Doha Mekki are building litigation tools after leading federal tech investigations."
+      "headline": "NYU Stern professor values Anthropic at $1.475 trillion.",
+      "blurb": "Aswath Damodaran projects the AI startup could near $1 trillion in revenue by 2036."
     },
     {
-      "headline": "PwC finds AI-exposed entry-level jobs require senior leadership skills.",
-      "blurb": "Junior roles that interact with AI tools are seven times more likely to ask for management traits."
+      "headline": "Deloitte partners with Dayforce for AI HR consulting.",
+      "blurb": "The firm is expanding its digital transformation practice around automated workforce tools."
     },
     {
-      "headline": "DTCC launches tokenization platform with 20 major Wall Street firms.",
-      "blurb": "The clearing giant is moving 34 traditional assets onto distributed ledger networks."
+      "headline": "Stan Wawrinka ends 24-year tennis career in Basel.",
+      "blurb": "The three-time Grand Slam champion retired after a first-round home loss at age 41."
     }
   ],
-  "emailQuestion": "If you were designing software for campus student groups, how would you secure member data across different cloud apps?"
+  "emailQuestion": "What daily workflow tasks in your UCI business classes could be simulated to train AI software?"
 }
