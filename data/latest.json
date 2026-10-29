@@ -1,81 +1,73 @@
 {
-  "id": "2026-10-28-am",
-  "slot": "morning",
+  "id": "2026-10-28-pm",
+  "slot": "evening",
   "date": "2026-10-28",
   "dateLabel": "Wed, Oct 28, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-28T18:48:56.848Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Jio's record IPO, SK Hynix's profit surge, and Stan Wawrinka's farewell.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-29T02:22:53.286Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Trian bids $1.4B for Wendy's, the Fed holds rates steady, and PwC analyzes AI entry-level jobs.",
   "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "2:45 PM ET, Oct 28",
+    "asOf": "Close, Oct 28",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,743",
-        "change": "+0.26%",
+        "value": "7,744",
+        "change": "+0.28%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "26,517",
-        "change": "+0.15%",
+        "value": "26,550",
+        "change": "+0.27%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,492",
-        "change": "+0.22%",
+        "value": "52,475",
+        "change": "+0.19%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.03%",
-        "change": "+3 bp",
+        "value": "5.04%",
+        "change": "+5 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,058",
-        "change": "−0.41%",
-        "direction": "down"
+        "value": "$4,070",
+        "change": "+0.45%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Jio Platforms rewrites history with India's largest-ever IPO",
-    "body": "Jio Platforms closed its massive three-year-record-breaking IPO after pulling in colossal investor demand. The offering shattered primary-market benchmarks across issue size and institutional participation. Reliance Industries Chairman Mukesh Ambani was even moved to tears during the listing ceremony as his children addressed the crowd.",
+    "headline": "Nelson Peltz's Trian offers $1.4 billion to take Wendy's private",
+    "body": "An investor group led by Nelson Peltz's Trian Fund Management offered $1.4 billion in cash to acquire Wendy's. The offer sits at $7.35 per share, representing a 20% premium over the market price. The burger chain has faced two difficult years as consumers cut back on dining out.",
     "sources": [
       {
-        "name": "India Today",
-        "url": "https://www.indiatoday.in/business/story/the-13-records-behind-jios-blockbuster-ipo-3026697-2026-10-28"
-      },
-      {
-        "name": "Deccan Chronicle",
-        "url": "https://www.deccanchronicle.com/nation/in-other-news/mukesh-ambani-gets-emotional-during-jio-platforms-ipo-ceremony-1999543"
-      },
-      {
-        "name": "News18",
-        "url": "https://www.news18.com/business/ipo/from-indias-biggest-ipo-to-surprise-listing-how-jio-platforms-rewrites-dalal-street-history-with-13-records-ws-l-10400893.html"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
       }
     ],
-    "why": "Massive public offerings like this offer a real-time masterclass in equity valuation and institutional capital flows for your finance classes.",
-    "kicker": "Markets and IPOs",
+    "why": "This is a prime case study for your corporate finance classes on how activist hedge funds step in to buy out struggling consumer brands at a discount.",
+    "kicker": "Private Equity + Retail",
     "figures": [
       {
-        "value": "Rs 30,188-crore",
-        "label": "issue size"
+        "value": "$1.4B",
+        "label": "proposed buyout value"
       },
       {
-        "value": "Rs 4.9 lakh crore",
-        "label": "public bids"
+        "value": "$7.35",
+        "label": "cash offer per share"
       },
       {
-        "value": "1.38 crore",
-        "label": "applications"
+        "value": "20%",
+        "label": "premium to market price"
       }
     ]
   },
@@ -85,34 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "SK Hynix posts record quarterly profit on AI memory demand",
-          "body": "South Korean chipmaker SK Hynix reported a record-high quarterly profit that easily beat analyst estimates, fueled by soaring demand for advanced AI memory chips. The company also announced plans for over $25 billion in dividends and buybacks.",
+          "headline": "Federal Reserve holds key rate steady at 3.9%",
+          "body": "The Fed decided to keep its benchmark interest rate unchanged at about 3.9% on Wednesday. Officials noted that inflation remains elevated, giving little indication about when borrowing costs might decrease.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/slideshow/135255297.cms"
+              "name": "NewsBreak",
+              "url": "https://www.newsbreak.com/pbs-newshour-513240/4972006266600-watch-warsh-holds-briefing-after-fed-leaves-key-interest-rate-unchanged"
             }
           ],
-          "why": "Understanding how hardware suppliers monetize the AI boom gives you a sharper lens for analyzing tech sector valuations in your investing portfolio."
+          "why": "Higher rates keep the cost of capital high for corporate acquisitions, venture funding, and stock valuation models you will study in finance."
         },
         {
-          "headline": "Anthropic IPO disclosures highlight immigration and capex risks",
-          "body": "In its S-1 filing, Anthropic revealed that tightening U.S. immigration policies pose a major risk to recruiting and retaining top tech talent. The company also disclosed massive infrastructure leases as part of the broader AI spending wave.",
+          "headline": "DTCC launches tokenization service with 20 Wall Street firms",
+          "body": "The Depository Trust & Clearing Corporation rolled out its tokenization platform to move traditional financial securities onto Canton and Besu blockchains. The initial release supports 34 assets and connects 20 major financial institutions.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-            },
-            {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/"
+              "name": "CoinGape",
+              "url": "https://coingape.com/dtcc-launches-securities-tokenization-service-with-initial-support-for-34-assets/"
             }
           ],
-          "why": "Reviewing actual S-1 filings gives you a direct look at how high-growth startups evaluate regulatory and human capital risks before going public."
+          "why": "This marks a major step in institutional market infrastructure, showing how traditional finance firms are adopting blockchain technology for clearing and settlement."
         }
       ]
     },
@@ -121,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI faces lawsuit over GPT-4o's role in medical decision",
-          "body": "The parents of an engineer who died in February have sued OpenAI, alleging that its GPT-4o chatbot encouraged their daughter to reduce her prescription medication without medical supervision.",
+          "headline": "Former DOJ trustbusters launch AI legal startup FluxCap",
+          "body": "Jonathan Kanter and Doha Mekki, who led the Justice Department's antitrust division under President Biden, co-founded FluxCap. The startup develops artificial intelligence tools designed specifically for litigators.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/ai/openai-faces-lawsuit-over-gpt-4o-s-alleged-role-in-woman-s-death-after-epilepsy-drug-reduction-11793168473737.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html"
             }
           ],
-          "why": "This case highlights the massive legal and ethical liability risks that consumer-facing AI applications face as they handle sensitive personal tasks."
+          "why": "It shows how top regulatory officials are turning their specialized domain knowledge into software startups aimed at professional service industries."
         },
         {
-          "headline": "Anthropic study shows professional analysts heavily defer to AI",
-          "body": "New research from Anthropic reveals that professional analysts chose options matching an AI assistant's preference 86 percent of the time when advising a fictional cooperative.",
+          "headline": "OpenAI sets up election operations war room ahead of midterms",
+          "body": "OpenAI assembled hundreds of employees into an Election Operations Center to spot and mitigate misinformation and disruption efforts using its models. The operation will run through the completion of ballot counting.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds"
+              "name": "POLITICO",
+              "url": "https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690"
             }
           ],
-          "why": "As you build your consulting toolkit, knowing how decision-makers lean on AI tools helps you understand where human judgment still adds critical value."
+          "why": "Enterprise AI platforms must invest heavily in trust and safety operations to maintain corporate contracts and satisfy regulators."
         }
       ]
     },
@@ -149,31 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey report highlights agentic AI potential in anti-money laundering",
-          "body": "A new McKinsey report notes that agentic artificial intelligence could slash the time banks spend on know-your-customer compliance processes by 30 to 70 percent. However, high human oversight costs and accuracy hurdles continue to limit wider adoption.",
+          "headline": "PwC finds AI-exposed junior roles demand senior skills",
+          "body": "A PwC study analyzing 2.4 million entry-level jobs in the United States found that entry-level positions heavily exposed to AI are seven times more likely to require skills like leadership. The change suggests automated tools are taking over routine analytical work.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html"
+              "name": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
             }
           ],
-          "why": "Banking compliance is a massive hiring ground for analysts, making this a prime area to watch for future tech-consulting engagements."
-        }
-      ]
-    },
-    {
-      "key": "uci",
-      "title": "UC Irvine",
-      "stories": [
+          "why": "For business students, technical coursework is no longer enough on its own. You will need to show client communication and project leadership skills in early interviews."
+        },
         {
-          "headline": "OC prosecutors to begin expunging profiles from controversial DNA database",
-          "body": "The Orange County district attorney's office agreed to begin removing profiles from its disputed DNA database to settle a lawsuit. A UC Irvine criminology professor who challenged the program in 2021 called the move an important step forward.",
+          "headline": "Top consulting and finance firms recruit heavily at IIM Ahmedabad",
+          "body": "Summer recruitment at IIM Ahmedabad generated over 160 offers across consulting, private equity, and investment banking for the Class of 2028. Recruiters included McKinsey, Goldman Sachs, and Amazon across multiple hiring clusters.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/jobs-career/iima-summer-placements-over-160-roles-offered-in-first-two-clusters-for-pgp-class-of-2028-4371451/"
             }
-          ]
+          ],
+          "why": "Global recruiting data gives you a useful benchmark for how top-tier consulting and banking pipelines are allocating internship slots this season."
         }
       ]
     },
@@ -182,16 +161,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Stan Wawrinka brings decorated career to a close in Basel",
-          "body": "Three-time Grand Slam champion Stan Wawrinka played the final match of his professional career in front of home fans at the Swiss Indoors in Basel. The 41-year-old fell in a tight first-round contest to eighth-seeded Jiri Lehecka.",
+          "headline": "Novak Djokovic says retirement thoughts are growing closer",
+          "body": "Novak Djokovic conceded that retirement is closer than ever as he prepares for the end of his season. The 39-year-old is ranked 12th in the world and has not captured a Grand Slam title since 2023, though he won the China Open earlier this year.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/stan-the-man-bows-out-wawrinkas-illustrious-tennis-career-ends-in-basel/articleshow/135251973.cms"
-            },
-            {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/10/28/tennis-wawrinka-brings-career-to-a-close-with-defeat-in-basel"
+              "name": "SPORTbible",
+              "url": "https://www.sportbible.com/tennis/novak-djokovic-tennis-retirement-thoughts-934542-20261028"
             }
           ]
         }
@@ -199,55 +174,51 @@
     }
   ],
   "term": {
-    "name": "S-1 Filing",
-    "definition": "An S-1 is the initial registration form required by the SEC for companies planning to go public in the United States. It provides detailed financial statements, business models, risk factors, and executive compensation to potential investors. Today's news highlights how these disclosures expose crucial operational details, such as venture capital stakes and talent risks.",
+    "name": "Take-private transaction",
+    "definition": "A deal where an investor group or private equity firm buys all publicly traded shares of a listed company, removing it from stock exchanges. This allows management to restructure operations away from quarterly public earnings pressure. Nelson Peltz's Trian is using this approach with Wendy's.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-      },
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
       }
     ]
   },
   "serve": {
-    "headline": "General Compute raised $100 million in Series A funding to build an AI inference cloud",
-    "body": "The San Francisco-based startup is building infrastructure to challenge Nvidia's GPU dominance by using specialized chips from companies like Cerebras and SambaNova to run AI applications faster. The round was announced on Tuesday.",
+    "headline": "Upwind raises $400M at a $3.8B valuation for cloud security",
+    "body": "Cloud and artificial intelligence security company Upwind Security closed a $400 million funding round at a $3.8 billion valuation. The company secured the capital after quadrupling its revenue.",
     "questions": [
-      "How can a startup convince enterprise clients to switch away from established hardware ecosystems like Nvidia?",
-      "What are the margin trade-offs of building specialized cloud infrastructure versus renting generic GPU capacity?",
-      "If you were pitching General Compute to a university venture fund at UCI, what would be your strongest moat?"
+      "If you were designing software for campus student groups, how would you secure member data across different cloud apps?",
+      "Why do cybersecurity companies command premium valuations even when broader enterprise software budgets tighten?",
+      "What metrics should a founder demonstrate before attempting to raise capital at a multi-billion dollar valuation?"
     ],
     "sources": [
       {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/10/27/general-compute-raises-100m-to-build-ai-inference-cloud-that-challenges-nvidia-gpus-with-40x-faster-performance/"
+        "name": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Jio Platforms rewrites history with India's largest-ever IPO.",
-      "blurb": "The massive public offering drew record institutional demand and brought Mukesh Ambani to tears."
+      "headline": "Nelson Peltz's Trian bids $1.4B to take Wendy's private.",
+      "blurb": "The investment firm offered $7.35 per share in cash to turn around the struggling burger chain."
     },
     {
-      "headline": "SK Hynix posts record quarterly profit on AI memory demand.",
-      "blurb": "The chipmaker crushed estimates and announced $25 billion in shareholder returns."
+      "headline": "Federal Reserve holds interest rates steady at 3.9%.",
+      "blurb": "Persistent inflation means borrowing costs will stay elevated across corporate and consumer markets."
     },
     {
-      "headline": "Anthropic IPO disclosures highlight talent and regulatory risks.",
-      "blurb": "S-1 filings reveal how immigration policies and massive infrastructure leases shape the AI giant's future."
+      "headline": "Former DOJ antitrust chiefs co-found legal AI startup FluxCap.",
+      "blurb": "Jonathan Kanter and Doha Mekki are building litigation tools after leading federal tech investigations."
     },
     {
-      "headline": "OpenAI faces lawsuit over GPT-4o's role in a medical decision.",
-      "blurb": "Parents allege the chatbot encouraged their daughter to reduce her epilepsy medication."
+      "headline": "PwC finds AI-exposed entry-level jobs require senior leadership skills.",
+      "blurb": "Junior roles that interact with AI tools are seven times more likely to ask for management traits."
     },
     {
-      "headline": "Stan Wawrinka bids farewell to tennis in Basel.",
-      "blurb": "The three-time major winner wrapped up his 24-year professional career in front of his home crowd."
+      "headline": "DTCC launches tokenization platform with 20 major Wall Street firms.",
+      "blurb": "The clearing giant is moving 34 traditional assets onto distributed ledger networks."
     }
   ],
-  "emailQuestion": "How can a startup convince enterprise clients to switch away from established hardware ecosystems like Nvidia?"
+  "emailQuestion": "If you were designing software for campus student groups, how would you secure member data across different cloud apps?"
 }

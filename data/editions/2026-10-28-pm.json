@@ -1,0 +1,224 @@
+{
+  "id": "2026-10-28-pm",
+  "slot": "evening",
+  "date": "2026-10-28",
+  "dateLabel": "Wed, Oct 28, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-29T02:22:53.286Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Trian bids $1.4B for Wendy's, the Fed holds rates steady, and PwC analyzes AI entry-level jobs.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 28",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,744",
+        "change": "+0.28%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "26,550",
+        "change": "+0.27%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,475",
+        "change": "+0.19%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.04%",
+        "change": "+5 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,070",
+        "change": "+0.45%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nelson Peltz's Trian offers $1.4 billion to take Wendy's private",
+    "body": "An investor group led by Nelson Peltz's Trian Fund Management offered $1.4 billion in cash to acquire Wendy's. The offer sits at $7.35 per share, representing a 20% premium over the market price. The burger chain has faced two difficult years as consumers cut back on dining out.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
+      }
+    ],
+    "why": "This is a prime case study for your corporate finance classes on how activist hedge funds step in to buy out struggling consumer brands at a discount.",
+    "kicker": "Private Equity + Retail",
+    "figures": [
+      {
+        "value": "$1.4B",
+        "label": "proposed buyout value"
+      },
+      {
+        "value": "$7.35",
+        "label": "cash offer per share"
+      },
+      {
+        "value": "20%",
+        "label": "premium to market price"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Federal Reserve holds key rate steady at 3.9%",
+          "body": "The Fed decided to keep its benchmark interest rate unchanged at about 3.9% on Wednesday. Officials noted that inflation remains elevated, giving little indication about when borrowing costs might decrease.",
+          "sources": [
+            {
+              "name": "NewsBreak",
+              "url": "https://www.newsbreak.com/pbs-newshour-513240/4972006266600-watch-warsh-holds-briefing-after-fed-leaves-key-interest-rate-unchanged"
+            }
+          ],
+          "why": "Higher rates keep the cost of capital high for corporate acquisitions, venture funding, and stock valuation models you will study in finance."
+        },
+        {
+          "headline": "DTCC launches tokenization service with 20 Wall Street firms",
+          "body": "The Depository Trust & Clearing Corporation rolled out its tokenization platform to move traditional financial securities onto Canton and Besu blockchains. The initial release supports 34 assets and connects 20 major financial institutions.",
+          "sources": [
+            {
+              "name": "CoinGape",
+              "url": "https://coingape.com/dtcc-launches-securities-tokenization-service-with-initial-support-for-34-assets/"
+            }
+          ],
+          "why": "This marks a major step in institutional market infrastructure, showing how traditional finance firms are adopting blockchain technology for clearing and settlement."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Former DOJ trustbusters launch AI legal startup FluxCap",
+          "body": "Jonathan Kanter and Doha Mekki, who led the Justice Department's antitrust division under President Biden, co-founded FluxCap. The startup develops artificial intelligence tools designed specifically for litigators.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html"
+            }
+          ],
+          "why": "It shows how top regulatory officials are turning their specialized domain knowledge into software startups aimed at professional service industries."
+        },
+        {
+          "headline": "OpenAI sets up election operations war room ahead of midterms",
+          "body": "OpenAI assembled hundreds of employees into an Election Operations Center to spot and mitigate misinformation and disruption efforts using its models. The operation will run through the completion of ballot counting.",
+          "sources": [
+            {
+              "name": "POLITICO",
+              "url": "https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690"
+            }
+          ],
+          "why": "Enterprise AI platforms must invest heavily in trust and safety operations to maintain corporate contracts and satisfy regulators."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "PwC finds AI-exposed junior roles demand senior skills",
+          "body": "A PwC study analyzing 2.4 million entry-level jobs in the United States found that entry-level positions heavily exposed to AI are seven times more likely to require skills like leadership. The change suggests automated tools are taking over routine analytical work.",
+          "sources": [
+            {
+              "name": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
+            }
+          ],
+          "why": "For business students, technical coursework is no longer enough on its own. You will need to show client communication and project leadership skills in early interviews."
+        },
+        {
+          "headline": "Top consulting and finance firms recruit heavily at IIM Ahmedabad",
+          "body": "Summer recruitment at IIM Ahmedabad generated over 160 offers across consulting, private equity, and investment banking for the Class of 2028. Recruiters included McKinsey, Goldman Sachs, and Amazon across multiple hiring clusters.",
+          "sources": [
+            {
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/jobs-career/iima-summer-placements-over-160-roles-offered-in-first-two-clusters-for-pgp-class-of-2028-4371451/"
+            }
+          ],
+          "why": "Global recruiting data gives you a useful benchmark for how top-tier consulting and banking pipelines are allocating internship slots this season."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Novak Djokovic says retirement thoughts are growing closer",
+          "body": "Novak Djokovic conceded that retirement is closer than ever as he prepares for the end of his season. The 39-year-old is ranked 12th in the world and has not captured a Grand Slam title since 2023, though he won the China Open earlier this year.",
+          "sources": [
+            {
+              "name": "SPORTbible",
+              "url": "https://www.sportbible.com/tennis/novak-djokovic-tennis-retirement-thoughts-934542-20261028"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Take-private transaction",
+    "definition": "A deal where an investor group or private equity firm buys all publicly traded shares of a listed company, removing it from stock exchanges. This allows management to restructure operations away from quarterly public earnings pressure. Nelson Peltz's Trian is using this approach with Wendy's.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Upwind raises $400M at a $3.8B valuation for cloud security",
+    "body": "Cloud and artificial intelligence security company Upwind Security closed a $400 million funding round at a $3.8 billion valuation. The company secured the capital after quadrupling its revenue.",
+    "questions": [
+      "If you were designing software for campus student groups, how would you secure member data across different cloud apps?",
+      "Why do cybersecurity companies command premium valuations even when broader enterprise software budgets tighten?",
+      "What metrics should a founder demonstrate before attempting to raise capital at a multi-billion dollar valuation?"
+    ],
+    "sources": [
+      {
+        "name": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nelson Peltz's Trian bids $1.4B to take Wendy's private.",
+      "blurb": "The investment firm offered $7.35 per share in cash to turn around the struggling burger chain."
+    },
+    {
+      "headline": "Federal Reserve holds interest rates steady at 3.9%.",
+      "blurb": "Persistent inflation means borrowing costs will stay elevated across corporate and consumer markets."
+    },
+    {
+      "headline": "Former DOJ antitrust chiefs co-found legal AI startup FluxCap.",
+      "blurb": "Jonathan Kanter and Doha Mekki are building litigation tools after leading federal tech investigations."
+    },
+    {
+      "headline": "PwC finds AI-exposed entry-level jobs require senior leadership skills.",
+      "blurb": "Junior roles that interact with AI tools are seven times more likely to ask for management traits."
+    },
+    {
+      "headline": "DTCC launches tokenization platform with 20 major Wall Street firms.",
+      "blurb": "The clearing giant is moving 34 traditional assets onto distributed ledger networks."
+    }
+  ],
+  "emailQuestion": "If you were designing software for campus student groups, how would you secure member data across different cloud apps?"
+}
