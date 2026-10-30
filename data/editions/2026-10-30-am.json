@@ -1,0 +1,248 @@
+{
+  "id": "2026-10-30-am",
+  "slot": "morning",
+  "date": "2026-10-30",
+  "dateLabel": "Fri, Oct 30, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-30T15:50:10.085Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Alphabet's $500B market drop, Serval's $150M raise, and Zverev hits world No. 1.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "11:46 AM ET, Oct 30",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,596",
+        "change": "−1.61%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,508",
+        "change": "−2.58%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,955",
+        "change": "−0.74%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.94%",
+        "change": "−5 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,914",
+        "change": "−2.91%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Alphabet Loses $500 Billion as Wall Street Recoils at AI Costs",
+    "body": "Alphabet shares fell nearly 13% after the company reported quarterly earnings, wiping out roughly $500 billion in market value. The plunge comes as investors worry that heavy spending on AI infrastructure is outstripping near-term revenue gains in core search and ad businesses.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
+      },
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
+      }
+    ],
+    "why": "For your business and investing classes, this selloff shows how markets judge corporate capital allocation. When tech companies spend heavily on new tech, investors demand clear timeline gains in return.",
+    "kicker": "BIG TECH + AI SPENDING",
+    "figures": [
+      {
+        "value": "$500B",
+        "label": "Market value erased"
+      },
+      {
+        "value": "13%",
+        "label": "Single-day stock drop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "ServiceNow shares plunge 25% following a slower contract forecast",
+          "body": "Workflow software company ServiceNow saw its stock fall nearly 27% to around $112 per share. The drop followed a slower forecast for contract growth, marking one of its worst single-day declines since going public.",
+          "sources": [
+            {
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/investing/2026/10/29/servicenow-stock-just-plunged-more-than-20-in-a-single-day-here-s-what-it-did-after-its-other-biggest-drops/"
+            }
+          ],
+          "why": "If you analyze enterprise software companies for internships or investing, watching how slowing contract forecasts impact stock valuations gives you key context for valuation models."
+        },
+        {
+          "headline": "Sandisk shares jump after fiscal Q1 earnings beat and 8-for-1 stock split",
+          "body": "Sandisk beat Wall Street estimates for its fiscal first quarter and issued strong guidance for fiscal Q2. The memory chip maker also announced an eight-for-one stock split.",
+          "sources": [
+            {
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/sandisk-stock-sndk-fiscal-q1-2027-earnings/"
+            }
+          ],
+          "why": "Tracking corporate actions like stock splits helps you understand how public companies attempt to improve liquidity and manage share prices for retail investors."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Amazon blocks Meta's Muse AI agent, calling shopping bots ineffective",
+          "body": "Amazon CEO Andy Jassy criticized AI shopping agents as ineffective during an analyst call. Amazon blocked Meta's new AI assistant Muse from accessing its online store to protect its retail ecosystem.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
+            }
+          ],
+          "why": "Understanding how tech platforms guard their data moats is crucial if you plan to launch a consumer tech startup or consult on platform strategy."
+        },
+        {
+          "headline": "Anthropic deploys background self-assessment safety checks inside Claude",
+          "body": "Anthropic rolled out a background feature that allows its Claude AI model to silently evaluate its own chats for potential misuse and flag them for human review. The low-cost monitor runs in the background to improve platform safety.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/technology/news/story/claude-can-now-flag-your-chats-to-anthropic-if-it-detects-indecent-behaviour-3028193-2026-10-30"
+            }
+          ],
+          "why": "As enterprise AI adoption grows, risk compliance and automated monitoring are becoming major business drivers for software startups and consulting firms."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Former McKinsey consultant details the trade-offs of switching to big tech",
+          "body": "An Indian Institute of Management graduate detailed her move from McKinsey to Google after three years in consulting. She noted that consulting offered broad client exposure and travel, while the tech role brought deeper industry focus and a routine.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/trending-news/story/iim-graduate-leaves-mckinsey-for-google-lists-what-she-gained-and-lost-3027657-2026-10-29"
+            }
+          ],
+          "why": "When comparing summer internship paths, hearing practical accounts of consulting travel versus industry tech roles can help shape your long-term career choices."
+        },
+        {
+          "headline": "PwC report shows AI increases skill demands for entry-level white-collar roles",
+          "body": "A PwC analysis of 2.4 million entry-level jobs found that junior roles most exposed to AI are seven times more likely to require skills traditionally expected of senior employees. Employers increasingly seek leadership and advanced technical abilities from fresh graduates.",
+          "sources": [
+            {
+              "name": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
+            }
+          ],
+          "why": "Developing practical technical and leadership skills during your first year at Merage will help you stand out for competitive internship recruiting."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Orange County prosecutors agree to purge DNA database after lawsuit involving UCI professor",
+          "body": "The Orange County District Attorney's office agreed to expunge profiles from its DNA database to settle a lawsuit challenging its constitutionality. A UC Irvine criminology professor who challenged the program in a 2021 lawsuit called the decision an important step forward.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev secures world No. 1 ranking after victory in Vienna",
+          "body": "Alexander Zverev defeated Tallon Griekspoor 6-4, 7-5 at the Vienna Open on Thursday to advance to the quarterfinals. The win guarantees he will overtake Jannik Sinner to become world No. 1 for the first time in next week's rankings.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/alexander-zverev-becomes-world-no-1-101793325972817.html"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-zverev-ensures-ascent-to-number-one-ranking-with-vienna-victory"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Capital Expenditure (CapEx)",
+    "definition": "Capital expenditure refers to the money a company spends to buy, maintain, or upgrade physical assets like data centers, buildings, and hardware. Today's market selloff shows how investors grow anxious when CapEx spending rises faster than immediate revenue.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
+      },
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Serval raises $150M at a $3B valuation to challenge ServiceNow",
+    "body": "Enterprise software startup Serval raised $150 million in a new funding round led by Sequoia, valuing the company at $3 billion. Serval explicitly targets industry leader ServiceNow with ads and tools built to replace legacy enterprise software.",
+    "questions": [
+      "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?",
+      "What advantages do young startups have when taking on large corporate incumbents?",
+      "How can campus founders at UCI test whether an enterprise market is ready for a new competitor?"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Alphabet shares plunge as $500 billion in market value vanishes over AI spending concerns.",
+      "blurb": "Disappointing quarterly earnings sparked worries that heavy investments in AI infrastructure are straining profit margins."
+    },
+    {
+      "headline": "Serval raises $150 million at a $3 billion valuation to challenge ServiceNow.",
+      "blurb": "Sequoia led the funding round as the startup takes direct aim at enterprise software incumbents."
+    },
+    {
+      "headline": "PwC analysis shows entry-level roles face rising skill requirements amid AI adoption.",
+      "blurb": "AI-exposed junior positions are seven times more likely to demand skills traditionally required for senior roles."
+    },
+    {
+      "headline": "Amazon blocks Meta's Muse AI shopping agent from its online platform.",
+      "blurb": "CEO Andy Jassy expressed skepticism about third-party AI assistants attempting to navigate Amazon's store."
+    },
+    {
+      "headline": "Alexander Zverev secures the world No. 1 tennis ranking for the first time.",
+      "blurb": "A straight-sets victory in Vienna ensured Zverev will overtake Jannik Sinner in next week's updated standings."
+    }
+  ],
+  "emailQuestion": "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?"
+}

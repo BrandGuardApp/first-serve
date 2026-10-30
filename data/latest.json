@@ -1,65 +1,73 @@
 {
-  "id": "2026-10-29-pm",
-  "slot": "evening",
-  "date": "2026-10-29",
-  "dateLabel": "Thu, Oct 29, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-30T01:50:55.297Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "DoorDash buys Instacart for $17B, AI disproves CS theory, and Rybakina clinches No. 1.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "id": "2026-10-30-am",
+  "slot": "morning",
+  "date": "2026-10-30",
+  "dateLabel": "Fri, Oct 30, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-30T15:50:10.085Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Alphabet's $500B market drop, Serval's $150M raise, and Zverev hits world No. 1.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Oct 29",
+    "asOf": "11:46 AM ET, Oct 30",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,720",
-        "change": "−0.30%",
+        "value": "7,596",
+        "change": "−1.61%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "26,185",
-        "change": "−1.38%",
+        "value": "25,508",
+        "change": "−2.58%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,343",
-        "change": "−0.25%",
+        "value": "51,955",
+        "change": "−0.74%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.99%",
-        "change": "−6 bp",
+        "value": "4.94%",
+        "change": "−5 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,012",
-        "change": "−0.48%",
+        "value": "$3,914",
+        "change": "−2.91%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "DoorDash Agrees to Acquire Instacart for $17 Billion",
-    "body": "DoorDash has agreed to acquire rival delivery service Instacart in a deal valued at $17 billion. The transaction brings together DoorDash's dominant restaurant takeout platform with Instacart's extensive grocery delivery network.",
+    "headline": "Alphabet Loses $500 Billion as Wall Street Recoils at AI Costs",
+    "body": "Alphabet shares fell nearly 13% after the company reported quarterly earnings, wiping out roughly $500 billion in market value. The plunge comes as investors worry that heavy spending on AI infrastructure is outstripping near-term revenue gains in core search and ad businesses.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
+      },
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
       }
     ],
-    "why": "Large horizontal acquisitions show how logistics companies try to expand market power and unit economics, giving you a real-world case study for corporate strategy.",
-    "kicker": "M&A + Delivery",
+    "why": "For your business and investing classes, this selloff shows how markets judge corporate capital allocation. When tech companies spend heavily on new tech, investors demand clear timeline gains in return.",
+    "kicker": "BIG TECH + AI SPENDING",
     "figures": [
       {
-        "value": "$17B",
-        "label": "Acquisition price"
+        "value": "$500B",
+        "label": "Market value erased"
+      },
+      {
+        "value": "13%",
+        "label": "Single-day stock drop"
       }
     ]
   },
@@ -69,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Eli Lilly Q3 Revenue Rises 39% to $24.4 Billion",
-          "body": "Eli Lilly reported a 39% increase in third-quarter revenue to $24.4 billion, driven by strong sales of Mounjaro and Zepbound. The pharmaceutical company raised its full-year guidance following the results.",
+          "headline": "ServiceNow shares plunge 25% following a slower contract forecast",
+          "body": "Workflow software company ServiceNow saw its stock fall nearly 27% to around $112 per share. The drop followed a slower forecast for contract growth, marking one of its worst single-day declines since going public.",
           "sources": [
             {
-              "name": "Eli Lilly",
-              "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-third-quarter-2026-financial-results-raises-full"
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/investing/2026/10/29/servicenow-stock-just-plunged-more-than-20-in-a-single-day-here-s-what-it-did-after-its-other-biggest-drops/"
             }
           ],
-          "why": "Tracking how pharmaceutical companies scale high-demand products highlights core valuation and revenue forecasting methods used in financial analysis."
+          "why": "If you analyze enterprise software companies for internships or investing, watching how slowing contract forecasts impact stock valuations gives you key context for valuation models."
         },
         {
-          "headline": "Bain Capital in Talks for $500 Million India Real Estate Deal",
-          "body": "Indian real estate developer RMZ Corp is seeking to raise about $500 million from Bain Capital to fund its property expansion across India.",
+          "headline": "Sandisk shares jump after fiscal Q1 earnings beat and 8-for-1 stock split",
+          "body": "Sandisk beat Wall Street estimates for its fiscal first quarter and issued strong guidance for fiscal Q2. The memory chip maker also announced an eight-for-one stock split.",
           "sources": [
             {
-              "name": "Financial Post",
-              "url": "https://financialpost.com/fp-finance/cppib-backed-indian-developer-seeks-bain-financing"
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/sandisk-stock-sndk-fiscal-q1-2027-earnings/"
             }
           ],
-          "why": "Following how major private equity firms structure deals in growth markets provides insight into private capital deployment and real estate investing."
+          "why": "Tracking corporate actions like stock splits helps you understand how public companies attempt to improve liquidity and manage share prices for retail investors."
         }
       ]
     },
@@ -97,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "AI Systems Disprove Decades-Old Computer Science Theory",
-          "body": "AI models built by Anthropic and OpenAI disproved a theoretical computer science concept that researchers studied for decades. Computer scientist Peter Jonsson said much of his upcoming conference presentation was rendered obsolete after the AI solved the problem in two days.",
+          "headline": "Amazon blocks Meta's Muse AI agent, calling shopping bots ineffective",
+          "body": "Amazon CEO Andy Jassy criticized AI shopping agents as ineffective during an analyst call. Amazon blocked Meta's new AI assistant Muse from accessing its online store to protect its retail ecosystem.",
           "sources": [
             {
-              "name": "WIRED",
-              "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
             }
           ],
-          "why": "As AI handles complex theoretical research, future software startups will focus more on practical application rather than manual algorithm design."
+          "why": "Understanding how tech platforms guard their data moats is crucial if you plan to launch a consumer tech startup or consult on platform strategy."
         },
         {
-          "headline": "Google Releases Gemini 4 Carbon for Software Security",
-          "body": "Google launched Gemini 4 Carbon, a new AI model focused on identifying and fixing vulnerabilities in code. The model costs $2 per million input tokens and $10 per million output tokens, outperforming competing models in benchmark tests.",
+          "headline": "Anthropic deploys background self-assessment safety checks inside Claude",
+          "body": "Anthropic rolled out a background feature that allows its Claude AI model to silently evaluate its own chats for potential misuse and flag them for human review. The low-cost monitor runs in the background to improve platform safety.",
           "sources": [
             {
-              "name": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-gemini-carbon-4-google-ai-model-explained-10942297/"
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/technology/news/story/claude-can-now-flag-your-chats-to-anthropic-if-it-detects-indecent-behaviour-3028193-2026-10-30"
             }
           ],
-          "why": "Automated code auditing is rapidly becoming a standard enterprise feature, lowering development costs for technical founders."
+          "why": "As enterprise AI adoption grows, risk compliance and automated monitoring are becoming major business drivers for software startups and consulting firms."
         }
       ]
     },
@@ -125,15 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "BCG Projects AI Could Cut $200 Billion from IT Services Work by 2030",
-          "body": "A report by Boston Consulting Group estimates that AI automation could reduce traditional IT services spending by $200 billion by 2030. BCG notes that IT firms will need to shift from charging by employee hours to pricing based on business outcomes.",
+          "headline": "Former McKinsey consultant details the trade-offs of switching to big tech",
+          "body": "An Indian Institute of Management graduate detailed her move from McKinsey to Google after three years in consulting. She noted that consulting offered broad client exposure and travel, while the tech role brought deeper industry focus and a routine.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-could-wipe-out-200-billion-of-it-services-work-by-2030-bcg/articleshow/135298880.cms"
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/trending-news/story/iim-graduate-leaves-mckinsey-for-google-lists-what-she-gained-and-lost-3027657-2026-10-29"
             }
           ],
-          "why": "Consultants will be needed to help enterprise clients restructure vendor contracts and transition workforce structures as AI automates routine tasks."
+          "why": "When comparing summer internship paths, hearing practical accounts of consulting travel versus industry tech roles can help shape your long-term career choices."
+        },
+        {
+          "headline": "PwC report shows AI increases skill demands for entry-level white-collar roles",
+          "body": "A PwC analysis of 2.4 million entry-level jobs found that junior roles most exposed to AI are seven times more likely to require skills traditionally expected of senior employees. Employers increasingly seek leadership and advanced technical abilities from fresh graduates.",
+          "sources": [
+            {
+              "name": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
+            }
+          ],
+          "why": "Developing practical technical and leadership skills during your first year at Merage will help you stand out for competitive internship recruiting."
         }
       ]
     },
@@ -142,12 +161,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI Museum Opens Exhibition on Artist Tokio Ueyama",
-          "body": "The UC Irvine Langson Orange County Museum of Art opened an exhibition titled Tokio Ueyama: The Hollows Between Mountains, featuring landscape, still life, and portrait work that captures Japanese immigrant communities.",
+          "headline": "Orange County prosecutors agree to purge DNA database after lawsuit involving UCI professor",
+          "body": "The Orange County District Attorney's office agreed to expunge profiles from its DNA database to settle a lawsuit challenging its constitutionality. A UC Irvine criminology professor who challenged the program in a 2021 lawsuit called the decision an important step forward.",
           "sources": [
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-23/tokio-ueyama-hollows-between-mountains-honors-artists-nuanced-identity"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
             }
           ]
         }
@@ -158,12 +177,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Elena Rybakina Clinches Her First Year-End World No. 1 Ranking",
-          "body": "Elena Rybakina secured the year-end World No. 1 ranking for the first time in her career after defeating Yulia Putintseva in the second round of the Toray Pan Pacific Open in Tokyo.",
+          "headline": "Alexander Zverev secures world No. 1 ranking after victory in Vienna",
+          "body": "Alexander Zverev defeated Tallon Griekspoor 6-4, 7-5 at the Vienna Open on Thursday to advance to the quarterfinals. The win guarantees he will overtake Jannik Sinner to become world No. 1 for the first time in next week's rankings.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/elena-rybakina-dominates-at-toray-pan-pacific-open-clinches-year-end-world-no-1-ranking-a001-w02/"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/alexander-zverev-becomes-world-no-1-101793325972817.html"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-zverev-ensures-ascent-to-number-one-ranking-with-vienna-victory"
             }
           ]
         }
@@ -171,51 +194,55 @@
     }
   ],
   "term": {
-    "name": "Outcome-Based Pricing",
-    "definition": "Outcome-based pricing is a model where a customer pays based on the specific results or financial returns delivered, rather than paying for employee hours or headcount. In today's news, BCG reports that AI automation is forcing tech and consulting services to abandon hourly billing in favor of outcome-based pricing.",
+    "name": "Capital Expenditure (CapEx)",
+    "definition": "Capital expenditure refers to the money a company spends to buy, maintain, or upgrade physical assets like data centers, buildings, and hardware. Today's market selloff shows how investors grow anxious when CapEx spending rises faster than immediate revenue.",
     "sources": [
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-could-wipe-out-200-billion-of-it-services-work-by-2030-bcg/articleshow/135298880.cms"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
+      },
+      {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
       }
     ]
   },
   "serve": {
-    "headline": "Simplismart Raises $14M for AI Infrastructure",
-    "body": "Bengaluru startup Simplismart raised $14 million in a Series B round led by Dallas Venture Capital, with participation from Nvidia and Accel. The company builds software to help businesses run AI models more efficiently.",
+    "headline": "Serval raises $150M at a $3B valuation to challenge ServiceNow",
+    "body": "Enterprise software startup Serval raised $150 million in a new funding round led by Sequoia, valuing the company at $3 billion. Serval explicitly targets industry leader ServiceNow with ads and tools built to replace legacy enterprise software.",
     "questions": [
-      "How can student founders minimize compute costs when building early AI prototypes?",
-      "What strategic advantages does an AI startup get when chipmakers like Nvidia join their funding rounds?",
-      "If you were building a startup at UCI, would you run open-source models on custom infrastructure or rely on managed APIs?"
+      "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?",
+      "What advantages do young startups have when taking on large corporate incumbents?",
+      "How can campus founders at UCI test whether an enterprise market is ready for a new competitor?"
     ],
     "sources": [
       {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/business/a-bengaluru-startup-is-helping-companies-run-ai-models-more-efficiently-nvidia-is-among-its-backers-12254346"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "DoorDash agrees to acquire rival delivery platform Instacart for $17 billion.",
-      "blurb": "The deal combines DoorDash's takeout business with Instacart's grocery network."
+      "headline": "Alphabet shares plunge as $500 billion in market value vanishes over AI spending concerns.",
+      "blurb": "Disappointing quarterly earnings sparked worries that heavy investments in AI infrastructure are straining profit margins."
     },
     {
-      "headline": "AI models disproved a theoretical computer science concept studied for decades.",
-      "blurb": "Systems from OpenAI and Anthropic solved the problem in two days, upending existing research."
+      "headline": "Serval raises $150 million at a $3 billion valuation to challenge ServiceNow.",
+      "blurb": "Sequoia led the funding round as the startup takes direct aim at enterprise software incumbents."
     },
     {
-      "headline": "Eli Lilly reported a 39% jump in third-quarter revenue to $24.4 billion.",
-      "blurb": "Strong demand for Mounjaro and Zepbound led the company to raise its full-year outlook."
+      "headline": "PwC analysis shows entry-level roles face rising skill requirements amid AI adoption.",
+      "blurb": "AI-exposed junior positions are seven times more likely to demand skills traditionally required for senior roles."
     },
     {
-      "headline": "BCG projects AI could eliminate $200 billion in IT services spending by 2030.",
-      "blurb": "The report expects IT firms to pivot from hourly billing to outcome-based pricing."
+      "headline": "Amazon blocks Meta's Muse AI shopping agent from its online platform.",
+      "blurb": "CEO Andy Jassy expressed skepticism about third-party AI assistants attempting to navigate Amazon's store."
     },
     {
-      "headline": "Elena Rybakina clinched the year-end World No. 1 tennis ranking in Tokyo.",
-      "blurb": "She locked in the top spot after winning her second-round match at the Toray Pan Pacific Open."
+      "headline": "Alexander Zverev secures the world No. 1 tennis ranking for the first time.",
+      "blurb": "A straight-sets victory in Vienna ensured Zverev will overtake Jannik Sinner in next week's updated standings."
     }
   ],
-  "emailQuestion": "How can student founders minimize compute costs when building early AI prototypes?"
+  "emailQuestion": "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?"
 }
