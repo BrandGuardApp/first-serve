@@ -1,0 +1,228 @@
+{
+  "id": "2026-10-30-pm",
+  "slot": "evening",
+  "date": "2026-10-30",
+  "dateLabel": "Fri, Oct 30, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-31T00:39:35.019Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Amazon slides on weak guidance, Intel falls 25%, and McKinsey charts enterprise AI.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 30",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,580",
+        "change": "−1.82%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,437",
+        "change": "−2.86%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,770",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.93%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,885",
+        "change": "−3.63%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Amazon Slides as Slower Holiday Outlook Overshadows Cloud Gains",
+    "body": "Amazon shares dropped as much as 7% in after-hours trading after the company reported a quarterly revenue miss and issued a cautious forecast for the holiday quarter. The pullback came despite strong performance at Amazon Web Services, where CEO Andy Jassy is targeting long-term growth. The sharp reaction reflects a broader trend on Wall Street of heavily penalizing earnings misses as investors worry corporate profit growth is peaking.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-10-30/amazon-earnings-jassy-has-a-trillion-dollar-aws-in-his-sights"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs"
+      }
+    ],
+    "why": "When you study corporate valuation at Merage, keep in mind that even high-performing cloud divisions cannot always shield a stock if retail guidance falls short.",
+    "kicker": "Earnings + Big Tech",
+    "figures": [
+      {
+        "value": "7%",
+        "label": "After-hours stock drop"
+      },
+      {
+        "value": "4.25%",
+        "label": "Regular session decline"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Intel Crashes 25% on PC Correction and AI Infrastructure Jitters",
+          "body": "Intel plunged 25% after reporting a severe correction in the personal computer market that caught investors off guard. The steep drop dragged down premarket trading across AI infrastructure and chip suppliers.",
+          "sources": [
+            {
+              "name": "ZeroHedge",
+              "url": "https://www.zerohedge.com/markets/intel-crashes-25-surprisingly-severe-pc-correction-shocks-wall-street"
+            }
+          ],
+          "why": "This is a clean reminder for tech investing that cyclical hardware demand still drives the core business while new chips ramp up."
+        },
+        {
+          "headline": "Shell Earnings Double to $10.8 Billion on Soaring Oil Prices",
+          "body": "Shell reported third-quarter underlying earnings of $10.81 billion, nearly doubling its profit from the prior quarter. The company benefited from higher global crude prices linked to conflict involving Iran.",
+          "sources": [
+            {
+              "name": "Evening Standard",
+              "url": "https://www.standard.co.uk/business/business-news/shell-john-healey-simon-francis-iran-b1302747.html"
+            }
+          ],
+          "why": "Tracking commodity price shocks helps your macro forecasting, since rising fuel costs feed directly into corporate margins across consumer industries."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Nvidia in Talks to Back $30 Billion Anthropic Data Center",
+          "body": "Nvidia is discussing credit guarantees to help finance a $30 billion data center project in West Virginia being developed by UK-based Nscale for Anthropic. The arrangement would help secure debt financing for the massive computing facility.",
+          "sources": [
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
+            }
+          ],
+          "why": "If you look into tech investment banking, note how hardware vendors use credit support to finance their largest customers' infrastructure."
+        },
+        {
+          "headline": "Oracle Defends $165 Billion Project Jupiter Buildout",
+          "body": "Oracle dismissed market concerns over Project Jupiter, its $165 billion AI data center initiative in New Mexico. Leadership insisted they are comfortable with the capital commitments required to build the massive complex.",
+          "sources": [
+            {
+              "name": "News18",
+              "url": "https://www.news18.com/tech/oracle-dismisses-investor-concerns-over-165-billion-project-jupiter-ai-data-centre-says-were-actually-not-too-worried-ws-l-10405361.html"
+            }
+          ],
+          "why": "Keep an eye on capital expenditure line items when evaluating cloud platforms, because massive data center commitments require sustained customer demand to pay off."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Finds 92% of Firms Raising AI Spend, but Only 1% Are Mature",
+          "body": "A McKinsey report found that 92% of companies plan to boost AI investment over the next three years. However, only 1% of corporate leaders consider their organizations mature in deploying the technology across everyday operations.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/agentic-ai-is-coming-to-enterprise-software-but-what-does-that-mean-for-todays-software-engineers-2-2/"
+            }
+          ],
+          "why": "In consulting interviews, emphasizing the gap between buying software and organizational change management shows you understand real corporate execution."
+        },
+        {
+          "headline": "TPG and Bain Capital Compete for Indian Retailer Baazar Retail",
+          "body": "Global private equity firms TPG Capital, Bain Capital, and CVC Capital are in the running to acquire a majority stake in value retail chain Baazar Retail. Investment bank o3 Capital is managing the sale process.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/race-for-baazar-kolkata-s-parent-tpg-bain-capital-and-cvc-capital-in-fray-14064299.html"
+            }
+          ],
+          "why": "Following competitive buyout bids gives you a clear look at how private equity firms source deals and price regional retail platforms."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Djokovic Upset by Struff in Basel Indoors Thriller",
+          "body": "Jan-Lennard Struff defeated 39-year-old Novak Djokovic in a two-hour and 35-minute match at the Swiss Indoors in Basel. The loss deprives Djokovic of valuable points in his bid to qualify for the season-ending ATP Finals in Turin.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-djokovic-faces-atp-finals-battle-after-loss-in-basel"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/novak-djokovic-stumbles-in-basel-as-jan-lennard-struff-stages-comeback-101793325736335.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Credit Guarantee",
+    "definition": "A formal commitment by a third party to cover a borrower's debt obligations if that borrower fails to make payments. In tech infrastructure, Nvidia is discussing credit guarantees to help data center operator Nscale finance a $30 billion project for Anthropic. These guarantees reassure institutional lenders and lower interest costs on massive capital projects.",
+    "sources": [
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Serval raised $150M to take on ServiceNow",
+    "body": "Enterprise automation startup Serval raised $150 million in a round led by Sequoia Capital, valuing the company at $3 billion. Serval builds AI-driven workflow software aimed directly at replacing legacy IT platforms like ServiceNow.",
+    "questions": [
+      "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?",
+      "What campus workflows at UC Irvine still feel too manual and ripe for an AI software overhaul?",
+      "When an incumbent dominates a market, how should an upstart price its product to lower the switching cost for big corporate clients?"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Amazon shares dropped after softer holiday forecasts overshadowed cloud performance.",
+      "blurb": "Wall Street punished the revenue miss despite steady growth at AWS."
+    },
+    {
+      "headline": "Intel fell 25% after a sharp personal computer downturn rattled investors.",
+      "blurb": "The drop weighed on tech hardware suppliers in premarket trading."
+    },
+    {
+      "headline": "McKinsey found only 1% of firms are mature in AI deployment despite big budgets.",
+      "blurb": "About 92% of surveyed companies plan to boost AI spending anyway."
+    },
+    {
+      "headline": "Nvidia is considering credit guarantees for a $30 billion data center project.",
+      "blurb": "The West Virginia site is being developed by Nscale for Anthropic."
+    },
+    {
+      "headline": "Novak Djokovic lost to Jan-Lennard Struff at the Swiss Indoors in Basel.",
+      "blurb": "The defeat puts Djokovic's spot in the year-end ATP Finals in jeopardy."
+    }
+  ],
+  "emailQuestion": "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?"
+}

@@ -1,73 +1,73 @@
 {
-  "id": "2026-10-30-am",
-  "slot": "morning",
+  "id": "2026-10-30-pm",
+  "slot": "evening",
   "date": "2026-10-30",
   "dateLabel": "Fri, Oct 30, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-30T15:50:10.085Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Alphabet's $500B market drop, Serval's $150M raise, and Zverev hits world No. 1.",
-  "storyCount": 11,
-  "readMinutes": 4,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-10-31T00:39:35.019Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Amazon slides on weak guidance, Intel falls 25%, and McKinsey charts enterprise AI.",
+  "storyCount": 10,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "11:46 AM ET, Oct 30",
+    "asOf": "Close, Oct 30",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,596",
-        "change": "−1.61%",
+        "value": "7,580",
+        "change": "−1.82%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "25,508",
-        "change": "−2.58%",
+        "value": "25,437",
+        "change": "−2.86%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,955",
-        "change": "−0.74%",
+        "value": "51,770",
+        "change": "−1.09%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.94%",
-        "change": "−5 bp",
+        "value": "4.93%",
+        "change": "−6 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,914",
-        "change": "−2.91%",
+        "value": "$3,885",
+        "change": "−3.63%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Alphabet Loses $500 Billion as Wall Street Recoils at AI Costs",
-    "body": "Alphabet shares fell nearly 13% after the company reported quarterly earnings, wiping out roughly $500 billion in market value. The plunge comes as investors worry that heavy spending on AI infrastructure is outstripping near-term revenue gains in core search and ad businesses.",
+    "headline": "Amazon Slides as Slower Holiday Outlook Overshadows Cloud Gains",
+    "body": "Amazon shares dropped as much as 7% in after-hours trading after the company reported a quarterly revenue miss and issued a cautious forecast for the holiday quarter. The pullback came despite strong performance at Amazon Web Services, where CEO Andy Jassy is targeting long-term growth. The sharp reaction reflects a broader trend on Wall Street of heavily penalizing earnings misses as investors worry corporate profit growth is peaking.",
     "sources": [
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-10-30/amazon-earnings-jassy-has-a-trillion-dollar-aws-in-his-sights"
       },
       {
-        "name": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs"
       }
     ],
-    "why": "For your business and investing classes, this selloff shows how markets judge corporate capital allocation. When tech companies spend heavily on new tech, investors demand clear timeline gains in return.",
-    "kicker": "BIG TECH + AI SPENDING",
+    "why": "When you study corporate valuation at Merage, keep in mind that even high-performing cloud divisions cannot always shield a stock if retail guidance falls short.",
+    "kicker": "Earnings + Big Tech",
     "figures": [
       {
-        "value": "$500B",
-        "label": "Market value erased"
+        "value": "7%",
+        "label": "After-hours stock drop"
       },
       {
-        "value": "13%",
-        "label": "Single-day stock drop"
+        "value": "4.25%",
+        "label": "Regular session decline"
       }
     ]
   },
@@ -77,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "ServiceNow shares plunge 25% following a slower contract forecast",
-          "body": "Workflow software company ServiceNow saw its stock fall nearly 27% to around $112 per share. The drop followed a slower forecast for contract growth, marking one of its worst single-day declines since going public.",
+          "headline": "Intel Crashes 25% on PC Correction and AI Infrastructure Jitters",
+          "body": "Intel plunged 25% after reporting a severe correction in the personal computer market that caught investors off guard. The steep drop dragged down premarket trading across AI infrastructure and chip suppliers.",
           "sources": [
             {
-              "name": "The Motley Fool",
-              "url": "https://www.fool.com/investing/2026/10/29/servicenow-stock-just-plunged-more-than-20-in-a-single-day-here-s-what-it-did-after-its-other-biggest-drops/"
+              "name": "ZeroHedge",
+              "url": "https://www.zerohedge.com/markets/intel-crashes-25-surprisingly-severe-pc-correction-shocks-wall-street"
             }
           ],
-          "why": "If you analyze enterprise software companies for internships or investing, watching how slowing contract forecasts impact stock valuations gives you key context for valuation models."
+          "why": "This is a clean reminder for tech investing that cyclical hardware demand still drives the core business while new chips ramp up."
         },
         {
-          "headline": "Sandisk shares jump after fiscal Q1 earnings beat and 8-for-1 stock split",
-          "body": "Sandisk beat Wall Street estimates for its fiscal first quarter and issued strong guidance for fiscal Q2. The memory chip maker also announced an eight-for-one stock split.",
+          "headline": "Shell Earnings Double to $10.8 Billion on Soaring Oil Prices",
+          "body": "Shell reported third-quarter underlying earnings of $10.81 billion, nearly doubling its profit from the prior quarter. The company benefited from higher global crude prices linked to conflict involving Iran.",
           "sources": [
             {
-              "name": "Investor's Business Daily",
-              "url": "https://www.investors.com/news/technology/sandisk-stock-sndk-fiscal-q1-2027-earnings/"
+              "name": "Evening Standard",
+              "url": "https://www.standard.co.uk/business/business-news/shell-john-healey-simon-francis-iran-b1302747.html"
             }
           ],
-          "why": "Tracking corporate actions like stock splits helps you understand how public companies attempt to improve liquidity and manage share prices for retail investors."
+          "why": "Tracking commodity price shocks helps your macro forecasting, since rising fuel costs feed directly into corporate margins across consumer industries."
         }
       ]
     },
@@ -105,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Amazon blocks Meta's Muse AI agent, calling shopping bots ineffective",
-          "body": "Amazon CEO Andy Jassy criticized AI shopping agents as ineffective during an analyst call. Amazon blocked Meta's new AI assistant Muse from accessing its online store to protect its retail ecosystem.",
+          "headline": "Nvidia in Talks to Back $30 Billion Anthropic Data Center",
+          "body": "Nvidia is discussing credit guarantees to help finance a $30 billion data center project in West Virginia being developed by UK-based Nscale for Anthropic. The arrangement would help secure debt financing for the massive computing facility.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
             }
           ],
-          "why": "Understanding how tech platforms guard their data moats is crucial if you plan to launch a consumer tech startup or consult on platform strategy."
+          "why": "If you look into tech investment banking, note how hardware vendors use credit support to finance their largest customers' infrastructure."
         },
         {
-          "headline": "Anthropic deploys background self-assessment safety checks inside Claude",
-          "body": "Anthropic rolled out a background feature that allows its Claude AI model to silently evaluate its own chats for potential misuse and flag them for human review. The low-cost monitor runs in the background to improve platform safety.",
+          "headline": "Oracle Defends $165 Billion Project Jupiter Buildout",
+          "body": "Oracle dismissed market concerns over Project Jupiter, its $165 billion AI data center initiative in New Mexico. Leadership insisted they are comfortable with the capital commitments required to build the massive complex.",
           "sources": [
             {
-              "name": "India Today",
-              "url": "https://www.indiatoday.in/technology/news/story/claude-can-now-flag-your-chats-to-anthropic-if-it-detects-indecent-behaviour-3028193-2026-10-30"
+              "name": "News18",
+              "url": "https://www.news18.com/tech/oracle-dismisses-investor-concerns-over-165-billion-project-jupiter-ai-data-centre-says-were-actually-not-too-worried-ws-l-10405361.html"
             }
           ],
-          "why": "As enterprise AI adoption grows, risk compliance and automated monitoring are becoming major business drivers for software startups and consulting firms."
+          "why": "Keep an eye on capital expenditure line items when evaluating cloud platforms, because massive data center commitments require sustained customer demand to pay off."
         }
       ]
     },
@@ -133,42 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Former McKinsey consultant details the trade-offs of switching to big tech",
-          "body": "An Indian Institute of Management graduate detailed her move from McKinsey to Google after three years in consulting. She noted that consulting offered broad client exposure and travel, while the tech role brought deeper industry focus and a routine.",
+          "headline": "McKinsey Finds 92% of Firms Raising AI Spend, but Only 1% Are Mature",
+          "body": "A McKinsey report found that 92% of companies plan to boost AI investment over the next three years. However, only 1% of corporate leaders consider their organizations mature in deploying the technology across everyday operations.",
           "sources": [
             {
-              "name": "India Today",
-              "url": "https://www.indiatoday.in/trending-news/story/iim-graduate-leaves-mckinsey-for-google-lists-what-she-gained-and-lost-3027657-2026-10-29"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/agentic-ai-is-coming-to-enterprise-software-but-what-does-that-mean-for-todays-software-engineers-2-2/"
             }
           ],
-          "why": "When comparing summer internship paths, hearing practical accounts of consulting travel versus industry tech roles can help shape your long-term career choices."
+          "why": "In consulting interviews, emphasizing the gap between buying software and organizational change management shows you understand real corporate execution."
         },
         {
-          "headline": "PwC report shows AI increases skill demands for entry-level white-collar roles",
-          "body": "A PwC analysis of 2.4 million entry-level jobs found that junior roles most exposed to AI are seven times more likely to require skills traditionally expected of senior employees. Employers increasingly seek leadership and advanced technical abilities from fresh graduates.",
+          "headline": "TPG and Bain Capital Compete for Indian Retailer Baazar Retail",
+          "body": "Global private equity firms TPG Capital, Bain Capital, and CVC Capital are in the running to acquire a majority stake in value retail chain Baazar Retail. Investment bank o3 Capital is managing the sale process.",
           "sources": [
             {
-              "name": "The Herald",
-              "url": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/"
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/race-for-baazar-kolkata-s-parent-tpg-bain-capital-and-cvc-capital-in-fray-14064299.html"
             }
           ],
-          "why": "Developing practical technical and leadership skills during your first year at Merage will help you stand out for competitive internship recruiting."
-        }
-      ]
-    },
-    {
-      "key": "uci",
-      "title": "UC Irvine",
-      "stories": [
-        {
-          "headline": "Orange County prosecutors agree to purge DNA database after lawsuit involving UCI professor",
-          "body": "The Orange County District Attorney's office agreed to expunge profiles from its DNA database to settle a lawsuit challenging its constitutionality. A UC Irvine criminology professor who challenged the program in a 2021 lawsuit called the decision an important step forward.",
-          "sources": [
-            {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/10/23/oc-prosecutors-to-begin-expunging-profiles-from-controversial-dna-database/"
-            }
-          ]
+          "why": "Following competitive buyout bids gives you a clear look at how private equity firms source deals and price regional retail platforms."
         }
       ]
     },
@@ -177,16 +161,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alexander Zverev secures world No. 1 ranking after victory in Vienna",
-          "body": "Alexander Zverev defeated Tallon Griekspoor 6-4, 7-5 at the Vienna Open on Thursday to advance to the quarterfinals. The win guarantees he will overtake Jannik Sinner to become world No. 1 for the first time in next week's rankings.",
+          "headline": "Djokovic Upset by Struff in Basel Indoors Thriller",
+          "body": "Jan-Lennard Struff defeated 39-year-old Novak Djokovic in a two-hour and 35-minute match at the Swiss Indoors in Basel. The loss deprives Djokovic of valuable points in his bid to qualify for the season-ending ATP Finals in Turin.",
           "sources": [
             {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/alexander-zverev-becomes-world-no-1-101793325972817.html"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-djokovic-faces-atp-finals-battle-after-loss-in-basel"
             },
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-zverev-ensures-ascent-to-number-one-ranking-with-vienna-victory"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/novak-djokovic-stumbles-in-basel-as-jan-lennard-struff-stages-comeback-101793325736335.html"
             }
           ]
         }
@@ -194,26 +178,22 @@
     }
   ],
   "term": {
-    "name": "Capital Expenditure (CapEx)",
-    "definition": "Capital expenditure refers to the money a company spends to buy, maintain, or upgrade physical assets like data centers, buildings, and hardware. Today's market selloff shows how investors grow anxious when CapEx spending rises faster than immediate revenue.",
+    "name": "Credit Guarantee",
+    "definition": "A formal commitment by a third party to cover a borrower's debt obligations if that borrower fails to make payments. In tech infrastructure, Nvidia is discussing credit guarantees to help data center operator Nscale finance a $30 billion project for Anthropic. These guarantees reassure institutional lenders and lower interest costs on massive capital projects.",
     "sources": [
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears"
-      },
-      {
-        "name": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/big-tech-s-750-billion-ai-bet-faces-strain-with-slowing-core-growth-126103000106_1.html"
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
       }
     ]
   },
   "serve": {
-    "headline": "Serval raises $150M at a $3B valuation to challenge ServiceNow",
-    "body": "Enterprise software startup Serval raised $150 million in a new funding round led by Sequoia, valuing the company at $3 billion. Serval explicitly targets industry leader ServiceNow with ads and tools built to replace legacy enterprise software.",
+    "headline": "Serval raised $150M to take on ServiceNow",
+    "body": "Enterprise automation startup Serval raised $150 million in a round led by Sequoia Capital, valuing the company at $3 billion. Serval builds AI-driven workflow software aimed directly at replacing legacy IT platforms like ServiceNow.",
     "questions": [
-      "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?",
-      "What advantages do young startups have when taking on large corporate incumbents?",
-      "How can campus founders at UCI test whether an enterprise market is ready for a new competitor?"
+      "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?",
+      "What campus workflows at UC Irvine still feel too manual and ripe for an AI software overhaul?",
+      "When an incumbent dominates a market, how should an upstart price its product to lower the switching cost for big corporate clients?"
     ],
     "sources": [
       {
@@ -224,25 +204,25 @@
   },
   "emailItems": [
     {
-      "headline": "Alphabet shares plunge as $500 billion in market value vanishes over AI spending concerns.",
-      "blurb": "Disappointing quarterly earnings sparked worries that heavy investments in AI infrastructure are straining profit margins."
+      "headline": "Amazon shares dropped after softer holiday forecasts overshadowed cloud performance.",
+      "blurb": "Wall Street punished the revenue miss despite steady growth at AWS."
     },
     {
-      "headline": "Serval raises $150 million at a $3 billion valuation to challenge ServiceNow.",
-      "blurb": "Sequoia led the funding round as the startup takes direct aim at enterprise software incumbents."
+      "headline": "Intel fell 25% after a sharp personal computer downturn rattled investors.",
+      "blurb": "The drop weighed on tech hardware suppliers in premarket trading."
     },
     {
-      "headline": "PwC analysis shows entry-level roles face rising skill requirements amid AI adoption.",
-      "blurb": "AI-exposed junior positions are seven times more likely to demand skills traditionally required for senior roles."
+      "headline": "McKinsey found only 1% of firms are mature in AI deployment despite big budgets.",
+      "blurb": "About 92% of surveyed companies plan to boost AI spending anyway."
     },
     {
-      "headline": "Amazon blocks Meta's Muse AI shopping agent from its online platform.",
-      "blurb": "CEO Andy Jassy expressed skepticism about third-party AI assistants attempting to navigate Amazon's store."
+      "headline": "Nvidia is considering credit guarantees for a $30 billion data center project.",
+      "blurb": "The West Virginia site is being developed by Nscale for Anthropic."
     },
     {
-      "headline": "Alexander Zverev secures the world No. 1 tennis ranking for the first time.",
-      "blurb": "A straight-sets victory in Vienna ensured Zverev will overtake Jannik Sinner in next week's updated standings."
+      "headline": "Novak Djokovic lost to Jan-Lennard Struff at the Swiss Indoors in Basel.",
+      "blurb": "The defeat puts Djokovic's spot in the year-end ATP Finals in jeopardy."
     }
   ],
-  "emailQuestion": "If you were building a startup to compete with an established tech giant, how would you position your product to win early customers?"
+  "emailQuestion": "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?"
 }
