@@ -1,13 +1,13 @@
 {
-  "id": "2026-10-30-pm",
-  "slot": "evening",
-  "date": "2026-10-30",
-  "dateLabel": "Fri, Oct 30, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-10-31T00:39:35.019Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Amazon slides on weak guidance, Intel falls 25%, and McKinsey charts enterprise AI.",
+  "id": "2026-10-31-am",
+  "slot": "morning",
+  "date": "2026-10-31",
+  "dateLabel": "Sat, Oct 31, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-31T13:32:05.620Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Alphabet's record drop, S&P credit pressure on Meta, and Zverev claims the world no. 1 spot.",
   "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
@@ -39,35 +39,31 @@
       },
       {
         "name": "Gold",
-        "value": "$3,885",
-        "change": "−3.63%",
+        "value": "$3,899",
+        "change": "−3.29%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Amazon Slides as Slower Holiday Outlook Overshadows Cloud Gains",
-    "body": "Amazon shares dropped as much as 7% in after-hours trading after the company reported a quarterly revenue miss and issued a cautious forecast for the holiday quarter. The pullback came despite strong performance at Amazon Web Services, where CEO Andy Jassy is targeting long-term growth. The sharp reaction reflects a broader trend on Wall Street of heavily penalizing earnings misses as investors worry corporate profit growth is peaking.",
+    "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
+    "body": "Alphabet lost $468 billion in market value in a single week, contributing to a total October wipeout of $758 billion. The historic drop came as a broader tech selloff intensified, driven by investor doubts over how quickly massive spending on artificial intelligence will generate real returns.",
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-10-30/amazon-earnings-jassy-has-a-trillion-dollar-aws-in-his-sights"
-      },
-      {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-turns-ruthless-as-earnings-misses-fuel-deep-selloffs"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-758-billion-its-worst-month-ever-211521791.html"
       }
     ],
-    "why": "When you study corporate valuation at Merage, keep in mind that even high-performing cloud divisions cannot always shield a stock if retail guidance falls short.",
-    "kicker": "Earnings + Big Tech",
+    "why": "This matters for your finance and investing classes because it shows how quickly market sentiment can turn on high-growth tech valuations when projected cash flows and AI returns face heavy scrutiny.",
+    "kicker": "Markets and Big Tech",
     "figures": [
       {
-        "value": "7%",
-        "label": "After-hours stock drop"
+        "value": "$758B",
+        "label": "October market value wipeout"
       },
       {
-        "value": "4.25%",
-        "label": "Regular session decline"
+        "value": "$468B",
+        "label": "Weekly market value loss"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Intel Crashes 25% on PC Correction and AI Infrastructure Jitters",
-          "body": "Intel plunged 25% after reporting a severe correction in the personal computer market that caught investors off guard. The steep drop dragged down premarket trading across AI infrastructure and chip suppliers.",
+          "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending Pressures",
+          "body": "S&P Global Ratings revised its outlook on Meta's credit grade to negative, pointing to rising leverage and heavy debt relative to earnings driven by high capital expenditures on artificial intelligence.",
           "sources": [
             {
-              "name": "ZeroHedge",
-              "url": "https://www.zerohedge.com/markets/intel-crashes-25-surprisingly-severe-pc-correction-shocks-wall-street"
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
             }
           ],
-          "why": "This is a clean reminder for tech investing that cyclical hardware demand still drives the core business while new chips ramp up."
+          "why": "Understanding how heavy capital expenditures impact a company's balance sheet and credit rating is essential for your corporate finance coursework and evaluating debt financing strategies."
         },
         {
-          "headline": "Shell Earnings Double to $10.8 Billion on Soaring Oil Prices",
-          "body": "Shell reported third-quarter underlying earnings of $10.81 billion, nearly doubling its profit from the prior quarter. The company benefited from higher global crude prices linked to conflict involving Iran.",
+          "headline": "Gold Sinks Below $3,900 as Broad Market Liquidation Hits Commodities",
+          "body": "Spot gold prices fell sharply below $3,900 per ounce, pressured by a stronger dollar, a hawkish Federal Reserve holding rates at 3.75% to 4.00%, and forced liquidations stemming from the broader technology stock selloff.",
           "sources": [
             {
-              "name": "Evening Standard",
-              "url": "https://www.standard.co.uk/business/business-news/shell-john-healey-simon-francis-iran-b1302747.html"
+              "name": "Kitco",
+              "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"
             }
           ],
-          "why": "Tracking commodity price shocks helps your macro forecasting, since rising fuel costs feed directly into corporate margins across consumer industries."
+          "why": "This highlights how cross-asset correlations work during market panics, where even traditional safe-haven assets get sold off as institutional investors raise cash."
         }
       ]
     },
@@ -105,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Nvidia in Talks to Back $30 Billion Anthropic Data Center",
-          "body": "Nvidia is discussing credit guarantees to help finance a $30 billion data center project in West Virginia being developed by UK-based Nscale for Anthropic. The arrangement would help secure debt financing for the massive computing facility.",
+          "headline": "OpenAI Slashes Funding Target by $10 Billion Amid Tech Sector Rout",
+          "body": "OpenAI reduced the fundraising target for its latest round by $10 billion as a broader market correction for technology stocks weighed on investor appetite for large-scale artificial intelligence ventures.",
           "sources": [
             {
               "name": "MarketScreener",
-              "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
+              "url": "https://www.marketscreener.com/news/openai-cuts-funding-target-by-10-billion-ft-reports-ce785fd8d98bff22"
             }
           ],
-          "why": "If you look into tech investment banking, note how hardware vendors use credit support to finance their largest customers' infrastructure."
+          "why": "As you look at startup ecosystems, this demonstrates how public market contractions directly impact private equity valuations and large venture rounds."
         },
         {
-          "headline": "Oracle Defends $165 Billion Project Jupiter Buildout",
-          "body": "Oracle dismissed market concerns over Project Jupiter, its $165 billion AI data center initiative in New Mexico. Leadership insisted they are comfortable with the capital commitments required to build the massive complex.",
+          "headline": "Nvidia Weighs Cosigning Debt for Nscale's West Virginia Data Center",
+          "body": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale to support a major data center project tied to Anthropic.",
           "sources": [
             {
-              "name": "News18",
-              "url": "https://www.news18.com/tech/oracle-dismisses-investor-concerns-over-165-billion-project-jupiter-ai-data-centre-says-were-actually-not-too-worried-ws-l-10405361.html"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
             }
           ],
-          "why": "Keep an eye on capital expenditure line items when evaluating cloud platforms, because massive data center commitments require sustained customer demand to pay off."
+          "why": "This is a prime example of vendor financing, where hardware suppliers step in to guarantee debt so their customers can afford to buy expensive computing infrastructure."
         }
       ]
     },
@@ -133,26 +129,15 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Finds 92% of Firms Raising AI Spend, but Only 1% Are Mature",
-          "body": "A McKinsey report found that 92% of companies plan to boost AI investment over the next three years. However, only 1% of corporate leaders consider their organizations mature in deploying the technology across everyday operations.",
+          "headline": "McKinsey Report Shows India Ranks Second Globally in AI-Powered Shopping",
+          "body": "A new McKinsey report reveals that 76 percent of consumers in India use artificial intelligence tools to research products, compare options, and make purchasing decisions.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/agentic-ai-is-coming-to-enterprise-software-but-what-does-that-mean-for-todays-software-engineers-2-2/"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/business-economy/industry/india-ranks-2nd-globally-in-ai-powered-shopping-76-percent-consumers-use-ai-tools-mckinsey-article-156434690"
             }
           ],
-          "why": "In consulting interviews, emphasizing the gap between buying software and organizational change management shows you understand real corporate execution."
-        },
-        {
-          "headline": "TPG and Bain Capital Compete for Indian Retailer Baazar Retail",
-          "body": "Global private equity firms TPG Capital, Bain Capital, and CVC Capital are in the running to acquire a majority stake in value retail chain Baazar Retail. Investment bank o3 Capital is managing the sale process.",
-          "sources": [
-            {
-              "name": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/race-for-baazar-kolkata-s-parent-tpg-bain-capital-and-cvc-capital-in-fray-14064299.html"
-            }
-          ],
-          "why": "Following competitive buyout bids gives you a clear look at how private equity firms source deals and price regional retail platforms."
+          "why": "For your consulting and strategy interests, this highlights how quickly consumer behavior is shifting globally and where businesses are finding high-ROI use cases for AI."
         }
       ]
     },
@@ -161,16 +146,22 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Djokovic Upset by Struff in Basel Indoors Thriller",
-          "body": "Jan-Lennard Struff defeated 39-year-old Novak Djokovic in a two-hour and 35-minute match at the Swiss Indoors in Basel. The loss deprives Djokovic of valuable points in his bid to qualify for the season-ending ATP Finals in Turin.",
+          "headline": "Alexander Zverev Rises to No. 1 in ATP Rankings After Strong Season",
+          "body": "Alexander Zverev has officially taken the top spot in the world tennis rankings, capitalizing on consistent major performances and injuries to his main rivals earlier in the year.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/sports/tennis/tennis-zverev-finally-takes-his-place-at-the-summit/articleshow/135374154.cms"
+            }
+          ]
+        },
+        {
+          "headline": "Daniil Medvedev Secures ATP Finals Berth with Vienna Semi-Final Win",
+          "body": "Daniil Medvedev punched his ticket to the season-ending ATP Finals for the seventh time by defeating Adrian Mannarino in straight sets at the Vienna Open.",
           "sources": [
             {
               "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/10/30/tennis-djokovic-faces-atp-finals-battle-after-loss-in-basel"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/novak-djokovic-stumbles-in-basel-as-jan-lennard-struff-stages-comeback-101793325736335.html"
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/31/tennis-medvedev-clinches-atp-finals-berth-by-reaching-vienna-semi-finals"
             }
           ]
         }
@@ -178,51 +169,51 @@
     }
   ],
   "term": {
-    "name": "Credit Guarantee",
-    "definition": "A formal commitment by a third party to cover a borrower's debt obligations if that borrower fails to make payments. In tech infrastructure, Nvidia is discussing credit guarantees to help data center operator Nscale finance a $30 billion project for Anthropic. These guarantees reassure institutional lenders and lower interest costs on massive capital projects.",
+    "name": "Leverage",
+    "definition": "Leverage is the use of borrowed capital to fund investments, operations, or acquisitions in order to amplify potential returns. While higher leverage can boost profits when a business is growing, it increases financial risk and debt servicing costs, which is why rating agencies like S&P lower credit outlooks when heavy AI spending pushes a company's debt relative to earnings too high.",
     "sources": [
       {
-        "name": "MarketScreener",
-        "url": "https://www.marketscreener.com/news/nvidia-in-talks-to-back-30-billion-nscale-data-center-project-for-anthropic-ce785fdbdd8cf321"
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
       }
     ]
   },
   "serve": {
-    "headline": "Serval raised $150M to take on ServiceNow",
-    "body": "Enterprise automation startup Serval raised $150 million in a round led by Sequoia Capital, valuing the company at $3 billion. Serval builds AI-driven workflow software aimed directly at replacing legacy IT platforms like ServiceNow.",
+    "headline": "Kalshi Raised a $1 Billion Series G at a $40 Billion Valuation",
+    "body": "Prediction market platform Kalshi secured massive new venture backing to expand its regulated financial exchange offerings. The massive late-stage round highlights continued investor appetite for alternative trading platforms despite broader market volatility.",
     "questions": [
-      "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?",
-      "What campus workflows at UC Irvine still feel too manual and ripe for an AI software overhaul?",
-      "When an incumbent dominates a market, how should an upstart price its product to lower the switching cost for big corporate clients?"
+      "How does a prediction market monetize trading activity differently from a traditional stock exchange?",
+      "What regulatory hurdles do prediction platforms face when expanding into new event contracts?",
+      "How can a startup justify a $40 billion valuation in the middle of a broader tech market correction?"
     ],
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Amazon shares dropped after softer holiday forecasts overshadowed cloud performance.",
-      "blurb": "Wall Street punished the revenue miss despite steady growth at AWS."
+      "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
+      "blurb": "Big Tech's brutal month was led by a historic weekly drop as AI spending worries intensified."
     },
     {
-      "headline": "Intel fell 25% after a sharp personal computer downturn rattled investors.",
-      "blurb": "The drop weighed on tech hardware suppliers in premarket trading."
+      "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending",
+      "blurb": "Rising debt and heavy capital expenditures prompted rating agencies to eye potential downgrades."
     },
     {
-      "headline": "McKinsey found only 1% of firms are mature in AI deployment despite big budgets.",
-      "blurb": "About 92% of surveyed companies plan to boost AI spending anyway."
+      "headline": "Gold Sinks Below $3,900 Amid Broader Market Liquidation",
+      "blurb": "Precious metals tumbled alongside equities as a hawkish Fed and tech rout triggered forced selling."
     },
     {
-      "headline": "Nvidia is considering credit guarantees for a $30 billion data center project.",
-      "blurb": "The West Virginia site is being developed by Nscale for Anthropic."
+      "headline": "OpenAI Slashes Funding Target by $10 Billion",
+      "blurb": "The ChatGPT maker scaled back its latest round as public market tech corrections spilled into private deals."
     },
     {
-      "headline": "Novak Djokovic lost to Jan-Lennard Struff at the Swiss Indoors in Basel.",
-      "blurb": "The defeat puts Djokovic's spot in the year-end ATP Finals in jeopardy."
+      "headline": "Nvidia Weighs Cosigning Debt for Nscale's Data Center",
+      "blurb": "The chipmaker considered guaranteeing billions in financing to keep critical infrastructure projects moving."
     }
   ],
-  "emailQuestion": "If you were pitching an enterprise IT buyer on campus, what would convince them to swap an entrenched platform for a newer startup?"
+  "emailQuestion": "How does a prediction market monetize trading activity differently from a traditional stock exchange?"
 }

@@ -1,0 +1,219 @@
+{
+  "id": "2026-10-31-am",
+  "slot": "morning",
+  "date": "2026-10-31",
+  "dateLabel": "Sat, Oct 31, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-10-31T13:32:05.620Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Alphabet's record drop, S&P credit pressure on Meta, and Zverev claims the world no. 1 spot.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 30",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,580",
+        "change": "−1.82%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,437",
+        "change": "−2.86%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,770",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.93%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,899",
+        "change": "−3.29%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
+    "body": "Alphabet lost $468 billion in market value in a single week, contributing to a total October wipeout of $758 billion. The historic drop came as a broader tech selloff intensified, driven by investor doubts over how quickly massive spending on artificial intelligence will generate real returns.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-758-billion-its-worst-month-ever-211521791.html"
+      }
+    ],
+    "why": "This matters for your finance and investing classes because it shows how quickly market sentiment can turn on high-growth tech valuations when projected cash flows and AI returns face heavy scrutiny.",
+    "kicker": "Markets and Big Tech",
+    "figures": [
+      {
+        "value": "$758B",
+        "label": "October market value wipeout"
+      },
+      {
+        "value": "$468B",
+        "label": "Weekly market value loss"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending Pressures",
+          "body": "S&P Global Ratings revised its outlook on Meta's credit grade to negative, pointing to rising leverage and heavy debt relative to earnings driven by high capital expenditures on artificial intelligence.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
+            }
+          ],
+          "why": "Understanding how heavy capital expenditures impact a company's balance sheet and credit rating is essential for your corporate finance coursework and evaluating debt financing strategies."
+        },
+        {
+          "headline": "Gold Sinks Below $3,900 as Broad Market Liquidation Hits Commodities",
+          "body": "Spot gold prices fell sharply below $3,900 per ounce, pressured by a stronger dollar, a hawkish Federal Reserve holding rates at 3.75% to 4.00%, and forced liquidations stemming from the broader technology stock selloff.",
+          "sources": [
+            {
+              "name": "Kitco",
+              "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"
+            }
+          ],
+          "why": "This highlights how cross-asset correlations work during market panics, where even traditional safe-haven assets get sold off as institutional investors raise cash."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI Slashes Funding Target by $10 Billion Amid Tech Sector Rout",
+          "body": "OpenAI reduced the fundraising target for its latest round by $10 billion as a broader market correction for technology stocks weighed on investor appetite for large-scale artificial intelligence ventures.",
+          "sources": [
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/openai-cuts-funding-target-by-10-billion-ft-reports-ce785fd8d98bff22"
+            }
+          ],
+          "why": "As you look at startup ecosystems, this demonstrates how public market contractions directly impact private equity valuations and large venture rounds."
+        },
+        {
+          "headline": "Nvidia Weighs Cosigning Debt for Nscale's West Virginia Data Center",
+          "body": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale to support a major data center project tied to Anthropic.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+            }
+          ],
+          "why": "This is a prime example of vendor financing, where hardware suppliers step in to guarantee debt so their customers can afford to buy expensive computing infrastructure."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Report Shows India Ranks Second Globally in AI-Powered Shopping",
+          "body": "A new McKinsey report reveals that 76 percent of consumers in India use artificial intelligence tools to research products, compare options, and make purchasing decisions.",
+          "sources": [
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/business-economy/industry/india-ranks-2nd-globally-in-ai-powered-shopping-76-percent-consumers-use-ai-tools-mckinsey-article-156434690"
+            }
+          ],
+          "why": "For your consulting and strategy interests, this highlights how quickly consumer behavior is shifting globally and where businesses are finding high-ROI use cases for AI."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev Rises to No. 1 in ATP Rankings After Strong Season",
+          "body": "Alexander Zverev has officially taken the top spot in the world tennis rankings, capitalizing on consistent major performances and injuries to his main rivals earlier in the year.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/sports/tennis/tennis-zverev-finally-takes-his-place-at-the-summit/articleshow/135374154.cms"
+            }
+          ]
+        },
+        {
+          "headline": "Daniil Medvedev Secures ATP Finals Berth with Vienna Semi-Final Win",
+          "body": "Daniil Medvedev punched his ticket to the season-ending ATP Finals for the seventh time by defeating Adrian Mannarino in straight sets at the Vienna Open.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/10/31/tennis-medvedev-clinches-atp-finals-berth-by-reaching-vienna-semi-finals"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Leverage",
+    "definition": "Leverage is the use of borrowed capital to fund investments, operations, or acquisitions in order to amplify potential returns. While higher leverage can boost profits when a business is growing, it increases financial risk and debt servicing costs, which is why rating agencies like S&P lower credit outlooks when heavy AI spending pushes a company's debt relative to earnings too high.",
+    "sources": [
+      {
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Kalshi Raised a $1 Billion Series G at a $40 Billion Valuation",
+    "body": "Prediction market platform Kalshi secured massive new venture backing to expand its regulated financial exchange offerings. The massive late-stage round highlights continued investor appetite for alternative trading platforms despite broader market volatility.",
+    "questions": [
+      "How does a prediction market monetize trading activity differently from a traditional stock exchange?",
+      "What regulatory hurdles do prediction platforms face when expanding into new event contracts?",
+      "How can a startup justify a $40 billion valuation in the middle of a broader tech market correction?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
+      "blurb": "Big Tech's brutal month was led by a historic weekly drop as AI spending worries intensified."
+    },
+    {
+      "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending",
+      "blurb": "Rising debt and heavy capital expenditures prompted rating agencies to eye potential downgrades."
+    },
+    {
+      "headline": "Gold Sinks Below $3,900 Amid Broader Market Liquidation",
+      "blurb": "Precious metals tumbled alongside equities as a hawkish Fed and tech rout triggered forced selling."
+    },
+    {
+      "headline": "OpenAI Slashes Funding Target by $10 Billion",
+      "blurb": "The ChatGPT maker scaled back its latest round as public market tech corrections spilled into private deals."
+    },
+    {
+      "headline": "Nvidia Weighs Cosigning Debt for Nscale's Data Center",
+      "blurb": "The chipmaker considered guaranteeing billions in financing to keep critical infrastructure projects moving."
+    }
+  ],
+  "emailQuestion": "How does a prediction market monetize trading activity differently from a traditional stock exchange?"
+}
