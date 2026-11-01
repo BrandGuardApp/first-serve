@@ -1,0 +1,232 @@
+{
+  "id": "2026-11-01-am",
+  "slot": "morning",
+  "date": "2026-11-01",
+  "dateLabel": "Sun, Nov 1, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-01T15:58:46.502Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI trims funding target, Apple reclaims the top market crown, and Alcaraz makes the Vienna final.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Oct 30",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,580",
+        "change": "−1.82%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,437",
+        "change": "−2.86%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,770",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.93%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,899",
+        "change": "−3.29%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "OpenAI Trims Funding Target as Meta Faces Credit Warning",
+    "body": "OpenAI lowered the target for its latest funding round to $20 billion from $30 billion, cutting its expected valuation to $1.25 trillion after a tough week for tech shares. At the same time, S&P Global shifted its credit outlook on Meta from stable to negative, pointing to heavy spending and cash flow pressure.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+      }
+    ],
+    "why": "Valuation cuts and credit warnings signal that investors are demanding clearer returns on AI infrastructure, an important trend to watch for finance coursework and case competitions.",
+    "kicker": "Tech & Venture Capital",
+    "figures": [
+      {
+        "value": "$20B",
+        "label": "OpenAI funding target, down from $30B"
+      },
+      {
+        "value": "$1.25T",
+        "label": "OpenAI expected valuation"
+      },
+      {
+        "value": "Negative",
+        "label": "Meta credit outlook from S&P"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Apple Reclaims Crown as Most Valuable Company",
+          "body": "Apple surpassed Nvidia on Friday to take back the top spot globally with a $5.3 trillion valuation. Nvidia slipped as investors grew cautious about the soaring capital costs required to sustain the AI expansion.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/apple-reclaims-worlds-most-valuable-company-title-as-nvidia-slips-amid-ai-investment-concerns/articleshow/135416397.cms"
+            }
+          ],
+          "why": "Tracking how market leadership rotates between hardware giants and chipmakers helps you understand market cycles for equity research."
+        },
+        {
+          "headline": "Upcoming US Jobs Report May Guide Federal Reserve Rates",
+          "body": "Forecasters expect the next US jobs report to show October payrolls grew by 65,000, more than double the prior month, with unemployment holding steady at 4.2%. Strong job numbers could keep the Federal Reserve on path to hike interest rates further.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/us-jobs-pickup-may-keep-federal-reserve-on-track-to-hike-rates-again-126110100063_1.html"
+            }
+          ],
+          "why": "Interest rate movements directly influence the cost of capital for startups and the valuation models you study in business school."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic Adds Guardrails to Stop Claude Code Game Clones",
+          "body": "Anthropic introduced restrictions in Claude Code to prevent users from recreating existing video games. The change has drawn criticism from developers who report that their original coding projects and game mods are mistakenly getting blocked.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/"
+            }
+          ],
+          "why": "Platform rule changes can disrupt developer workflows, an important operational risk if you build software tools or manage product teams."
+        },
+        {
+          "headline": "US Reviews Suspected Intelligence Plot Targeting Nvidia Chief",
+          "body": "Federal authorities are looking closely into reports of an alleged Chinese espionage plot targeting Nvidia CEO Jensen Huang. The inquiry centers on suspected intelligence links involving a former data center executive.",
+          "sources": [
+            {
+              "name": "Bangkok Post",
+              "url": "https://www.bangkokpost.com/world/3346495/trump-says-us-looking-closely-at-report-nvidia-ceo-target-of-china-spy-plot"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/companies/news/who-is-alice-huang-us-accuses-ex-megaspeed-exec-linked-to-nvidia-ceo-jensen-huang-of-spying-for-china-what-we-know-11793496869990.html"
+            }
+          ],
+          "why": "Geopolitical friction around critical chip technology remains one of the largest headline risks for global tech markets."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Finds AI Search Driving Retail Purchases",
+          "body": "A study by McKinsey revealed that AI-driven search tools have three times the influence of standard search engines on consumer purchases. Nearly one-third of shoppers using AI named it the primary factor behind their most recent buying choice.",
+          "sources": [
+            {
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/info-tech/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/article71648741.ece"
+            }
+          ],
+          "why": "Shifts in consumer discovery behavior provide practical case study data for consulting projects and digital marketing analysis."
+        },
+        {
+          "headline": "Entry-Level Roles Pivot Toward Auditing AI Outputs",
+          "body": "Employers in Singapore are telling recent graduates that junior developers are now expected to audit AI-generated code for security, logic, and business fit rather than write basic code by hand.",
+          "sources": [
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
+            }
+          ],
+          "why": "For future consulting or tech internships, your ability to evaluate and correct AI drafts will be a stronger differentiator than manual execution."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Outlasts Daniil Medvedev to Reach Vienna Final",
+          "body": "Carlos Alcaraz defeated Daniil Medvedev 6-4, 7-6 (7-2) on Saturday to advance to his first Vienna Open final and the 37th tour final of his career. He faces Alex de Minaur, who upset Alexander Zverev in the other semifinal.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13606291/vienna-open-carlos-alcaraz-beats-daniil-medvedev-to-reach-first-final-as-alex-de-minaur-stuns-alexander-zverev"
+            },
+            {
+              "name": "Yardbarker",
+              "url": "https://www.yardbarker.com/general_sports/articles/breaking_medvedevs_resistance_alcaraz_one_step_away_from_a_historic_title/s1_17790_44497791"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Credit Outlook",
+    "definition": "A forward-looking opinion issued by credit rating agencies indicating whether a company's credit rating might be upgraded, downgraded, or kept unchanged. When S&P cut Meta's outlook to negative, it signaled that aggressive capital expenditures could strain balance sheet cash flow and raise future borrowing costs.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Simplismart Raises Capital to Optimize AI Inference Workloads",
+    "body": "Simplismart secured new funding as part of a $115 million startup investment week in India. The company builds a software platform that helps businesses balance cloud infrastructure, compute performance, and operating costs when running AI models.",
+    "questions": [
+      "How could student founders on campus track and budget their API inference costs before launching a product?",
+      "Could Merage student consulting teams audit local small businesses to see if they are overspending on AI cloud compute?",
+      "What metrics would you present to an angel investor to prove your software optimizes infrastructure efficiency?"
+    ],
+    "sources": [
+      {
+        "name": "News18",
+        "url": "https://www.news18.com/tech/indian-startups-raise-115-million-in-a-week-as-simplismart-and-live2-ai-lead-ai-funding-activity-ws-l-10406794.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "OpenAI cuts its funding target as Meta gets a credit warning.",
+      "blurb": "OpenAI lowered its round target to $20 billion, while S&P put Meta on a negative outlook due to heavy spending."
+    },
+    {
+      "headline": "Apple retakes the top valuation spot from Nvidia.",
+      "blurb": "A $5.3 trillion valuation lifted Apple back to number one as concerns over AI costs cooled chip stocks."
+    },
+    {
+      "headline": "McKinsey finds AI search is overtaking traditional shopping queries.",
+      "blurb": "Nearly a third of AI shoppers say conversational search was the main driver behind their latest purchase."
+    },
+    {
+      "headline": "Carlos Alcaraz reaches his first Vienna Open final.",
+      "blurb": "He took down Daniil Medvedev in straight sets and will face Alex de Minaur for the title."
+    },
+    {
+      "headline": "Entry-level tech jobs are pivoting to AI auditing.",
+      "blurb": "Employers increasingly want junior hires to inspect and verify AI-generated work rather than write basic code."
+    }
+  ],
+  "emailQuestion": "How could student founders on campus track and budget their API inference costs before launching a product?"
+}

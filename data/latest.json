@@ -1,15 +1,15 @@
 {
-  "id": "2026-10-31-pm",
-  "slot": "evening",
-  "date": "2026-10-31",
-  "dateLabel": "Sat, Oct 31, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-01T02:04:55.255Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Tech's $828B AI spending spree rattles markets, consulting sweeps MBA hiring, and Kalshi raises $1B.",
+  "id": "2026-11-01-am",
+  "slot": "morning",
+  "date": "2026-11-01",
+  "dateLabel": "Sun, Nov 1, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-01T15:58:46.502Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI trims funding target, Apple reclaims the top market crown, and Alcaraz makes the Vienna final.",
   "storyCount": 10,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Oct 30",
     "rows": [
@@ -46,24 +46,28 @@
     ]
   },
   "lead": {
-    "headline": "Big Tech's $828 Billion AI Build-Out Spooks Wall Street",
-    "body": "Five major tech giants are set to spend up to $828 billion on infrastructure this year, according to recent disclosures from Amazon, Alphabet, Microsoft, Meta, and SpaceX. Investors are growing wary about how rapidly this capital outlay is eating into corporate cash flows. That anxiety contributed to a $1 trillion drop across the Nasdaq 100 as the market reassesses the timeline for real returns.",
+    "headline": "OpenAI Trims Funding Target as Meta Faces Credit Warning",
+    "body": "OpenAI lowered the target for its latest funding round to $20 billion from $30 billion, cutting its expected valuation to $1.25 trillion after a tough week for tech shares. At the same time, S&P Global shifted its credit outlook on Meta from stable to negative, pointing to heavy spending and cash flow pressure.",
     "sources": [
       {
         "name": "Fortune",
-        "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
+        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
       }
     ],
-    "why": "In your Merage finance classes, you will evaluate return on invested capital. When companies pour massive cash into physical assets without quick revenue, investors pull back valuations across the entire sector.",
-    "kicker": "Tech Infrastructure + Markets",
+    "why": "Valuation cuts and credit warnings signal that investors are demanding clearer returns on AI infrastructure, an important trend to watch for finance coursework and case competitions.",
+    "kicker": "Tech & Venture Capital",
     "figures": [
       {
-        "value": "$828B",
-        "label": "projected tech infrastructure spend"
+        "value": "$20B",
+        "label": "OpenAI funding target, down from $30B"
       },
       {
-        "value": "$1T",
-        "label": "wiped from the Nasdaq 100"
+        "value": "$1.25T",
+        "label": "OpenAI expected valuation"
+      },
+      {
+        "value": "Negative",
+        "label": "Meta credit outlook from S&P"
       }
     ]
   },
@@ -73,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Wall Street's favorite consensus stocks suffer worst slump since 2010",
-          "body": "S&P 500 stocks with the highest proportion of analyst Buy ratings have lagged behind the least popular stocks for most of 2026. Analysts spent the year loading recommendations onto the AI build-out, but unloved and ignored companies have quietly posted better performance.",
+          "headline": "Apple Reclaims Crown as Most Valuable Company",
+          "body": "Apple surpassed Nvidia on Friday to take back the top spot globally with a $5.3 trillion valuation. Nvidia slipped as investors grew cautious about the soaring capital costs required to sustain the AI expansion.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/apple-reclaims-worlds-most-valuable-company-title-as-nvidia-slips-amid-ai-investment-concerns/articleshow/135416397.cms"
             }
           ],
-          "why": "When preparing equity pitches or stock analysis at Merage, remember that unanimous analyst optimism is often already fully priced into the stock."
+          "why": "Tracking how market leadership rotates between hardware giants and chipmakers helps you understand market cycles for equity research."
         },
         {
-          "headline": "Wall Street braces for swings ahead of Tuesday's midterm elections",
-          "body": "Financial markets are preparing for elevated volatility across equity and bond desks as the US midterm elections approach on Tuesday. Traders anticipate Democrats could gain control of at least one congressional chamber, which could alter legislative agendas on AI oversight and defense budgets.",
+          "headline": "Upcoming US Jobs Report May Guide Federal Reserve Rates",
+          "body": "Forecasters expect the next US jobs report to show October payrolls grew by 65,000, more than double the prior month, with unemployment holding steady at 4.2%. Strong job numbers could keep the Federal Reserve on path to hike interest rates further.",
           "sources": [
             {
-              "name": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/markets/wall-street-braces-for-market-volatility-as-democrats-eye-control-of-congress-in-us-midterm-elections-14065116.html"
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/us-jobs-pickup-may-keep-federal-reserve-on-track-to-hike-rates-again-126110100063_1.html"
             }
           ],
-          "why": "Macro policy shifts and congressional hearings directly affect regulatory risk, a standard variable you will assess in business strategy case competitions."
+          "why": "Interest rate movements directly influence the cost of capital for startups and the valuation models you study in business school."
         }
       ]
     },
@@ -101,26 +105,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Tech rivals unite behind a single standard to block AI scrapers",
-          "body": "Google, Microsoft, OpenAI, and Anthropic have agreed to support one shared opt-out standard inside website robots.txt files. Instead of requiring webmasters to write individual blocking rules for every distinct AI company, the new setup lets publishers opt out of model training with a single rule.",
+          "headline": "Anthropic Adds Guardrails to Stop Claude Code Game Clones",
+          "body": "Anthropic introduced restrictions in Claude Code to prevent users from recreating existing video games. The change has drawn criticism from developers who report that their original coding projects and game mods are mistakenly getting blocked.",
           "sources": [
             {
-              "name": "TNW",
-              "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
+              "name": "Wccftech",
+              "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/"
             }
           ],
-          "why": "If you build web applications or online projects, data-rights management is quickly becoming standardized rather than requiring separate configurations for every lab."
+          "why": "Platform rule changes can disrupt developer workflows, an important operational risk if you build software tools or manage product teams."
         },
         {
-          "headline": "Apple Intelligence to launch in China through an Alibaba partnership",
-          "body": "Apple plans to roll out its AI feature suite to iPhone users in China this December alongside the iOS 27.3 update, backed by Alibaba Group Holding. The launch follows a developer beta test period scheduled to start on November 4.",
+          "headline": "US Reviews Suspected Intelligence Plot Targeting Nvidia Chief",
+          "body": "Federal authorities are looking closely into reports of an alleged Chinese espionage plot targeting Nvidia CEO Jensen Huang. The inquiry centers on suspected intelligence links involving a former data center executive.",
           "sources": [
             {
-              "name": "NewsBytes",
-              "url": "https://www.newsbytesapp.com/news/science/apple-to-launch-ai-features-in-china-this-december/story"
+              "name": "Bangkok Post",
+              "url": "https://www.bangkokpost.com/world/3346495/trump-says-us-looking-closely-at-report-nvidia-ceo-target-of-china-spy-plot"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/companies/news/who-is-alice-huang-us-accuses-ex-megaspeed-exec-linked-to-nvidia-ceo-jensen-huang-of-spying-for-china-what-we-know-11793496869990.html"
             }
           ],
-          "why": "Entering large international markets often forces major American tech platforms to partner with local incumbents to clear regulatory and infrastructure hurdles."
+          "why": "Geopolitical friction around critical chip technology remains one of the largest headline risks for global tech markets."
         }
       ]
     },
@@ -129,34 +137,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Management consulting captures half of summer internship offers at IIM Bangalore",
-          "body": "Consulting emerged as the leading recruiting domain at IIM Bangalore, taking 308 of 608 total summer placement offers (50.7%). Accenture Strategy led all employers with 123 offers, while Bain & Company and Boston Consulting Group extended 23 offers each.",
+          "headline": "McKinsey Finds AI Search Driving Retail Purchases",
+          "body": "A study by McKinsey revealed that AI-driven search tools have three times the influence of standard search engines on consumer purchases. Nearly one-third of shoppers using AI named it the primary factor behind their most recent buying choice.",
           "sources": [
             {
-              "name": "The Indian Express",
-              "url": "https://indianexpress.com/article/education/iim-bangalore-summer-placements-tech-hiring-doubles-stipend-details-10944969/"
-            },
-            {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/education/news/iim-bangalore-summer-placements-2026-all-608-students-placed-median-stipend-at-rs-2-lakh-per-month/articleshow/135399508.cms"
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/info-tech/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/article71648741.ece"
             }
           ],
-          "why": "Top-tier consulting firms continue to rely heavily on structured campus recruitment pipelines. Case competition prep and campus networking remain the core path to landing these internships."
+          "why": "Shifts in consumer discovery behavior provide practical case study data for consulting projects and digital marketing analysis."
         },
         {
-          "headline": "Former McKinsey consultant outlines day-to-day trade-offs of jumping to Big Tech",
-          "body": "IIM Calcutta graduate Jahnvi Singh went viral after breaking down the practical lifestyle shifts between management consulting at McKinsey and an internal corporate role at Google. She highlighted that while McKinsey was her dream starting role, the move brought major differences in travel intensity and work-life balance.",
+          "headline": "Entry-Level Roles Pivot Toward Auditing AI Outputs",
+          "body": "Employers in Singapore are telling recent graduates that junior developers are now expected to audit AI-generated code for security, logic, and business fit rather than write basic code by hand.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/life-style/people/from-mckinseys-client-meetings-to-googles-office-routine-iim-calcutta-graduate-reveals-how-her-career-travel-and-personal-life-changed-after-making-the-switch/articleshow/135390881.cms"
-            },
-            {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/news/india/who-is-jahnvi-singh-iim-calcutta-graduate-left-mckinsey-to-join-google-heres-why-she-explains-difference-11793382840832.html"
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
             }
           ],
-          "why": "When considering consulting versus tech during college recruiting, evaluate day-to-day travel and schedule predictability alongside the prestige of the brand name."
+          "why": "For future consulting or tech internships, your ability to evaluate and correct AI drafts will be a stronger differentiator than manual execution."
         }
       ]
     },
@@ -165,12 +165,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Harriet Dart rallies into first WTA Tour singles final at Guangzhou Open",
-          "body": "Harriet Dart fought back from a set down to defeat Chinese teenager Sun Xinran 5-7, 7-6 (7-1), 6-0 to reach the final of the Guangzhou Open. The comeback win secures Dart her first WTA singles final appearance after 11 years on tour.",
+          "headline": "Carlos Alcaraz Outlasts Daniil Medvedev to Reach Vienna Final",
+          "body": "Carlos Alcaraz defeated Daniil Medvedev 6-4, 7-6 (7-2) on Saturday to advance to his first Vienna Open final and the 37th tour final of his career. He faces Alex de Minaur, who upset Alexander Zverev in the other semifinal.",
           "sources": [
             {
               "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13606067/guangzhou-open-harriet-dart-reaches-first-wta-tour-final-after-dramatic-comeback-against-chinese-teenager-sun-xinran"
+              "url": "https://www.skysports.com/tennis/news/13606291/vienna-open-carlos-alcaraz-beats-daniil-medvedev-to-reach-first-final-as-alex-de-minaur-stuns-alexander-zverev"
+            },
+            {
+              "name": "Yardbarker",
+              "url": "https://www.yardbarker.com/general_sports/articles/breaking_medvedevs_resistance_alcaraz_one_step_away_from_a_historic_title/s1_17790_44497791"
             }
           ]
         }
@@ -178,51 +182,51 @@
     }
   ],
   "term": {
-    "name": "Capital Expenditures (Capex)",
-    "definition": "Capital expenditures, or capex, are the funds a company invests to purchase, build, or upgrade long-term physical assets such as data centers, computing hardware, and property. Tech companies are currently dedicating unprecedented capex toward AI infrastructure, which lowers near-term free cash flow while forcing investors to guess whether the future payoff will match the expense.",
+    "name": "Credit Outlook",
+    "definition": "A forward-looking opinion issued by credit rating agencies indicating whether a company's credit rating might be upgraded, downgraded, or kept unchanged. When S&P cut Meta's outlook to negative, it signaled that aggressive capital expenditures could strain balance sheet cash flow and raise future borrowing costs.",
     "sources": [
       {
         "name": "Fortune",
-        "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
+        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
       }
     ]
   },
   "serve": {
-    "headline": "Kalshi raises $1B Series G at a $40B valuation",
-    "body": "Kalshi closed a $1 billion Series G funding round that values the event-contracts exchange at $40 billion. The platform allows users to trade financial contracts based on real-world news and regulatory outcomes.",
+    "headline": "Simplismart Raises Capital to Optimize AI Inference Workloads",
+    "body": "Simplismart secured new funding as part of a $115 million startup investment week in India. The company builds a software platform that helps businesses balance cloud infrastructure, compute performance, and operating costs when running AI models.",
     "questions": [
-      "What campus events or student trends at UC Irvine would draw the most active prediction trading among your friends?",
-      "How would you design safeguards so event trading feels analytical rather than purely speculative for casual users?",
-      "If transaction fees are low, what secondary data products could a prediction exchange sell to institutional investors?"
+      "How could student founders on campus track and budget their API inference costs before launching a product?",
+      "Could Merage student consulting teams audit local small businesses to see if they are overspending on AI cloud compute?",
+      "What metrics would you present to an angel investor to prove your software optimizes infrastructure efficiency?"
     ],
     "sources": [
       {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/"
+        "name": "News18",
+        "url": "https://www.news18.com/tech/indian-startups-raise-115-million-in-a-week-as-simplismart-and-live2-ai-lead-ai-funding-activity-ws-l-10406794.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Big Tech plans $828 billion in AI infrastructure capex",
-      "blurb": "Cash flow concerns contributed to a $1 trillion drop across the Nasdaq 100."
+      "headline": "OpenAI cuts its funding target as Meta gets a credit warning.",
+      "blurb": "OpenAI lowered its round target to $20 billion, while S&P put Meta on a negative outlook due to heavy spending."
     },
     {
-      "headline": "Wall Street's favorite stocks hit a 16-year slump",
-      "blurb": "Most-recommended AI build-out stocks trailed ignored market names across 2026."
+      "headline": "Apple retakes the top valuation spot from Nvidia.",
+      "blurb": "A $5.3 trillion valuation lifted Apple back to number one as concerns over AI costs cooled chip stocks."
     },
     {
-      "headline": "Consulting secures half of elite MBA summer offers",
-      "blurb": "Accenture, Bain, and BCG hired heavily at IIM Bangalore, accounting for 308 offers."
+      "headline": "McKinsey finds AI search is overtaking traditional shopping queries.",
+      "blurb": "Nearly a third of AI shoppers say conversational search was the main driver behind their latest purchase."
     },
     {
-      "headline": "Tech rivals unite on a unified AI scraping opt-out",
-      "blurb": "Google, Microsoft, OpenAI, and Anthropic will honor one standard rule in robots.txt."
+      "headline": "Carlos Alcaraz reaches his first Vienna Open final.",
+      "blurb": "He took down Daniil Medvedev in straight sets and will face Alex de Minaur for the title."
     },
     {
-      "headline": "Harriet Dart reaches her first career WTA final",
-      "blurb": "The British player broke through at the Guangzhou Open after an 11-year wait on tour."
+      "headline": "Entry-level tech jobs are pivoting to AI auditing.",
+      "blurb": "Employers increasingly want junior hires to inspect and verify AI-generated work rather than write basic code."
     }
   ],
-  "emailQuestion": "What campus events or student trends at UC Irvine would draw the most active prediction trading among your friends?"
+  "emailQuestion": "How could student founders on campus track and budget their API inference costs before launching a product?"
 }
