@@ -1,15 +1,15 @@
 {
-  "id": "2026-10-31-am",
-  "slot": "morning",
+  "id": "2026-10-31-pm",
+  "slot": "evening",
   "date": "2026-10-31",
   "dateLabel": "Sat, Oct 31, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-10-31T13:32:05.620Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Alphabet's record drop, S&P credit pressure on Meta, and Zverev claims the world no. 1 spot.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-01T02:04:55.255Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Tech's $828B AI spending spree rattles markets, consulting sweeps MBA hiring, and Kalshi raises $1B.",
   "storyCount": 10,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Oct 30",
     "rows": [
@@ -46,24 +46,24 @@
     ]
   },
   "lead": {
-    "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
-    "body": "Alphabet lost $468 billion in market value in a single week, contributing to a total October wipeout of $758 billion. The historic drop came as a broader tech selloff intensified, driven by investor doubts over how quickly massive spending on artificial intelligence will generate real returns.",
+    "headline": "Big Tech's $828 Billion AI Build-Out Spooks Wall Street",
+    "body": "Five major tech giants are set to spend up to $828 billion on infrastructure this year, according to recent disclosures from Amazon, Alphabet, Microsoft, Meta, and SpaceX. Investors are growing wary about how rapidly this capital outlay is eating into corporate cash flows. That anxiety contributed to a $1 trillion drop across the Nasdaq 100 as the market reassesses the timeline for real returns.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-758-billion-its-worst-month-ever-211521791.html"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
       }
     ],
-    "why": "This matters for your finance and investing classes because it shows how quickly market sentiment can turn on high-growth tech valuations when projected cash flows and AI returns face heavy scrutiny.",
-    "kicker": "Markets and Big Tech",
+    "why": "In your Merage finance classes, you will evaluate return on invested capital. When companies pour massive cash into physical assets without quick revenue, investors pull back valuations across the entire sector.",
+    "kicker": "Tech Infrastructure + Markets",
     "figures": [
       {
-        "value": "$758B",
-        "label": "October market value wipeout"
+        "value": "$828B",
+        "label": "projected tech infrastructure spend"
       },
       {
-        "value": "$468B",
-        "label": "Weekly market value loss"
+        "value": "$1T",
+        "label": "wiped from the Nasdaq 100"
       }
     ]
   },
@@ -73,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending Pressures",
-          "body": "S&P Global Ratings revised its outlook on Meta's credit grade to negative, pointing to rising leverage and heavy debt relative to earnings driven by high capital expenditures on artificial intelligence.",
+          "headline": "Wall Street's favorite consensus stocks suffer worst slump since 2010",
+          "body": "S&P 500 stocks with the highest proportion of analyst Buy ratings have lagged behind the least popular stocks for most of 2026. Analysts spent the year loading recommendations onto the AI build-out, but unloved and ignored companies have quietly posted better performance.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html"
+            }
+          ],
+          "why": "When preparing equity pitches or stock analysis at Merage, remember that unanimous analyst optimism is often already fully priced into the stock."
+        },
+        {
+          "headline": "Wall Street braces for swings ahead of Tuesday's midterm elections",
+          "body": "Financial markets are preparing for elevated volatility across equity and bond desks as the US midterm elections approach on Tuesday. Traders anticipate Democrats could gain control of at least one congressional chamber, which could alter legislative agendas on AI oversight and defense budgets.",
           "sources": [
             {
               "name": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
+              "url": "https://www.moneycontrol.com/news/business/markets/wall-street-braces-for-market-volatility-as-democrats-eye-control-of-congress-in-us-midterm-elections-14065116.html"
             }
           ],
-          "why": "Understanding how heavy capital expenditures impact a company's balance sheet and credit rating is essential for your corporate finance coursework and evaluating debt financing strategies."
-        },
-        {
-          "headline": "Gold Sinks Below $3,900 as Broad Market Liquidation Hits Commodities",
-          "body": "Spot gold prices fell sharply below $3,900 per ounce, pressured by a stronger dollar, a hawkish Federal Reserve holding rates at 3.75% to 4.00%, and forced liquidations stemming from the broader technology stock selloff.",
-          "sources": [
-            {
-              "name": "Kitco",
-              "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"
-            }
-          ],
-          "why": "This highlights how cross-asset correlations work during market panics, where even traditional safe-haven assets get sold off as institutional investors raise cash."
+          "why": "Macro policy shifts and congressional hearings directly affect regulatory risk, a standard variable you will assess in business strategy case competitions."
         }
       ]
     },
@@ -101,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI Slashes Funding Target by $10 Billion Amid Tech Sector Rout",
-          "body": "OpenAI reduced the fundraising target for its latest round by $10 billion as a broader market correction for technology stocks weighed on investor appetite for large-scale artificial intelligence ventures.",
+          "headline": "Tech rivals unite behind a single standard to block AI scrapers",
+          "body": "Google, Microsoft, OpenAI, and Anthropic have agreed to support one shared opt-out standard inside website robots.txt files. Instead of requiring webmasters to write individual blocking rules for every distinct AI company, the new setup lets publishers opt out of model training with a single rule.",
           "sources": [
             {
-              "name": "MarketScreener",
-              "url": "https://www.marketscreener.com/news/openai-cuts-funding-target-by-10-billion-ft-reports-ce785fd8d98bff22"
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
             }
           ],
-          "why": "As you look at startup ecosystems, this demonstrates how public market contractions directly impact private equity valuations and large venture rounds."
+          "why": "If you build web applications or online projects, data-rights management is quickly becoming standardized rather than requiring separate configurations for every lab."
         },
         {
-          "headline": "Nvidia Weighs Cosigning Debt for Nscale's West Virginia Data Center",
-          "body": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale to support a major data center project tied to Anthropic.",
+          "headline": "Apple Intelligence to launch in China through an Alibaba partnership",
+          "body": "Apple plans to roll out its AI feature suite to iPhone users in China this December alongside the iOS 27.3 update, backed by Alibaba Group Holding. The launch follows a developer beta test period scheduled to start on November 4.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/science/apple-to-launch-ai-features-in-china-this-december/story"
             }
           ],
-          "why": "This is a prime example of vendor financing, where hardware suppliers step in to guarantee debt so their customers can afford to buy expensive computing infrastructure."
+          "why": "Entering large international markets often forces major American tech platforms to partner with local incumbents to clear regulatory and infrastructure hurdles."
         }
       ]
     },
@@ -129,15 +129,34 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Report Shows India Ranks Second Globally in AI-Powered Shopping",
-          "body": "A new McKinsey report reveals that 76 percent of consumers in India use artificial intelligence tools to research products, compare options, and make purchasing decisions.",
+          "headline": "Management consulting captures half of summer internship offers at IIM Bangalore",
+          "body": "Consulting emerged as the leading recruiting domain at IIM Bangalore, taking 308 of 608 total summer placement offers (50.7%). Accenture Strategy led all employers with 123 offers, while Bain & Company and Boston Consulting Group extended 23 offers each.",
           "sources": [
             {
-              "name": "Times Now",
-              "url": "https://www.timesnownews.com/business-economy/industry/india-ranks-2nd-globally-in-ai-powered-shopping-76-percent-consumers-use-ai-tools-mckinsey-article-156434690"
+              "name": "The Indian Express",
+              "url": "https://indianexpress.com/article/education/iim-bangalore-summer-placements-tech-hiring-doubles-stipend-details-10944969/"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/education/news/iim-bangalore-summer-placements-2026-all-608-students-placed-median-stipend-at-rs-2-lakh-per-month/articleshow/135399508.cms"
             }
           ],
-          "why": "For your consulting and strategy interests, this highlights how quickly consumer behavior is shifting globally and where businesses are finding high-ROI use cases for AI."
+          "why": "Top-tier consulting firms continue to rely heavily on structured campus recruitment pipelines. Case competition prep and campus networking remain the core path to landing these internships."
+        },
+        {
+          "headline": "Former McKinsey consultant outlines day-to-day trade-offs of jumping to Big Tech",
+          "body": "IIM Calcutta graduate Jahnvi Singh went viral after breaking down the practical lifestyle shifts between management consulting at McKinsey and an internal corporate role at Google. She highlighted that while McKinsey was her dream starting role, the move brought major differences in travel intensity and work-life balance.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/life-style/people/from-mckinseys-client-meetings-to-googles-office-routine-iim-calcutta-graduate-reveals-how-her-career-travel-and-personal-life-changed-after-making-the-switch/articleshow/135390881.cms"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/news/india/who-is-jahnvi-singh-iim-calcutta-graduate-left-mckinsey-to-join-google-heres-why-she-explains-difference-11793382840832.html"
+            }
+          ],
+          "why": "When considering consulting versus tech during college recruiting, evaluate day-to-day travel and schedule predictability alongside the prestige of the brand name."
         }
       ]
     },
@@ -146,22 +165,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alexander Zverev Rises to No. 1 in ATP Rankings After Strong Season",
-          "body": "Alexander Zverev has officially taken the top spot in the world tennis rankings, capitalizing on consistent major performances and injuries to his main rivals earlier in the year.",
+          "headline": "Harriet Dart rallies into first WTA Tour singles final at Guangzhou Open",
+          "body": "Harriet Dart fought back from a set down to defeat Chinese teenager Sun Xinran 5-7, 7-6 (7-1), 6-0 to reach the final of the Guangzhou Open. The comeback win secures Dart her first WTA singles final appearance after 11 years on tour.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/news/sports/tennis/tennis-zverev-finally-takes-his-place-at-the-summit/articleshow/135374154.cms"
-            }
-          ]
-        },
-        {
-          "headline": "Daniil Medvedev Secures ATP Finals Berth with Vienna Semi-Final Win",
-          "body": "Daniil Medvedev punched his ticket to the season-ending ATP Finals for the seventh time by defeating Adrian Mannarino in straight sets at the Vienna Open.",
-          "sources": [
-            {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/10/31/tennis-medvedev-clinches-atp-finals-berth-by-reaching-vienna-semi-finals"
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13606067/guangzhou-open-harriet-dart-reaches-first-wta-tour-final-after-dramatic-comeback-against-chinese-teenager-sun-xinran"
             }
           ]
         }
@@ -169,22 +178,22 @@
     }
   ],
   "term": {
-    "name": "Leverage",
-    "definition": "Leverage is the use of borrowed capital to fund investments, operations, or acquisitions in order to amplify potential returns. While higher leverage can boost profits when a business is growing, it increases financial risk and debt servicing costs, which is why rating agencies like S&P lower credit outlooks when heavy AI spending pushes a company's debt relative to earnings too high.",
+    "name": "Capital Expenditures (Capex)",
+    "definition": "Capital expenditures, or capex, are the funds a company invests to purchase, build, or upgrade long-term physical assets such as data centers, computing hardware, and property. Tech companies are currently dedicating unprecedented capex toward AI infrastructure, which lowers near-term free cash flow while forcing investors to guess whether the future payoff will match the expense.",
     "sources": [
       {
-        "name": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/business/meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending-14064850.html"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/"
       }
     ]
   },
   "serve": {
-    "headline": "Kalshi Raised a $1 Billion Series G at a $40 Billion Valuation",
-    "body": "Prediction market platform Kalshi secured massive new venture backing to expand its regulated financial exchange offerings. The massive late-stage round highlights continued investor appetite for alternative trading platforms despite broader market volatility.",
+    "headline": "Kalshi raises $1B Series G at a $40B valuation",
+    "body": "Kalshi closed a $1 billion Series G funding round that values the event-contracts exchange at $40 billion. The platform allows users to trade financial contracts based on real-world news and regulatory outcomes.",
     "questions": [
-      "How does a prediction market monetize trading activity differently from a traditional stock exchange?",
-      "What regulatory hurdles do prediction platforms face when expanding into new event contracts?",
-      "How can a startup justify a $40 billion valuation in the middle of a broader tech market correction?"
+      "What campus events or student trends at UC Irvine would draw the most active prediction trading among your friends?",
+      "How would you design safeguards so event trading feels analytical rather than purely speculative for casual users?",
+      "If transaction fees are low, what secondary data products could a prediction exchange sell to institutional investors?"
     ],
     "sources": [
       {
@@ -195,25 +204,25 @@
   },
   "emailItems": [
     {
-      "headline": "Alphabet's Record October Wipeout Reaches $758 Billion",
-      "blurb": "Big Tech's brutal month was led by a historic weekly drop as AI spending worries intensified."
+      "headline": "Big Tech plans $828 billion in AI infrastructure capex",
+      "blurb": "Cash flow concerns contributed to a $1 trillion drop across the Nasdaq 100."
     },
     {
-      "headline": "S&P Lowers Meta's Credit Outlook to Negative on AI Spending",
-      "blurb": "Rising debt and heavy capital expenditures prompted rating agencies to eye potential downgrades."
+      "headline": "Wall Street's favorite stocks hit a 16-year slump",
+      "blurb": "Most-recommended AI build-out stocks trailed ignored market names across 2026."
     },
     {
-      "headline": "Gold Sinks Below $3,900 Amid Broader Market Liquidation",
-      "blurb": "Precious metals tumbled alongside equities as a hawkish Fed and tech rout triggered forced selling."
+      "headline": "Consulting secures half of elite MBA summer offers",
+      "blurb": "Accenture, Bain, and BCG hired heavily at IIM Bangalore, accounting for 308 offers."
     },
     {
-      "headline": "OpenAI Slashes Funding Target by $10 Billion",
-      "blurb": "The ChatGPT maker scaled back its latest round as public market tech corrections spilled into private deals."
+      "headline": "Tech rivals unite on a unified AI scraping opt-out",
+      "blurb": "Google, Microsoft, OpenAI, and Anthropic will honor one standard rule in robots.txt."
     },
     {
-      "headline": "Nvidia Weighs Cosigning Debt for Nscale's Data Center",
-      "blurb": "The chipmaker considered guaranteeing billions in financing to keep critical infrastructure projects moving."
+      "headline": "Harriet Dart reaches her first career WTA final",
+      "blurb": "The British player broke through at the Guangzhou Open after an 11-year wait on tour."
     }
   ],
-  "emailQuestion": "How does a prediction market monetize trading activity differently from a traditional stock exchange?"
+  "emailQuestion": "What campus events or student trends at UC Irvine would draw the most active prediction trading among your friends?"
 }
