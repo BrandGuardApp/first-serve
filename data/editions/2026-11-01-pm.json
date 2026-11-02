@@ -1,0 +1,220 @@
+{
+  "id": "2026-11-01-pm",
+  "slot": "evening",
+  "date": "2026-11-01",
+  "dateLabel": "Sun, Nov 1, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-02T07:34:46.405Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "FBI links North Korea to $6.3B Binance heist, OpenAI shops for Google chips, and Alcaraz wins Vienna.",
+  "storyCount": 10,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Oct 30",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,580",
+        "change": "−1.82%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,437",
+        "change": "−2.86%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,770",
+        "change": "−1.09%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.93%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,914",
+        "change": "+0.40%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "FBI Blames North Korea for Historic $6.3 Billion Binance Theft",
+    "body": "The FBI confirmed that North Korean state-backed hackers orchestrated the theft of $6.3 billion from crypto exchange Binance. Federal investigators tied the intrusion to TraderTraitor, the same group responsible for a $1.5 billion hack against Bybit last year. The attack drained the funds within minutes, marking the largest single crypto heist on record.",
+    "sources": [
+      {
+        "name": "PBS",
+        "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history"
+      }
+    ],
+    "why": "Security flaws and custody risks remain the biggest hurdles for digital asset infrastructure. If you evaluate fintech startups or crypto ventures, watch how exchanges respond with tighter institutional safeguards.",
+    "kicker": "Crypto + Cyber Security",
+    "figures": [
+      {
+        "value": "$6.3B",
+        "label": "Stolen from Binance"
+      },
+      {
+        "value": "$1.5B",
+        "label": "TraderTraitor Bybit heist"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Nvidia and Nike Lead 50 Companies Fighting Stock Tokenization",
+          "body": "A coalition of 50 major public firms has filed formal objections against a plan by crypto exchange OKX and NYSE parent Intercontinental Exchange to list tokenized versions of their shares. The group of corporate objectors jumped from 38 to 50 in two days as companies challenge the unauthorized trading of their equity.",
+          "sources": [
+            {
+              "name": "U.Today",
+              "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
+            }
+          ],
+          "why": "Corporate governance relies on knowing who owns your shares. If you study financial markets, this pushback highlights the legal fight over whether blockchain wrappers can bypass corporate consent."
+        },
+        {
+          "headline": "Wall Street Braces for Choppy Trading Ahead of Midterms and Tech Earnings",
+          "body": "Traders are preparing for higher market volatility this week after disappointing big-tech quarterly reports triggered a late-week selloff. Market attention now shifts toward upcoming US midterm election results, labor data, and an earnings report from Nvidia later this month.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/world/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout-article-14065607.html"
+            }
+          ],
+          "why": "Swings in market sentiment affect tech company valuations and venture exit windows. Tracking how macro risks shift prices will help you understand market cycles in your finance classes."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI Plans to Buy Google TPUs to Reduce Nvidia Dependence",
+          "body": "OpenAI plans to purchase Tensor Processing Units from rival Google to meet soaring compute demand. The move provides an alternative to Nvidia graphics chips while OpenAI works on deploying its own custom silicon before 2027.",
+          "sources": [
+            {
+              "name": "TechRadar",
+              "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia"
+            }
+          ],
+          "why": "Hardware costs dictate the profit margins of AI startups. Seeing OpenAI buy from a direct competitor illustrates how tech leaders manage supplier concentration risk."
+        },
+        {
+          "headline": "Microsoft Patents Real-Time AI for Altering Live Video Streams",
+          "body": "Microsoft filed a patent for AI technology capable of modifying a speaker's face and spoken words in live video with near real-time speed. The system alters audiovisual feeds during active broadcasts rather than post-production.",
+          "sources": [
+            {
+              "name": "Futurism",
+              "url": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths"
+            }
+          ],
+          "why": "As live deepfake tech advances, companies will face strict identity verification requirements. Digital risk auditing will be an expanding practice area for corporate consultants."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Major Banks Report Up to 50% Efficiency Gains From AI Rollouts",
+          "body": "Lenders including Kotak Mahindra, HDFC, and Axis Bank reported operational gains between 10% and 50% after introducing AI across their workflows. Kotak handled 20% to 30% more corporate servicing volume with flat headcount, while HDFC cut service turnaround times by 30%.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-report-10-50-gains-in-productivity-turnaround-time-and-costs-from-ai-led-initiatives/articleshow/135441609.cms"
+            }
+          ],
+          "why": "This is operations consulting in the real world. Case interviews often focus on operational efficiency, and these banking metrics give you concrete benchmarks for workflow automation."
+        },
+        {
+          "headline": "Deloitte Partner Stresses Need for Human Judgment in Healthcare AI",
+          "body": "Pradeep Gupta, a partner at Deloitte India, argued that strong pattern recognition alone cannot replace clinical judgment in healthcare systems. He emphasized that AI oversight frameworks must focus on accountability and contextual decision-making rather than raw algorithmic power.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/ht-insight/public-health/responsible-ai-in-health-care-101793527460649.html"
+            }
+          ],
+          "why": "Management consultancies are heavily pitching AI governance and compliance frameworks. Understanding where automated models fall short helps you speak credibly about technology advisory work."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Sweeps Vienna Final for Perfect ATP 500 Season",
+          "body": "Carlos Alcaraz defeated Australia's Alex de Minaur 6-1, 6-4 to capture the Vienna Open title on Sunday. The straight-sets win secured his fourth tour title of the year and capped an undefeated campaign across ATP 500 events in 2026.",
+          "sources": [
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/carlos-alcaraz-dominates-alex-de-minaur-secures-vienna-open-title-and-perfect-atp-500-season-a001-w02/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Asset Tokenization",
+    "definition": "The process of creating a digital representation of a traditional asset, like common stock or real estate, on a blockchain. While advocates argue it allows 24/7 trading and fractional ownership, public companies often oppose it when third-party platforms tokenize their shares without corporate approval or regulatory oversight.",
+    "sources": [
+      {
+        "name": "U.Today",
+        "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Matiks Raises $10M to Turn Brain Teasers Into a Global App",
+    "body": "Matiks, a mobile gaming app focused on math puzzles and logic games, secured $10 million in fresh funding. The company was founded by three college friends and has reached millions of players worldwide.",
+    "questions": [
+      "What academic subjects at UCI could you gamify to help students study for midterms?",
+      "How would you keep users returning to a puzzle app once the novelty wears off?",
+      "What low-cost distribution channels on campus could get an app to its first 5,000 players?"
+    ],
+    "sources": [
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/trending/3-indian-college-friends-build-brain-gaming-app-matiks-raise-10-million-in-funding-101793512779598.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "North Korean hackers stole $6.3B from Binance in minutes.",
+      "blurb": "The FBI identified TraderTraitor as the group behind the biggest heist in crypto history."
+    },
+    {
+      "headline": "OpenAI turns to rival Google for computing hardware.",
+      "blurb": "The startup plans to buy Google TPUs to meet demand while building custom chips for 2027."
+    },
+    {
+      "headline": "Fifty public companies oppose ICE and OKX stock tokenization.",
+      "blurb": "Firms like Nvidia and Nike object to third-party exchanges trading digital versions of their shares."
+    },
+    {
+      "headline": "Banks post up to 50% operational gains through AI workflows.",
+      "blurb": "Lenders including HDFC and Kotak cut turnaround times and handled higher volume with existing staff."
+    },
+    {
+      "headline": "Carlos Alcaraz clinches the Vienna Open title in straight sets.",
+      "blurb": "Alcaraz dominated Alex de Minaur 6-1, 6-4 to maintain a perfect ATP 500 record this year."
+    }
+  ],
+  "emailQuestion": "What academic subjects at UCI could you gamify to help students study for midterms?"
+}

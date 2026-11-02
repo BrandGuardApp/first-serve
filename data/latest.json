@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-01-am",
-  "slot": "morning",
+  "id": "2026-11-01-pm",
+  "slot": "evening",
   "date": "2026-11-01",
   "dateLabel": "Sun, Nov 1, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-01T15:58:46.502Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "OpenAI trims funding target, Apple reclaims the top market crown, and Alcaraz makes the Vienna final.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-02T07:34:46.405Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "FBI links North Korea to $6.3B Binance heist, OpenAI shops for Google chips, and Alcaraz wins Vienna.",
   "storyCount": 10,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Oct 30",
     "rows": [
@@ -39,35 +39,31 @@
       },
       {
         "name": "Gold",
-        "value": "$3,899",
-        "change": "−3.29%",
-        "direction": "down"
+        "value": "$3,914",
+        "change": "+0.40%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "OpenAI Trims Funding Target as Meta Faces Credit Warning",
-    "body": "OpenAI lowered the target for its latest funding round to $20 billion from $30 billion, cutting its expected valuation to $1.25 trillion after a tough week for tech shares. At the same time, S&P Global shifted its credit outlook on Meta from stable to negative, pointing to heavy spending and cash flow pressure.",
+    "headline": "FBI Blames North Korea for Historic $6.3 Billion Binance Theft",
+    "body": "The FBI confirmed that North Korean state-backed hackers orchestrated the theft of $6.3 billion from crypto exchange Binance. Federal investigators tied the intrusion to TraderTraitor, the same group responsible for a $1.5 billion hack against Bybit last year. The attack drained the funds within minutes, marking the largest single crypto heist on record.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+        "name": "PBS",
+        "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history"
       }
     ],
-    "why": "Valuation cuts and credit warnings signal that investors are demanding clearer returns on AI infrastructure, an important trend to watch for finance coursework and case competitions.",
-    "kicker": "Tech & Venture Capital",
+    "why": "Security flaws and custody risks remain the biggest hurdles for digital asset infrastructure. If you evaluate fintech startups or crypto ventures, watch how exchanges respond with tighter institutional safeguards.",
+    "kicker": "Crypto + Cyber Security",
     "figures": [
       {
-        "value": "$20B",
-        "label": "OpenAI funding target, down from $30B"
+        "value": "$6.3B",
+        "label": "Stolen from Binance"
       },
       {
-        "value": "$1.25T",
-        "label": "OpenAI expected valuation"
-      },
-      {
-        "value": "Negative",
-        "label": "Meta credit outlook from S&P"
+        "value": "$1.5B",
+        "label": "TraderTraitor Bybit heist"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Apple Reclaims Crown as Most Valuable Company",
-          "body": "Apple surpassed Nvidia on Friday to take back the top spot globally with a $5.3 trillion valuation. Nvidia slipped as investors grew cautious about the soaring capital costs required to sustain the AI expansion.",
+          "headline": "Nvidia and Nike Lead 50 Companies Fighting Stock Tokenization",
+          "body": "A coalition of 50 major public firms has filed formal objections against a plan by crypto exchange OKX and NYSE parent Intercontinental Exchange to list tokenized versions of their shares. The group of corporate objectors jumped from 38 to 50 in two days as companies challenge the unauthorized trading of their equity.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/business/international-business/apple-reclaims-worlds-most-valuable-company-title-as-nvidia-slips-amid-ai-investment-concerns/articleshow/135416397.cms"
+              "name": "U.Today",
+              "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
             }
           ],
-          "why": "Tracking how market leadership rotates between hardware giants and chipmakers helps you understand market cycles for equity research."
+          "why": "Corporate governance relies on knowing who owns your shares. If you study financial markets, this pushback highlights the legal fight over whether blockchain wrappers can bypass corporate consent."
         },
         {
-          "headline": "Upcoming US Jobs Report May Guide Federal Reserve Rates",
-          "body": "Forecasters expect the next US jobs report to show October payrolls grew by 65,000, more than double the prior month, with unemployment holding steady at 4.2%. Strong job numbers could keep the Federal Reserve on path to hike interest rates further.",
+          "headline": "Wall Street Braces for Choppy Trading Ahead of Midterms and Tech Earnings",
+          "body": "Traders are preparing for higher market volatility this week after disappointing big-tech quarterly reports triggered a late-week selloff. Market attention now shifts toward upcoming US midterm election results, labor data, and an earnings report from Nvidia later this month.",
           "sources": [
             {
-              "name": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/us-jobs-pickup-may-keep-federal-reserve-on-track-to-hike-rates-again-126110100063_1.html"
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/world/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout-article-14065607.html"
             }
           ],
-          "why": "Interest rate movements directly influence the cost of capital for startups and the valuation models you study in business school."
+          "why": "Swings in market sentiment affect tech company valuations and venture exit windows. Tracking how macro risks shift prices will help you understand market cycles in your finance classes."
         }
       ]
     },
@@ -105,30 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic Adds Guardrails to Stop Claude Code Game Clones",
-          "body": "Anthropic introduced restrictions in Claude Code to prevent users from recreating existing video games. The change has drawn criticism from developers who report that their original coding projects and game mods are mistakenly getting blocked.",
+          "headline": "OpenAI Plans to Buy Google TPUs to Reduce Nvidia Dependence",
+          "body": "OpenAI plans to purchase Tensor Processing Units from rival Google to meet soaring compute demand. The move provides an alternative to Nvidia graphics chips while OpenAI works on deploying its own custom silicon before 2027.",
           "sources": [
             {
-              "name": "Wccftech",
-              "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/"
+              "name": "TechRadar",
+              "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia"
             }
           ],
-          "why": "Platform rule changes can disrupt developer workflows, an important operational risk if you build software tools or manage product teams."
+          "why": "Hardware costs dictate the profit margins of AI startups. Seeing OpenAI buy from a direct competitor illustrates how tech leaders manage supplier concentration risk."
         },
         {
-          "headline": "US Reviews Suspected Intelligence Plot Targeting Nvidia Chief",
-          "body": "Federal authorities are looking closely into reports of an alleged Chinese espionage plot targeting Nvidia CEO Jensen Huang. The inquiry centers on suspected intelligence links involving a former data center executive.",
+          "headline": "Microsoft Patents Real-Time AI for Altering Live Video Streams",
+          "body": "Microsoft filed a patent for AI technology capable of modifying a speaker's face and spoken words in live video with near real-time speed. The system alters audiovisual feeds during active broadcasts rather than post-production.",
           "sources": [
             {
-              "name": "Bangkok Post",
-              "url": "https://www.bangkokpost.com/world/3346495/trump-says-us-looking-closely-at-report-nvidia-ceo-target-of-china-spy-plot"
-            },
-            {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/companies/news/who-is-alice-huang-us-accuses-ex-megaspeed-exec-linked-to-nvidia-ceo-jensen-huang-of-spying-for-china-what-we-know-11793496869990.html"
+              "name": "Futurism",
+              "url": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths"
             }
           ],
-          "why": "Geopolitical friction around critical chip technology remains one of the largest headline risks for global tech markets."
+          "why": "As live deepfake tech advances, companies will face strict identity verification requirements. Digital risk auditing will be an expanding practice area for corporate consultants."
         }
       ]
     },
@@ -137,26 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Finds AI Search Driving Retail Purchases",
-          "body": "A study by McKinsey revealed that AI-driven search tools have three times the influence of standard search engines on consumer purchases. Nearly one-third of shoppers using AI named it the primary factor behind their most recent buying choice.",
+          "headline": "Major Banks Report Up to 50% Efficiency Gains From AI Rollouts",
+          "body": "Lenders including Kotak Mahindra, HDFC, and Axis Bank reported operational gains between 10% and 50% after introducing AI across their workflows. Kotak handled 20% to 30% more corporate servicing volume with flat headcount, while HDFC cut service turnaround times by 30%.",
           "sources": [
             {
-              "name": "The Hindu Business Line",
-              "url": "https://www.thehindubusinessline.com/info-tech/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/article71648741.ece"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-report-10-50-gains-in-productivity-turnaround-time-and-costs-from-ai-led-initiatives/articleshow/135441609.cms"
             }
           ],
-          "why": "Shifts in consumer discovery behavior provide practical case study data for consulting projects and digital marketing analysis."
+          "why": "This is operations consulting in the real world. Case interviews often focus on operational efficiency, and these banking metrics give you concrete benchmarks for workflow automation."
         },
         {
-          "headline": "Entry-Level Roles Pivot Toward Auditing AI Outputs",
-          "body": "Employers in Singapore are telling recent graduates that junior developers are now expected to audit AI-generated code for security, logic, and business fit rather than write basic code by hand.",
+          "headline": "Deloitte Partner Stresses Need for Human Judgment in Healthcare AI",
+          "body": "Pradeep Gupta, a partner at Deloitte India, argued that strong pattern recognition alone cannot replace clinical judgment in healthcare systems. He emphasized that AI oversight frameworks must focus on accountability and contextual decision-making rather than raw algorithmic power.",
           "sources": [
             {
-              "name": "The Straits Times",
-              "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/ht-insight/public-health/responsible-ai-in-health-care-101793527460649.html"
             }
           ],
-          "why": "For future consulting or tech internships, your ability to evaluate and correct AI drafts will be a stronger differentiator than manual execution."
+          "why": "Management consultancies are heavily pitching AI governance and compliance frameworks. Understanding where automated models fall short helps you speak credibly about technology advisory work."
         }
       ]
     },
@@ -165,16 +157,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz Outlasts Daniil Medvedev to Reach Vienna Final",
-          "body": "Carlos Alcaraz defeated Daniil Medvedev 6-4, 7-6 (7-2) on Saturday to advance to his first Vienna Open final and the 37th tour final of his career. He faces Alex de Minaur, who upset Alexander Zverev in the other semifinal.",
+          "headline": "Carlos Alcaraz Sweeps Vienna Final for Perfect ATP 500 Season",
+          "body": "Carlos Alcaraz defeated Australia's Alex de Minaur 6-1, 6-4 to capture the Vienna Open title on Sunday. The straight-sets win secured his fourth tour title of the year and capped an undefeated campaign across ATP 500 events in 2026.",
           "sources": [
             {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13606291/vienna-open-carlos-alcaraz-beats-daniil-medvedev-to-reach-first-final-as-alex-de-minaur-stuns-alexander-zverev"
-            },
-            {
-              "name": "Yardbarker",
-              "url": "https://www.yardbarker.com/general_sports/articles/breaking_medvedevs_resistance_alcaraz_one_step_away_from_a_historic_title/s1_17790_44497791"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/carlos-alcaraz-dominates-alex-de-minaur-secures-vienna-open-title-and-perfect-atp-500-season-a001-w02/"
             }
           ]
         }
@@ -182,51 +170,51 @@
     }
   ],
   "term": {
-    "name": "Credit Outlook",
-    "definition": "A forward-looking opinion issued by credit rating agencies indicating whether a company's credit rating might be upgraded, downgraded, or kept unchanged. When S&P cut Meta's outlook to negative, it signaled that aggressive capital expenditures could strain balance sheet cash flow and raise future borrowing costs.",
+    "name": "Asset Tokenization",
+    "definition": "The process of creating a digital representation of a traditional asset, like common stock or real estate, on a blockchain. While advocates argue it allows 24/7 trading and fractional ownership, public companies often oppose it when third-party platforms tokenize their shares without corporate approval or regulatory oversight.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+        "name": "U.Today",
+        "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
       }
     ]
   },
   "serve": {
-    "headline": "Simplismart Raises Capital to Optimize AI Inference Workloads",
-    "body": "Simplismart secured new funding as part of a $115 million startup investment week in India. The company builds a software platform that helps businesses balance cloud infrastructure, compute performance, and operating costs when running AI models.",
+    "headline": "Matiks Raises $10M to Turn Brain Teasers Into a Global App",
+    "body": "Matiks, a mobile gaming app focused on math puzzles and logic games, secured $10 million in fresh funding. The company was founded by three college friends and has reached millions of players worldwide.",
     "questions": [
-      "How could student founders on campus track and budget their API inference costs before launching a product?",
-      "Could Merage student consulting teams audit local small businesses to see if they are overspending on AI cloud compute?",
-      "What metrics would you present to an angel investor to prove your software optimizes infrastructure efficiency?"
+      "What academic subjects at UCI could you gamify to help students study for midterms?",
+      "How would you keep users returning to a puzzle app once the novelty wears off?",
+      "What low-cost distribution channels on campus could get an app to its first 5,000 players?"
     ],
     "sources": [
       {
-        "name": "News18",
-        "url": "https://www.news18.com/tech/indian-startups-raise-115-million-in-a-week-as-simplismart-and-live2-ai-lead-ai-funding-activity-ws-l-10406794.html"
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/trending/3-indian-college-friends-build-brain-gaming-app-matiks-raise-10-million-in-funding-101793512779598.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "OpenAI cuts its funding target as Meta gets a credit warning.",
-      "blurb": "OpenAI lowered its round target to $20 billion, while S&P put Meta on a negative outlook due to heavy spending."
+      "headline": "North Korean hackers stole $6.3B from Binance in minutes.",
+      "blurb": "The FBI identified TraderTraitor as the group behind the biggest heist in crypto history."
     },
     {
-      "headline": "Apple retakes the top valuation spot from Nvidia.",
-      "blurb": "A $5.3 trillion valuation lifted Apple back to number one as concerns over AI costs cooled chip stocks."
+      "headline": "OpenAI turns to rival Google for computing hardware.",
+      "blurb": "The startup plans to buy Google TPUs to meet demand while building custom chips for 2027."
     },
     {
-      "headline": "McKinsey finds AI search is overtaking traditional shopping queries.",
-      "blurb": "Nearly a third of AI shoppers say conversational search was the main driver behind their latest purchase."
+      "headline": "Fifty public companies oppose ICE and OKX stock tokenization.",
+      "blurb": "Firms like Nvidia and Nike object to third-party exchanges trading digital versions of their shares."
     },
     {
-      "headline": "Carlos Alcaraz reaches his first Vienna Open final.",
-      "blurb": "He took down Daniil Medvedev in straight sets and will face Alex de Minaur for the title."
+      "headline": "Banks post up to 50% operational gains through AI workflows.",
+      "blurb": "Lenders including HDFC and Kotak cut turnaround times and handled higher volume with existing staff."
     },
     {
-      "headline": "Entry-level tech jobs are pivoting to AI auditing.",
-      "blurb": "Employers increasingly want junior hires to inspect and verify AI-generated work rather than write basic code."
+      "headline": "Carlos Alcaraz clinches the Vienna Open title in straight sets.",
+      "blurb": "Alcaraz dominated Alex de Minaur 6-1, 6-4 to maintain a perfect ATP 500 record this year."
     }
   ],
-  "emailQuestion": "How could student founders on campus track and budget their API inference costs before launching a product?"
+  "emailQuestion": "What academic subjects at UCI could you gamify to help students study for midterms?"
 }
