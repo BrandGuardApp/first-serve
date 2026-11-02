@@ -1,69 +1,65 @@
 {
-  "id": "2026-11-01-pm",
-  "slot": "evening",
-  "date": "2026-11-01",
-  "dateLabel": "Sun, Nov 1, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-02T07:34:46.405Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "FBI links North Korea to $6.3B Binance heist, OpenAI shops for Google chips, and Alcaraz wins Vienna.",
-  "storyCount": 10,
+  "id": "2026-11-02-am",
+  "slot": "morning",
+  "date": "2026-11-02",
+  "dateLabel": "Mon, Nov 2, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-02T18:12:30.427Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Stock futures edge higher after a heavy tech selloff, OpenAI pushes new terminology, and Eala hits a career high.",
+  "storyCount": 11,
   "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Oct 30",
+    "asOf": "1:09 PM ET, Nov 2",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,580",
-        "change": "−1.82%",
-        "direction": "down"
+        "value": "7,616",
+        "change": "+0.47%",
+        "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "25,437",
-        "change": "−2.86%",
-        "direction": "down"
+        "value": "25,557",
+        "change": "+0.47%",
+        "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "51,770",
-        "change": "−1.09%",
-        "direction": "down"
+        "value": "52,319",
+        "change": "+1.06%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.93%",
+        "value": "4.87%",
         "change": "−6 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,914",
-        "change": "+0.40%",
+        "value": "$3,969",
+        "change": "+1.79%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "FBI Blames North Korea for Historic $6.3 Billion Binance Theft",
-    "body": "The FBI confirmed that North Korean state-backed hackers orchestrated the theft of $6.3 billion from crypto exchange Binance. Federal investigators tied the intrusion to TraderTraitor, the same group responsible for a $1.5 billion hack against Bybit last year. The attack drained the funds within minutes, marking the largest single crypto heist on record.",
+    "headline": "Stock futures bounce after a brutal five trillion dollar AI selloff",
+    "body": "U.S. stock futures edged higher ahead of a packed week featuring Apple earnings and the midterm elections. Markets are attempting to recover after a massive $5 trillion selloff hit technology and artificial intelligence stocks hard.",
     "sources": [
       {
-        "name": "PBS",
-        "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
       }
     ],
-    "why": "Security flaws and custody risks remain the biggest hurdles for digital asset infrastructure. If you evaluate fintech startups or crypto ventures, watch how exchanges respond with tighter institutional safeguards.",
-    "kicker": "Crypto + Cyber Security",
+    "why": "When broad market sentiment swings like this, it directly impacts equity valuations and investor risk appetite. Keeping an eye on how tech giants weather these cash-burn concerns will help you understand current venture and public market dynamics.",
+    "kicker": "Markets and Economy",
     "figures": [
       {
-        "value": "$6.3B",
-        "label": "Stolen from Binance"
-      },
-      {
-        "value": "$1.5B",
-        "label": "TraderTraitor Bybit heist"
+        "value": "$5 trillion",
+        "label": "AI market wipeout"
       }
     ]
   },
@@ -73,26 +69,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Nvidia and Nike Lead 50 Companies Fighting Stock Tokenization",
-          "body": "A coalition of 50 major public firms has filed formal objections against a plan by crypto exchange OKX and NYSE parent Intercontinental Exchange to list tokenized versions of their shares. The group of corporate objectors jumped from 38 to 50 in two days as companies challenge the unauthorized trading of their equity.",
+          "headline": "In-N-Out hints at expanding to new states",
+          "body": "In-N-Out Burger president Lynsi Snyder suggested the iconic chain might expand its footprint into Oklahoma, Arkansas, and Mississippi. The potential geographic growth would bring the beloved California brand to new regional markets.",
           "sources": [
             {
-              "name": "U.Today",
-              "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
+              "name": "ABC7 Los Angeles",
+              "url": "https://abc7.com/post/may-expanding-more-states-lynsi-snyder-says/20006448/"
             }
           ],
-          "why": "Corporate governance relies on knowing who owns your shares. If you study financial markets, this pushback highlights the legal fight over whether blockchain wrappers can bypass corporate consent."
+          "why": "Studying how a tightly controlled, private fast-food chain plans regional expansion gives you a practical framework for scaling physical operations without losing brand equity."
         },
         {
-          "headline": "Wall Street Braces for Choppy Trading Ahead of Midterms and Tech Earnings",
-          "body": "Traders are preparing for higher market volatility this week after disappointing big-tech quarterly reports triggered a late-week selloff. Market attention now shifts toward upcoming US midterm election results, labor data, and an earnings report from Nvidia later this month.",
+          "headline": "Toyota RAV4 sales slip despite strong consumer demand",
+          "body": "Toyota saw its popular RAV4 sales drop 29 percent in 2026 despite strong consumer demand. The dip stems from supply constraints rather than a lack of buyers looking for the compact SUV.",
           "sources": [
             {
-              "name": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/world/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout-article-14065607.html"
+              "name": "SlashGear",
+              "url": "https://www.slashgear.com/2298271/rav4-falling-us-sales-not-due-to-low-demand/"
             }
           ],
-          "why": "Swings in market sentiment affect tech company valuations and venture exit windows. Tracking how macro risks shift prices will help you understand market cycles in your finance classes."
+          "why": "This is a classic supply chain bottleneck case study, showing how inventory shortages can severely depress unit sales even when your product is wildly popular."
         }
       ]
     },
@@ -101,26 +97,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI Plans to Buy Google TPUs to Reduce Nvidia Dependence",
-          "body": "OpenAI plans to purchase Tensor Processing Units from rival Google to meet soaring compute demand. The move provides an alternative to Nvidia graphics chips while OpenAI works on deploying its own custom silicon before 2027.",
+          "headline": "OpenAI wants to rebrand data centers as compute campuses",
+          "body": "OpenAI is pushing a new piece of corporate nomenclature, asking people to refer to traditional data centers as compute campuses. The company argues the new term better captures the massive scale, energy requirements, and workforce investments of these facilities.",
           "sources": [
             {
-              "name": "TechRadar",
-              "url": "https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia"
+              "name": "Gizmodo",
+              "url": "https://gizmodo.com/openai-would-reportedly-like-you-to-use-its-pleasant-new-term-for-data-centers-2000833570"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/openai-wants-to-rename-data-centres-as-ai-compute-campuses-amid-growing-public-backlash-11793596707984.html"
             }
           ],
-          "why": "Hardware costs dictate the profit margins of AI startups. Seeing OpenAI buy from a direct competitor illustrates how tech leaders manage supplier concentration risk."
+          "why": "Corporate PR branding often shifts to manage public backlash over heavy infrastructure projects. It is a textbook example of how companies try to reshape public perception around industrial resource consumption."
         },
         {
-          "headline": "Microsoft Patents Real-Time AI for Altering Live Video Streams",
-          "body": "Microsoft filed a patent for AI technology capable of modifying a speaker's face and spoken words in live video with near real-time speed. The system alters audiovisual feeds during active broadcasts rather than post-production.",
+          "headline": "Reddit considers requiring logins to block AI scrapers",
+          "body": "Reddit leadership revealed during an earnings call that the platform is considering requiring users to be logged in to view most content. The move aims to protect the site's vast repository of human discussions from aggressive AI scraping.",
           "sources": [
             {
-              "name": "Futurism",
-              "url": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/02/reddit-is-about-to-make-its-website-worse-to-protect-it-from-ai"
             }
           ],
-          "why": "As live deepfake tech advances, companies will face strict identity verification requirements. Digital risk auditing will be an expanding practice area for corporate consultants."
+          "why": "Protecting proprietary data assets is becoming a core defensive strategy for platform businesses. This highlights how web-based business models must constantly adapt their access policies to counter data harvesting."
         }
       ]
     },
@@ -129,26 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Major Banks Report Up to 50% Efficiency Gains From AI Rollouts",
-          "body": "Lenders including Kotak Mahindra, HDFC, and Axis Bank reported operational gains between 10% and 50% after introducing AI across their workflows. Kotak handled 20% to 30% more corporate servicing volume with flat headcount, while HDFC cut service turnaround times by 30%.",
+          "headline": "AI search tools outpace traditional engines in shopping choices",
+          "body": "A new McKinsey report shows that AI-powered search tools are heavily influencing consumer purchases. Nearly a third of shoppers using AI tools cite them as the top factor in their buying decisions.",
           "sources": [
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-report-10-50-gains-in-productivity-turnaround-time-and-costs-from-ai-led-initiatives/articleshow/135441609.cms"
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/articleshow/135427735.cms"
             }
           ],
-          "why": "This is operations consulting in the real world. Case interviews often focus on operational efficiency, and these banking metrics give you concrete benchmarks for workflow automation."
+          "why": "As consumer search behavior migrates from traditional engines to chat tools, brands must completely rethink how they handle digital marketing and customer acquisition strategies."
         },
         {
-          "headline": "Deloitte Partner Stresses Need for Human Judgment in Healthcare AI",
-          "body": "Pradeep Gupta, a partner at Deloitte India, argued that strong pattern recognition alone cannot replace clinical judgment in healthcare systems. He emphasized that AI oversight frameworks must focus on accountability and contextual decision-making rather than raw algorithmic power.",
+          "headline": "Singapore graduates face higher bar for entry-level tech roles",
+          "body": "Employers in Singapore are raising expectations for fresh graduates, shifting entry-level developers from writing routine code to auditing AI-generated drafts for security and logic. Companies now expect junior hires to act as critical quality gatekeepers.",
           "sources": [
             {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/ht-insight/public-health/responsible-ai-in-health-care-101793527460649.html"
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
             }
           ],
-          "why": "Management consultancies are heavily pitching AI governance and compliance frameworks. Understanding where automated models fall short helps you speak credibly about technology advisory work."
+          "why": "As AI handles basic execution tasks, your competitive edge in early career roles will rely heavily on your critical judgment, auditing skills, and ability to verify machine output."
         }
       ]
     },
@@ -157,12 +157,22 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz Sweeps Vienna Final for Perfect ATP 500 Season",
-          "body": "Carlos Alcaraz defeated Australia's Alex de Minaur 6-1, 6-4 to capture the Vienna Open title on Sunday. The straight-sets win secured his fourth tour title of the year and capped an undefeated campaign across ATP 500 events in 2026.",
+          "headline": "Alex Eala rises to career-high ranking of No. 17",
+          "body": "Philippine tennis star Alex Eala climbed to a new career-high ranking of No. 17 with 2,289 total points. She enters the WTA 250 Hong Kong Open as her final tournament of the season.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/carlos-alcaraz-dominates-alex-de-minaur-secures-vienna-open-title-and-perfect-atp-500-season-a001-w02/"
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/11/02/sports/eala-rises-to-new-career-high-rank-no-17-entering-hong-kong-open/2459125"
+            }
+          ]
+        },
+        {
+          "headline": "Bianca Andreescu wins Queretaro Open singles title",
+          "body": "Canadian player Bianca Andreescu captured the Queretaro Open singles championship in Mexico. She overcame a second-set stumble to defeat top-seeded Tatjana Maria 6-1, 2-6, 6-3 in the final.",
+          "sources": [
+            {
+              "name": "CBC.ca",
+              "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-queretaro-open-9.7405171"
             }
           ]
         }
@@ -170,51 +180,47 @@
     }
   ],
   "term": {
-    "name": "Asset Tokenization",
-    "definition": "The process of creating a digital representation of a traditional asset, like common stock or real estate, on a blockchain. While advocates argue it allows 24/7 trading and fractional ownership, public companies often oppose it when third-party platforms tokenize their shares without corporate approval or regulatory oversight.",
+    "name": "Yield Curve Management",
+    "definition": "A central bank policy aimed at influencing specific interest points along the debt yield curve rather than just setting a single overnight rate. In today's news, Federal Reserve discussions highlight how managing these curves is tied directly to the rising costs of servicing national debt.",
     "sources": [
       {
-        "name": "U.Today",
-        "url": "https://u.today/nvidia-nike-and-48-other-companies-oppose-okx-stock-tokenization-plan"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/01/fed-chair-kevin-warsh-treasury-bond-yield-curve-control-debt-costs-inflation-interest-rates-gdp-growth/"
       }
     ]
   },
   "serve": {
-    "headline": "Matiks Raises $10M to Turn Brain Teasers Into a Global App",
-    "body": "Matiks, a mobile gaming app focused on math puzzles and logic games, secured $10 million in fresh funding. The company was founded by three college friends and has reached millions of players worldwide.",
+    "headline": "Braid raised $38 million to expand its mobile connectivity platform internationally",
+    "body": "Braid provides APIs that simplify mobile connectivity integration, allowing businesses to launch branded services quickly. The startup secured the funding after founder Jignesh Dave spent years navigating the high friction of launching traditional SIM card products.",
     "questions": [
-      "What academic subjects at UCI could you gamify to help students study for midterms?",
-      "How would you keep users returning to a puzzle app once the novelty wears off?",
-      "What low-cost distribution channels on campus could get an app to its first 5,000 players?"
+      "How can Braid build a moat against major telecom carriers copying their API layer?",
+      "What customer acquisition channels work best when selling infrastructure tools to non-technical brands?",
+      "If you were advising Braid's founder, how would you price this API to capture enterprise value?"
     ],
     "sources": [
       {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/trending/3-indian-college-friends-build-brain-gaming-app-matiks-raise-10-million-in-funding-101793512779598.html"
+        "name": "Times Now",
+        "url": "https://www.timesnownews.com/business-economy/companies/mobile-connectivity-startup-braid-raises-38-million-accelerate-international-expansion-article-156446915"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "North Korean hackers stole $6.3B from Binance in minutes.",
-      "blurb": "The FBI identified TraderTraitor as the group behind the biggest heist in crypto history."
+      "headline": "Stock futures rebound after a five trillion dollar AI selloff.",
+      "blurb": "Markets look for relief ahead of upcoming tech earnings."
     },
     {
-      "headline": "OpenAI turns to rival Google for computing hardware.",
-      "blurb": "The startup plans to buy Google TPUs to meet demand while building custom chips for 2027."
+      "headline": "OpenAI tries to rebrand data centers as compute campuses.",
+      "blurb": "The new terminology aims to soften public pushback against massive infrastructure."
     },
     {
-      "headline": "Fifty public companies oppose ICE and OKX stock tokenization.",
-      "blurb": "Firms like Nvidia and Nike object to third-party exchanges trading digital versions of their shares."
+      "headline": "In-N-Out considers expanding into new regional markets.",
+      "blurb": "The private burger chain eyes potential footprints in Oklahoma, Arkansas, and Mississippi."
     },
     {
-      "headline": "Banks post up to 50% operational gains through AI workflows.",
-      "blurb": "Lenders including HDFC and Kotak cut turnaround times and handled higher volume with existing staff."
-    },
-    {
-      "headline": "Carlos Alcaraz clinches the Vienna Open title in straight sets.",
-      "blurb": "Alcaraz dominated Alex de Minaur 6-1, 6-4 to maintain a perfect ATP 500 record this year."
+      "headline": "Reddit weighs login requirements to block aggressive AI scraping.",
+      "blurb": "Platform leadership moves to protect user-generated content assets."
     }
   ],
-  "emailQuestion": "What academic subjects at UCI could you gamify to help students study for midterms?"
+  "emailQuestion": "How can Braid build a moat against major telecom carriers copying their API layer?"
 }
