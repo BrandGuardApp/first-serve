@@ -1,0 +1,228 @@
+{
+  "id": "2026-11-02-pm",
+  "slot": "evening",
+  "date": "2026-11-02",
+  "dateLabel": "Mon, Nov 2, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-03T01:33:33.509Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic targets $3.5B pre-IPO raise, Marvell strikes $115B deal, and BCG faces UK tax probe.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 2",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,541",
+        "change": "−0.51%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,164",
+        "change": "−1.07%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,984",
+        "change": "+0.41%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.89%",
+        "change": "−4 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,964",
+        "change": "−0.14%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic Files to Raise $3.5 Billion in Japan Ahead of US IPO",
+    "body": "AI startup Anthropic is planning to sell up to $3.5 billion in shares directly to Japanese investors as part of its upcoming U.S. public listing. Mizuho Securities and Goldman Sachs are leading the international share sale.",
+    "sources": [
+      {
+        "name": "The News International",
+        "url": "https://www.thenews.com.pk/latest/1422225-anthropic-files-to-sell-35-billion-in-shares-to-japanese-investors-ahead-of-us-ipo"
+      },
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/anthropic-targets-3-5b-from-japanese-investors-in-us-ipo/story"
+      }
+    ],
+    "why": "When analyzing tech valuation models in your finance classes, watch how AI firms tap overseas capital to raise money before listing on U.S. exchanges.",
+    "kicker": "AI + IPOs",
+    "figures": [
+      {
+        "value": "$3.5B",
+        "label": "planned share sale to Japanese investors"
+      },
+      {
+        "value": "552.9B yen",
+        "label": "equivalent yen value target"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Big Tech Free Cash Flow Dries Up as AI Spending Surges",
+          "body": "Tech stocks are facing market pressure as capital expenditure for AI infrastructure rises rapidly while free cash flow declines at major tech leaders. Investors are questioning whether spending at this pace is sustainable.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/why-investors-are-dumping-tech-stocks-in-one-image-123636288.html"
+            }
+          ],
+          "why": "This cash flow squeeze is a practical case study for your financial accounting coursework when evaluating return on invested capital."
+        },
+        {
+          "headline": "Marvell to Acquire Lumentum in $115 Billion All-Stock Deal",
+          "body": "Marvell Technology agreed to buy optical component maker Lumentum for $115 billion including debt. Lumentum produces lasers and optical links used inside AI data centers.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/marvell-lumentum-acquisition-115bn-all-stock"
+            }
+          ],
+          "why": "If you are interested in tech consulting, this deal shows how hardware bottlenecks in data centers drive massive corporate acquisitions."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI Partners with Abu Dhabi Oil Giant ADNOC",
+          "body": "OpenAI signed a multi-year deal with Abu Dhabi state oil firm ADNOC and AI group G42 to put frontier AI into daily oilfield operations. ADNOC expects the system to cut planning across thousands of wells from months down to hours.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altmans-openai-signs-deal-to-bring-advanced-ai-into-abu-dhabis-oil-operations-planning-across-thousands-of-wells-could-shrink-from-months-to-hours/articleshow/135463629.cms"
+            }
+          ],
+          "why": "This shows how enterprise AI adoption is expanding into heavy industrial operations, creating advisory opportunities for future tech consultants."
+        },
+        {
+          "headline": "Anthropic Restricts Claude from Copying Popular Video Games",
+          "body": "Anthropic updated its policies to prevent users from using its Claude AI model to recreate existing games like Minecraft and Candy Crush. The company stated the rule protects intellectual property rights.",
+          "sources": [
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/technology-science/anthropic-bans-claude-ai-from-copying-existing-popular-video-games-heres-why-article-156453062"
+            }
+          ],
+          "why": "If you plan to launch a software startup, pay attention to how AI platforms enforce strict IP boundaries to avoid copyright lawsuits."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "UK Tax Authority Probes Boston Consulting Group Over Partner Pay",
+          "body": "His Majesty's Revenue and Customs is scrutinizing Boston Consulting Group regarding its partnership structure and how it calculates tax for senior staff and salaried partners.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/bcg-faces-hmrc-tax-probe-in-consulting-sector-crackdown/"
+            },
+            {
+              "name": "Bloomberg Tax News",
+              "url": "https://news.bloombergtax.com/daily-tax-report/bcg-under-scrutiny-from-uk-tax-authorities-over-partner-pay"
+            }
+          ],
+          "why": "If you are targeting elite consulting firms, understanding partnership structures helps you evaluate how firm profits and compensation are handled."
+        },
+        {
+          "headline": "Capillary Technologies Appoints Deloitte as Global Internal Auditor",
+          "body": "Capillary Technologies replaced Protiviti India with Deloitte Touche Tohmatsu India as its internal auditor. The company made the switch to leverage Deloitte's global network for its overseas subsidiaries.",
+          "sources": [
+            {
+              "name": "scanx.trade",
+              "url": "https://scanx.trade/stock-market-news/companies/capillary-technologies-appoints-deloitte-internal-auditor/55150657"
+            }
+          ],
+          "why": "This shows why fast-growing international firms rely on Big Four accounting networks as they expand across borders."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev Reaches World No. 1 Ranking After Two-Slam Season",
+          "body": "Alexander Zverev officially rose to the ATP World No. 1 ranking on Monday. His ascension follows a dominant season during which he won two Grand Slam titles, including the French Open.",
+          "sources": [
+            {
+              "name": "Tsn (The Sports Network)",
+              "url": "https://www.tsn.ca/tennis/article/zverevs-long-wait-for-no-1-ends-after-dominant-season/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Capital Expenditure (Capex)",
+    "definition": "Capital expenditure refers to the funds a company spends to buy, upgrade, or maintain physical assets like infrastructure or data centers. Today, tech leaders are seeing free cash flow compress because AI capex spending has surged dramatically.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/why-investors-are-dumping-tech-stocks-in-one-image-123636288.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Anthropic Targets $3.5B Japanese Tranche Ahead of US IPO",
+    "body": "AI startup Anthropic is raising up to $3.5 billion from Japanese investors ahead of its U.S. public listing. Mizuho Securities and Goldman Sachs are managing the share sale to international institutions.",
+    "questions": [
+      "How do founders decide when to stop relying on venture capital and transition toward a public offering?",
+      "What advantages does a tech startup gain by raising international capital in Asia before listing on U.S. exchanges?",
+      "How could shifting global investment trends impact valuation multiples for student-founded startups at UCI?"
+    ],
+    "sources": [
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/anthropic-targets-3-5b-from-japanese-investors-in-us-ipo/story"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic files to raise $3.5B from Japanese investors ahead of US IPO.",
+      "blurb": "The AI startup is offering shares overseas via Mizuho and Goldman Sachs."
+    },
+    {
+      "headline": "Marvell is buying optical supplier Lumentum in a $115B deal.",
+      "blurb": "The acquisition targets high-speed optical hardware needed for AI data centers."
+    },
+    {
+      "headline": "OpenAI partners with Abu Dhabi oil giant ADNOC to run field operations.",
+      "blurb": "The multi-year deal aims to reduce planning across thousands of oil wells from months to hours."
+    },
+    {
+      "headline": "UK tax authorities are auditing Boston Consulting Group over partner pay.",
+      "blurb": "Investigators are scrutinizing how BCG structures partnerships and calculates partner compensation."
+    },
+    {
+      "headline": "Alexander Zverev claims the ATP World No. 1 spot after a two-slam season.",
+      "blurb": "The German star capped off his year by officially taking top spot in the men's rankings."
+    }
+  ],
+  "emailQuestion": "How do founders decide when to stop relying on venture capital and transition toward a public offering?"
+}

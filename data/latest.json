@@ -1,65 +1,73 @@
 {
-  "id": "2026-11-02-am",
-  "slot": "morning",
+  "id": "2026-11-02-pm",
+  "slot": "evening",
   "date": "2026-11-02",
   "dateLabel": "Mon, Nov 2, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-02T18:12:30.427Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Stock futures edge higher after a heavy tech selloff, OpenAI pushes new terminology, and Eala hits a career high.",
-  "storyCount": 11,
-  "readMinutes": 4,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-03T01:33:33.509Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic targets $3.5B pre-IPO raise, Marvell strikes $115B deal, and BCG faces UK tax probe.",
+  "storyCount": 10,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "1:09 PM ET, Nov 2",
+    "asOf": "Close, Nov 2",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,616",
-        "change": "+0.47%",
-        "direction": "up"
+        "value": "7,541",
+        "change": "−0.51%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "25,557",
-        "change": "+0.47%",
-        "direction": "up"
+        "value": "25,164",
+        "change": "−1.07%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,319",
-        "change": "+1.06%",
+        "value": "51,984",
+        "change": "+0.41%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.87%",
-        "change": "−6 bp",
+        "value": "4.89%",
+        "change": "−4 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,969",
-        "change": "+1.79%",
-        "direction": "up"
+        "value": "$3,964",
+        "change": "−0.14%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Stock futures bounce after a brutal five trillion dollar AI selloff",
-    "body": "U.S. stock futures edged higher ahead of a packed week featuring Apple earnings and the midterm elections. Markets are attempting to recover after a massive $5 trillion selloff hit technology and artificial intelligence stocks hard.",
+    "headline": "Anthropic Files to Raise $3.5 Billion in Japan Ahead of US IPO",
+    "body": "AI startup Anthropic is planning to sell up to $3.5 billion in shares directly to Japanese investors as part of its upcoming U.S. public listing. Mizuho Securities and Goldman Sachs are leading the international share sale.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+        "name": "The News International",
+        "url": "https://www.thenews.com.pk/latest/1422225-anthropic-files-to-sell-35-billion-in-shares-to-japanese-investors-ahead-of-us-ipo"
+      },
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/anthropic-targets-3-5b-from-japanese-investors-in-us-ipo/story"
       }
     ],
-    "why": "When broad market sentiment swings like this, it directly impacts equity valuations and investor risk appetite. Keeping an eye on how tech giants weather these cash-burn concerns will help you understand current venture and public market dynamics.",
-    "kicker": "Markets and Economy",
+    "why": "When analyzing tech valuation models in your finance classes, watch how AI firms tap overseas capital to raise money before listing on U.S. exchanges.",
+    "kicker": "AI + IPOs",
     "figures": [
       {
-        "value": "$5 trillion",
-        "label": "AI market wipeout"
+        "value": "$3.5B",
+        "label": "planned share sale to Japanese investors"
+      },
+      {
+        "value": "552.9B yen",
+        "label": "equivalent yen value target"
       }
     ]
   },
@@ -69,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "In-N-Out hints at expanding to new states",
-          "body": "In-N-Out Burger president Lynsi Snyder suggested the iconic chain might expand its footprint into Oklahoma, Arkansas, and Mississippi. The potential geographic growth would bring the beloved California brand to new regional markets.",
+          "headline": "Big Tech Free Cash Flow Dries Up as AI Spending Surges",
+          "body": "Tech stocks are facing market pressure as capital expenditure for AI infrastructure rises rapidly while free cash flow declines at major tech leaders. Investors are questioning whether spending at this pace is sustainable.",
           "sources": [
             {
-              "name": "ABC7 Los Angeles",
-              "url": "https://abc7.com/post/may-expanding-more-states-lynsi-snyder-says/20006448/"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/why-investors-are-dumping-tech-stocks-in-one-image-123636288.html"
             }
           ],
-          "why": "Studying how a tightly controlled, private fast-food chain plans regional expansion gives you a practical framework for scaling physical operations without losing brand equity."
+          "why": "This cash flow squeeze is a practical case study for your financial accounting coursework when evaluating return on invested capital."
         },
         {
-          "headline": "Toyota RAV4 sales slip despite strong consumer demand",
-          "body": "Toyota saw its popular RAV4 sales drop 29 percent in 2026 despite strong consumer demand. The dip stems from supply constraints rather than a lack of buyers looking for the compact SUV.",
+          "headline": "Marvell to Acquire Lumentum in $115 Billion All-Stock Deal",
+          "body": "Marvell Technology agreed to buy optical component maker Lumentum for $115 billion including debt. Lumentum produces lasers and optical links used inside AI data centers.",
           "sources": [
             {
-              "name": "SlashGear",
-              "url": "https://www.slashgear.com/2298271/rav4-falling-us-sales-not-due-to-low-demand/"
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/marvell-lumentum-acquisition-115bn-all-stock"
             }
           ],
-          "why": "This is a classic supply chain bottleneck case study, showing how inventory shortages can severely depress unit sales even when your product is wildly popular."
+          "why": "If you are interested in tech consulting, this deal shows how hardware bottlenecks in data centers drive massive corporate acquisitions."
         }
       ]
     },
@@ -97,30 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI wants to rebrand data centers as compute campuses",
-          "body": "OpenAI is pushing a new piece of corporate nomenclature, asking people to refer to traditional data centers as compute campuses. The company argues the new term better captures the massive scale, energy requirements, and workforce investments of these facilities.",
+          "headline": "OpenAI Partners with Abu Dhabi Oil Giant ADNOC",
+          "body": "OpenAI signed a multi-year deal with Abu Dhabi state oil firm ADNOC and AI group G42 to put frontier AI into daily oilfield operations. ADNOC expects the system to cut planning across thousands of wells from months down to hours.",
           "sources": [
             {
-              "name": "Gizmodo",
-              "url": "https://gizmodo.com/openai-would-reportedly-like-you-to-use-its-pleasant-new-term-for-data-centers-2000833570"
-            },
-            {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/ai/openai-wants-to-rename-data-centres-as-ai-compute-campuses-amid-growing-public-backlash-11793596707984.html"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altmans-openai-signs-deal-to-bring-advanced-ai-into-abu-dhabis-oil-operations-planning-across-thousands-of-wells-could-shrink-from-months-to-hours/articleshow/135463629.cms"
             }
           ],
-          "why": "Corporate PR branding often shifts to manage public backlash over heavy infrastructure projects. It is a textbook example of how companies try to reshape public perception around industrial resource consumption."
+          "why": "This shows how enterprise AI adoption is expanding into heavy industrial operations, creating advisory opportunities for future tech consultants."
         },
         {
-          "headline": "Reddit considers requiring logins to block AI scrapers",
-          "body": "Reddit leadership revealed during an earnings call that the platform is considering requiring users to be logged in to view most content. The move aims to protect the site's vast repository of human discussions from aggressive AI scraping.",
+          "headline": "Anthropic Restricts Claude from Copying Popular Video Games",
+          "body": "Anthropic updated its policies to prevent users from using its Claude AI model to recreate existing games like Minecraft and Candy Crush. The company stated the rule protects intellectual property rights.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/02/reddit-is-about-to-make-its-website-worse-to-protect-it-from-ai"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/technology-science/anthropic-bans-claude-ai-from-copying-existing-popular-video-games-heres-why-article-156453062"
             }
           ],
-          "why": "Protecting proprietary data assets is becoming a core defensive strategy for platform businesses. This highlights how web-based business models must constantly adapt their access policies to counter data harvesting."
+          "why": "If you plan to launch a software startup, pay attention to how AI platforms enforce strict IP boundaries to avoid copyright lawsuits."
         }
       ]
     },
@@ -129,26 +133,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "AI search tools outpace traditional engines in shopping choices",
-          "body": "A new McKinsey report shows that AI-powered search tools are heavily influencing consumer purchases. Nearly a third of shoppers using AI tools cite them as the top factor in their buying decisions.",
+          "headline": "UK Tax Authority Probes Boston Consulting Group Over Partner Pay",
+          "body": "His Majesty's Revenue and Customs is scrutinizing Boston Consulting Group regarding its partnership structure and how it calculates tax for senior staff and salaried partners.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/articleshow/135427735.cms"
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/bcg-faces-hmrc-tax-probe-in-consulting-sector-crackdown/"
+            },
+            {
+              "name": "Bloomberg Tax News",
+              "url": "https://news.bloombergtax.com/daily-tax-report/bcg-under-scrutiny-from-uk-tax-authorities-over-partner-pay"
             }
           ],
-          "why": "As consumer search behavior migrates from traditional engines to chat tools, brands must completely rethink how they handle digital marketing and customer acquisition strategies."
+          "why": "If you are targeting elite consulting firms, understanding partnership structures helps you evaluate how firm profits and compensation are handled."
         },
         {
-          "headline": "Singapore graduates face higher bar for entry-level tech roles",
-          "body": "Employers in Singapore are raising expectations for fresh graduates, shifting entry-level developers from writing routine code to auditing AI-generated drafts for security and logic. Companies now expect junior hires to act as critical quality gatekeepers.",
+          "headline": "Capillary Technologies Appoints Deloitte as Global Internal Auditor",
+          "body": "Capillary Technologies replaced Protiviti India with Deloitte Touche Tohmatsu India as its internal auditor. The company made the switch to leverage Deloitte's global network for its overseas subsidiaries.",
           "sources": [
             {
-              "name": "The Straits Times",
-              "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
+              "name": "scanx.trade",
+              "url": "https://scanx.trade/stock-market-news/companies/capillary-technologies-appoints-deloitte-internal-auditor/55150657"
             }
           ],
-          "why": "As AI handles basic execution tasks, your competitive edge in early career roles will rely heavily on your critical judgment, auditing skills, and ability to verify machine output."
+          "why": "This shows why fast-growing international firms rely on Big Four accounting networks as they expand across borders."
         }
       ]
     },
@@ -157,22 +165,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alex Eala rises to career-high ranking of No. 17",
-          "body": "Philippine tennis star Alex Eala climbed to a new career-high ranking of No. 17 with 2,289 total points. She enters the WTA 250 Hong Kong Open as her final tournament of the season.",
+          "headline": "Alexander Zverev Reaches World No. 1 Ranking After Two-Slam Season",
+          "body": "Alexander Zverev officially rose to the ATP World No. 1 ranking on Monday. His ascension follows a dominant season during which he won two Grand Slam titles, including the French Open.",
           "sources": [
             {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/11/02/sports/eala-rises-to-new-career-high-rank-no-17-entering-hong-kong-open/2459125"
-            }
-          ]
-        },
-        {
-          "headline": "Bianca Andreescu wins Queretaro Open singles title",
-          "body": "Canadian player Bianca Andreescu captured the Queretaro Open singles championship in Mexico. She overcame a second-set stumble to defeat top-seeded Tatjana Maria 6-1, 2-6, 6-3 in the final.",
-          "sources": [
-            {
-              "name": "CBC.ca",
-              "url": "https://www.cbc.ca/sports/tennis/bianca-andreescu-queretaro-open-9.7405171"
+              "name": "Tsn (The Sports Network)",
+              "url": "https://www.tsn.ca/tennis/article/zverevs-long-wait-for-no-1-ends-after-dominant-season/"
             }
           ]
         }
@@ -180,47 +178,51 @@
     }
   ],
   "term": {
-    "name": "Yield Curve Management",
-    "definition": "A central bank policy aimed at influencing specific interest points along the debt yield curve rather than just setting a single overnight rate. In today's news, Federal Reserve discussions highlight how managing these curves is tied directly to the rising costs of servicing national debt.",
+    "name": "Capital Expenditure (Capex)",
+    "definition": "Capital expenditure refers to the funds a company spends to buy, upgrade, or maintain physical assets like infrastructure or data centers. Today, tech leaders are seeing free cash flow compress because AI capex spending has surged dramatically.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/01/fed-chair-kevin-warsh-treasury-bond-yield-curve-control-debt-costs-inflation-interest-rates-gdp-growth/"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/why-investors-are-dumping-tech-stocks-in-one-image-123636288.html"
       }
     ]
   },
   "serve": {
-    "headline": "Braid raised $38 million to expand its mobile connectivity platform internationally",
-    "body": "Braid provides APIs that simplify mobile connectivity integration, allowing businesses to launch branded services quickly. The startup secured the funding after founder Jignesh Dave spent years navigating the high friction of launching traditional SIM card products.",
+    "headline": "Anthropic Targets $3.5B Japanese Tranche Ahead of US IPO",
+    "body": "AI startup Anthropic is raising up to $3.5 billion from Japanese investors ahead of its U.S. public listing. Mizuho Securities and Goldman Sachs are managing the share sale to international institutions.",
     "questions": [
-      "How can Braid build a moat against major telecom carriers copying their API layer?",
-      "What customer acquisition channels work best when selling infrastructure tools to non-technical brands?",
-      "If you were advising Braid's founder, how would you price this API to capture enterprise value?"
+      "How do founders decide when to stop relying on venture capital and transition toward a public offering?",
+      "What advantages does a tech startup gain by raising international capital in Asia before listing on U.S. exchanges?",
+      "How could shifting global investment trends impact valuation multiples for student-founded startups at UCI?"
     ],
     "sources": [
       {
-        "name": "Times Now",
-        "url": "https://www.timesnownews.com/business-economy/companies/mobile-connectivity-startup-braid-raises-38-million-accelerate-international-expansion-article-156446915"
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/anthropic-targets-3-5b-from-japanese-investors-in-us-ipo/story"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Stock futures rebound after a five trillion dollar AI selloff.",
-      "blurb": "Markets look for relief ahead of upcoming tech earnings."
+      "headline": "Anthropic files to raise $3.5B from Japanese investors ahead of US IPO.",
+      "blurb": "The AI startup is offering shares overseas via Mizuho and Goldman Sachs."
     },
     {
-      "headline": "OpenAI tries to rebrand data centers as compute campuses.",
-      "blurb": "The new terminology aims to soften public pushback against massive infrastructure."
+      "headline": "Marvell is buying optical supplier Lumentum in a $115B deal.",
+      "blurb": "The acquisition targets high-speed optical hardware needed for AI data centers."
     },
     {
-      "headline": "In-N-Out considers expanding into new regional markets.",
-      "blurb": "The private burger chain eyes potential footprints in Oklahoma, Arkansas, and Mississippi."
+      "headline": "OpenAI partners with Abu Dhabi oil giant ADNOC to run field operations.",
+      "blurb": "The multi-year deal aims to reduce planning across thousands of oil wells from months to hours."
     },
     {
-      "headline": "Reddit weighs login requirements to block aggressive AI scraping.",
-      "blurb": "Platform leadership moves to protect user-generated content assets."
+      "headline": "UK tax authorities are auditing Boston Consulting Group over partner pay.",
+      "blurb": "Investigators are scrutinizing how BCG structures partnerships and calculates partner compensation."
+    },
+    {
+      "headline": "Alexander Zverev claims the ATP World No. 1 spot after a two-slam season.",
+      "blurb": "The German star capped off his year by officially taking top spot in the men's rankings."
     }
   ],
-  "emailQuestion": "How can Braid build a moat against major telecom carriers copying their API layer?"
+  "emailQuestion": "How do founders decide when to stop relying on venture capital and transition toward a public offering?"
 }
