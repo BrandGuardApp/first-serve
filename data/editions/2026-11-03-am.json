@@ -1,0 +1,245 @@
+{
+  "id": "2026-11-03-am",
+  "slot": "morning",
+  "date": "2026-11-03",
+  "dateLabel": "Tue, Nov 3, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-03T17:41:40.292Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic reports massive revenue ahead of its IPO, and Alexander Zverev takes the tennis No. 1 spot.",
+  "storyCount": 9,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "12:40 PM ET, Nov 3",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,572",
+        "change": "+0.41%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,394",
+        "change": "+0.91%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,720",
+        "change": "−0.51%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.96%",
+        "change": "+7 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,938",
+        "change": "−0.80%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic Reports Surge in Revenue and Huge Losses Ahead of Wall Street Debut",
+    "body": "Ahead of its public listing later this month, AI developer Anthropic reported a staggering 1,200% increase in quarterly revenue to $33.24 billion. At the same time, its filings reveal a $104 billion net loss and nearly $900 billion in future infrastructure commitments as it races to build out its AI computing capacity.",
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/02/anthropic-revenue-jumps-1200-to-33-2-billion-ahead-of-ipo-but-104-billion-loss-raises-questions/"
+      }
+    ],
+    "why": "This is a prime case study for your corporate finance and valuation classes on how hypergrowth tech firms burn massive amounts of cash to scale infrastructure.",
+    "kicker": "AI + IPOs",
+    "figures": [
+      {
+        "value": "$33.24B",
+        "label": "9-month revenue"
+      },
+      {
+        "value": "$104B",
+        "label": "net loss"
+      },
+      {
+        "value": "$900B",
+        "label": "infrastructure commitments"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Apple Reports Record Q4 Revenue as iPhone Duo Faces Severe Delays",
+          "body": "Apple posted $114.5 billion in revenue for the fourth quarter, a 12% jump year over year. However, executives confirmed that demand for its new iPhone Duo foldable phone has triggered massive shortages with no clear end date in sight.",
+          "sources": [
+            {
+              "name": "India Today",
+              "url": "https://www.indiatoday.in/technology/news/story/apples-iphone-duo-is-facing-massive-delays-and-the-company-doesnt-know-when-it-will-end-3031161-2026-11-03"
+            },
+            {
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/business/apple-revenue-jumps-12-to-record-114-5b-in-q4/story"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/"
+            }
+          ],
+          "why": "It shows how supply chain bottlenecks can throttle even the most profitable product launches, which is a key operational hurdle for any tech hardware company."
+        },
+        {
+          "headline": "Disney Prepares for Fourth Round of Layoffs With Division Cuts Up to 20%",
+          "body": "Disney is gearing up for a fresh round of job cuts across divisions like TV networks and its motion picture studio. Managers have been instructed to trim annualized expenses by as much as 20%.",
+          "sources": [
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/tv/news/disney-layoffs-thousands-expected-1236938144/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/"
+            }
+          ],
+          "why": "Traditional media companies are still aggressively restructuring their cost bases to adjust to shifting consumer habits and streaming pressures."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Trajectory Raises $45 Million to Make AI Training Accessible",
+          "body": "Startup Trajectory has raised a $45 million round at a $300 million valuation to help nontechnical business experts train specialized AI models without needing deep coding knowledge.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+            }
+          ],
+          "why": "As businesses demand practical AI applications over generic tools, companies lowering the technical barrier to customization will capture massive enterprise budgets."
+        },
+        {
+          "headline": "UK Cyber Chief Warns of AI-Powered Attacks on Critical Infrastructure",
+          "body": "Britain's National Cyber Security Centre warned that the country should prepare for AI-driven cyberattacks on its critical national infrastructure within the next two years, pointing to state-backed actors.",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/uk-must-expect-ai-powered-attack-critical-infrastructure-within-two-years-report-2026-11-03/"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/03/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028"
+            }
+          ],
+          "why": "Cybersecurity insurance and defense tech will see rising enterprise demand as threats become automated and harder to detect."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Boston Consulting Group Probed by UK Tax Authorities Over Partner Pay",
+          "body": "Boston Consulting Group is facing an inquiry from Britain's tax authority regarding how it structures partnership pay and calculates taxes for its senior staff.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/bcg-faces-hmrc-tax-probe-in-consulting-sector-crackdown/"
+            },
+            {
+              "name": "Bloomberg Tax News",
+              "url": "https://news.bloombergtax.com/daily-tax-report/bcg-under-scrutiny-from-uk-tax-authorities-over-partner-pay"
+            }
+          ],
+          "why": "Regulatory scrutiny on professional services partnerships can impact how top-tier consulting firms structure their compensation models."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev Rises to World No. 1 After Two-Slam Season",
+          "body": "German tennis star Alexander Zverev officially claimed the ATP Tour singles ranking top spot on Monday, capping off a dominant season where he captured both the French Open and US Open titles.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/a-completely-different-feeling-alexander-zverev-on-reaching-world-no-1-101793675221985.html"
+            },
+            {
+              "name": "Nbc Sports",
+              "url": "https://www.nbcsports.com/tennis/news/alexander-zverevs-long-wait-for-no-1-ranking-comes-in-dominant-tennis-season"
+            },
+            {
+              "name": "Breitbart News Network",
+              "url": "https://www.breitbart.com/news/german-alexander-zverev-rises-to-no-1-for-first-time-in-tennis-career/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO is the process by which a private company offers its shares to the public for the first time on a stock exchange. Companies use IPOs to raise capital from public investors, which often provides liquidity to early venture capital backers. Anthropic's upcoming market debut is a major test of investor appetite for large-scale tech offerings.",
+    "sources": [
+      {
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/sci-tech/technology/anthropic-says-revenue-surged-1100-ahead-of-ipo/article71659291.ece"
+      },
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/02/anthropic-revenue-jumps-1200-to-33-2-billion-ahead-of-ipo-but-104-billion-loss-raises-questions/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Trajectory raised $45M to make AI model training accessible to nontechnical experts",
+    "body": "The one-year-old startup secured funding at a $300 million valuation to help businesses customize AI models to learn from their mistakes. The round highlights investor interest in enterprise tools that simplify AI deployment.",
+    "questions": [
+      "If you were pitching Trajectory to an enterprise client, how would you prove its ROI compared to building an in-house tool?",
+      "What pricing model makes the most sense for a startup selling AI training software to nontechnical business teams?",
+      "How does a $300 million valuation on a one-year-old company change the pressure on its founding team to hit hypergrowth targets?"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic Reports Surge in Revenue",
+      "blurb": "The AI giant posted $33.24 billion in revenue ahead of its IPO while logging massive losses."
+    },
+    {
+      "headline": "Apple Q4 Revenue Jumps to $114.5B",
+      "blurb": "Strong sales were tempered by severe production shortages for the new iPhone Duo."
+    },
+    {
+      "headline": "Disney Eyes More Layoffs",
+      "blurb": "Some division managers have been told to cut annualized expenses by up to 20%."
+    },
+    {
+      "headline": "Trajectory Secures $45M Funding",
+      "blurb": "The startup helps nontechnical experts train specialized AI models for business use."
+    },
+    {
+      "headline": "UK Warns of AI Infrastructure Threats",
+      "blurb": "British cyber officials predict AI-powered attacks on critical infrastructure within two years."
+    }
+  ],
+  "emailQuestion": "If you were pitching Trajectory to an enterprise client, how would you prove its ROI compared to building an in-house tool?"
+}
