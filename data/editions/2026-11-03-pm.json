@@ -1,0 +1,228 @@
+{
+  "id": "2026-11-03-pm",
+  "slot": "evening",
+  "date": "2026-11-03",
+  "dateLabel": "Tue, Nov 3, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-04T05:58:08.367Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Job openings bounce back, BCG calculates AI's $2.6T price tag, and Djokovic wins in Paris.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 3",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,569",
+        "change": "+0.36%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,372",
+        "change": "+0.83%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,787",
+        "change": "−0.38%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.95%",
+        "change": "+6 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,000",
+        "change": "+1.50%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "US Job Openings Surge Past Expectations in September",
+    "body": "US job openings rose to 7.52 million in September, easily topping market expectations. Worker quits and hiring both increased while layoffs fell, pointing to resilient labor demand across the economy.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html"
+      }
+    ],
+    "why": "Strong job availability gives you leverage when planning for summer internship applications and entry-level recruiting at Merage.",
+    "kicker": "Macroeconomics + Jobs",
+    "figures": [
+      {
+        "value": "7.52M",
+        "label": "September job openings"
+      },
+      {
+        "value": "+333K",
+        "label": "Increase from August"
+      },
+      {
+        "value": "7.15M",
+        "label": "Consensus forecast"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Todd Boehly Consortium Targets Lukoil Foreign Assets via Asset Swap",
+          "body": "A group led by investor Todd Boehly is preparing a securities swap to acquire international assets from Russian oil company Lukoil. The deal is expected within weeks as Lukoil faces sanctions.",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/finance/us-billionaire-leads-swap-plan-buy-lukoils-overseas-assets-sources-say-2026-11-03/"
+            }
+          ],
+          "why": "This shows how complex deal structures let private equity investors acquire distressed global assets without using cash."
+        },
+        {
+          "headline": "Shopify Stock Drops After First Revenue Miss in Four Years",
+          "body": "Shopify shares fell after third-quarter revenue reached $3.74 billion, up 32% year-over-year but below Wall Street forecasts for the first time since 2022.",
+          "sources": [
+            {
+              "name": "Financial Post",
+              "url": "https://financialpost.com/technology/shopifys-stock-slides-revenue-misses-analysts-estimates/"
+            }
+          ],
+          "why": "Even strong growth gets punished by markets if a company misses consensus expectations, a key lesson for public equity research."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Samsung to Produce HBM Memory Base Dies at Texas Plant",
+          "body": "Samsung plans to use its second chip factory in Taylor, Texas, to manufacture high-bandwidth memory base dies for Nvidia and AMD.",
+          "sources": [
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1422377-samsung-targets-second-texas-plant-to-produce-hbm-base-dies-for-amd-and-nvidia-report"
+            }
+          ],
+          "why": "Understanding hardware supply chains helps you evaluate which AI infrastructure companies control critical bottlenecks."
+        },
+        {
+          "headline": "Nvidia RTX 50 Graphics Cards Face Price Hikes Amid Memory Shortages",
+          "body": "Nvidia is increasing prices across its RTX 50 series, with the flaghsip RTX 5090 rising by $500. The increases stem from global memory supply shortages driven by AI demand.",
+          "sources": [
+            {
+              "name": "ZDNet",
+              "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/"
+            }
+          ],
+          "why": "Enterprise demand for AI hardware directly squeezes consumer supply, driving up retail prices for graphics hardware."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "BCG Estimates Corporate Budgets Will Cover $1.8 Trillion of AI Build-Out",
+          "body": "Boston Consulting Group projects that corporate IT budgets will account for $1.8 trillion annually of a broader $2.6 trillion AI infrastructure build-out by 2030.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/03/who-pays-ai-2-6-trillion-build-out-look-to-corporate-budgets-cfo/"
+            }
+          ],
+          "why": "Consultants will be needed to guide corporations on how to allocate these massive tech budgets efficiently."
+        },
+        {
+          "headline": "Wall Street Leaders Split Over AI Valuations at Hong Kong Summit",
+          "body": "At an investment summit in Hong Kong, executives from Pimco and Bain Capital warned that AI spending is ahead of returns. Meanwhile, leaders from Goldman Sachs, Morgan Stanley, and Blackstone maintained a positive outlook.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/wall-street-ceos-ai-risks-hong-kong-summit"
+            }
+          ],
+          "why": "Pay attention to both bull and bear arguments from top financial firms when prepping for finance case interviews."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Novak Djokovic Advances in Paris Masters Opener",
+          "body": "Novak Djokovic won his opening match at the Paris Masters, earning his first ATP 1000 win since March as he aims to qualify for the year-end ATP Finals.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/novak-djokovic-battles-through-paris-masters-opener-101793725539542.html"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/03/tennis-feeling-better-playing-better-djokovic-sees-light-at-end-of-the-tunnel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Securities Swap",
+    "definition": "A transaction where ownership of stocks or other financial assets is exchanged directly instead of using cash. This structure is often used in complex international acquisitions, such as the proposed buyout of Lukoil's overseas assets.",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/finance/us-billionaire-leads-swap-plan-buy-lukoils-overseas-assets-sources-say-2026-11-03/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Traversal raises $120M at $1B valuation for outage-fixing AI engineers",
+    "body": "Traversal builds autonomous AI engineers designed to diagnose and resolve software outages. The round was co-led by Kleiner Perkins, Redpoint Ventures, and Khosla Ventures.",
+    "questions": [
+      "How can AI automation move beyond writing code to managing live cloud infrastructure?",
+      "Why are top venture funds betting heavily on operational reliability over simple consumer tools?",
+      "What processes on campus at UCI could be automated by specialized AI agents?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "US job openings climbed to 7.52 million in September, topping consensus expectations.",
+      "blurb": "The labor market showed solid hiring and falling layoffs ahead of upcoming recruitment cycles."
+    },
+    {
+      "headline": "BCG projects corporate budgets will cover $1.8 trillion of the AI build-out by 2030.",
+      "blurb": "Enterprise spending will drive the majority of global AI infrastructure investments."
+    },
+    {
+      "headline": "Wall Street executives expressed clashing views on AI risks at a Hong Kong summit.",
+      "blurb": "Pimco and Bain Capital cautioned against high valuations while Goldman Sachs and Morgan Stanley stayed bullish."
+    },
+    {
+      "headline": "Todd Boehly's investor group is planning a securities swap to buy Lukoil foreign assets.",
+      "blurb": "The structure avoids cash to navigate sanctions on the Russian energy company."
+    },
+    {
+      "headline": "AI startup Traversal reached unicorn status after securing $120 million in new funding.",
+      "blurb": "Kleiner Perkins, Redpoint, and Khosla led the round to automate software outage responses."
+    }
+  ],
+  "emailQuestion": "How can AI automation move beyond writing code to managing live cloud infrastructure?"
+}
