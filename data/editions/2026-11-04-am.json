@@ -1,0 +1,224 @@
+{
+  "id": "2026-11-04-am",
+  "slot": "morning",
+  "date": "2026-11-04",
+  "dateLabel": "Wed, Nov 4, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-04T14:16:17.521Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic reveals massive compute plans, AMD beats earnings, and Canva cuts 22 percent of staff.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 3",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,569",
+        "change": "+0.36%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,372",
+        "change": "+0.83%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,787",
+        "change": "−0.38%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.92%",
+        "change": "−3 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,052",
+        "change": "+2.84%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic Reveals Massive Compute Commitments Ahead of IPO",
+    "body": "Anthropic has filed an amended S-1 showing its quarterly revenue grew 1,127% over the past year. At the same time, the AI lab's compute and lease commitments have hit $895.4 billion as it prepares to go public.",
+    "sources": [
+      {
+        "name": "Sainteur",
+        "url": "https://sainteur.com/article/anthropic-s-quarterly-revenue-grew-1-127-in-a-year-and-compute-commitments-hit"
+      }
+    ],
+    "why": "This massive infrastructure scale directly impacts enterprise technology costs and venture funding in AI, which you study at Merage.",
+    "kicker": "AI + Infrastructure",
+    "figures": [
+      {
+        "value": "$16.96B",
+        "label": "quarterly revenue"
+      },
+      {
+        "value": "1,127%",
+        "label": "YoY revenue growth"
+      },
+      {
+        "value": "$895.4B",
+        "label": "compute commitments"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "AMD Stock Jumps Following Strong Q3 Earnings Beat",
+          "body": "Advanced Micro Devices reported better-than-expected earnings for the third quarter and issued strong guidance for the remainder of the year. The positive update pushed the chipmaker's stock up.",
+          "sources": [
+            {
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465"
+            }
+          ],
+          "why": "Useful for tracking semiconductor valuations and market responses in your finance and investing coursework."
+        },
+        {
+          "headline": "Canva Announces Major Changes and 22 Percent Staff Layoffs",
+          "body": "Canva co-founder and CEO Melanie Perkins announced significant organizational changes affecting 1,271 employees, or 22% of the company's staff. Workers face new roles, relocation requests, or layoffs.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+            }
+          ],
+          "why": "A stark reminder of how high-growth tech startups restructure their cost bases as they mature."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI Workers Warned of Operational Security Lapses for Years",
+          "body": "Former OpenAI employees reported that internal security controls were lax enough that outsiders could easily access sensitive information about the lab's technology. The disclosures follow an incident where a recording device was found in an executive conference room.",
+          "sources": [
+            {
+              "name": "The Japan Times ",
+              "url": "https://www.japantimes.co.jp/business/2026/11/04/openai-employees-security-lapses/"
+            }
+          ],
+          "why": "Highlights the massive governance and risk-management challenges facing hyper-growth AI startups."
+        },
+        {
+          "headline": "Data Centers Turn to Discarded Jet Engines as Grid Wait Times Grow",
+          "body": "Stuck in years-long queues for power grid connections and new turbines, some AI data center builders are converting retired aircraft jet engines to burn natural gas and generate their own electricity.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+            }
+          ],
+          "why": "Demonstrates the physical infrastructure bottlenecks and creative workaround strategies in tech operations."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Wall Street CEOs Split Over AI Valuations and Spending Risks",
+          "body": "Top bankers and fund managers offered clashing views at an investment summit in Hong Kong. While firms like Pimco and Bain Capital warned that AI spending and valuations are running ahead of returns, other institutions remained upbeat.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/wall-street-ceos-ai-risks-hong-kong-summit"
+            }
+          ],
+          "why": "Gives you a direct read on how senior leaders in consulting and finance evaluate emerging tech bubbles."
+        },
+        {
+          "headline": "BCG Estimates Corporate Budgets Will Cover $1.8 Trillion of AI Build-Out",
+          "body": "Boston Consulting Group estimates that global enterprises will account for $1.8 trillion a year by 2030 to fund the massive artificial intelligence infrastructure build-out.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/03/who-pays-ai-2-6-trillion-build-out-look-to-corporate-budgets-cfo/"
+            }
+          ],
+          "why": "Provides concrete data points on enterprise IT spending that you can use in consulting case studies."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev Rises to No. 1 in ATP Rankings",
+          "body": "Alexander Zverev climbed to No. 1 in the men's tennis rankings following a dominant season that secured his status as a two-time Grand Slam champion.",
+          "sources": [
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/11/04/sports/at-last-zverev-hits-no-1/2460396"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Compute Commitments",
+    "definition": "Compute commitments refer to long-term financial obligations or contracts made by companies to secure the massive processing power required to train and run artificial intelligence models. As seen in Anthropic's filings, these multi-billion-dollar outlays represent a massive capital expenditure on specialized hardware like GPUs and cloud infrastructure. For investors and analysts, tracking these commitments helps reveal how much cash tech firms must burn to stay competitive in the AI race.",
+    "sources": [
+      {
+        "name": "Sainteur",
+        "url": "https://sainteur.com/article/anthropic-s-quarterly-revenue-grew-1-127-in-a-year-and-compute-commitments-hit"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Traversal raised $120M at a $1B valuation to build autonomous AI engineers",
+    "body": "The startup builds autonomous engineering agents designed to diagnose and resolve software outages. The funding round was co-led by Kleiner Perkins, Redpoint Ventures, and Khosla Ventures.",
+    "questions": [
+      "How does a B2B startup price a product that replaces human troubleshooting hours?",
+      "What customer acquisition strategy helps a new AI agent unicorn break into enterprise tech budgets?",
+      "How would you model the unit economics for a startup with massive compute costs?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic revealed massive compute commitments in its amended IPO filing.",
+      "blurb": "The Claude maker reported quarterly revenue up 1,127% while facing heavy infrastructure costs."
+    },
+    {
+      "headline": "AMD stock jumped following a strong Q3 earnings beat.",
+      "blurb": "The chipmaker exceeded analyst expectations and issued solid guidance for the rest of the year."
+    },
+    {
+      "headline": "Canva announced structural changes and laid off 22 percent of its staff.",
+      "blurb": "Co-founder and CEO Melanie Perkins confirmed the cuts impacting over 1,200 employees."
+    },
+    {
+      "headline": "OpenAI workers highlighted long-standing operational security lapses.",
+      "blurb": "Former employees noted that internal controls were lax enough to allow easy access to sensitive data."
+    },
+    {
+      "headline": "Data centers began using retired jet engines to bypass power grid delays.",
+      "blurb": "Builders are converting aircraft engines to burn natural gas as grid connection wait times stretch for years."
+    }
+  ],
+  "emailQuestion": "How does a B2B startup price a product that replaces human troubleshooting hours?"
+}
