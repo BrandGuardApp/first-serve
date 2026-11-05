@@ -1,73 +1,69 @@
 {
-  "id": "2026-11-04-am",
-  "slot": "morning",
+  "id": "2026-11-04-pm",
+  "slot": "evening",
   "date": "2026-11-04",
   "dateLabel": "Wed, Nov 4, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-04T14:16:17.521Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic reveals massive compute plans, AMD beats earnings, and Canva cuts 22 percent of staff.",
-  "storyCount": 10,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-05T02:10:59.486Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "CVS splits up, Damodaran cuts Anthropic valuation, and Rafael Nadal joins Real Madrid.",
+  "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 3",
+    "asOf": "Close, Nov 4",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,569",
-        "change": "+0.36%",
+        "value": "7,689",
+        "change": "+1.58%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "25,372",
-        "change": "+0.83%",
+        "value": "25,737",
+        "change": "+1.44%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "51,787",
-        "change": "−0.38%",
-        "direction": "down"
+        "value": "53,356",
+        "change": "+3.03%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.92%",
-        "change": "−3 bp",
+        "value": "4.89%",
+        "change": "−6 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$4,052",
-        "change": "+2.84%",
+        "value": "$4,133",
+        "change": "+1.46%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic Reveals Massive Compute Commitments Ahead of IPO",
-    "body": "Anthropic has filed an amended S-1 showing its quarterly revenue grew 1,127% over the past year. At the same time, the AI lab's compute and lease commitments have hit $895.4 billion as it prepares to go public.",
+    "headline": "CVS Health Plans Massive Split to Reverse Aetna Deal",
+    "body": "CVS Health announced plans to split into two separate public companies by the first half of 2028. This move effectively reverses its $78 billion acquisition of Aetna and dismantles the vertically integrated healthcare conglomerate created in 2018.",
     "sources": [
       {
-        "name": "Sainteur",
-        "url": "https://sainteur.com/article/anthropic-s-quarterly-revenue-grew-1-127-in-a-year-and-compute-commitments-hit"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
       }
     ],
-    "why": "This massive infrastructure scale directly impacts enterprise technology costs and venture funding in AI, which you study at Merage.",
-    "kicker": "AI + Infrastructure",
+    "why": "This is a massive case study in corporate strategy and portfolio restructuring for your business classes. It shows how conglomerates sometimes unwind big mergers when the expected synergies do not pan out.",
+    "kicker": "Business + Restructuring",
     "figures": [
       {
-        "value": "$16.96B",
-        "label": "quarterly revenue"
+        "value": "$78 billion",
+        "label": "Original Aetna acquisition cost"
       },
       {
-        "value": "1,127%",
-        "label": "YoY revenue growth"
-      },
-      {
-        "value": "$895.4B",
-        "label": "compute commitments"
+        "value": "Two",
+        "label": "Separate public companies to be formed"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "AMD Stock Jumps Following Strong Q3 Earnings Beat",
-          "body": "Advanced Micro Devices reported better-than-expected earnings for the third quarter and issued strong guidance for the remainder of the year. The positive update pushed the chipmaker's stock up.",
+          "headline": "Datadog Beats Q3 Estimates But Shares Plunge on Weak Guidance",
+          "body": "Datadog reported Q3 earnings that beat Wall Street estimates, but its shares tanked because Q4 revenue guidance fell short and signaled flat sequential growth.",
           "sources": [
             {
-              "name": "Barron's",
-              "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465"
+              "name": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/datadog-stock-ddog-datadog-earnings-news-q32026/"
             }
           ],
-          "why": "Useful for tracking semiconductor valuations and market responses in your finance and investing coursework."
+          "why": "A great lesson in equity research for your investing interest. It proves that forward-looking guidance often matters far more to the market than past performance."
         },
         {
-          "headline": "Canva Announces Major Changes and 22 Percent Staff Layoffs",
-          "body": "Canva co-founder and CEO Melanie Perkins announced significant organizational changes affecting 1,271 employees, or 22% of the company's staff. Workers face new roles, relocation requests, or layoffs.",
+          "headline": "Aswath Damodaran Trims Anthropic Valuation to $1.45 Trillion",
+          "body": "Valuation expert Aswath Damodaran lowered his estimated worth for Anthropic to $1.45 trillion, citing concerns over governance, regulatory hurdles, infrastructure costs, and profitability.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/aswath-damodaran-trims-his-anthropic-ipo-valuation-to-1-45-trillion-dean-of-valuation-explains-why/articleshow/135541731.cms"
             }
           ],
-          "why": "A stark reminder of how high-growth tech startups restructure their cost bases as they mature."
+          "why": "Paying attention to how the Dean of Valuation values pre-IPO AI giants will help you build solid financial models for your finance coursework."
         }
       ]
     },
@@ -105,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI Workers Warned of Operational Security Lapses for Years",
-          "body": "Former OpenAI employees reported that internal security controls were lax enough that outsiders could easily access sensitive information about the lab's technology. The disclosures follow an incident where a recording device was found in an executive conference room.",
+          "headline": "Terawulf Secures Credit Backstop From Google for Data Center Project",
+          "body": "Data-center developer Terawulf secured a credit backstop agreement with Alphabet's Google to support financing for its $19 billion data center lease commitment.",
           "sources": [
             {
-              "name": "The Japan Times ",
-              "url": "https://www.japantimes.co.jp/business/2026/11/04/openai-employees-security-lapses/"
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/terawulf-gets-credit-backstop-from-google-for-anthropic-data-center-project-ce785fdfda8ff62c"
             }
           ],
-          "why": "Highlights the massive governance and risk-management challenges facing hyper-growth AI startups."
+          "why": "Shows how tech giants are directly backing massive infrastructure and energy projects to secure the compute power needed for AI scaling."
         },
         {
-          "headline": "Data Centers Turn to Discarded Jet Engines as Grid Wait Times Grow",
-          "body": "Stuck in years-long queues for power grid connections and new turbines, some AI data center builders are converting retired aircraft jet engines to burn natural gas and generate their own electricity.",
+          "headline": "Generative Media Startup Fal Raises $1.3 Billion at a $16 Billion Valuation",
+          "body": "Generative media inference startup fal raised $1.3 billion in new funding at a valuation of $16 billion. The company plans to spend the capital on computing power and hiring.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+              "name": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/"
             }
           ],
-          "why": "Demonstrates the physical infrastructure bottlenecks and creative workaround strategies in tech operations."
+          "why": "A massive data point for startup and venture capital funding trends, showing that investors are still writing huge checks for infrastructure-heavy AI plays."
         }
       ]
     },
@@ -133,26 +129,42 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Wall Street CEOs Split Over AI Valuations and Spending Risks",
-          "body": "Top bankers and fund managers offered clashing views at an investment summit in Hong Kong. While firms like Pimco and Bain Capital warned that AI spending and valuations are running ahead of returns, other institutions remained upbeat.",
+          "headline": "McKinsey Warns of Global Climate Adaptation Costs for Emerging Economies",
+          "body": "A new McKinsey report highlights that India could need to spend up to 3 percent of its GDP annually on climate adaptation, compared to just 0.5 percent in wealthier economies.",
           "sources": [
             {
-              "name": "TNW",
-              "url": "https://thenextweb.com/news/wall-street-ceos-ai-risks-hong-kong-summit"
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/latest/economy/story/india-may-need-to-spend-3-of-gdp-on-climate-adaptation-against-0-5-in-rich-economies-report-565517-2026-11-03"
             }
           ],
-          "why": "Gives you a direct read on how senior leaders in consulting and finance evaluate emerging tech bubbles."
+          "why": "Useful for consulting frameworks and macro strategy, showing how physical risk and climate economics will force developing nations to allocate capital differently."
         },
         {
-          "headline": "BCG Estimates Corporate Budgets Will Cover $1.8 Trillion of AI Build-Out",
-          "body": "Boston Consulting Group estimates that global enterprises will account for $1.8 trillion a year by 2030 to fund the massive artificial intelligence infrastructure build-out.",
+          "headline": "Former McKinsey Consultant Publishes Book on the Human Side of Consulting",
+          "body": "As AI reshapes entry-level tasks at consulting firms, a new book by a former McKinsey consultant looks at the human coaching and advisory skills that software cannot replace.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/03/who-pays-ai-2-6-trillion-build-out-look-to-corporate-budgets-cfo/"
+              "name": "Outlook Business",
+              "url": "https://www.outlookbusiness.com/spotlight/news-wire/as-ai-reshapes-consulting-a-former-mckinsey-consultants-1-amazon-bestseller-looks-at-the-human-side-of-the-job"
             }
           ],
-          "why": "Provides concrete data points on enterprise IT spending that you can use in consulting case studies."
+          "why": "If you are aiming for a career in consulting, it highlights how the industry is pivoting toward interpersonal skills as AI takes over backend analysis."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Men's Basketball Rolls Past Chapman 92-66 in Season Opener",
+          "body": "UC Irvine opened its season with a dominant 92-66 win over Chapman at the Bren Events Center, led by 16 points from debutant Luke Isaak and a double-double from 7-foot-9 Olivier Rioux.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
+            }
+          ]
         }
       ]
     },
@@ -161,12 +173,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alexander Zverev Rises to No. 1 in ATP Rankings",
-          "body": "Alexander Zverev climbed to No. 1 in the men's tennis rankings following a dominant season that secured his status as a two-time Grand Slam champion.",
+          "headline": "Rafael Nadal Appointed to Board of Directors at Real Madrid",
+          "body": "Twenty-two-time tennis Grand Slam champion Rafael Nadal is set to join the board of directors at his boyhood football club, Real Madrid, pending member ratification.",
           "sources": [
             {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/11/04/sports/at-last-zverev-hits-no-1/2460396"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/tennis-legend-rafael-nadal-joins-boyhood-club-real-madrids-boardroom-article-156465038"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board"
             }
           ]
         }
@@ -174,51 +190,51 @@
     }
   ],
   "term": {
-    "name": "Compute Commitments",
-    "definition": "Compute commitments refer to long-term financial obligations or contracts made by companies to secure the massive processing power required to train and run artificial intelligence models. As seen in Anthropic's filings, these multi-billion-dollar outlays represent a massive capital expenditure on specialized hardware like GPUs and cloud infrastructure. For investors and analysts, tracking these commitments helps reveal how much cash tech firms must burn to stay competitive in the AI race.",
+    "name": "Forward Guidance",
+    "definition": "Forward guidance is a company's official forecast of its future business performance and revenue, given to the public and investors during earnings reports. Today's news about Datadog shows why guidance is so powerful: even though their past quarter beat expectations, a weak outlook caused the stock to drop sharply.",
     "sources": [
       {
-        "name": "Sainteur",
-        "url": "https://sainteur.com/article/anthropic-s-quarterly-revenue-grew-1-127-in-a-year-and-compute-commitments-hit"
+        "name": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/technology/datadog-stock-ddog-datadog-earnings-news-q32026/"
       }
     ]
   },
   "serve": {
-    "headline": "Traversal raised $120M at a $1B valuation to build autonomous AI engineers",
-    "body": "The startup builds autonomous engineering agents designed to diagnose and resolve software outages. The funding round was co-led by Kleiner Perkins, Redpoint Ventures, and Khosla Ventures.",
+    "headline": "Shackleton AI raised $5M from Battery Ventures to automate construction projects",
+    "body": "New York-based Shackleton AI emerged from stealth with $5 million in seed funding led by Battery Ventures to build AI agents that handle administrative work in construction. The company's platform already manages over $1 billion in project value.",
     "questions": [
-      "How does a B2B startup price a product that replaces human troubleshooting hours?",
-      "What customer acquisition strategy helps a new AI agent unicorn break into enterprise tech budgets?",
-      "How would you model the unit economics for a startup with massive compute costs?"
+      "How can an early-stage B2B startup prove enterprise value when managing over $1 billion in assets with a team just coming out of stealth?",
+      "What customer acquisition strategy works best when selling workflow automation to traditional industries like construction?",
+      "How would you price an AI agent platform that saves administrative hours across massive capital projects?"
     ],
     "sources": [
       {
         "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/"
+        "url": "https://techstartups.com/2026/11/04/shackleton-ai-raises-5m-led-by-battery-ventures-to-automate-construction-projects-with-ai-agents/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic revealed massive compute commitments in its amended IPO filing.",
-      "blurb": "The Claude maker reported quarterly revenue up 1,127% while facing heavy infrastructure costs."
+      "headline": "CVS Health Plans Massive Split",
+      "blurb": "The company will split into two public companies by 2028, reversing its $78 billion Aetna deal."
     },
     {
-      "headline": "AMD stock jumped following a strong Q3 earnings beat.",
-      "blurb": "The chipmaker exceeded analyst expectations and issued solid guidance for the rest of the year."
+      "headline": "Datadog Beats Q3 But Plunges on Guidance",
+      "blurb": "Weak Q4 revenue projections overshadowed strong quarterly earnings."
     },
     {
-      "headline": "Canva announced structural changes and laid off 22 percent of its staff.",
-      "blurb": "Co-founder and CEO Melanie Perkins confirmed the cuts impacting over 1,200 employees."
+      "headline": "Terawulf Secures Google Credit Backstop",
+      "blurb": "Alphabet's Google backed financing for an upcoming $19 billion data center project."
     },
     {
-      "headline": "OpenAI workers highlighted long-standing operational security lapses.",
-      "blurb": "Former employees noted that internal controls were lax enough to allow easy access to sensitive data."
+      "headline": "Fal Raises $1.3 Billion at $16B Valuation",
+      "blurb": "The generative media inference startup will use the fresh capital to scale compute power."
     },
     {
-      "headline": "Data centers began using retired jet engines to bypass power grid delays.",
-      "blurb": "Builders are converting aircraft engines to burn natural gas as grid connection wait times stretch for years."
+      "headline": "UC Irvine Basketball Wins Opener",
+      "blurb": "The Anteaters defeated Chapman 92-66 at the Bren Events Center to start the season."
     }
   ],
-  "emailQuestion": "How does a B2B startup price a product that replaces human troubleshooting hours?"
+  "emailQuestion": "How can an early-stage B2B startup prove enterprise value when managing over $1 billion in assets with a team just coming out of stealth?"
 }
