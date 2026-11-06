@@ -1,0 +1,152 @@
+{
+  "id": "2026-11-06-am",
+  "slot": "morning",
+  "date": "2026-11-06",
+  "dateLabel": "Fri, Nov 6, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-06T14:55:47.217Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Tech sell-offs hit Anthropic's valuation, $11M in Nvidia gear stolen, and Olivier Rioux dominates for UCI.",
+  "storyCount": 5,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "9:55 AM ET, Nov 6",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,429",
+        "change": "+1.02%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,758",
+        "change": "+1.82%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,412",
+        "change": "−0.21%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.88%",
+        "change": "+4 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,049",
+        "change": "−1.58%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic weighs a lower valuation for its massive IPO as AI stocks stumble",
+    "body": "Anthropic may have to lower its valuation targets, potentially dropping closer to $1 trillion from an expected $1.5 trillion. Major investors are pulling back as a broader tech sell-off and fears over strict data center regulations spook Wall Street.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html"
+      }
+    ],
+    "why": "This is a masterclass in market sentiment shifts. As an aspiring investor, watch how macroeconomic pressures and regulatory fears can compress tech valuations overnight, even for industry leaders.",
+    "kicker": "Markets + AI Valuations",
+    "figures": [
+      {
+        "value": "$1.5T",
+        "label": "prior target valuation"
+      },
+      {
+        "value": "$1T",
+        "label": "potential new valuation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Thieves make off with $11.4 million in Nvidia hardware in Oakland",
+          "body": "Authorities are investigating a sophisticated cargo heist that targeted more than $11 million worth of Nvidia computer hardware in Oakland, California.",
+          "sources": [
+            {
+              "name": "ABC7 Bay Area",
+              "url": "https://abc7news.com/post/114-million-shipment-nvidia-cargo-stolen-oakland-calif/20018822/"
+            }
+          ],
+          "why": "Supply chain security is a massive hidden cost for hardware companies. If you consult for tech firms or look at logistics startups, physical asset protection is just as critical as software security."
+        },
+        {
+          "headline": "OpenAI launches GPT-6 Cyber with a critical cybersecurity rating",
+          "body": "OpenAI has released GPT-6 Cyber to a small group of vetted customers. The new model is built to identify software security weaknesses and help security teams fix vulnerabilities.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/openai-launches-gpt-6-cyber-to-find-and-fix-security-flaws/"
+            },
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms"
+            }
+          ],
+          "why": "Cybersecurity AI tools are a booming enterprise market. Think about how consulting firms will need to audit these automated tools for corporate clients."
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Valuation",
+    "definition": "Valuation is the process of determining the current worth of a asset or a company. When public tech markets pull back and investors demand lower pricing for upcoming IPOs like Anthropic's, private startups often see their valuations adjusted downward to match public market realities.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zipline raised $1.5 billion at a $21.5 billion valuation to expand drone delivery",
+    "body": "Drone delivery startup Zipline secured massive new funding to scale its autonomous delivery network across the U.S. alongside an expanded partnership with Walmart.",
+    "questions": [
+      "How does Zipline's unit economics change as they scale drone delivery sites to Walmart locations?",
+      "What customer acquisition costs do logistics startups face when expanding into suburban residential areas?",
+      "If you were advising Walmart, what exclusive contract terms would you demand for a $21.5 billion vendor?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/05/zipline-raises-1-5-billion-at-21-5-billion-valuation-to-expand-drone-delivery-across-the-u-s/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic is weighing a lower valuation for its IPO.",
+      "blurb": "Tech sell-offs and investor pushback are forcing a rethink."
+    },
+    {
+      "headline": "Thieves stole $11.4 million in Nvidia hardware in Oakland.",
+      "blurb": "A sophisticated cargo heist targeted high-end tech chips."
+    },
+    {
+      "headline": "OpenAI launched a critical cybersecurity model named GPT-6 Cyber.",
+      "blurb": "The tool is designed to find software flaws and fix vulnerabilities."
+    },
+    {
+      "headline": "Anthropic added read-only personal finance tracking to Claude.",
+      "blurb": "Users can now connect bank accounts via Plaid to audit spending."
+    },
+    {
+      "headline": "Olivier Rioux dominated in his UC Irvine basketball debut.",
+      "blurb": "The 7-foot-9 center notched 13 points and 12 rebounds."
+    }
+  ],
+  "emailQuestion": "How does Zipline's unit economics change as they scale drone delivery sites to Walmart locations?"
+}
