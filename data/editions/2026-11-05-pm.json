@@ -1,0 +1,244 @@
+{
+  "id": "2026-11-05-pm",
+  "slot": "evening",
+  "date": "2026-11-05",
+  "dateLabel": "Thu, Nov 5, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-06T06:16:19.326Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Chip stocks drop nearly 11%, Zipline raises $1.5B, and 7-foot-9 Olivier Rioux dominates in his UCI debut.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Nov 5",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,354",
+        "change": "−4.36%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,315",
+        "change": "−5.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,523",
+        "change": "−3.44%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.84%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,056",
+        "change": "−1.40%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Semiconductor stocks slide nearly 11% in steep market pullback",
+    "body": "The Philadelphia Semiconductor Index plunged nearly 11 percent on Thursday, tracking toward its worst single-day drop since March 2020. Heavyweights including Nvidia, Broadcom, and AMD fell sharply as investors reconsidered heavy artificial intelligence infrastructure spending and political opposition to rapid data center expansion.",
+    "sources": [
+      {
+        "name": "The Financial Express",
+        "url": "https://www.financialexpress.com/market/global-markets/chip-stocks-get-hammered-what-triggered-the-1-trillion-ai-wipeout-on-nasdaq/4378159/"
+      }
+    ],
+    "why": "When you evaluate tech companies or pitch investment ideas, watch how quickly shifts in capital spending expectations can drag down an entire supply chain.",
+    "kicker": "Markets + AI Hardware",
+    "figures": [
+      {
+        "value": "11%",
+        "label": "Drop in Philadelphia Semiconductor Index"
+      },
+      {
+        "value": "$1T",
+        "label": "Estimated Nasdaq AI wipeout"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Legal AI unicorn Harvey explores an initial public offering",
+          "body": "Harvey, an artificial intelligence startup focused on legal workflows, has held preliminary discussions with law firm Latham & Watkins about going public. The startup was recently valued at $15.5 billion.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/legal-ai-startup-harvey-early-ipo-talks-latham-watkins-2026-11"
+            }
+          ],
+          "why": "Tracking high-valuation AI startups as they approach the public markets will help you analyze how software multiples hold up outside the venture capital bubble."
+        },
+        {
+          "headline": "Food delivery startup Wonder files confidentially for an IPO",
+          "body": "Wonder has submitted confidential paperwork for an initial public offering following several years of aggressive fundraising and acquisitions. The filing marks a key step toward listing shares on the public market.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/"
+            }
+          ],
+          "why": "Understanding how food delivery models try to prove profitable unit economics gives you practical context for consumer tech case studies at Merage."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic adds personal finance tracking directly into Claude",
+          "body": "Anthropic launched a personal finance tool that lets Claude connect to your bank accounts on a read-only basis. The model can tally spending, flag duplicate or unusual charges, and categorize monthly expenses, though it cannot initiate transfers.",
+          "sources": [
+            {
+              "name": "XDA Developers",
+              "url": "https://www.xda-developers.com/anthropics-new-personal-finance-feature-connects-claude-to-your-bank-account/"
+            }
+          ],
+          "why": "For student builders, this highlights how major AI labs are moving from open-ended chatbots toward vertical software tools designed for personal budgeting and financial analysis."
+        },
+        {
+          "headline": "Anthropic brings in outside researchers to audit safety before its public debut",
+          "body": "Anthropic invited researchers from the Berkeley nonprofit Model Evaluation and Threat Research to review its internal data and interview team members. The audit arrives as the company readies its Wall Street debut and addresses debate over advanced model safety.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says/articleshow/135583912.cms"
+            }
+          ],
+          "why": "Third-party risk auditing and compliance will be massive practice areas for management consultants advising enterprise technology firms."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Bain Capital's Special Situations team deploys $1.2B in 2026",
+          "body": "Bain Capital's Special Situations group has deployed $1.2 billion this year and aims to maintain a $1 billion annual pace. Partner Sarit Chopra noted increasing corporate demand for hybrid capital as alternatives to traditional bank loans remain scarce.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/there-is-a-wider-acceptance-of-hybrid-capital-with-the-lack-of-options-beyond-bank-lending-bain-capitals-sarit-chopra/articleshow/135580424.cms"
+            }
+          ],
+          "why": "Special situations and structured finance desks provide a direct path into private markets, combining balance sheet restructuring with flexible debt investing."
+        },
+        {
+          "headline": "Block cuts staff in its second round of layoffs this year",
+          "body": "Jack Dorsey's fintech company Block informed staff that it is eliminating positions, shifting responsibilities, and reorganizing reporting lines. The move marks the company's second workforce reduction in 2026.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/jack-dorsey-block-layoffs-second-round-job-cuts-cash-app-2026-11"
+            }
+          ],
+          "why": "Tech firms continue to prioritize lean operations, so framing your internship projects around measurable cost savings and operational efficiency will stand out."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "7-foot-9 Olivier Rioux delivers a double-double in UC Irvine debut",
+          "body": "The tallest player in college basketball history made his Anteater debut on Tuesday night at the Bren Events Center. Center Olivier Rioux recorded 13 points and 12 rebounds in 18 minutes to help UC Irvine defeat Chapman 92-66.",
+          "sources": [
+            {
+              "name": "USA TODAY",
+              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
+            },
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Novak Djokovic exits Paris Masters, concluding his 2026 season",
+          "body": "Novak Djokovic lost in three sets to Australia's Rinky Hijikata in the second round of the Paris Masters. The defeat ends Djokovic's 2026 campaign, disqualifies him from the ATP Finals, and snaps a 21-year streak.",
+          "sources": [
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/novak-djokovic-hits-unprecedented-career-low-in-final-game-of-2026-21-year-streak-ends-article-156471103"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Market correction",
+    "definition": "A market correction is a drop of 10 percent or more from a recent high in an individual stock or index. It is less severe than a bear market, which requires a 20 percent decline. On Thursday, tech indices moved into correction territory as investors quickly dialed back expectations for semiconductor and artificial intelligence infrastructure spending.",
+    "sources": [
+      {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://abcnews.com/Business/dow-plunges-1200-points-shedding-midterm-results-stock/story?id=137880888"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nasdaq-set-to-confirm-correction-as-ai-stocks-tumble/articleshow/135583549.cms"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zipline raised $1.5B at a $21.5B valuation to scale autonomous drone deliveries",
+    "body": "Autonomous drone startup Zipline secured $1.5 billion in new funding, nearly tripling its valuation in 10 months. The capital will support US expansion alongside an agreement with Walmart to add 300 drone delivery locations.",
+    "questions": [
+      "How could autonomous drone drop-offs solve the last-mile bottleneck for dining and retail across UCI's circular campus?",
+      "What safety and airspace coordination challenges would an Irvine-based drone network face next to John Wayne Airport?",
+      "Could bundled retail drone delivery compete on price against campus DoorDash or Uber Eats orders for students?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/05/zipline-raises-1-5-billion-at-21-5-billion-valuation-to-expand-drone-delivery-across-the-u-s/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Chip stocks plunge nearly 11% as AI infrastructure spending faces pushback.",
+      "blurb": "The Philadelphia Semiconductor Index posted its steepest single-day drop since March 2020."
+    },
+    {
+      "headline": "Harvey holds early talks with Latham & Watkins about an IPO.",
+      "blurb": "The legal artificial intelligence startup was recently valued at $15.5 billion."
+    },
+    {
+      "headline": "Claude introduces personal finance tracking directly linked to user bank accounts.",
+      "blurb": "Anthropic's read-only tool can categorize spending and identify unusual transactions."
+    },
+    {
+      "headline": "Bain Capital's Special Situations group deploys $1.2B amid hybrid capital demand.",
+      "blurb": "The team targets a $1 billion annual clip as corporate borrowers search beyond bank debt."
+    },
+    {
+      "headline": "7-foot-9 center Olivier Rioux logs a double-double in his UC Irvine debut.",
+      "blurb": "Rioux posted 13 points and 12 rebounds in 18 minutes during a 92-66 win over Chapman."
+    }
+  ],
+  "emailQuestion": "How could autonomous drone drop-offs solve the last-mile bottleneck for dining and retail across UCI's circular campus?"
+}
