@@ -1,0 +1,264 @@
+{
+  "id": "2026-11-06-pm",
+  "slot": "evening",
+  "date": "2026-11-06",
+  "dateLabel": "Fri, Nov 6, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-07T07:02:57.312Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Retail investors dump $338M, Fox buys Roku for $22B, and UCI's 7-foot-9 center debuts with a double-double.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 6",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,377",
+        "change": "+0.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,579",
+        "change": "+1.09%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,286",
+        "change": "−0.46%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.86%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,075",
+        "change": "−0.94%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Retail Investors Dump $338 Million in Stock Sell-Off Before Late Buying Rush",
+    "body": "Everyday investors sold a net $338 million in individual U.S. stocks on Thursday, marking the largest retail sell-off since the start of the COVID-19 pandemic. However, late buying in the final 10 minutes brought in over $100 million, cutting earlier net losses.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/retail-traders-dump-338-million-in-stocks-in-biggest-selling-day-since-2020-181232677.html"
+      },
+      {
+        "name": "International Business Times",
+        "url": "https://www.ibtimes.com/retail-investors-stock-selling-dow-market-rout-3809508"
+      }
+    ],
+    "why": "Tracking how individual retail sentiment compares to institutional trading gives you practical context for finance classes and personal portfolio strategies during market swings.",
+    "kicker": "MARKETS + RETAIL TRADING",
+    "figures": [
+      {
+        "value": "$338M",
+        "label": "net retail stock sales"
+      },
+      {
+        "value": "$100M+",
+        "label": "bought in final 10 minutes"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Fox Corp Completes $22 Billion Acquisition of Roku",
+          "body": "Fox Corp. finalized its $22 billion purchase of streaming platform Roku to expand its digital presence alongside Tubi and FOX One. Executive Paul Cheesbrough will take on expanded duties to manage the combined operations.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/tv/news/paul-cheesbrough-fox-roku-1236941308/"
+            }
+          ],
+          "why": "Analyzing media consolidation helps you evaluate how traditional networks buy distribution platforms to protect revenue streams."
+        },
+        {
+          "headline": "Cathie Wood's ARK Invest Buys SpaceX and Nvidia Amid Market Dip",
+          "body": "ARK Invest purchased nearly $49 million in SpaceX shares and $46 million in Nvidia following a tech sell-off. To fund the moves, ARK sold $119.7 million in Broadcom stock and $20 million in CoreWeave.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/international/us/is-cathie-wood-betting-on-the-next-stage-of-the-ai-boom-amid-wall-streets-tech-stock-crash-buying-spacex-and-nvidia-while-selling-120-million-in-broadcom-stock/articleshow/135610751.cms"
+            }
+          ],
+          "why": "Seeing how high-profile asset managers adjust holdings during corrections offers real examples of portfolio rebalancing for your investment research."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "DOJ Charges Three in $129 Million AI Executive Impersonation Scheme",
+          "body": "Federal prosecutors charged three individuals for using AI deepfakes and voice cloning to impersonate corporate executives and lawyers. The scheme allegedly stole over $129 million from thousands of companies.",
+          "sources": [
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818"
+            },
+            {
+              "name": "NewsBreak",
+              "url": "https://www.newsbreak.com/pbs-newshour-513240/4990910179822-3-charged-in-129-million-ai-scheme-targeting-thousands-of-companies"
+            },
+            {
+              "name": "FOX 4 News",
+              "url": "https://www.fox4news.com/news/three-accused-ai-impersonate-ceos-fraud-scheme"
+            }
+          ],
+          "why": "Understanding deepfake fraud risks is becoming essential for corporate risk evaluation and tech strategy consulting."
+        },
+        {
+          "headline": "ING Puts $500 Million in Data Center Loans Up for Sale",
+          "body": "Dutch bank ING is seeking to sell about $500 million in data center debt, including loans financing OpenAI's Stargate project. Investors are growing cautious about the massive debt funding large compute buildouts.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/ing-sells-data-center-loans-stargate-debt-3809516"
+            }
+          ],
+          "why": "This loan sale highlights debt financing risks that could impact venture valuations and capital access for AI startups."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Deloitte Report Shows 28% of Companies See AI Revenue Growth",
+          "body": "A new Deloitte study found that 28% of businesses currently report revenue growth from AI investments, up from 20% earlier this year. However, many executives still lack clear insight into which specific tools generate real returns.",
+          "sources": [
+            {
+              "name": "TechRadar",
+              "url": "https://www.techradar.com/pro/the-progress-is-real-deloitte-report-claims-some-firms-are-finally-seeing-return-on-ai-investment-but-still-lack-insight-into-what-actually-works"
+            }
+          ],
+          "why": "Consulting clients will look for guidance on measuring true productivity and financial return on AI tool deployments."
+        },
+        {
+          "headline": "Industry Leaders Warn Against Replacing Entry-Level Talent with AI",
+          "body": "Business experts warn that replacing interns and entry-level employees with AI creates long-term talent shortages. While AI handles research and summaries well, relying on it entirely reduces opportunities to build institutional knowledge.",
+          "sources": [
+            {
+              "name": "Entrepreneur",
+              "url": "https://www.entrepreneur.com/building-a-business/replacing-entry-level-talent-with-ai-is-a-costly-mistake-heres-what-to-do-instead"
+            }
+          ],
+          "why": "Understanding why firms still need junior talent helps you articulate your value during upcoming internship interviews."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "7-Foot-9 Center Olivier Rioux Dominates in UC Irvine Debut",
+          "body": "Olivier Rioux logged 13 points and 12 rebounds in 18 minutes during his UC Irvine debut, recording a double-double in a 92-66 victory over Chapman.",
+          "sources": [
+            {
+              "name": "USA TODAY",
+              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
+            },
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alex Eala Advances to Hong Kong Open Semifinals",
+          "body": "Alex Eala defeated Croatia's Antonia Ruzic 7-6 (7), 7-5 to advance to the semifinal round at the Hong Kong Open after a two-hour match.",
+          "sources": [
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/11/06/sports/eala-advances-to-semifinal-round-in-hong-kong/2464226"
+            },
+            {
+              "name": "The Manila Times",
+              "url": "https://www.manilatimes.net/2026/11/06/sports/eala-says-being-tired-at-this-point-is-a-blessing/2463771"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "K-shaped economy",
+    "definition": "A K-shaped economy describes an economic scenario where different parts of the population or business sectors recover and grow at vastly different rates. One group prospers while another declines. Bill Gates highlighted the concept when noting that billionaire taxes might be necessary to address widening wealth gaps driven by AI automation.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/06/bill-gates-tax-wealthy-billionaires-ai-inequality/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Zipline raised $1.5 billion at a $21.5 billion valuation",
+    "body": "Drone-delivery startup Zipline secured $1.5 billion in new funding to scale its autonomous logistics network. The investment comes as major retail partners like Walmart expand automated local delivery services.",
+    "questions": [
+      "How can logistics startups protect their margins when scaling capital-intensive hardware like drones?",
+      "What campus delivery problems at UCI could be solved faster with autonomous systems?",
+      "How would you price ultra-fast delivery services to attract college students without losing money?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/06/startup-funding-news-today-november-6-2026-zipline-harbinger-humble-robotics-kalepa-ocient-more/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Retail investors sold a net $338 million in stocks Thursday.",
+      "blurb": "A late buying surge brought in over $100 million in the final 10 minutes of trading."
+    },
+    {
+      "headline": "Fox completed its $22 billion acquisition of Roku.",
+      "blurb": "Executive Paul Cheesbrough will take on expanded duties across Fox's growing digital portfolio."
+    },
+    {
+      "headline": "Federal prosecutors charged three people in a $129 million AI deepfake fraud scheme.",
+      "blurb": "Suspects allegedly used AI to impersonate corporate executives and attorneys to steal funds."
+    },
+    {
+      "headline": "A Deloitte report finds 28% of companies now get revenue growth from AI.",
+      "blurb": "That figure is up from 20% earlier this year, though firms still lack full insight into ROI."
+    },
+    {
+      "headline": "Olivier Rioux posted 13 points and 12 rebounds in his UC Irvine debut.",
+      "blurb": "The 7-foot-9 center helped lead the Anteaters to a 92-66 win over Chapman."
+    }
+  ],
+  "emailQuestion": "How can logistics startups protect their margins when scaling capital-intensive hardware like drones?"
+}
