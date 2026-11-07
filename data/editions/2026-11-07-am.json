@@ -1,0 +1,228 @@
+{
+  "id": "2026-11-07-am",
+  "slot": "morning",
+  "date": "2026-11-07",
+  "dateLabel": "Sat, Nov 7, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-07T18:41:05.331Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI hits $1.25T, chip stocks suffer their worst day since 2020, and midterm results impact tech.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 6",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,377",
+        "change": "+0.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,579",
+        "change": "+1.09%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,286",
+        "change": "−0.46%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.86%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,075",
+        "change": "−0.94%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "OpenAI Hits $1.25 Trillion Valuation as Chip Stocks Experience Their Worst Day Since 2020",
+    "body": "OpenAI secured an $11 billion funding round that pushes its valuation to $1.25 trillion. At the same time, the broader semiconductor sector suffered its sharpest one-day drop since March 2020 as investors grappled with high valuations and rising infrastructure pushback.",
+    "sources": [
+      {
+        "name": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+      }
+    ],
+    "why": "Valuations at this scale shift how tech giants and venture capitalists look at future cash flows, which directly impacts the startup and investing landscape you study in Merage.",
+    "kicker": "Markets + AI",
+    "figures": [
+      {
+        "value": "$1.25 trillion",
+        "label": "OpenAI valuation"
+      },
+      {
+        "value": "$11 billion",
+        "label": "New funding raised"
+      },
+      {
+        "value": "12.25%",
+        "label": "Semiconductor index drop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Voters Push Back Hard Against New Data Center Construction",
+          "body": "Voters rejected data center development in 40 out of 41 midterm ballot measures. Local opposition to surging power and water demands is creating major hurdles for tech infrastructure growth.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres"
+            }
+          ],
+          "why": "Data centers are the physical backbone of the AI boom. Understanding local zoning limits will help you evaluate tech infrastructure investments."
+        },
+        {
+          "headline": "Outback Steakhouse Franchisee Files for Bankruptcy with $449 Million in Debt",
+          "body": "A major Outback Steakhouse franchisee filed for Chapter 11 bankruptcy due to high overhead and rising operational costs in California and nationwide. Industry experts warn that businesses must quickly adapt to margin pressures.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses"
+            }
+          ],
+          "why": "This is a great real-world case study for corporate finance classes on how mounting debt and compressed margins sink physical retail operations."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI to Press Ahead With US Data Center Expansion Despite Political Shifts",
+          "body": "OpenAI CFO Sarah Friar confirmed the company will keep expanding US data centers to meet surging demand. The firm is trying to smooth over local tensions by dropping nondisclosure agreements with public officials.",
+          "sources": [
+            {
+              "name": "The Indian Express",
+              "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
+            }
+          ],
+          "why": "Managing community relations and massive capital expenditure is a huge part of scaling AI infrastructure. Keep this in mind when analyzing tech strategy."
+        },
+        {
+          "headline": "Microsoft AI CEO Mustafa Suleyman Warns Against Autonomous Corporate Agents",
+          "body": "Microsoft AI CEO Mustafa Suleyman criticized a proposed Delaware law that would let autonomous AI agents legally manage and operate corporate entities. He called the initiative deeply concerning.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-reacts-to-delawares-ai-agent-proposal-says-it-is-deeply-concerning-to-/articleshow/135627622.cms"
+            }
+          ],
+          "why": "Corporate governance and legal structures are foundational to business strategy. AI agents running companies would completely rewrite corporate law."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Top B-Schools Report Rising Summer Internship Stipends and Stronger Recruitment",
+          "body": "Recruiters are stepping up summer internship hiring for the 2026-28 batch, with top business schools noting higher median stipends. Pre-placement offers and interview conversions are also on the rise.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/internship-hiring-picks-up-at-top-b-schools-stipends-rise/articleshow/135584333.cms"
+            }
+          ],
+          "why": "Summer internship recruiting is coming up fast for your cohort. These trends show that finance, consulting, and tech firms are still investing heavily in top business talent."
+        },
+        {
+          "headline": "Consulting Firm Teneo Launches Canadian Restructuring Unit With Ex-Deloitte Hire",
+          "body": "Teneo expanded its domestic platform by hiring the former head of Deloitte's restructuring and insolvency group to lead a new 50-person advisory unit in Toronto.",
+          "sources": [
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-consulting-firm-teneo-hires-phil-reynolds-canadian-restructuring-team/"
+            }
+          ],
+          "why": "If you are looking at consulting roles, restructuring and financial advisory are growing fields as companies navigate shifting debt and market corrections."
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Sorana Cirstea Retires From Professional Tennis With Immediate Effect",
+          "body": "World No. 15 Sorana Cirstea ended her career immediately following a straight-sets defeat to a qualifier at the Hong Kong Tennis Open. She had previously stated that 2026 would be her final year on tour.",
+          "sources": [
+            {
+              "name": "The Sun",
+              "url": "https://www.thesun.co.uk/sport/40944027/tennis-sorana-cirstea-retires-hong-kong-open/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Draft Red Herring Prospectus (DRHP)",
+    "definition": "A preliminary registration document filed by a company with securities regulators before launching an initial public offering. It provides potential investors with detailed financial information, business operations, and risk factors, though it does not yet include final share prices or issue sizes. Companies like IL JIN Electronics use this to signal their formal move toward going public.",
+    "sources": [
+      {
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/amber-subsidiary-il-jin-electronics-files-drhp-proposed-ipo/55578485"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Vensum Power Raised €9 Million to Cut Energy Losses for AI Data Centers",
+    "body": "The Finnish startup tackles power inefficiencies by cutting energy losses before electricity even reaches data center hardware. The funding comes as startups race to solve the severe power grid constraints facing tech infrastructure.",
+    "questions": [
+      "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?",
+      "What funding stage makes the most sense for a climate-tech startup tackling grid losses in Europe?",
+      "If you were advising Vensum's founders, would you target software partnerships or direct utility sales first?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/06/finnish-startup-vensum-power-raises-e9m-to-cut-energy-losses-targets-ai-data-centers/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "OpenAI hit a $1.25 trillion valuation in a fresh $11 billion funding round.",
+      "blurb": "The massive investment arrives just as semiconductor stocks experienced their worst single-day drop since 2020."
+    },
+    {
+      "headline": "Voters rejected data center developments in 40 out of 41 midterm ballot measures.",
+      "blurb": "Local resistance to surging electricity and water usage is creating a major roadblock for tech infrastructure."
+    },
+    {
+      "headline": "Outback Steakhouse franchisee filed for bankruptcy with $449 million in debt.",
+      "blurb": "Rising overhead costs and compressed margins are hitting physical retail and restaurant operators hard."
+    },
+    {
+      "headline": "Top business schools report rising stipends and stronger summer internship recruiting.",
+      "blurb": "Firms are increasing compensation and pre-placement offers for the upcoming class."
+    },
+    {
+      "headline": "Microsoft AI CEO Mustafa Suleyman criticized Delaware's autonomous agent proposal.",
+      "blurb": "Suleyman called the legislative idea to let AI agents legally run corporate entities deeply concerning."
+    }
+  ],
+  "emailQuestion": "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?"
+}

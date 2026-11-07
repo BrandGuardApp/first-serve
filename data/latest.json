@@ -1,14 +1,14 @@
 {
-  "id": "2026-11-06-pm",
-  "slot": "evening",
-  "date": "2026-11-06",
-  "dateLabel": "Fri, Nov 6, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-07T07:02:57.312Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Retail investors dump $338M, Fox buys Roku for $22B, and UCI's 7-foot-9 center debuts with a double-double.",
-  "storyCount": 11,
+  "id": "2026-11-07-am",
+  "slot": "morning",
+  "date": "2026-11-07",
+  "dateLabel": "Sat, Nov 7, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-07T18:41:05.331Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "OpenAI hits $1.25T, chip stocks suffer their worst day since 2020, and midterm results impact tech.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 6",
@@ -46,28 +46,32 @@
     ]
   },
   "lead": {
-    "headline": "Retail Investors Dump $338 Million in Stock Sell-Off Before Late Buying Rush",
-    "body": "Everyday investors sold a net $338 million in individual U.S. stocks on Thursday, marking the largest retail sell-off since the start of the COVID-19 pandemic. However, late buying in the final 10 minutes brought in over $100 million, cutting earlier net losses.",
+    "headline": "OpenAI Hits $1.25 Trillion Valuation as Chip Stocks Experience Their Worst Day Since 2020",
+    "body": "OpenAI secured an $11 billion funding round that pushes its valuation to $1.25 trillion. At the same time, the broader semiconductor sector suffered its sharpest one-day drop since March 2020 as investors grappled with high valuations and rising infrastructure pushback.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/retail-traders-dump-338-million-in-stocks-in-biggest-selling-day-since-2020-181232677.html"
+        "name": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/"
       },
       {
-        "name": "International Business Times",
-        "url": "https://www.ibtimes.com/retail-investors-stock-selling-dow-market-rout-3809508"
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
       }
     ],
-    "why": "Tracking how individual retail sentiment compares to institutional trading gives you practical context for finance classes and personal portfolio strategies during market swings.",
-    "kicker": "MARKETS + RETAIL TRADING",
+    "why": "Valuations at this scale shift how tech giants and venture capitalists look at future cash flows, which directly impacts the startup and investing landscape you study in Merage.",
+    "kicker": "Markets + AI",
     "figures": [
       {
-        "value": "$338M",
-        "label": "net retail stock sales"
+        "value": "$1.25 trillion",
+        "label": "OpenAI valuation"
       },
       {
-        "value": "$100M+",
-        "label": "bought in final 10 minutes"
+        "value": "$11 billion",
+        "label": "New funding raised"
+      },
+      {
+        "value": "12.25%",
+        "label": "Semiconductor index drop"
       }
     ]
   },
@@ -77,30 +81,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Fox Corp Completes $22 Billion Acquisition of Roku",
-          "body": "Fox Corp. finalized its $22 billion purchase of streaming platform Roku to expand its digital presence alongside Tubi and FOX One. Executive Paul Cheesbrough will take on expanded duties to manage the combined operations.",
+          "headline": "Voters Push Back Hard Against New Data Center Construction",
+          "body": "Voters rejected data center development in 40 out of 41 midterm ballot measures. Local opposition to surging power and water demands is creating major hurdles for tech infrastructure growth.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres"
+            }
+          ],
+          "why": "Data centers are the physical backbone of the AI boom. Understanding local zoning limits will help you evaluate tech infrastructure investments."
+        },
+        {
+          "headline": "Outback Steakhouse Franchisee Files for Bankruptcy with $449 Million in Debt",
+          "body": "A major Outback Steakhouse franchisee filed for Chapter 11 bankruptcy due to high overhead and rising operational costs in California and nationwide. Industry experts warn that businesses must quickly adapt to margin pressures.",
           "sources": [
             {
               "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku"
-            },
-            {
-              "name": "Variety",
-              "url": "https://variety.com/2026/tv/news/paul-cheesbrough-fox-roku-1236941308/"
+              "url": "https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses"
             }
           ],
-          "why": "Analyzing media consolidation helps you evaluate how traditional networks buy distribution platforms to protect revenue streams."
-        },
-        {
-          "headline": "Cathie Wood's ARK Invest Buys SpaceX and Nvidia Amid Market Dip",
-          "body": "ARK Invest purchased nearly $49 million in SpaceX shares and $46 million in Nvidia following a tech sell-off. To fund the moves, ARK sold $119.7 million in Broadcom stock and $20 million in CoreWeave.",
-          "sources": [
-            {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/news/international/us/is-cathie-wood-betting-on-the-next-stage-of-the-ai-boom-amid-wall-streets-tech-stock-crash-buying-spacex-and-nvidia-while-selling-120-million-in-broadcom-stock/articleshow/135610751.cms"
-            }
-          ],
-          "why": "Seeing how high-profile asset managers adjust holdings during corrections offers real examples of portfolio rebalancing for your investment research."
+          "why": "This is a great real-world case study for corporate finance classes on how mounting debt and compressed margins sink physical retail operations."
         }
       ]
     },
@@ -109,34 +109,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "DOJ Charges Three in $129 Million AI Executive Impersonation Scheme",
-          "body": "Federal prosecutors charged three individuals for using AI deepfakes and voice cloning to impersonate corporate executives and lawyers. The scheme allegedly stole over $129 million from thousands of companies.",
+          "headline": "OpenAI to Press Ahead With US Data Center Expansion Despite Political Shifts",
+          "body": "OpenAI CFO Sarah Friar confirmed the company will keep expanding US data centers to meet surging demand. The firm is trying to smooth over local tensions by dropping nondisclosure agreements with public officials.",
           "sources": [
             {
-              "name": "NBC News",
-              "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818"
-            },
-            {
-              "name": "NewsBreak",
-              "url": "https://www.newsbreak.com/pbs-newshour-513240/4990910179822-3-charged-in-129-million-ai-scheme-targeting-thousands-of-companies"
-            },
-            {
-              "name": "FOX 4 News",
-              "url": "https://www.fox4news.com/news/three-accused-ai-impersonate-ceos-fraud-scheme"
+              "name": "The Indian Express",
+              "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
             }
           ],
-          "why": "Understanding deepfake fraud risks is becoming essential for corporate risk evaluation and tech strategy consulting."
+          "why": "Managing community relations and massive capital expenditure is a huge part of scaling AI infrastructure. Keep this in mind when analyzing tech strategy."
         },
         {
-          "headline": "ING Puts $500 Million in Data Center Loans Up for Sale",
-          "body": "Dutch bank ING is seeking to sell about $500 million in data center debt, including loans financing OpenAI's Stargate project. Investors are growing cautious about the massive debt funding large compute buildouts.",
+          "headline": "Microsoft AI CEO Mustafa Suleyman Warns Against Autonomous Corporate Agents",
+          "body": "Microsoft AI CEO Mustafa Suleyman criticized a proposed Delaware law that would let autonomous AI agents legally manage and operate corporate entities. He called the initiative deeply concerning.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/ing-sells-data-center-loans-stargate-debt-3809516"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-reacts-to-delawares-ai-agent-proposal-says-it-is-deeply-concerning-to-/articleshow/135627622.cms"
             }
           ],
-          "why": "This loan sale highlights debt financing risks that could impact venture valuations and capital access for AI startups."
+          "why": "Corporate governance and legal structures are foundational to business strategy. AI agents running companies would completely rewrite corporate law."
         }
       ]
     },
@@ -145,50 +137,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Deloitte Report Shows 28% of Companies See AI Revenue Growth",
-          "body": "A new Deloitte study found that 28% of businesses currently report revenue growth from AI investments, up from 20% earlier this year. However, many executives still lack clear insight into which specific tools generate real returns.",
+          "headline": "Top B-Schools Report Rising Summer Internship Stipends and Stronger Recruitment",
+          "body": "Recruiters are stepping up summer internship hiring for the 2026-28 batch, with top business schools noting higher median stipends. Pre-placement offers and interview conversions are also on the rise.",
           "sources": [
             {
-              "name": "TechRadar",
-              "url": "https://www.techradar.com/pro/the-progress-is-real-deloitte-report-claims-some-firms-are-finally-seeing-return-on-ai-investment-but-still-lack-insight-into-what-actually-works"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/internship-hiring-picks-up-at-top-b-schools-stipends-rise/articleshow/135584333.cms"
             }
           ],
-          "why": "Consulting clients will look for guidance on measuring true productivity and financial return on AI tool deployments."
+          "why": "Summer internship recruiting is coming up fast for your cohort. These trends show that finance, consulting, and tech firms are still investing heavily in top business talent."
         },
         {
-          "headline": "Industry Leaders Warn Against Replacing Entry-Level Talent with AI",
-          "body": "Business experts warn that replacing interns and entry-level employees with AI creates long-term talent shortages. While AI handles research and summaries well, relying on it entirely reduces opportunities to build institutional knowledge.",
+          "headline": "Consulting Firm Teneo Launches Canadian Restructuring Unit With Ex-Deloitte Hire",
+          "body": "Teneo expanded its domestic platform by hiring the former head of Deloitte's restructuring and insolvency group to lead a new 50-person advisory unit in Toronto.",
           "sources": [
             {
-              "name": "Entrepreneur",
-              "url": "https://www.entrepreneur.com/building-a-business/replacing-entry-level-talent-with-ai-is-a-costly-mistake-heres-what-to-do-instead"
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-consulting-firm-teneo-hires-phil-reynolds-canadian-restructuring-team/"
             }
           ],
-          "why": "Understanding why firms still need junior talent helps you articulate your value during upcoming internship interviews."
-        }
-      ]
-    },
-    {
-      "key": "uci",
-      "title": "UC Irvine",
-      "stories": [
-        {
-          "headline": "7-Foot-9 Center Olivier Rioux Dominates in UC Irvine Debut",
-          "body": "Olivier Rioux logged 13 points and 12 rebounds in 18 minutes during his UC Irvine debut, recording a double-double in a 92-66 victory over Chapman.",
-          "sources": [
-            {
-              "name": "USA TODAY",
-              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
-            },
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
-            },
-            {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
-            }
-          ]
+          "why": "If you are looking at consulting roles, restructuring and financial advisory are growing fields as companies navigate shifting debt and market corrections."
         }
       ]
     },
@@ -197,16 +165,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alex Eala Advances to Hong Kong Open Semifinals",
-          "body": "Alex Eala defeated Croatia's Antonia Ruzic 7-6 (7), 7-5 to advance to the semifinal round at the Hong Kong Open after a two-hour match.",
+          "headline": "Sorana Cirstea Retires From Professional Tennis With Immediate Effect",
+          "body": "World No. 15 Sorana Cirstea ended her career immediately following a straight-sets defeat to a qualifier at the Hong Kong Tennis Open. She had previously stated that 2026 would be her final year on tour.",
           "sources": [
             {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/11/06/sports/eala-advances-to-semifinal-round-in-hong-kong/2464226"
-            },
-            {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/11/06/sports/eala-says-being-tired-at-this-point-is-a-blessing/2463771"
+              "name": "The Sun",
+              "url": "https://www.thesun.co.uk/sport/40944027/tennis-sorana-cirstea-retires-hong-kong-open/"
             }
           ]
         }
@@ -214,51 +178,51 @@
     }
   ],
   "term": {
-    "name": "K-shaped economy",
-    "definition": "A K-shaped economy describes an economic scenario where different parts of the population or business sectors recover and grow at vastly different rates. One group prospers while another declines. Bill Gates highlighted the concept when noting that billionaire taxes might be necessary to address widening wealth gaps driven by AI automation.",
+    "name": "Draft Red Herring Prospectus (DRHP)",
+    "definition": "A preliminary registration document filed by a company with securities regulators before launching an initial public offering. It provides potential investors with detailed financial information, business operations, and risk factors, though it does not yet include final share prices or issue sizes. Companies like IL JIN Electronics use this to signal their formal move toward going public.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/06/bill-gates-tax-wealthy-billionaires-ai-inequality/"
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/ipo/amber-subsidiary-il-jin-electronics-files-drhp-proposed-ipo/55578485"
       }
     ]
   },
   "serve": {
-    "headline": "Zipline raised $1.5 billion at a $21.5 billion valuation",
-    "body": "Drone-delivery startup Zipline secured $1.5 billion in new funding to scale its autonomous logistics network. The investment comes as major retail partners like Walmart expand automated local delivery services.",
+    "headline": "Vensum Power Raised €9 Million to Cut Energy Losses for AI Data Centers",
+    "body": "The Finnish startup tackles power inefficiencies by cutting energy losses before electricity even reaches data center hardware. The funding comes as startups race to solve the severe power grid constraints facing tech infrastructure.",
     "questions": [
-      "How can logistics startups protect their margins when scaling capital-intensive hardware like drones?",
-      "What campus delivery problems at UCI could be solved faster with autonomous systems?",
-      "How would you price ultra-fast delivery services to attract college students without losing money?"
+      "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?",
+      "What funding stage makes the most sense for a climate-tech startup tackling grid losses in Europe?",
+      "If you were advising Vensum's founders, would you target software partnerships or direct utility sales first?"
     ],
     "sources": [
       {
         "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/06/startup-funding-news-today-november-6-2026-zipline-harbinger-humble-robotics-kalepa-ocient-more/"
+        "url": "https://techstartups.com/2026/11/06/finnish-startup-vensum-power-raises-e9m-to-cut-energy-losses-targets-ai-data-centers/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Retail investors sold a net $338 million in stocks Thursday.",
-      "blurb": "A late buying surge brought in over $100 million in the final 10 minutes of trading."
+      "headline": "OpenAI hit a $1.25 trillion valuation in a fresh $11 billion funding round.",
+      "blurb": "The massive investment arrives just as semiconductor stocks experienced their worst single-day drop since 2020."
     },
     {
-      "headline": "Fox completed its $22 billion acquisition of Roku.",
-      "blurb": "Executive Paul Cheesbrough will take on expanded duties across Fox's growing digital portfolio."
+      "headline": "Voters rejected data center developments in 40 out of 41 midterm ballot measures.",
+      "blurb": "Local resistance to surging electricity and water usage is creating a major roadblock for tech infrastructure."
     },
     {
-      "headline": "Federal prosecutors charged three people in a $129 million AI deepfake fraud scheme.",
-      "blurb": "Suspects allegedly used AI to impersonate corporate executives and attorneys to steal funds."
+      "headline": "Outback Steakhouse franchisee filed for bankruptcy with $449 million in debt.",
+      "blurb": "Rising overhead costs and compressed margins are hitting physical retail and restaurant operators hard."
     },
     {
-      "headline": "A Deloitte report finds 28% of companies now get revenue growth from AI.",
-      "blurb": "That figure is up from 20% earlier this year, though firms still lack full insight into ROI."
+      "headline": "Top business schools report rising stipends and stronger summer internship recruiting.",
+      "blurb": "Firms are increasing compensation and pre-placement offers for the upcoming class."
     },
     {
-      "headline": "Olivier Rioux posted 13 points and 12 rebounds in his UC Irvine debut.",
-      "blurb": "The 7-foot-9 center helped lead the Anteaters to a 92-66 win over Chapman."
+      "headline": "Microsoft AI CEO Mustafa Suleyman criticized Delaware's autonomous agent proposal.",
+      "blurb": "Suleyman called the legislative idea to let AI agents legally run corporate entities deeply concerning."
     }
   ],
-  "emailQuestion": "How can logistics startups protect their margins when scaling capital-intensive hardware like drones?"
+  "emailQuestion": "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?"
 }
