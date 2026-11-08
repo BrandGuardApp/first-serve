@@ -1,13 +1,13 @@
 {
-  "id": "2026-11-07-pm",
-  "slot": "evening",
-  "date": "2026-11-07",
-  "dateLabel": "Sat, Nov 7, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-08T02:19:44.204Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Tech valuations dip, Berkshire buys back $9.6B in stock, and UCI's 7'9 center makes history.",
+  "id": "2026-11-08-am",
+  "slot": "morning",
+  "date": "2026-11-08",
+  "dateLabel": "Sun, Nov 8, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-08T16:41:40.042Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "UC system buys $193M Ritz-Carlton, AI markets swing, and NASA opens $10B lunar contracts.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
@@ -46,24 +46,24 @@
     ]
   },
   "lead": {
-    "headline": "Tech Stocks Fall Below S&P 500 Valuation for First Time Since 2017",
-    "body": "Chip stocks fell nearly 30% over the last five weeks following recent market swings. While tech took a hit, the broader S&P 500 remained largely flat. Tech stocks are now trading at a lower valuation than the rest of the market for the first time in nine years.",
+    "headline": "UC System Purchases $193 Million Ritz-Carlton Resort",
+    "body": "The University of California's investment arm bought the Ritz-Carlton Half Moon Bay for $193 million. The luxury coastal acquisition comes as annual costs for in-state students at several UC campuses exceed $50,000.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/tech-stocks-are-now-cheaper-than-the-sp-500-for-the-first-time-since-2017--heres-what-history-says-comes-next-chart-of-the-day-130131812.html"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/07/real-estate/uc-system-buys-193-million-ritz-carlton-as-california-college-costs-top-50k/"
       }
     ],
-    "why": "When tech valuations drop below broader market averages, it resets pricing expectations across venture capital and impacts valuation models you will study in corporate finance.",
-    "kicker": "MARKETS + TECH",
+    "why": "It gives you a real look at how university endowments manage physical real estate assets while balance sheets face rising educational costs.",
+    "kicker": "Higher Ed + Asset Management",
     "figures": [
       {
-        "value": "30%",
-        "label": "chip stock drop over five weeks"
+        "value": "$193M",
+        "label": "Ritz-Carlton purchase price"
       },
       {
-        "value": "2017",
-        "label": "last time tech was cheaper than average market"
+        "value": "$50,000+",
+        "label": "Annual UC student cost"
       }
     ]
   },
@@ -73,30 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Berkshire Hathaway Expands Buybacks Despite Earnings Drop",
-          "body": "Berkshire Hathaway reported a 6% drop in third-quarter operating earnings to $12.7 billion due to weaker insurance underwriting. Despite the lower profits, the Greg Abel-led company spent $9.6 billion buying back its own stock during the quarter.",
+          "headline": "AI Stock Sell-Off Erases $2.5 Trillion Before Pausing",
+          "body": "A global sell-off in artificial intelligence stocks wiped out roughly $2.5 trillion in market value across global exchanges before US markets stabilized on Friday.",
           "sources": [
             {
-              "name": "Barron's",
-              "url": "https://www.barrons.com/articles/berkshire-hathaway-earnings-stock-price-46969b67"
-            },
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3360246/"
             }
           ],
-          "why": "Analyzing how major holding companies deploy excess cash during profit downturns gives you practical context for corporate valuation and treasury strategy."
+          "why": "Understanding sharp shifts in tech valuations helps you analyze stock market volatility and corporate earnings expectations."
         },
         {
-          "headline": "Spectrum Cable Parent Cuts $2 Billion After Subscriber Loss",
-          "body": "Charter Communications is launching an overhaul to cut $2 billion in costs over the next 18 months. The move comes after the company reported losing 233,000 internet subscribers during the third quarter.",
+          "headline": "NASA Opens $10 Billion Contract Framework for Moon Base Deliveries",
+          "body": "NASA made SpaceX, Blue Origin, and six other aerospace firms eligible to compete for up to $10 billion in lunar logistics contracts to build a permanent base on the moon.",
           "sources": [
             {
-              "name": "| Cord Cutters News",
-              "url": "https://cordcuttersnews.com/spectrum-cable-tv-is-in-trouble-as-it-races-to-cut-2-billion-in-costs-change-the-company/"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush"
             }
           ],
-          "why": "Understanding major corporate turnarounds and aggressive cost reduction programs is essential preparation for consulting case studies."
+          "why": "It highlights how government agencies contract with private commercial companies to build out large-scale infrastructure."
         }
       ]
     },
@@ -105,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic Uses AI to Speed Up AI Model Development",
-          "body": "Anthropic is using its existing artificial intelligence to build its next generation of models. The internal automation has doubled the speed of model improvements over the past year, even as the company publicly advocates for slowing down development.",
+          "headline": "Sam Altman Addresses Researcher Exits from OpenAI",
+          "body": "OpenAI chief executive Sam Altman publicly addressed why key researchers and co-founders left the company, noting high technical stakes encourage builders to start independent companies.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-revealed-why-smartest-people-at-openai-quit-to-build-their-own-ai/articleshow/135650695.cms"
             }
           ],
-          "why": "AI-driven development speeds up product cycles, lowering the technical hurdle for software startups."
+          "why": "Knowing how top technical talent moves helps you evaluate startup spin-offs and team risk in early stage ventures."
         },
         {
-          "headline": "Nvidia CEO Targeted in Chinese Intelligence Operation",
-          "body": "US officials reported that China's intelligence agency recruited an executive at data center firm Megaspeed to target Nvidia CEO Jensen Huang. The revelation underscores rising national security concerns around semiconductor leadership.",
+          "headline": "AI Data Centers Cause Local Water Shortages in Indonesia",
+          "body": "Residents on Batam island protested as rapid construction of data centers supporting global AI workloads depleted local water supplies needed for daily cooking and bathing.",
           "sources": [
             {
-              "name": "Engadget",
-              "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/08/can039t-cook-or-shower-indonesians-take-aim-at-data-centres"
             }
           ],
-          "why": "Geopolitical risks directly affect semiconductor supply chains and hardware startup planning."
+          "why": "Infrastructure constraints like power and water are becoming major risk factors for tech companies scaling compute resources."
         }
       ]
     },
@@ -133,26 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Urges Companies to Overhaul Cybersecurity for AI Era",
-          "body": "A new McKinsey report states that businesses must rebuild their cybersecurity strategies as frontier AI tools make it faster for attackers to find software vulnerabilities. The firm recommends rising investments in automated threat detection.",
+          "headline": "McKinsey Study Explores Capturing CEO Decision-Making with AI",
+          "body": "A new McKinsey report details how firms can use AI systems to record executive decision-making models, sharing leadership knowledge across large organizations.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/"
+            }
+          ],
+          "why": "Useful context for corporate strategy cases on organizational structure and executive continuity."
+        },
+        {
+          "headline": "Business Schools Report Higher Internship Stipends and Hiring",
+          "body": "Top business programs report increased corporate participation and higher median stipends for summer internship recruiting across financial and corporate sectors.",
           "sources": [
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/internship-hiring-picks-up-at-top-b-schools-stipends-rise/articleshow/135584333.cms"
             }
           ],
-          "why": "Consulting firms build major service practices around emerging technology risks, pointing to key areas for future advisory roles."
-        },
-        {
-          "headline": "Deloitte Finds 28% of Companies See AI Revenue Growth",
-          "body": "Deloitte reported that 28% of surveyed businesses now see direct revenue growth from AI investments, up from 20% earlier this year. However, many executives still lack clear data on which specific AI tools generate those returns.",
-          "sources": [
-            {
-              "name": "TechRadar",
-              "url": "https://www.techradar.com/pro/the-progress-is-real-deloitte-report-claims-some-firms-are-finally-seeing-return-on-ai-investment-but-still-lack-insight-into-what-actually-works"
-            }
-          ],
-          "why": "Measuring return on tech spending is a core task for management consultants and corporate strategy teams."
+          "why": "Shows positive momentum in early-career corporate recruiting as you prepare your own summer internship search."
         }
       ]
     },
@@ -161,20 +157,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Olivier Rioux Stars in UC Irvine Debut Victory",
-          "body": "7-foot-9 center Olivier Rioux made his debut for UC Irvine on Tuesday, recording 13 points and 12 rebounds in 18 minutes. The Anteaters defeated Chapman 92-66 in their season opener at the Bren Events Center.",
+          "headline": "UC Irvine Women's Basketball Falls to No. 11 UCLA",
+          "body": "The Anteaters dropped a 78-42 road game to 11th-ranked UCLA at Pauley Pavilion on Thursday night.",
           "sources": [
             {
-              "name": "USA TODAY",
-              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
-            },
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
+              "name": "Ventura County Star",
+              "url": "https://www.vcstar.com/story/sports/college/ucla/womens-basketball/2026/11/06/ucla-head-coach-cori-close-apeaks-after-lopsided-win-over-uc-irvine-womens-college-basketball/92647215007/"
             },
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
+              "url": "https://www.ocregister.com/2026/11/05/ucla-women-find-defensive-identity-in-rout-of-uc-irvine/"
             }
           ]
         }
@@ -185,12 +177,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Rafael Jodar Qualifies for ATP World Tour Finals",
-          "body": "20-year-old Rafael Jodar secured his spot in the season-ending ATP World Tour Finals in Turin. The achievement comes during his debut season on the ATP Tour.",
+          "headline": "Carlos Alcaraz Reaches Paris Masters Final to Face Ben Shelton",
+          "body": "Carlos Alcaraz extended his match winning streak to eight games, setting up a Paris Masters final clash against Ben Shelton.",
           "sources": [
             {
-              "name": "Times Now",
-              "url": "https://www.timesnownews.com/sports/tennis/20-year-old-rafael-jodar-creates-history-becomes-first-player-in-tennis-history-to-claim-unprecedented-feat-article-156478902"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/i-really-want-revenge-carlos-alcaraz-on-us-open-rematch-against-ben-shelton-in-paris-masters-final-101794105218555.html"
             }
           ]
         }
@@ -198,55 +190,51 @@
     }
   ],
   "term": {
-    "name": "Share Repurchase",
-    "definition": "When a company buys back its own stock from the open market using available cash. This reduces the number of shares outstanding, increasing each remaining share's slice of ownership and boosting earnings per share. Berkshire Hathaway made news today by repurchasing $9.6 billion of its stock in Q3.",
+    "name": "Capital Allocation",
+    "definition": "How an institution or company chooses to distribute its financial resources among investments, property, operational needs, or cash reserves. The UC system showed capital allocation in action by investing $193 million in a hotel resort asset while tuition and student costs remain high.",
     "sources": [
       {
-        "name": "Barron's",
-        "url": "https://www.barrons.com/articles/berkshire-hathaway-earnings-stock-price-46969b67"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/07/real-estate/uc-system-buys-193-million-ritz-carlton-as-california-college-costs-top-50k/"
       }
     ]
   },
   "serve": {
-    "headline": "Zipline raised $1.5B at a $21.5B valuation for drone delivery",
-    "body": "Drone delivery startup Zipline raised $1.5 billion in new capital as Walmart prepares to scale drone shipping. The financing values the autonomous logistics company at $21.5 billion.",
+    "headline": "OpenAI Executives Spin Out to Build AI Startups",
+    "body": "Top talent and co-founders at OpenAI have departed the company to launch independent ventures. Chief executive Sam Altman explained that high stakes lead key builders to create their own startups rather than remain at established firms.",
     "questions": [
-      "How could autonomous delivery networks optimize last-mile logistics across campus environments like UCI?",
-      "What operational hurdles must hardware startups solve before scaling direct-to-consumer delivery?",
-      "How do venture capitalists evaluate capital-intensive infrastructure startups compared to software businesses?"
+      "What unique technical insight would persuade you to leave an established company to launch a startup?",
+      "How can early-stage AI startups compete against well-capitalized incumbents for top engineering talent?",
+      "What operational problem on campus could be solved by a targeted AI tool?"
     ],
     "sources": [
       {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/06/startup-funding-news-today-november-6-2026-zipline-harbinger-humble-robotics-kalepa-ocient-more/"
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-revealed-why-smartest-people-at-openai-quit-to-build-their-own-ai/articleshow/135650695.cms"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Tech stocks fall below S&P 500 valuation for first time since 2017.",
-      "blurb": "Chip stocks lost nearly 30% in five weeks while broader markets stayed flat."
+      "headline": "UC system spends $193M on Ritz-Carlton resort.",
+      "blurb": "The purchase comes as student costs top $50,000 annually."
     },
     {
-      "headline": "Berkshire Hathaway accelerates buybacks to $9.6 billion.",
-      "blurb": "Operating earnings fell 6% in Q3 due to weaker insurance underwriting."
+      "headline": "Global AI stocks wipe out $2.5 trillion before easing.",
+      "blurb": "Markets stabilized on Friday after sharp tech sell-offs."
     },
     {
-      "headline": "Anthropic uses AI to double the pace of its model development.",
-      "blurb": "Internal automation is accelerating research even as the company calls for slower AI progress."
+      "headline": "NASA opens $10B Moon base delivery contract framework.",
+      "blurb": "SpaceX, Blue Origin, and six others join the bidding."
     },
     {
-      "headline": "McKinsey calls for total cybersecurity overhauls due to AI risks.",
-      "blurb": "Advanced AI tools make it significantly easier for cyberattackers to find software flaws."
+      "headline": "OpenAI talent exits to launch independent AI ventures.",
+      "blurb": "Sam Altman noted high stakes encourage builders to spin out."
     },
     {
-      "headline": "7-foot-9 center Olivier Rioux posts double-double in UC Irvine debut.",
-      "blurb": "Rioux logged 13 points and 12 rebounds in an opening win over Chapman."
+      "headline": "McKinsey outlines using AI to capture CEO decision-making.",
+      "blurb": "The report focuses on distributing executive knowledge across firms."
     }
   ],
-  "emailQuestion": "How could autonomous delivery networks optimize last-mile logistics across campus environments like UCI?"
+  "emailQuestion": "What unique technical insight would persuade you to leave an established company to launch a startup?"
 }

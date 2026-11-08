@@ -1,0 +1,240 @@
+{
+  "id": "2026-11-08-am",
+  "slot": "morning",
+  "date": "2026-11-08",
+  "dateLabel": "Sun, Nov 8, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-08T16:41:40.042Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "UC system buys $193M Ritz-Carlton, AI markets swing, and NASA opens $10B lunar contracts.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 6",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,377",
+        "change": "+0.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,579",
+        "change": "+1.09%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,286",
+        "change": "−0.46%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.86%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,075",
+        "change": "−0.94%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "UC System Purchases $193 Million Ritz-Carlton Resort",
+    "body": "The University of California's investment arm bought the Ritz-Carlton Half Moon Bay for $193 million. The luxury coastal acquisition comes as annual costs for in-state students at several UC campuses exceed $50,000.",
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/07/real-estate/uc-system-buys-193-million-ritz-carlton-as-california-college-costs-top-50k/"
+      }
+    ],
+    "why": "It gives you a real look at how university endowments manage physical real estate assets while balance sheets face rising educational costs.",
+    "kicker": "Higher Ed + Asset Management",
+    "figures": [
+      {
+        "value": "$193M",
+        "label": "Ritz-Carlton purchase price"
+      },
+      {
+        "value": "$50,000+",
+        "label": "Annual UC student cost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "AI Stock Sell-Off Erases $2.5 Trillion Before Pausing",
+          "body": "A global sell-off in artificial intelligence stocks wiped out roughly $2.5 trillion in market value across global exchanges before US markets stabilized on Friday.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3360246/"
+            }
+          ],
+          "why": "Understanding sharp shifts in tech valuations helps you analyze stock market volatility and corporate earnings expectations."
+        },
+        {
+          "headline": "NASA Opens $10 Billion Contract Framework for Moon Base Deliveries",
+          "body": "NASA made SpaceX, Blue Origin, and six other aerospace firms eligible to compete for up to $10 billion in lunar logistics contracts to build a permanent base on the moon.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush"
+            }
+          ],
+          "why": "It highlights how government agencies contract with private commercial companies to build out large-scale infrastructure."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Sam Altman Addresses Researcher Exits from OpenAI",
+          "body": "OpenAI chief executive Sam Altman publicly addressed why key researchers and co-founders left the company, noting high technical stakes encourage builders to start independent companies.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-revealed-why-smartest-people-at-openai-quit-to-build-their-own-ai/articleshow/135650695.cms"
+            }
+          ],
+          "why": "Knowing how top technical talent moves helps you evaluate startup spin-offs and team risk in early stage ventures."
+        },
+        {
+          "headline": "AI Data Centers Cause Local Water Shortages in Indonesia",
+          "body": "Residents on Batam island protested as rapid construction of data centers supporting global AI workloads depleted local water supplies needed for daily cooking and bathing.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/08/can039t-cook-or-shower-indonesians-take-aim-at-data-centres"
+            }
+          ],
+          "why": "Infrastructure constraints like power and water are becoming major risk factors for tech companies scaling compute resources."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Study Explores Capturing CEO Decision-Making with AI",
+          "body": "A new McKinsey report details how firms can use AI systems to record executive decision-making models, sharing leadership knowledge across large organizations.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/"
+            }
+          ],
+          "why": "Useful context for corporate strategy cases on organizational structure and executive continuity."
+        },
+        {
+          "headline": "Business Schools Report Higher Internship Stipends and Hiring",
+          "body": "Top business programs report increased corporate participation and higher median stipends for summer internship recruiting across financial and corporate sectors.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/internship-hiring-picks-up-at-top-b-schools-stipends-rise/articleshow/135584333.cms"
+            }
+          ],
+          "why": "Shows positive momentum in early-career corporate recruiting as you prepare your own summer internship search."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Women's Basketball Falls to No. 11 UCLA",
+          "body": "The Anteaters dropped a 78-42 road game to 11th-ranked UCLA at Pauley Pavilion on Thursday night.",
+          "sources": [
+            {
+              "name": "Ventura County Star",
+              "url": "https://www.vcstar.com/story/sports/college/ucla/womens-basketball/2026/11/06/ucla-head-coach-cori-close-apeaks-after-lopsided-win-over-uc-irvine-womens-college-basketball/92647215007/"
+            },
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/05/ucla-women-find-defensive-identity-in-rout-of-uc-irvine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Reaches Paris Masters Final to Face Ben Shelton",
+          "body": "Carlos Alcaraz extended his match winning streak to eight games, setting up a Paris Masters final clash against Ben Shelton.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/i-really-want-revenge-carlos-alcaraz-on-us-open-rematch-against-ben-shelton-in-paris-masters-final-101794105218555.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Capital Allocation",
+    "definition": "How an institution or company chooses to distribute its financial resources among investments, property, operational needs, or cash reserves. The UC system showed capital allocation in action by investing $193 million in a hotel resort asset while tuition and student costs remain high.",
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/07/real-estate/uc-system-buys-193-million-ritz-carlton-as-california-college-costs-top-50k/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "OpenAI Executives Spin Out to Build AI Startups",
+    "body": "Top talent and co-founders at OpenAI have departed the company to launch independent ventures. Chief executive Sam Altman explained that high stakes lead key builders to create their own startups rather than remain at established firms.",
+    "questions": [
+      "What unique technical insight would persuade you to leave an established company to launch a startup?",
+      "How can early-stage AI startups compete against well-capitalized incumbents for top engineering talent?",
+      "What operational problem on campus could be solved by a targeted AI tool?"
+    ],
+    "sources": [
+      {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-revealed-why-smartest-people-at-openai-quit-to-build-their-own-ai/articleshow/135650695.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "UC system spends $193M on Ritz-Carlton resort.",
+      "blurb": "The purchase comes as student costs top $50,000 annually."
+    },
+    {
+      "headline": "Global AI stocks wipe out $2.5 trillion before easing.",
+      "blurb": "Markets stabilized on Friday after sharp tech sell-offs."
+    },
+    {
+      "headline": "NASA opens $10B Moon base delivery contract framework.",
+      "blurb": "SpaceX, Blue Origin, and six others join the bidding."
+    },
+    {
+      "headline": "OpenAI talent exits to launch independent AI ventures.",
+      "blurb": "Sam Altman noted high stakes encourage builders to spin out."
+    },
+    {
+      "headline": "McKinsey outlines using AI to capture CEO decision-making.",
+      "blurb": "The report focuses on distributing executive knowledge across firms."
+    }
+  ],
+  "emailQuestion": "What unique technical insight would persuade you to leave an established company to launch a startup?"
+}
