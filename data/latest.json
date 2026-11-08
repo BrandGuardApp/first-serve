@@ -1,14 +1,14 @@
 {
-  "id": "2026-11-07-am",
-  "slot": "morning",
+  "id": "2026-11-07-pm",
+  "slot": "evening",
   "date": "2026-11-07",
   "dateLabel": "Sat, Nov 7, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-07T18:41:05.331Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "OpenAI hits $1.25T, chip stocks suffer their worst day since 2020, and midterm results impact tech.",
-  "storyCount": 10,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-08T02:19:44.204Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Tech valuations dip, Berkshire buys back $9.6B in stock, and UCI's 7'9 center makes history.",
+  "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 6",
@@ -46,32 +46,24 @@
     ]
   },
   "lead": {
-    "headline": "OpenAI Hits $1.25 Trillion Valuation as Chip Stocks Experience Their Worst Day Since 2020",
-    "body": "OpenAI secured an $11 billion funding round that pushes its valuation to $1.25 trillion. At the same time, the broader semiconductor sector suffered its sharpest one-day drop since March 2020 as investors grappled with high valuations and rising infrastructure pushback.",
+    "headline": "Tech Stocks Fall Below S&P 500 Valuation for First Time Since 2017",
+    "body": "Chip stocks fell nearly 30% over the last five weeks following recent market swings. While tech took a hit, the broader S&P 500 remained largely flat. Tech stocks are now trading at a lower valuation than the rest of the market for the first time in nine years.",
     "sources": [
       {
-        "name": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/11/07/a-retiree-who-bought-1000-nvidia-shares-at-122-just-watched-chips-have-their-worst-day-since-2020/"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/tech-stocks-are-now-cheaper-than-the-sp-500-for-the-first-time-since-2017--heres-what-history-says-comes-next-chart-of-the-day-130131812.html"
       }
     ],
-    "why": "Valuations at this scale shift how tech giants and venture capitalists look at future cash flows, which directly impacts the startup and investing landscape you study in Merage.",
-    "kicker": "Markets + AI",
+    "why": "When tech valuations drop below broader market averages, it resets pricing expectations across venture capital and impacts valuation models you will study in corporate finance.",
+    "kicker": "MARKETS + TECH",
     "figures": [
       {
-        "value": "$1.25 trillion",
-        "label": "OpenAI valuation"
+        "value": "30%",
+        "label": "chip stock drop over five weeks"
       },
       {
-        "value": "$11 billion",
-        "label": "New funding raised"
-      },
-      {
-        "value": "12.25%",
-        "label": "Semiconductor index drop"
+        "value": "2017",
+        "label": "last time tech was cheaper than average market"
       }
     ]
   },
@@ -81,26 +73,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Voters Push Back Hard Against New Data Center Construction",
-          "body": "Voters rejected data center development in 40 out of 41 midterm ballot measures. Local opposition to surging power and water demands is creating major hurdles for tech infrastructure growth.",
+          "headline": "Berkshire Hathaway Expands Buybacks Despite Earnings Drop",
+          "body": "Berkshire Hathaway reported a 6% drop in third-quarter operating earnings to $12.7 billion due to weaker insurance underwriting. Despite the lower profits, the Greg Abel-led company spent $9.6 billion buying back its own stock during the quarter.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres"
+              "name": "Barron's",
+              "url": "https://www.barrons.com/articles/berkshire-hathaway-earnings-stock-price-46969b67"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
             }
           ],
-          "why": "Data centers are the physical backbone of the AI boom. Understanding local zoning limits will help you evaluate tech infrastructure investments."
+          "why": "Analyzing how major holding companies deploy excess cash during profit downturns gives you practical context for corporate valuation and treasury strategy."
         },
         {
-          "headline": "Outback Steakhouse Franchisee Files for Bankruptcy with $449 Million in Debt",
-          "body": "A major Outback Steakhouse franchisee filed for Chapter 11 bankruptcy due to high overhead and rising operational costs in California and nationwide. Industry experts warn that businesses must quickly adapt to margin pressures.",
+          "headline": "Spectrum Cable Parent Cuts $2 Billion After Subscriber Loss",
+          "body": "Charter Communications is launching an overhaul to cut $2 billion in costs over the next 18 months. The move comes after the company reported losing 233,000 internet subscribers during the third quarter.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses"
+              "name": "| Cord Cutters News",
+              "url": "https://cordcuttersnews.com/spectrum-cable-tv-is-in-trouble-as-it-races-to-cut-2-billion-in-costs-change-the-company/"
             }
           ],
-          "why": "This is a great real-world case study for corporate finance classes on how mounting debt and compressed margins sink physical retail operations."
+          "why": "Understanding major corporate turnarounds and aggressive cost reduction programs is essential preparation for consulting case studies."
         }
       ]
     },
@@ -109,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "OpenAI to Press Ahead With US Data Center Expansion Despite Political Shifts",
-          "body": "OpenAI CFO Sarah Friar confirmed the company will keep expanding US data centers to meet surging demand. The firm is trying to smooth over local tensions by dropping nondisclosure agreements with public officials.",
+          "headline": "Anthropic Uses AI to Speed Up AI Model Development",
+          "body": "Anthropic is using its existing artificial intelligence to build its next generation of models. The internal automation has doubled the speed of model improvements over the past year, even as the company publicly advocates for slowing down development.",
           "sources": [
             {
-              "name": "The Indian Express",
-              "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
             }
           ],
-          "why": "Managing community relations and massive capital expenditure is a huge part of scaling AI infrastructure. Keep this in mind when analyzing tech strategy."
+          "why": "AI-driven development speeds up product cycles, lowering the technical hurdle for software startups."
         },
         {
-          "headline": "Microsoft AI CEO Mustafa Suleyman Warns Against Autonomous Corporate Agents",
-          "body": "Microsoft AI CEO Mustafa Suleyman criticized a proposed Delaware law that would let autonomous AI agents legally manage and operate corporate entities. He called the initiative deeply concerning.",
+          "headline": "Nvidia CEO Targeted in Chinese Intelligence Operation",
+          "body": "US officials reported that China's intelligence agency recruited an executive at data center firm Megaspeed to target Nvidia CEO Jensen Huang. The revelation underscores rising national security concerns around semiconductor leadership.",
           "sources": [
             {
-              "name": "Times of India",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-reacts-to-delawares-ai-agent-proposal-says-it-is-deeply-concerning-to-/articleshow/135627622.cms"
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/"
             }
           ],
-          "why": "Corporate governance and legal structures are foundational to business strategy. AI agents running companies would completely rewrite corporate law."
+          "why": "Geopolitical risks directly affect semiconductor supply chains and hardware startup planning."
         }
       ]
     },
@@ -137,26 +133,50 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Top B-Schools Report Rising Summer Internship Stipends and Stronger Recruitment",
-          "body": "Recruiters are stepping up summer internship hiring for the 2026-28 batch, with top business schools noting higher median stipends. Pre-placement offers and interview conversions are also on the rise.",
+          "headline": "McKinsey Urges Companies to Overhaul Cybersecurity for AI Era",
+          "body": "A new McKinsey report states that businesses must rebuild their cybersecurity strategies as frontier AI tools make it faster for attackers to find software vulnerabilities. The firm recommends rising investments in automated threat detection.",
           "sources": [
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/internship-hiring-picks-up-at-top-b-schools-stipends-rise/articleshow/135584333.cms"
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
             }
           ],
-          "why": "Summer internship recruiting is coming up fast for your cohort. These trends show that finance, consulting, and tech firms are still investing heavily in top business talent."
+          "why": "Consulting firms build major service practices around emerging technology risks, pointing to key areas for future advisory roles."
         },
         {
-          "headline": "Consulting Firm Teneo Launches Canadian Restructuring Unit With Ex-Deloitte Hire",
-          "body": "Teneo expanded its domestic platform by hiring the former head of Deloitte's restructuring and insolvency group to lead a new 50-person advisory unit in Toronto.",
+          "headline": "Deloitte Finds 28% of Companies See AI Revenue Growth",
+          "body": "Deloitte reported that 28% of surveyed businesses now see direct revenue growth from AI investments, up from 20% earlier this year. However, many executives still lack clear data on which specific AI tools generate those returns.",
           "sources": [
             {
-              "name": "The Globe and Mail",
-              "url": "https://www.theglobeandmail.com/business/article-consulting-firm-teneo-hires-phil-reynolds-canadian-restructuring-team/"
+              "name": "TechRadar",
+              "url": "https://www.techradar.com/pro/the-progress-is-real-deloitte-report-claims-some-firms-are-finally-seeing-return-on-ai-investment-but-still-lack-insight-into-what-actually-works"
             }
           ],
-          "why": "If you are looking at consulting roles, restructuring and financial advisory are growing fields as companies navigate shifting debt and market corrections."
+          "why": "Measuring return on tech spending is a core task for management consultants and corporate strategy teams."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Olivier Rioux Stars in UC Irvine Debut Victory",
+          "body": "7-foot-9 center Olivier Rioux made his debut for UC Irvine on Tuesday, recording 13 points and 12 rebounds in 18 minutes. The Anteaters defeated Chapman 92-66 in their season opener at the Bren Events Center.",
+          "sources": [
+            {
+              "name": "USA TODAY",
+              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
+            },
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/03/uc-irvine-blows-out-chapman-in-season-opener/"
+            }
+          ]
         }
       ]
     },
@@ -165,12 +185,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Sorana Cirstea Retires From Professional Tennis With Immediate Effect",
-          "body": "World No. 15 Sorana Cirstea ended her career immediately following a straight-sets defeat to a qualifier at the Hong Kong Tennis Open. She had previously stated that 2026 would be her final year on tour.",
+          "headline": "Rafael Jodar Qualifies for ATP World Tour Finals",
+          "body": "20-year-old Rafael Jodar secured his spot in the season-ending ATP World Tour Finals in Turin. The achievement comes during his debut season on the ATP Tour.",
           "sources": [
             {
-              "name": "The Sun",
-              "url": "https://www.thesun.co.uk/sport/40944027/tennis-sorana-cirstea-retires-hong-kong-open/"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/20-year-old-rafael-jodar-creates-history-becomes-first-player-in-tennis-history-to-claim-unprecedented-feat-article-156478902"
             }
           ]
         }
@@ -178,51 +198,55 @@
     }
   ],
   "term": {
-    "name": "Draft Red Herring Prospectus (DRHP)",
-    "definition": "A preliminary registration document filed by a company with securities regulators before launching an initial public offering. It provides potential investors with detailed financial information, business operations, and risk factors, though it does not yet include final share prices or issue sizes. Companies like IL JIN Electronics use this to signal their formal move toward going public.",
+    "name": "Share Repurchase",
+    "definition": "When a company buys back its own stock from the open market using available cash. This reduces the number of shares outstanding, increasing each remaining share's slice of ownership and boosting earnings per share. Berkshire Hathaway made news today by repurchasing $9.6 billion of its stock in Q3.",
     "sources": [
       {
-        "name": "scanx.trade",
-        "url": "https://scanx.trade/stock-market-news/ipo/amber-subsidiary-il-jin-electronics-files-drhp-proposed-ipo/55578485"
+        "name": "Barron's",
+        "url": "https://www.barrons.com/articles/berkshire-hathaway-earnings-stock-price-46969b67"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
       }
     ]
   },
   "serve": {
-    "headline": "Vensum Power Raised €9 Million to Cut Energy Losses for AI Data Centers",
-    "body": "The Finnish startup tackles power inefficiencies by cutting energy losses before electricity even reaches data center hardware. The funding comes as startups race to solve the severe power grid constraints facing tech infrastructure.",
+    "headline": "Zipline raised $1.5B at a $21.5B valuation for drone delivery",
+    "body": "Drone delivery startup Zipline raised $1.5 billion in new capital as Walmart prepares to scale drone shipping. The financing values the autonomous logistics company at $21.5 billion.",
     "questions": [
-      "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?",
-      "What funding stage makes the most sense for a climate-tech startup tackling grid losses in Europe?",
-      "If you were advising Vensum's founders, would you target software partnerships or direct utility sales first?"
+      "How could autonomous delivery networks optimize last-mile logistics across campus environments like UCI?",
+      "What operational hurdles must hardware startups solve before scaling direct-to-consumer delivery?",
+      "How do venture capitalists evaluate capital-intensive infrastructure startups compared to software businesses?"
     ],
     "sources": [
       {
         "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/06/finnish-startup-vensum-power-raises-e9m-to-cut-energy-losses-targets-ai-data-centers/"
+        "url": "https://techstartups.com/2026/11/06/startup-funding-news-today-november-6-2026-zipline-harbinger-humble-robotics-kalepa-ocient-more/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "OpenAI hit a $1.25 trillion valuation in a fresh $11 billion funding round.",
-      "blurb": "The massive investment arrives just as semiconductor stocks experienced their worst single-day drop since 2020."
+      "headline": "Tech stocks fall below S&P 500 valuation for first time since 2017.",
+      "blurb": "Chip stocks lost nearly 30% in five weeks while broader markets stayed flat."
     },
     {
-      "headline": "Voters rejected data center developments in 40 out of 41 midterm ballot measures.",
-      "blurb": "Local resistance to surging electricity and water usage is creating a major roadblock for tech infrastructure."
+      "headline": "Berkshire Hathaway accelerates buybacks to $9.6 billion.",
+      "blurb": "Operating earnings fell 6% in Q3 due to weaker insurance underwriting."
     },
     {
-      "headline": "Outback Steakhouse franchisee filed for bankruptcy with $449 million in debt.",
-      "blurb": "Rising overhead costs and compressed margins are hitting physical retail and restaurant operators hard."
+      "headline": "Anthropic uses AI to double the pace of its model development.",
+      "blurb": "Internal automation is accelerating research even as the company calls for slower AI progress."
     },
     {
-      "headline": "Top business schools report rising stipends and stronger summer internship recruiting.",
-      "blurb": "Firms are increasing compensation and pre-placement offers for the upcoming class."
+      "headline": "McKinsey calls for total cybersecurity overhauls due to AI risks.",
+      "blurb": "Advanced AI tools make it significantly easier for cyberattackers to find software flaws."
     },
     {
-      "headline": "Microsoft AI CEO Mustafa Suleyman criticized Delaware's autonomous agent proposal.",
-      "blurb": "Suleyman called the legislative idea to let AI agents legally run corporate entities deeply concerning."
+      "headline": "7-foot-9 center Olivier Rioux posts double-double in UC Irvine debut.",
+      "blurb": "Rioux logged 13 points and 12 rebounds in an opening win over Chapman."
     }
   ],
-  "emailQuestion": "How does a startup pitch a hardware-efficiency solution to a data center client already facing massive capital constraints?"
+  "emailQuestion": "How could autonomous delivery networks optimize last-mile logistics across campus environments like UCI?"
 }
