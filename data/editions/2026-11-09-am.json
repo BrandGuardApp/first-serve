@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-09-am",
+  "slot": "morning",
+  "date": "2026-11-09",
+  "dateLabel": "Mon, Nov 9, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-09T18:42:44.223Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia probes CEO Jensen Huang, tech stocks rebound, and Coco Gauff wins at WTA Finals.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "1:38 PM ET, Nov 9",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,548",
+        "change": "+2.32%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,202",
+        "change": "+2.53%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,421",
+        "change": "+2.21%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.87%",
+        "change": "+1 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,113",
+        "change": "+0.94%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia investigates CEO Jensen Huang over alleged ties to a Chinese intelligence effort",
+    "body": "Nvidia's board launched an independent investigation into co-founder and CEO Jensen Huang after he disclosed a relationship with a Chinese business executive named Alice Huang. U.S. officials including Secretary of State Marco Rubio had previously warned top officials about the connection, though the board stated it has no reason to believe national security was compromised. Meanwhile, major tech stocks and Asian markets bounced back following last week's sharp midterms sell-off.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/marco-rubio-warned-trump-officials-nvidia-ceo-jensen-huang-affair-chinese-spy-foreign-intelligence-latest-news-101794202912266.html"
+      }
+    ],
+    "why": "As an investor and business student, watch how board governance handles key-person risk at a trillion-dollar market leader. It is a masterclass in how leadership scandals can instantly shake tech valuations.",
+    "kicker": "Markets & Leadership",
+    "figures": [
+      {
+        "value": "50-50",
+        "label": "Yale expert's odds on Huang staying"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "U.S. agencies warn that industrial refrigeration hacks can cause fires and inventory loss",
+          "body": "Federal authorities issued warnings after hackers manipulated refrigeration controllers at hundreds of European supermarkets to spoil food. Threat actors are actively targeting global cold-chain and industrial systems, creating service disruptions and fire hazards.",
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"
+            }
+          ],
+          "why": "This is a massive risk for supply chain management and retail operations. As you look at corporate strategy and consulting, supply chain security is becoming a major operational vulnerability."
+        },
+        {
+          "headline": "Citi raises its Nifty 50 index target to 28,000 on improved earnings outlook",
+          "body": "Global investment bank Citi bumped up its target for India's Nifty 50 index from 26,000. The upgrade is driven by a favorable earnings outlook, lower crude oil prices, and a slowdown in artificial intelligence capital expenditure growth.",
+          "sources": [
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351"
+            }
+          ],
+          "why": "Keep this on your radar for international portfolio allocation. Macro shifts in emerging markets heavily influence global capital flows and valuation multiples."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "McKinsey warns that rapid AI analysis risks slowing human decision-making",
+          "body": "A new McKinsey report highlights that while artificial intelligence makes business analysis significantly faster, human decision-making is struggling to keep pace. This gap risks increasing strategic risks and weakening the pipeline for future business leaders.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/mckinsey-warns-ai-driven-analysis-could-slow-decision-making-weaken-future-leadership-pipeline-11794206292051.html"
+            }
+          ],
+          "why": "Directly relevant to your classes at Merage. Relying purely on automated analysis without building core decision-making reps could stunt your generation's leadership growth."
+        },
+        {
+          "headline": "Samsung tests Galaxy AI Premium as a paid subscription tier",
+          "body": "Samsung is trying out a paid subscription plan called Galaxy AI Premium. The tier offers extra AI credits, automated Bixby task handling, and generative AI video creation tools built from user photos.",
+          "sources": [
+            {
+              "name": "SammyGuru",
+              "url": "https://sammyguru.com/exclusive-galaxy-ai-premium-subscription/"
+            }
+          ],
+          "why": "Useful for understanding how hardware giants plan to monetize software. Subscription models in consumer tech are crucial case studies for pricing strategy."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Young professionals pivot to entrepreneurship as AI reshapes entry-level jobs",
+          "body": "Entrepreneurship is accelerating among twenty-somethings in America as artificial intelligence alters traditional entry-level corporate jobs. Younger workers are increasingly skipping standard career launchpads to start their own companies instead.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/global/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-11794187091632.html"
+            }
+          ],
+          "why": "As a freshman eyeing startups, this trend shows how lowering technical barriers via AI lets founders launch lean companies much earlier in their careers."
+        },
+        {
+          "headline": "McKinsey advises companies to overhaul cybersecurity as AI accelerates attacks",
+          "body": "Consulting giant McKinsey released a report urging companies to fundamentally upgrade their cybersecurity strategies. The firm stresses increased spending on automated threat detection because frontier AI makes it much easier for hackers to exploit software vulnerabilities.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
+            }
+          ],
+          "why": "Cybersecurity consulting is a massive growth vector. If you pursue management consulting or tech investing, understanding how firms audit digital risk is vital."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Jovan Jester Jr. scores 24 points as UC Irvine men's basketball defeats San Jose State 91-79",
+          "body": "Jovan Jester Jr. put up 24 points and grabbed eight rebounds to lead the Anteaters to a 91-79 win at the Bren Events Center. UC Irvine opened the game with the first 13 points and held a 20-point halftime lead to move to 2-0 on the season.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Coco Gauff defeats Jessica Pegula in a three-set thriller at the WTA Finals opener",
+          "body": "Coco Gauff overcame compatriot Jessica Pegula 6-4, 6-7, 6-2 in a grueling two-hour and thirty-nine minute match to start her WTA Finals campaign at Indian Wells. In another match, Czech player Linda Noskova defeated Marta Kostyuk 6-2, 6-4.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13610050/wta-finals-coco-gauff-defeats-jessica-pegula-in-thriller-at-indian-wells-as-linda-noskova-beats-marta-kostyuk"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/wta-finals-gauff-triumphs-over-pegula-in-opener-noskova-also-secures-victory-a001-w02/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Key-Person Risk",
+    "definition": "The financial and operational vulnerability a company faces when its success is heavily tied to a single individual, such as a celebrity CEO. When that leader faces sudden investigations or scandals, the entire enterprise value can instantly reprice. Nvidia is currently experiencing this exact phenomenon with Jensen Huang.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Terafab targets massive memory manufacturing capacity to rival Samsung",
+    "body": "Terafab, a chip manufacturing joint venture between SpaceX and Tesla, told equipment suppliers it aims for a production capacity of roughly 700,000 to 1 million wafers per month. The ambitious scale is designed to ensure a steady supply of logic and memory chips for its hardware systems.",
+    "questions": [
+      "How does vertical integration protect a hardware-heavy startup from supply chain shocks?",
+      "What are the capital expenditure risks of building custom manufacturing facilities right out of the gate?",
+      "How can a joint venture scale fast enough to compete with established legacy giants like Samsung?"
+    ],
+    "sources": [
+      {
+        "name": "Wccftech",
+        "url": "https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia investigates CEO Jensen Huang",
+      "blurb": "The chipmaker's board launched a probe following reports involving a Chinese intelligence effort."
+    },
+    {
+      "headline": "U.S. warns of refrigeration cyberattacks",
+      "blurb": "Hackers are targeting cold-chain systems globally, risking inventory loss and physical safety hazards."
+    },
+    {
+      "headline": "Citi raises Nifty 50 target to 28,000",
+      "blurb": "India's market outlook improves on stronger earnings visibility and a slowdown in tech capex."
+    },
+    {
+      "headline": "McKinsey flags AI decision lag",
+      "blurb": "Faster machine analysis is outstripping human decision-making, threatening future leadership development."
+    },
+    {
+      "headline": "Coco Gauff opens WTA Finals with a win",
+      "blurb": "The American tennis star outlasted Jessica Pegula in a tough three-set battle at Indian Wells."
+    }
+  ],
+  "emailQuestion": "How does vertical integration protect a hardware-heavy startup from supply chain shocks?"
+}

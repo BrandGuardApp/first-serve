@@ -1,69 +1,73 @@
 {
-  "id": "2026-11-08-pm",
-  "slot": "evening",
-  "date": "2026-11-08",
-  "dateLabel": "Sun, Nov 8, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-09T07:54:03.289Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "AI spend forecasts weigh on markets, Apple plans agentic Siri, and Alcaraz wins in Paris.",
+  "id": "2026-11-09-am",
+  "slot": "morning",
+  "date": "2026-11-09",
+  "dateLabel": "Mon, Nov 9, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-09T18:42:44.223Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia probes CEO Jensen Huang, tech stocks rebound, and Coco Gauff wins at WTA Finals.",
   "storyCount": 11,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Nov 6",
+    "asOf": "1:38 PM ET, Nov 9",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,377",
-        "change": "+0.31%",
+        "value": "7,548",
+        "change": "+2.32%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "24,579",
-        "change": "+1.09%",
+        "value": "25,202",
+        "change": "+2.53%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "51,286",
-        "change": "−0.46%",
-        "direction": "down"
+        "value": "52,421",
+        "change": "+2.21%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.86%",
-        "change": "+2 bp",
+        "value": "4.87%",
+        "change": "+1 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,104",
-        "change": "+0.72%",
+        "value": "$4,113",
+        "change": "+0.94%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Capital Economics projects a 12% S&P 500 drop by 2027 as AI spending cools",
-    "body": "Capital Economics predicts U.S. stocks will fall over the next two years as revenue fails to keep pace with massive AI infrastructure spending. Chief Economic Adviser Vicky Redwood noted that while AI boosts worker productivity, current corporate investment rates look difficult to sustain.",
+    "headline": "Nvidia investigates CEO Jensen Huang over alleged ties to a Chinese intelligence effort",
+    "body": "Nvidia's board launched an independent investigation into co-founder and CEO Jensen Huang after he disclosed a relationship with a Chinese business executive named Alice Huang. U.S. officials including Secretary of State Marco Rubio had previously warned top officials about the connection, though the board stated it has no reason to believe national security was compromised. Meanwhile, major tech stocks and Asian markets bounced back following last week's sharp midterms sell-off.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/"
-      }
-    ],
-    "why": "Understanding when capital expenditure booms hit revenue bottlenecks helps you evaluate tech stock valuations in your finance courses and investment research.",
-    "kicker": "Markets + AI Investment",
-    "figures": [
-      {
-        "value": "12%",
-        "label": "projected S&P 500 decline by end of 2027"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
       },
       {
-        "value": "17%",
-        "label": "drop from early-October peak"
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/marco-rubio-warned-trump-officials-nvidia-ceo-jensen-huang-affair-chinese-spy-foreign-intelligence-latest-news-101794202912266.html"
+      }
+    ],
+    "why": "As an investor and business student, watch how board governance handles key-person risk at a trillion-dollar market leader. It is a masterclass in how leadership scandals can instantly shake tech valuations.",
+    "kicker": "Markets & Leadership",
+    "figures": [
+      {
+        "value": "50-50",
+        "label": "Yale expert's odds on Huang staying"
       }
     ]
   },
@@ -73,26 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Vanguard and Fidelity lower ten-year U.S. stock return forecasts",
-          "body": "Vanguard projects U.S. stocks will return 4.8% to 6.8% annually over the next decade, while Fidelity expects 5.8%. Both estimates are less than half of the 15.2% annual returns seen over the past ten years.",
+          "headline": "U.S. agencies warn that industrial refrigeration hacks can cause fires and inventory loss",
+          "body": "Federal authorities issued warnings after hackers manipulated refrigeration controllers at hundreds of European supermarkets to spoil food. Threat actors are actively targeting global cold-chain and industrial systems, creating service disruptions and fire hazards.",
           "sources": [
             {
-              "name": "24/7 Wall St.",
-              "url": "https://247wallst.com/investing/2026/11/08/vanguard-and-fidelity-expect-less-than-half-the-stock-returns-of-the-past-decade-heres-the-math-for-a-66-year-old-with-2-million-and-4000-a-month-in-social-security/"
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"
             }
           ],
-          "why": "This forecast gives you realistic return expectations when modeling long-term asset allocation and portfolio strategies in your Merage finance classes."
+          "why": "This is a massive risk for supply chain management and retail operations. As you look at corporate strategy and consulting, supply chain security is becoming a major operational vulnerability."
         },
         {
-          "headline": "Japan's Nikkei slides nearly 6% in sharp tech sell-off",
-          "body": "The benchmark Nikkei index fell 3,643 points in a single day, marking a 5.96% drop amid global tech stock weakness. The broader TOPIX index also fell 5.90%, closing out a steep weekly decline.",
+          "headline": "Citi raises its Nifty 50 index target to 28,000 on improved earnings outlook",
+          "body": "Global investment bank Citi bumped up its target for India's Nifty 50 index from 26,000. The upgrade is driven by a favorable earnings outlook, lower crude oil prices, and a slowdown in artificial intelligence capital expenditure growth.",
           "sources": [
             {
-              "name": "EUROPE SAYS",
-              "url": "https://www.europesays.com/3361617/"
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351"
             }
           ],
-          "why": "Tracking cross-border market reactions helps you understand how shifts in U.S. tech sentiment ripple through global financial markets."
+          "why": "Keep this on your radar for international portfolio allocation. Macro shifts in emerging markets heavily influence global capital flows and valuation multiples."
         }
       ]
     },
@@ -101,26 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Apple aims to transform Siri into a proactive AI agent",
-          "body": "Following its personalized Siri release in iOS 27, Apple is working to give Siri autonomous agent capabilities as soon as next year. The update aims to allow Siri to take actions proactively on behalf of users.",
+          "headline": "McKinsey warns that rapid AI analysis risks slowing human decision-making",
+          "body": "A new McKinsey report highlights that while artificial intelligence makes business analysis significantly faster, human decision-making is struggling to keep pace. This gap risks increasing strategic risks and weakening the pipeline for future business leaders.",
           "sources": [
             {
-              "name": "9to5Mac",
-              "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/mckinsey-warns-ai-driven-analysis-could-slow-decision-making-weaken-future-leadership-pipeline-11794206292051.html"
             }
           ],
-          "why": "Agentic AI is becoming the dominant product frontier, offering inspiration if you are looking to build or evaluate consumer software startups."
+          "why": "Directly relevant to your classes at Merage. Relying purely on automated analysis without building core decision-making reps could stunt your generation's leadership growth."
         },
         {
-          "headline": "AI tech giants team up with Big Oil for data center energy",
-          "body": "OpenAI formed a partnership with energy firm ADNOC as tech companies seek gas-fired power for energy-hungry data centers. A recent study flags that these energy deals are driving up overall carbon emissions.",
+          "headline": "Samsung tests Galaxy AI Premium as a paid subscription tier",
+          "body": "Samsung is trying out a paid subscription plan called Galaxy AI Premium. The tier offers extra AI credits, automated Bixby task handling, and generative AI video creation tools built from user photos.",
           "sources": [
             {
-              "name": "OilPrice",
-              "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html"
+              "name": "SammyGuru",
+              "url": "https://sammyguru.com/exclusive-galaxy-ai-premium-subscription/"
             }
           ],
-          "why": "Energy availability and sustainability are becoming major operational constraints that you will analyze in tech consulting case interviews."
+          "why": "Useful for understanding how hardware giants plan to monetize software. Subscription models in consumer tech are crucial case studies for pricing strategy."
         }
       ]
     },
@@ -129,26 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey study examines using AI to capture CEO decision-making",
-          "body": "A new McKinsey report shows artificial intelligence can capture executive decision-making logic and leadership knowledge to share across an organization. This helps companies standardize strategic decisions and reduce dependency on individual leaders.",
+          "headline": "Young professionals pivot to entrepreneurship as AI reshapes entry-level jobs",
+          "body": "Entrepreneurship is accelerating among twenty-somethings in America as artificial intelligence alters traditional entry-level corporate jobs. Younger workers are increasingly skipping standard career launchpads to start their own companies instead.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/global/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-11794187091632.html"
             }
           ],
-          "why": "Knowledge management and leadership automation are high-value frameworks you can highlight during management consulting interviews."
+          "why": "As a freshman eyeing startups, this trend shows how lowering technical barriers via AI lets founders launch lean companies much earlier in their careers."
         },
         {
-          "headline": "McKinsey highlights need for automated cybersecurity overhauls",
-          "body": "McKinsey reports that companies must rethink cybersecurity strategies as frontier AI makes it easier for attackers to identify software vulnerabilities. Organizations are being urged to increase investments in automated threat detection.",
+          "headline": "McKinsey advises companies to overhaul cybersecurity as AI accelerates attacks",
+          "body": "Consulting giant McKinsey released a report urging companies to fundamentally upgrade their cybersecurity strategies. The firm stresses increased spending on automated threat detection because frontier AI makes it much easier for hackers to exploit software vulnerabilities.",
           "sources": [
             {
               "name": "The Economic Times",
               "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
             }
           ],
-          "why": "Cybersecurity strategy is expanding rapidly within tech consulting, opening up specialized project opportunities for business interns."
+          "why": "Cybersecurity consulting is a massive growth vector. If you pursue management consulting or tech investing, understanding how firms audit digital risk is vital."
         }
       ]
     },
@@ -157,8 +161,8 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine men's basketball tops San Jose State 91-79",
-          "body": "The Anteaters opened the game with a 13-0 run and led by 20 at halftime to beat San Jose State at the Bren Events Center. Jovan Jester Jr. led UCI with 24 points and eight rebounds to move the team to 2-0.",
+          "headline": "Jovan Jester Jr. scores 24 points as UC Irvine men's basketball defeats San Jose State 91-79",
+          "body": "Jovan Jester Jr. put up 24 points and grabbed eight rebounds to lead the Anteaters to a 91-79 win at the Bren Events Center. UC Irvine opened the game with the first 13 points and held a 20-point halftime lead to move to 2-0 on the season.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
@@ -177,12 +181,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz defeats Ben Shelton to claim Paris Masters title",
-          "body": "Carlos Alcaraz won his first Paris Masters title with a 7-6 (5), 7-5 straight-sets victory over Ben Shelton. The win served as revenge after Shelton eliminated Alcaraz from the US Open earlier this season.",
+          "headline": "Coco Gauff defeats Jessica Pegula in a three-set thriller at the WTA Finals opener",
+          "body": "Coco Gauff overcame compatriot Jessica Pegula 6-4, 6-7, 6-2 in a grueling two-hour and thirty-nine minute match to start her WTA Finals campaign at Indian Wells. In another match, Czech player Linda Noskova defeated Marta Kostyuk 6-2, 6-4.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title"
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13610050/wta-finals-coco-gauff-defeats-jessica-pegula-in-thriller-at-indian-wells-as-linda-noskova-beats-marta-kostyuk"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/wta-finals-gauff-triumphs-over-pegula-in-opener-noskova-also-secures-victory-a001-w02/"
             }
           ]
         }
@@ -190,55 +198,55 @@
     }
   ],
   "term": {
-    "name": "Hyperscaler",
-    "definition": "A massive cloud service provider that operates global data center infrastructure for cloud computing and AI workloads. Current market analyses focus on whether hyperscalers can generate sufficient software revenue to justify their high capital expenditures.",
+    "name": "Key-Person Risk",
+    "definition": "The financial and operational vulnerability a company faces when its success is heavily tied to a single individual, such as a celebrity CEO. When that leader faces sudden investigations or scandals, the entire enterprise value can instantly reprice. Nvidia is currently experiencing this exact phenomenon with Jensen Huang.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
       },
       {
-        "name": "OilPrice",
-        "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html"
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
       }
     ]
   },
   "serve": {
-    "headline": "San Diego founder sells out micro-batch apartment pizzas in 30 seconds",
-    "body": "AJ Miller bakes just 15 New Haven-style pizzas per week out of his Ocean Beach apartment without a commercial kitchen, selling them for $25 to $30 each. Over 3,500 people compete in a weekly lottery queue to buy the limited pies.",
+    "headline": "Terafab targets massive memory manufacturing capacity to rival Samsung",
+    "body": "Terafab, a chip manufacturing joint venture between SpaceX and Tesla, told equipment suppliers it aims for a production capacity of roughly 700,000 to 1 million wafers per month. The ambitious scale is designed to ensure a steady supply of logic and memory chips for its hardware systems.",
     "questions": [
-      "How can extreme supply constraints build brand demand for a student startup on campus?",
-      "What operational hurdles arise when moving a product from an apartment setup to a formal commercial space?",
-      "How should a founder balance price increases against expanding production volume?"
+      "How does vertical integration protect a hardware-heavy startup from supply chain shocks?",
+      "What are the capital expenditure risks of building custom manufacturing facilities right out of the gate?",
+      "How can a joint venture scale fast enough to compete with established legacy giants like Samsung?"
     ],
     "sources": [
       {
-        "name": "New York Post",
-        "url": "https://nypost.com/2026/11/08/lifestyle/san-diego-mans-apartment-made-pizzas-sell-out-in-30-seconds-as-3500-vie-for-15-weekly-slots/"
+        "name": "Wccftech",
+        "url": "https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Capital Economics projects a 12% S&P 500 drop by 2027 as AI spending cools.",
-      "blurb": "Analysts warn that current hyperscaler investment rates may outpace revenue generation."
+      "headline": "Nvidia investigates CEO Jensen Huang",
+      "blurb": "The chipmaker's board launched a probe following reports involving a Chinese intelligence effort."
     },
     {
-      "headline": "Vanguard and Fidelity cut ten-year U.S. stock return expectations to around 5% to 6%.",
-      "blurb": "Forecasted annual returns are less than half of the 15.2% average achieved over the past decade."
+      "headline": "U.S. warns of refrigeration cyberattacks",
+      "blurb": "Hackers are targeting cold-chain systems globally, risking inventory loss and physical safety hazards."
     },
     {
-      "headline": "Apple is developing agentic Siri features to perform proactive user tasks next year.",
-      "blurb": "The planned upgrade follows the personalized Siri capabilities introduced in iOS 27."
+      "headline": "Citi raises Nifty 50 target to 28,000",
+      "blurb": "India's market outlook improves on stronger earnings visibility and a slowdown in tech capex."
     },
     {
-      "headline": "McKinsey report outlines how AI can capture and scale CEO decision-making.",
-      "blurb": "Top management frameworks are evolving to preserve leadership insights across large enterprises."
+      "headline": "McKinsey flags AI decision lag",
+      "blurb": "Faster machine analysis is outstripping human decision-making, threatening future leadership development."
     },
     {
-      "headline": "Carlos Alcaraz beats Ben Shelton in straight sets to win the Paris Masters.",
-      "blurb": "Alcaraz claimed his first Paris title with a 7-6 (5), 7-5 victory over the American."
+      "headline": "Coco Gauff opens WTA Finals with a win",
+      "blurb": "The American tennis star outlasted Jessica Pegula in a tough three-set battle at Indian Wells."
     }
   ],
-  "emailQuestion": "How can extreme supply constraints build brand demand for a student startup on campus?"
+  "emailQuestion": "How does vertical integration protect a hardware-heavy startup from supply chain shocks?"
 }
