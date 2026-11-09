@@ -1,0 +1,244 @@
+{
+  "id": "2026-11-08-pm",
+  "slot": "evening",
+  "date": "2026-11-08",
+  "dateLabel": "Sun, Nov 8, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-09T07:54:03.289Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "AI spend forecasts weigh on markets, Apple plans agentic Siri, and Alcaraz wins in Paris.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 6",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,377",
+        "change": "+0.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,579",
+        "change": "+1.09%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "51,286",
+        "change": "−0.46%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.86%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,104",
+        "change": "+0.72%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Capital Economics projects a 12% S&P 500 drop by 2027 as AI spending cools",
+    "body": "Capital Economics predicts U.S. stocks will fall over the next two years as revenue fails to keep pace with massive AI infrastructure spending. Chief Economic Adviser Vicky Redwood noted that while AI boosts worker productivity, current corporate investment rates look difficult to sustain.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/"
+      }
+    ],
+    "why": "Understanding when capital expenditure booms hit revenue bottlenecks helps you evaluate tech stock valuations in your finance courses and investment research.",
+    "kicker": "Markets + AI Investment",
+    "figures": [
+      {
+        "value": "12%",
+        "label": "projected S&P 500 decline by end of 2027"
+      },
+      {
+        "value": "17%",
+        "label": "drop from early-October peak"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Vanguard and Fidelity lower ten-year U.S. stock return forecasts",
+          "body": "Vanguard projects U.S. stocks will return 4.8% to 6.8% annually over the next decade, while Fidelity expects 5.8%. Both estimates are less than half of the 15.2% annual returns seen over the past ten years.",
+          "sources": [
+            {
+              "name": "24/7 Wall St.",
+              "url": "https://247wallst.com/investing/2026/11/08/vanguard-and-fidelity-expect-less-than-half-the-stock-returns-of-the-past-decade-heres-the-math-for-a-66-year-old-with-2-million-and-4000-a-month-in-social-security/"
+            }
+          ],
+          "why": "This forecast gives you realistic return expectations when modeling long-term asset allocation and portfolio strategies in your Merage finance classes."
+        },
+        {
+          "headline": "Japan's Nikkei slides nearly 6% in sharp tech sell-off",
+          "body": "The benchmark Nikkei index fell 3,643 points in a single day, marking a 5.96% drop amid global tech stock weakness. The broader TOPIX index also fell 5.90%, closing out a steep weekly decline.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3361617/"
+            }
+          ],
+          "why": "Tracking cross-border market reactions helps you understand how shifts in U.S. tech sentiment ripple through global financial markets."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Apple aims to transform Siri into a proactive AI agent",
+          "body": "Following its personalized Siri release in iOS 27, Apple is working to give Siri autonomous agent capabilities as soon as next year. The update aims to allow Siri to take actions proactively on behalf of users.",
+          "sources": [
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+            }
+          ],
+          "why": "Agentic AI is becoming the dominant product frontier, offering inspiration if you are looking to build or evaluate consumer software startups."
+        },
+        {
+          "headline": "AI tech giants team up with Big Oil for data center energy",
+          "body": "OpenAI formed a partnership with energy firm ADNOC as tech companies seek gas-fired power for energy-hungry data centers. A recent study flags that these energy deals are driving up overall carbon emissions.",
+          "sources": [
+            {
+              "name": "OilPrice",
+              "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html"
+            }
+          ],
+          "why": "Energy availability and sustainability are becoming major operational constraints that you will analyze in tech consulting case interviews."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey study examines using AI to capture CEO decision-making",
+          "body": "A new McKinsey report shows artificial intelligence can capture executive decision-making logic and leadership knowledge to share across an organization. This helps companies standardize strategic decisions and reduce dependency on individual leaders.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ai-can-help-companies-preserve-ceo-decision-making-expertise-improve-organisational-efficiency-mckinsey/"
+            }
+          ],
+          "why": "Knowledge management and leadership automation are high-value frameworks you can highlight during management consulting interviews."
+        },
+        {
+          "headline": "McKinsey highlights need for automated cybersecurity overhauls",
+          "body": "McKinsey reports that companies must rethink cybersecurity strategies as frontier AI makes it easier for attackers to identify software vulnerabilities. Organizations are being urged to increase investments in automated threat detection.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
+            }
+          ],
+          "why": "Cybersecurity strategy is expanding rapidly within tech consulting, opening up specialized project opportunities for business interns."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine men's basketball tops San Jose State 91-79",
+          "body": "The Anteaters opened the game with a 13-0 run and led by 20 at halftime to beat San Jose State at the Bren Events Center. Jovan Jester Jr. led UCI with 24 points and eight rebounds to move the team to 2-0.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz defeats Ben Shelton to claim Paris Masters title",
+          "body": "Carlos Alcaraz won his first Paris Masters title with a 7-6 (5), 7-5 straight-sets victory over Ben Shelton. The win served as revenge after Shelton eliminated Alcaraz from the US Open earlier this season.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Hyperscaler",
+    "definition": "A massive cloud service provider that operates global data center infrastructure for cloud computing and AI workloads. Current market analyses focus on whether hyperscalers can generate sufficient software revenue to justify their high capital expenditures.",
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/08/stock-market-outlook-sp500-ai-capex-gdp-growth-productivity/"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "San Diego founder sells out micro-batch apartment pizzas in 30 seconds",
+    "body": "AJ Miller bakes just 15 New Haven-style pizzas per week out of his Ocean Beach apartment without a commercial kitchen, selling them for $25 to $30 each. Over 3,500 people compete in a weekly lottery queue to buy the limited pies.",
+    "questions": [
+      "How can extreme supply constraints build brand demand for a student startup on campus?",
+      "What operational hurdles arise when moving a product from an apartment setup to a formal commercial space?",
+      "How should a founder balance price increases against expanding production volume?"
+    ],
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/08/lifestyle/san-diego-mans-apartment-made-pizzas-sell-out-in-30-seconds-as-3500-vie-for-15-weekly-slots/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Capital Economics projects a 12% S&P 500 drop by 2027 as AI spending cools.",
+      "blurb": "Analysts warn that current hyperscaler investment rates may outpace revenue generation."
+    },
+    {
+      "headline": "Vanguard and Fidelity cut ten-year U.S. stock return expectations to around 5% to 6%.",
+      "blurb": "Forecasted annual returns are less than half of the 15.2% average achieved over the past decade."
+    },
+    {
+      "headline": "Apple is developing agentic Siri features to perform proactive user tasks next year.",
+      "blurb": "The planned upgrade follows the personalized Siri capabilities introduced in iOS 27."
+    },
+    {
+      "headline": "McKinsey report outlines how AI can capture and scale CEO decision-making.",
+      "blurb": "Top management frameworks are evolving to preserve leadership insights across large enterprises."
+    },
+    {
+      "headline": "Carlos Alcaraz beats Ben Shelton in straight sets to win the Paris Masters.",
+      "blurb": "Alcaraz claimed his first Paris title with a 7-6 (5), 7-5 victory over the American."
+    }
+  ],
+  "emailQuestion": "How can extreme supply constraints build brand demand for a student startup on campus?"
+}
