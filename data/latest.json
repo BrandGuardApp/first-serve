@@ -1,73 +1,65 @@
 {
-  "id": "2026-11-09-am",
-  "slot": "morning",
+  "id": "2026-11-09-pm",
+  "slot": "evening",
   "date": "2026-11-09",
   "dateLabel": "Mon, Nov 9, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-09T18:42:44.223Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Nvidia probes CEO Jensen Huang, tech stocks rebound, and Coco Gauff wins at WTA Finals.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-10T01:59:34.752Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Tesla to halt Cybertruck production, Circle hits $13.9T volume, and Rioux debuts for UCI.",
   "storyCount": 11,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "1:38 PM ET, Nov 9",
+    "asOf": "Close, Nov 9",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,548",
-        "change": "+2.32%",
+        "value": "7,550",
+        "change": "+2.35%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "25,202",
-        "change": "+2.53%",
+        "value": "25,253",
+        "change": "+2.74%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,421",
-        "change": "+2.21%",
+        "value": "52,390",
+        "change": "+2.15%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.87%",
-        "change": "+1 bp",
-        "direction": "up"
+        "value": "4.86%",
+        "change": "0 bp",
+        "direction": "flat"
       },
       {
         "name": "Gold",
-        "value": "$4,113",
-        "change": "+0.94%",
+        "value": "$4,137",
+        "change": "+0.54%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia investigates CEO Jensen Huang over alleged ties to a Chinese intelligence effort",
-    "body": "Nvidia's board launched an independent investigation into co-founder and CEO Jensen Huang after he disclosed a relationship with a Chinese business executive named Alice Huang. U.S. officials including Secretary of State Marco Rubio had previously warned top officials about the connection, though the board stated it has no reason to believe national security was compromised. Meanwhile, major tech stocks and Asian markets bounced back following last week's sharp midterms sell-off.",
+    "headline": "Tesla to End Cybertruck Production and Refund Select Deposits",
+    "body": "Elon Musk announced that Tesla will end Cybertruck production in about eight months, defending the decision by stating order volume outpaced output capacity. Tesla will also issue refunds for certain reservation deposits as it winds down the vehicle line.",
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-      },
-      {
-        "name": "CBS News",
-        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
-      },
-      {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/marco-rubio-warned-trump-officials-nvidia-ceo-jensen-huang-affair-chinese-spy-foreign-intelligence-latest-news-101794202912266.html"
+        "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
       }
     ],
-    "why": "As an investor and business student, watch how board governance handles key-person risk at a trillion-dollar market leader. It is a masterclass in how leadership scandals can instantly shake tech valuations.",
-    "kicker": "Markets & Leadership",
+    "why": "It shows the reality of high-cost product manufacturing. Even high-profile products get cut when unit costs, production headaches, and actual margins fail to align.",
+    "kicker": "Automotive + Strategy",
     "figures": [
       {
-        "value": "50-50",
-        "label": "Yale expert's odds on Huang staying"
+        "value": "8 months",
+        "label": "until production shutdown"
       }
     ]
   },
@@ -77,26 +69,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "U.S. agencies warn that industrial refrigeration hacks can cause fires and inventory loss",
-          "body": "Federal authorities issued warnings after hackers manipulated refrigeration controllers at hundreds of European supermarkets to spoil food. Threat actors are actively targeting global cold-chain and industrial systems, creating service disruptions and fire hazards.",
+          "headline": "Circle Reports 17% Revenue Rise as USDC Volume Hits $13.9T",
+          "body": "Circle Internet Group posted Q3 revenue of $865 million, up 17% year over year. Total on-chain transaction volume for its USDC stablecoin jumped 49% to $13.9 trillion.",
           "sources": [
             {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"
+              "name": "TechBullion",
+              "url": "https://techbullion.com/circle-q3-2026-earnings-usdc-transaction-volume-hits-13-9t-as-revenue-grows-17/"
             }
           ],
-          "why": "This is a massive risk for supply chain management and retail operations. As you look at corporate strategy and consulting, supply chain security is becoming a major operational vulnerability."
+          "why": "As a business major, this gives you a clear window into how digital currency firms make money through reserve yields and transaction volume."
         },
         {
-          "headline": "Citi raises its Nifty 50 index target to 28,000 on improved earnings outlook",
-          "body": "Global investment bank Citi bumped up its target for India's Nifty 50 index from 26,000. The upgrade is driven by a favorable earnings outlook, lower crude oil prices, and a slowdown in artificial intelligence capital expenditure growth.",
+          "headline": "NASA Unveils $10 Billion in Moon Base Cargo Contracts",
+          "body": "NASA awarded up to $10 billion in commercial contracts to ferry cargo to the moon as it works toward establishing a crewed base by 2032. The program also features plans for a nuclear-powered rover.",
           "sources": [
             {
-              "name": "NDTV Profit",
-              "url": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351"
+              "name": "Space",
+              "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover"
             }
           ],
-          "why": "Keep this on your radar for international portfolio allocation. Macro shifts in emerging markets heavily influence global capital flows and valuation multiples."
+          "why": "Federal procurement programs of this size create massive multi-year budgets for commercial aerospace contractors and specialized engineering startups."
         }
       ]
     },
@@ -105,26 +97,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "McKinsey warns that rapid AI analysis risks slowing human decision-making",
-          "body": "A new McKinsey report highlights that while artificial intelligence makes business analysis significantly faster, human decision-making is struggling to keep pace. This gap risks increasing strategic risks and weakening the pipeline for future business leaders.",
+          "headline": "North Korea Mints Meme Coins to Launder $6.4 Billion Binance Hack",
+          "body": "Blockchain analytics firm Elliptic discovered that North Korean hackers are issuing worthless meme tokens and setting up trading pools on Tron, NEAR, and Solana. The setup lets them wash funds without direct wallet-to-wallet transfers.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/technology/mckinsey-warns-ai-driven-analysis-could-slow-decision-making-weaken-future-leadership-pipeline-11794206292051.html"
+              "name": "Elliptic",
+              "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/"
             }
           ],
-          "why": "Directly relevant to your classes at Merage. Relying purely on automated analysis without building core decision-making reps could stunt your generation's leadership growth."
+          "why": "If you look into fintech or crypto venture investing, understanding these laundering routes shows where regulators will place compliance pressure next."
         },
         {
-          "headline": "Samsung tests Galaxy AI Premium as a paid subscription tier",
-          "body": "Samsung is trying out a paid subscription plan called Galaxy AI Premium. The tier offers extra AI credits, automated Bixby task handling, and generative AI video creation tools built from user photos.",
+          "headline": "SBI Report Finds Global AI Capex Pauses Could Shift Capital to India",
+          "body": "A report from SBI Funds indicates that global investors are questioning the fast pace of artificial intelligence capital expenditures. That caution is prompting funds to rotate into Indian equities.",
           "sources": [
             {
-              "name": "SammyGuru",
-              "url": "https://sammyguru.com/exclusive-galaxy-ai-premium-subscription/"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/technology/india-to-gain-as-global-ai-investment-slows-down-report-a001-w02/"
             }
           ],
-          "why": "Useful for understanding how hardware giants plan to monetize software. Subscription models in consumer tech are crucial case studies for pricing strategy."
+          "why": "Tracking how asset managers rotate money when a major tech spending cycle cools off is core preparation for finance and markets interviews."
         }
       ]
     },
@@ -133,26 +125,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Young professionals pivot to entrepreneurship as AI reshapes entry-level jobs",
-          "body": "Entrepreneurship is accelerating among twenty-somethings in America as artificial intelligence alters traditional entry-level corporate jobs. Younger workers are increasingly skipping standard career launchpads to start their own companies instead.",
+          "headline": "Bain Capital's Ajay Agarwal Points to Growth in Physical AI",
+          "body": "Ajay Agarwal, an early backer of Kiva Systems before its $775 million sale to Amazon, argued that robotics is entering its strongest cycle yet. He noted that merging AI software with physical hardware is opening high-conviction venture bets.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/global/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-11794187091632.html"
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/09/bain-capital-ajay-agarwal-invested-kiva-robots-amazon-acquisition-physical-ai/"
             }
           ],
-          "why": "As a freshman eyeing startups, this trend shows how lowering technical barriers via AI lets founders launch lean companies much earlier in their careers."
+          "why": "This shows how top venture capitalists spot long-term hardware and software cycles, which is useful context if you aim for venture capital or startup operations."
         },
         {
-          "headline": "McKinsey advises companies to overhaul cybersecurity as AI accelerates attacks",
-          "body": "Consulting giant McKinsey released a report urging companies to fundamentally upgrade their cybersecurity strategies. The firm stresses increased spending on automated threat detection because frontier AI makes it much easier for hackers to exploit software vulnerabilities.",
+          "headline": "BirlaNu Enlists BCG for Operational Turnaround at Parador",
+          "body": "Indian firm BirlaNu reported its quarterly earnings and highlighted an ongoing Boston Consulting Group operational restructuring. The BCG initiative identified between 9 million and 14 million euros in potential operating profit gains for BirlaNu's Parador unit.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/companies-need-to-overhaul-cybersecurity-as-ai-accelerates-vulnerability-attacks-report/articleshow/135633476.cms"
+              "name": "scanx.trade",
+              "url": "https://scanx.trade/stock-market-news/companies/birlanu-ltd-releases-audio-recording-q2fy27-earnings-call/55261685"
             }
           ],
-          "why": "Cybersecurity consulting is a massive growth vector. If you pursue management consulting or tech investing, understanding how firms audit digital risk is vital."
+          "why": "This is a real-world example of management consulting deliverables, specifically showing how firms quantify operational improvements for struggling corporate units."
         }
       ]
     },
@@ -161,16 +153,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Jovan Jester Jr. scores 24 points as UC Irvine men's basketball defeats San Jose State 91-79",
-          "body": "Jovan Jester Jr. put up 24 points and grabbed eight rebounds to lead the Anteaters to a 91-79 win at the Bren Events Center. UC Irvine opened the game with the first 13 points and held a 20-point halftime lead to move to 2-0 on the season.",
+          "headline": "7-Foot-9 Center Olivier Rioux Debuts with Double-Double for UCI",
+          "body": "Olivier Rioux, the tallest player in college basketball history, made his UC Irvine debut on Tuesday night. He put up 13 points and 12 rebounds in 18 minutes to help the Anteaters defeat Chapman 92-66.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
+              "name": "USA TODAY",
+              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
             },
             {
-              "name": "WTOP",
-              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
             }
           ]
         }
@@ -181,16 +173,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Coco Gauff defeats Jessica Pegula in a three-set thriller at the WTA Finals opener",
-          "body": "Coco Gauff overcame compatriot Jessica Pegula 6-4, 6-7, 6-2 in a grueling two-hour and thirty-nine minute match to start her WTA Finals campaign at Indian Wells. In another match, Czech player Linda Noskova defeated Marta Kostyuk 6-2, 6-4.",
+          "headline": "Carlos Alcaraz Outlasts Ben Shelton to Take Paris Masters",
+          "body": "Carlos Alcaraz defeated Ben Shelton 7-6(5), 7-5 in the Paris Masters final. The victory marks Alcaraz's fifth title of 2026 and the 29th tournament crown of his career.",
           "sources": [
             {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13610050/wta-finals-coco-gauff-defeats-jessica-pegula-in-thriller-at-indian-wells-as-linda-noskova-beats-marta-kostyuk"
-            },
-            {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/wta-finals-gauff-triumphs-over-pegula-in-opener-noskova-also-secures-victory-a001-w02/"
+              "name": "Yardbarker",
+              "url": "https://www.yardbarker.com/general_sports/articles/carlos_alcaraz_claims_hes_taken_one_step_forward_with_his_tennis_after_winning_the_title_in_paris/s1_17882_44536129"
             }
           ]
         }
@@ -198,55 +186,51 @@
     }
   ],
   "term": {
-    "name": "Key-Person Risk",
-    "definition": "The financial and operational vulnerability a company faces when its success is heavily tied to a single individual, such as a celebrity CEO. When that leader faces sudden investigations or scandals, the entire enterprise value can instantly reprice. Nvidia is currently experiencing this exact phenomenon with Jensen Huang.",
+    "name": "Liquidity Pool",
+    "definition": "A digital pot of cryptocurrency tokens locked in a smart contract that allows traders to swap tokens automatically without waiting for an individual buyer or seller. Instead of using a traditional exchange order book, trades happen against the pool's assets. Today, Elliptic reported that North Korean hackers created their own pools to swap stolen funds into clean tokens.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-      },
-      {
-        "name": "CBS News",
-        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+        "name": "Elliptic",
+        "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/"
       }
     ]
   },
   "serve": {
-    "headline": "Terafab targets massive memory manufacturing capacity to rival Samsung",
-    "body": "Terafab, a chip manufacturing joint venture between SpaceX and Tesla, told equipment suppliers it aims for a production capacity of roughly 700,000 to 1 million wafers per month. The ambitious scale is designed to ensure a steady supply of logic and memory chips for its hardware systems.",
+    "headline": "Crowd Threat raised £1M to crowdsource physical threat intelligence",
+    "body": "Crowd Threat, launched by a former British Army intelligence operator, combines local eyewitness incident reports with AI analysis to flag security threats faster than remote teams can. The startup raised 1 million pounds in seed funding to expand its reporting platform.",
     "questions": [
-      "How does vertical integration protect a hardware-heavy startup from supply chain shocks?",
-      "What are the capital expenditure risks of building custom manufacturing facilities right out of the gate?",
-      "How can a joint venture scale fast enough to compete with established legacy giants like Samsung?"
+      "What incentive would convince a college student to report an incident on a verified safety app rather than posting it to social media?",
+      "How can an AI filter prevent bad actors from submitting fake reports to cause false alarms?",
+      "Could a neighborhood-level intelligence feed be adapted into an alert product for university campuses like UC Irvine?"
     ],
     "sources": [
       {
-        "name": "Wccftech",
-        "url": "https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity/"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/09/crowd-threat-raises-1m-to-transform-global-threat-intelligence-with-ai-powered-crowdsourcing/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nvidia investigates CEO Jensen Huang",
-      "blurb": "The chipmaker's board launched a probe following reports involving a Chinese intelligence effort."
+      "headline": "Tesla will halt Cybertruck production within eight months.",
+      "blurb": "Elon Musk defended the decision and confirmed Tesla will refund deposits to some reservation holders."
     },
     {
-      "headline": "U.S. warns of refrigeration cyberattacks",
-      "blurb": "Hackers are targeting cold-chain systems globally, risking inventory loss and physical safety hazards."
+      "headline": "Circle reported $865 million in quarterly revenue.",
+      "blurb": "USDC stablecoin on-chain transaction volume rose 49% year over year to $13.9 trillion."
     },
     {
-      "headline": "Citi raises Nifty 50 target to 28,000",
-      "blurb": "India's market outlook improves on stronger earnings visibility and a slowdown in tech capex."
+      "headline": "NASA announced $10 billion in commercial cargo contracts for its 2032 moon base.",
+      "blurb": "The agency also outlined plans for a new nuclear-powered rover."
     },
     {
-      "headline": "McKinsey flags AI decision lag",
-      "blurb": "Faster machine analysis is outstripping human decision-making, threatening future leadership development."
+      "headline": "Carlos Alcaraz defeated Ben Shelton to secure the Paris Masters title.",
+      "blurb": "The straight-sets win secured Alcaraz his fifth title of the 2026 season."
     },
     {
-      "headline": "Coco Gauff opens WTA Finals with a win",
-      "blurb": "The American tennis star outlasted Jessica Pegula in a tough three-set battle at Indian Wells."
+      "headline": "7-foot-9 center Olivier Rioux delivered a double-double in his UC Irvine debut.",
+      "blurb": "Rioux logged 13 points and 12 rebounds in 18 minutes during a 92-66 win against Chapman."
     }
   ],
-  "emailQuestion": "How does vertical integration protect a hardware-heavy startup from supply chain shocks?"
+  "emailQuestion": "What incentive would convince a college student to report an incident on a verified safety app rather than posting it to social media?"
 }
