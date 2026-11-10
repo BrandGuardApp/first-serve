@@ -1,0 +1,249 @@
+{
+  "id": "2026-11-10-am",
+  "slot": "morning",
+  "date": "2026-11-10",
+  "dateLabel": "Tue, Nov 10, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-10T23:07:30.993Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic's massive IPO filing, Wall Street's record bonuses, and more top news.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 10",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,521",
+        "change": "−0.38%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,066",
+        "change": "−0.74%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,232",
+        "change": "−0.30%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.98%",
+        "change": "+12 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,041",
+        "change": "+0.26%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic files for an IPO that could raise up to $64.4 billion",
+    "body": "The company behind the Claude AI assistant has revealed draft prospectus details for a public market debut. The offering aims to raise as much as $64.4 billion at an indicative price of $70 to $78 per share, setting up what could be an unprecedented test for public tech valuations.",
+    "sources": [
+      {
+        "name": "ABC17News.com",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2026/11/10/weve-never-seen-anything-like-the-anthropic-ipo/"
+      },
+      {
+        "name": "The Hindu Business Line",
+        "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-could-raise-up-to-644-billion-at-share-price-of-70-78/article71685870.ece"
+      }
+    ],
+    "why": "This is a massive benchmark for tech valuations and institutional investor appetite. If you are looking at tech investing or valuation multiples in your finance classes, this is the biggest case study of the year.",
+    "kicker": "Markets + AI IPOs",
+    "figures": [
+      {
+        "value": "$64.4B",
+        "label": "potential IPO raise"
+      },
+      {
+        "value": "$70-$78",
+        "label": "share price range"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Wall Street bonus pool projected to jump 20% to 30%",
+          "body": "Big bank trading desks are on track for record profits and the fattest bonus haul in history. Hottest desks are seeing performance-related pay spike significantly.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/10/business/top-bankers-set-to-score-record-payday-with-bonus-hikes-up-to-30-year-of-the-bank/"
+            },
+            {
+              "name": "Bloomberg Tax News",
+              "url": "https://news.bloombergtax.com/daily-tax-report/wall-street-bonuses-projected-to-climb-before-prospects-weaken"
+            }
+          ],
+          "why": "Good context for understanding compensation trends if you are eyeing high-finance or trading internships down the line."
+        },
+        {
+          "headline": "Nvidia shares edge higher as fallout from CEO affair continues",
+          "body": "Nvidia stock saw pressure and faced a shareholder class-action lawsuit following reports regarding CEO Jensen Huang. The company lost billions in market value as the market weighed the corporate governance implications.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/10/fbi-looking-into-jensen-huang-nvidia-corporate-governance/"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/nvidia-and-huang-face-class-action-lawsuit-over-affair"
+            }
+          ],
+          "why": "A stark reminder of 'key-man risk' in corporate governance, showing how deeply a founder's personal actions can sway massive market valuations."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Crunchbase report shows AI taking nearly two-thirds of venture funding",
+          "body": "Venture capital is heavily concentrated in AI, capturing 64% of global venture dollars in the third quarter. Out of $159 billion total, AI startups pulled in $102 billion.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/ai-startups-global-venture-funding-q3-2026-3809588"
+            }
+          ],
+          "why": "This concentration dictates where early-stage capital flows, which matters if you want to launch a startup or work in venture capital."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey report says AI could cut manual banking risk tasks by up to 70%",
+          "body": "A new McKinsey study highlights that artificial intelligence can eliminate a large portion of manual operational tasks in bank risk functions. This shift aims to free up capacity for deeper strategic decision-making.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
+            }
+          ],
+          "why": "As you study business and look at financial services, understanding how AI automates entry-level operational work will shape what junior roles actually look like."
+        },
+        {
+          "headline": "Gen Z founders bypass traditional entry-level jobs to build AI startups",
+          "body": "A growing number of young people are skipping traditional corporate entry-level jobs to start their own companies. Lower software and operational costs driven by AI are making it easier to launch early-stage ventures.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
+            }
+          ],
+          "why": "Directly relevant if you are weighing the traditional corporate recruiting track against building your own venture straight out of Merage."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "University of California launches $38.2 million climate research initiative",
+          "body": "The Climate Change Research & Policy Institute was established to drive research across multiple campuses, including UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Ben Shelton agrees to massive new New Balance contract",
+          "body": "Following his US Open final run, 24-year-old tennis star Ben Shelton has signed a deal worth up to $18 million per year with New Balance, parting ways with On.",
+          "sources": [
+            {
+              "name": "The Sun U.S Edition",
+              "url": "https://www.the-sun.com/sport/17282463/ben-shelton-new-balance-contract-tennis/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Key-Man Risk",
+    "definition": "Key-man risk is the danger to a company's operations and stock price if a single vital executive, like a charismatic founder or CEO, suddenly leaves, faces a scandal, or can no longer lead. We saw this play out when Nvidia shares wobbled and investors scrambled following headlines about CEO Jensen Huang.",
+    "sources": [
+      {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/a-reined-in-jensen-huang-is-nvidia-s-best-option-101794308072129.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Snapp raised $4.6 million from a16z Speedrun to build a specialized sports prediction AI",
+    "body": "San Francisco-based Snapp secured backing to build an AI model tailored specifically for the speed and unpredictability of sports like football and basketball. General-purpose models struggle with live sports data, so Snapp is targeting that vertical gap.",
+    "questions": [
+      "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?",
+      "What operational costs would you cut first if you were launching an early-stage AI startup on a student budget?",
+      "How does targeting a specific vertical like sports analytics change your go-to-market strategy compared to building a broad consumer app?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/09/snapp-raises-4-6m-from-a16z-to-take-on-chatgpt-and-claude-with-real-time-sports-ai/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic's massive IPO filing aims to raise up to $64.4 billion.",
+      "blurb": "The Claude AI maker is setting up a monumental test for public tech valuations."
+    },
+    {
+      "headline": "Wall Street bonuses are projected to jump 20% to 30%.",
+      "blurb": "Big bank trading desks are cashing in on record profits."
+    },
+    {
+      "headline": "Nvidia stock faces pressure amid fallout from CEO Jensen Huang's scandal.",
+      "blurb": "Shareholders filed a class-action lawsuit as governance questions arise."
+    },
+    {
+      "headline": "AI captures nearly two-thirds of all venture capital funding in Q3.",
+      "blurb": "Crunchbase data shows $102 billion flowing into AI startups."
+    },
+    {
+      "headline": "Gen Z founders are skipping entry-level corporate jobs to launch startups.",
+      "blurb": "Lower software costs are making it easier to build companies straight out of college."
+    }
+  ],
+  "emailQuestion": "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?"
+}

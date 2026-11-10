@@ -1,65 +1,73 @@
 {
-  "id": "2026-11-09-pm",
-  "slot": "evening",
-  "date": "2026-11-09",
-  "dateLabel": "Mon, Nov 9, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-10T01:59:34.752Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Tesla to halt Cybertruck production, Circle hits $13.9T volume, and Rioux debuts for UCI.",
-  "storyCount": 11,
+  "id": "2026-11-10-am",
+  "slot": "morning",
+  "date": "2026-11-10",
+  "dateLabel": "Tue, Nov 10, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-10T23:07:30.993Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic's massive IPO filing, Wall Street's record bonuses, and more top news.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 9",
+    "asOf": "Close, Nov 10",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,550",
-        "change": "+2.35%",
-        "direction": "up"
+        "value": "7,521",
+        "change": "−0.38%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "25,253",
-        "change": "+2.74%",
-        "direction": "up"
+        "value": "25,066",
+        "change": "−0.74%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,390",
-        "change": "+2.15%",
-        "direction": "up"
+        "value": "52,232",
+        "change": "−0.30%",
+        "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.86%",
-        "change": "0 bp",
-        "direction": "flat"
+        "value": "4.98%",
+        "change": "+12 bp",
+        "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,137",
-        "change": "+0.54%",
+        "value": "$4,041",
+        "change": "+0.26%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Tesla to End Cybertruck Production and Refund Select Deposits",
-    "body": "Elon Musk announced that Tesla will end Cybertruck production in about eight months, defending the decision by stating order volume outpaced output capacity. Tesla will also issue refunds for certain reservation deposits as it winds down the vehicle line.",
+    "headline": "Anthropic files for an IPO that could raise up to $64.4 billion",
+    "body": "The company behind the Claude AI assistant has revealed draft prospectus details for a public market debut. The offering aims to raise as much as $64.4 billion at an indicative price of $70 to $78 per share, setting up what could be an unprecedented test for public tech valuations.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
+        "name": "ABC17News.com",
+        "url": "https://abc17news.com/money/cnn-business-consumer/2026/11/10/weve-never-seen-anything-like-the-anthropic-ipo/"
+      },
+      {
+        "name": "The Hindu Business Line",
+        "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-could-raise-up-to-644-billion-at-share-price-of-70-78/article71685870.ece"
       }
     ],
-    "why": "It shows the reality of high-cost product manufacturing. Even high-profile products get cut when unit costs, production headaches, and actual margins fail to align.",
-    "kicker": "Automotive + Strategy",
+    "why": "This is a massive benchmark for tech valuations and institutional investor appetite. If you are looking at tech investing or valuation multiples in your finance classes, this is the biggest case study of the year.",
+    "kicker": "Markets + AI IPOs",
     "figures": [
       {
-        "value": "8 months",
-        "label": "until production shutdown"
+        "value": "$64.4B",
+        "label": "potential IPO raise"
+      },
+      {
+        "value": "$70-$78",
+        "label": "share price range"
       }
     ]
   },
@@ -69,26 +77,38 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Circle Reports 17% Revenue Rise as USDC Volume Hits $13.9T",
-          "body": "Circle Internet Group posted Q3 revenue of $865 million, up 17% year over year. Total on-chain transaction volume for its USDC stablecoin jumped 49% to $13.9 trillion.",
+          "headline": "Wall Street bonus pool projected to jump 20% to 30%",
+          "body": "Big bank trading desks are on track for record profits and the fattest bonus haul in history. Hottest desks are seeing performance-related pay spike significantly.",
           "sources": [
             {
-              "name": "TechBullion",
-              "url": "https://techbullion.com/circle-q3-2026-earnings-usdc-transaction-volume-hits-13-9t-as-revenue-grows-17/"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/10/business/top-bankers-set-to-score-record-payday-with-bonus-hikes-up-to-30-year-of-the-bank/"
+            },
+            {
+              "name": "Bloomberg Tax News",
+              "url": "https://news.bloombergtax.com/daily-tax-report/wall-street-bonuses-projected-to-climb-before-prospects-weaken"
             }
           ],
-          "why": "As a business major, this gives you a clear window into how digital currency firms make money through reserve yields and transaction volume."
+          "why": "Good context for understanding compensation trends if you are eyeing high-finance or trading internships down the line."
         },
         {
-          "headline": "NASA Unveils $10 Billion in Moon Base Cargo Contracts",
-          "body": "NASA awarded up to $10 billion in commercial contracts to ferry cargo to the moon as it works toward establishing a crewed base by 2032. The program also features plans for a nuclear-powered rover.",
+          "headline": "Nvidia shares edge higher as fallout from CEO affair continues",
+          "body": "Nvidia stock saw pressure and faced a shareholder class-action lawsuit following reports regarding CEO Jensen Huang. The company lost billions in market value as the market weighed the corporate governance implications.",
           "sources": [
             {
-              "name": "Space",
-              "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/10/fbi-looking-into-jensen-huang-nvidia-corporate-governance/"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/nvidia-and-huang-face-class-action-lawsuit-over-affair"
             }
           ],
-          "why": "Federal procurement programs of this size create massive multi-year budgets for commercial aerospace contractors and specialized engineering startups."
+          "why": "A stark reminder of 'key-man risk' in corporate governance, showing how deeply a founder's personal actions can sway massive market valuations."
         }
       ]
     },
@@ -97,26 +117,15 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "North Korea Mints Meme Coins to Launder $6.4 Billion Binance Hack",
-          "body": "Blockchain analytics firm Elliptic discovered that North Korean hackers are issuing worthless meme tokens and setting up trading pools on Tron, NEAR, and Solana. The setup lets them wash funds without direct wallet-to-wallet transfers.",
+          "headline": "Crunchbase report shows AI taking nearly two-thirds of venture funding",
+          "body": "Venture capital is heavily concentrated in AI, capturing 64% of global venture dollars in the third quarter. Out of $159 billion total, AI startups pulled in $102 billion.",
           "sources": [
             {
-              "name": "Elliptic",
-              "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/"
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/ai-startups-global-venture-funding-q3-2026-3809588"
             }
           ],
-          "why": "If you look into fintech or crypto venture investing, understanding these laundering routes shows where regulators will place compliance pressure next."
-        },
-        {
-          "headline": "SBI Report Finds Global AI Capex Pauses Could Shift Capital to India",
-          "body": "A report from SBI Funds indicates that global investors are questioning the fast pace of artificial intelligence capital expenditures. That caution is prompting funds to rotate into Indian equities.",
-          "sources": [
-            {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/technology/india-to-gain-as-global-ai-investment-slows-down-report-a001-w02/"
-            }
-          ],
-          "why": "Tracking how asset managers rotate money when a major tech spending cycle cools off is core preparation for finance and markets interviews."
+          "why": "This concentration dictates where early-stage capital flows, which matters if you want to launch a startup or work in venture capital."
         }
       ]
     },
@@ -125,26 +134,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Bain Capital's Ajay Agarwal Points to Growth in Physical AI",
-          "body": "Ajay Agarwal, an early backer of Kiva Systems before its $775 million sale to Amazon, argued that robotics is entering its strongest cycle yet. He noted that merging AI software with physical hardware is opening high-conviction venture bets.",
+          "headline": "McKinsey report says AI could cut manual banking risk tasks by up to 70%",
+          "body": "A new McKinsey study highlights that artificial intelligence can eliminate a large portion of manual operational tasks in bank risk functions. This shift aims to free up capacity for deeper strategic decision-making.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/09/bain-capital-ajay-agarwal-invested-kiva-robots-amazon-acquisition-physical-ai/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
             }
           ],
-          "why": "This shows how top venture capitalists spot long-term hardware and software cycles, which is useful context if you aim for venture capital or startup operations."
+          "why": "As you study business and look at financial services, understanding how AI automates entry-level operational work will shape what junior roles actually look like."
         },
         {
-          "headline": "BirlaNu Enlists BCG for Operational Turnaround at Parador",
-          "body": "Indian firm BirlaNu reported its quarterly earnings and highlighted an ongoing Boston Consulting Group operational restructuring. The BCG initiative identified between 9 million and 14 million euros in potential operating profit gains for BirlaNu's Parador unit.",
+          "headline": "Gen Z founders bypass traditional entry-level jobs to build AI startups",
+          "body": "A growing number of young people are skipping traditional corporate entry-level jobs to start their own companies. Lower software and operational costs driven by AI are making it easier to launch early-stage ventures.",
           "sources": [
             {
-              "name": "scanx.trade",
-              "url": "https://scanx.trade/stock-market-news/companies/birlanu-ltd-releases-audio-recording-q2fy27-earnings-call/55261685"
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
             }
           ],
-          "why": "This is a real-world example of management consulting deliverables, specifically showing how firms quantify operational improvements for struggling corporate units."
+          "why": "Directly relevant if you are weighing the traditional corporate recruiting track against building your own venture straight out of Merage."
         }
       ]
     },
@@ -153,16 +166,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "7-Foot-9 Center Olivier Rioux Debuts with Double-Double for UCI",
-          "body": "Olivier Rioux, the tallest player in college basketball history, made his UC Irvine debut on Tuesday night. He put up 13 points and 12 rebounds in 18 minutes to help the Anteaters defeat Chapman 92-66.",
+          "headline": "University of California launches $38.2 million climate research initiative",
+          "body": "The Climate Change Research & Policy Institute was established to drive research across multiple campuses, including UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
           "sources": [
             {
-              "name": "USA TODAY",
-              "url": "https://www.usatoday.com/story/sports/ncaab/bigwest/2026/11/04/olivier-rioux-uc-irvine-debut-tallest-player/92617955007/"
-            },
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/04/sports/7-foot-9-college-hoopster-olivier-rioux-is-finally-playing-and-dominating/"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
             }
           ]
         }
@@ -173,12 +182,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz Outlasts Ben Shelton to Take Paris Masters",
-          "body": "Carlos Alcaraz defeated Ben Shelton 7-6(5), 7-5 in the Paris Masters final. The victory marks Alcaraz's fifth title of 2026 and the 29th tournament crown of his career.",
+          "headline": "Ben Shelton agrees to massive new New Balance contract",
+          "body": "Following his US Open final run, 24-year-old tennis star Ben Shelton has signed a deal worth up to $18 million per year with New Balance, parting ways with On.",
           "sources": [
             {
-              "name": "Yardbarker",
-              "url": "https://www.yardbarker.com/general_sports/articles/carlos_alcaraz_claims_hes_taken_one_step_forward_with_his_tennis_after_winning_the_title_in_paris/s1_17882_44536129"
+              "name": "The Sun U.S Edition",
+              "url": "https://www.the-sun.com/sport/17282463/ben-shelton-new-balance-contract-tennis/"
             }
           ]
         }
@@ -186,51 +195,55 @@
     }
   ],
   "term": {
-    "name": "Liquidity Pool",
-    "definition": "A digital pot of cryptocurrency tokens locked in a smart contract that allows traders to swap tokens automatically without waiting for an individual buyer or seller. Instead of using a traditional exchange order book, trades happen against the pool's assets. Today, Elliptic reported that North Korean hackers created their own pools to swap stolen funds into clean tokens.",
+    "name": "Key-Man Risk",
+    "definition": "Key-man risk is the danger to a company's operations and stock price if a single vital executive, like a charismatic founder or CEO, suddenly leaves, faces a scandal, or can no longer lead. We saw this play out when Nvidia shares wobbled and investors scrambled following headlines about CEO Jensen Huang.",
     "sources": [
       {
-        "name": "Elliptic",
-        "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/"
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/a-reined-in-jensen-huang-is-nvidia-s-best-option-101794308072129.html"
       }
     ]
   },
   "serve": {
-    "headline": "Crowd Threat raised £1M to crowdsource physical threat intelligence",
-    "body": "Crowd Threat, launched by a former British Army intelligence operator, combines local eyewitness incident reports with AI analysis to flag security threats faster than remote teams can. The startup raised 1 million pounds in seed funding to expand its reporting platform.",
+    "headline": "Snapp raised $4.6 million from a16z Speedrun to build a specialized sports prediction AI",
+    "body": "San Francisco-based Snapp secured backing to build an AI model tailored specifically for the speed and unpredictability of sports like football and basketball. General-purpose models struggle with live sports data, so Snapp is targeting that vertical gap.",
     "questions": [
-      "What incentive would convince a college student to report an incident on a verified safety app rather than posting it to social media?",
-      "How can an AI filter prevent bad actors from submitting fake reports to cause false alarms?",
-      "Could a neighborhood-level intelligence feed be adapted into an alert product for university campuses like UC Irvine?"
+      "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?",
+      "What operational costs would you cut first if you were launching an early-stage AI startup on a student budget?",
+      "How does targeting a specific vertical like sports analytics change your go-to-market strategy compared to building a broad consumer app?"
     ],
     "sources": [
       {
         "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/09/crowd-threat-raises-1m-to-transform-global-threat-intelligence-with-ai-powered-crowdsourcing/"
+        "url": "https://techstartups.com/2026/11/09/snapp-raises-4-6m-from-a16z-to-take-on-chatgpt-and-claude-with-real-time-sports-ai/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Tesla will halt Cybertruck production within eight months.",
-      "blurb": "Elon Musk defended the decision and confirmed Tesla will refund deposits to some reservation holders."
+      "headline": "Anthropic's massive IPO filing aims to raise up to $64.4 billion.",
+      "blurb": "The Claude AI maker is setting up a monumental test for public tech valuations."
     },
     {
-      "headline": "Circle reported $865 million in quarterly revenue.",
-      "blurb": "USDC stablecoin on-chain transaction volume rose 49% year over year to $13.9 trillion."
+      "headline": "Wall Street bonuses are projected to jump 20% to 30%.",
+      "blurb": "Big bank trading desks are cashing in on record profits."
     },
     {
-      "headline": "NASA announced $10 billion in commercial cargo contracts for its 2032 moon base.",
-      "blurb": "The agency also outlined plans for a new nuclear-powered rover."
+      "headline": "Nvidia stock faces pressure amid fallout from CEO Jensen Huang's scandal.",
+      "blurb": "Shareholders filed a class-action lawsuit as governance questions arise."
     },
     {
-      "headline": "Carlos Alcaraz defeated Ben Shelton to secure the Paris Masters title.",
-      "blurb": "The straight-sets win secured Alcaraz his fifth title of the 2026 season."
+      "headline": "AI captures nearly two-thirds of all venture capital funding in Q3.",
+      "blurb": "Crunchbase data shows $102 billion flowing into AI startups."
     },
     {
-      "headline": "7-foot-9 center Olivier Rioux delivered a double-double in his UC Irvine debut.",
-      "blurb": "Rioux logged 13 points and 12 rebounds in 18 minutes during a 92-66 win against Chapman."
+      "headline": "Gen Z founders are skipping entry-level corporate jobs to launch startups.",
+      "blurb": "Lower software costs are making it easier to build companies straight out of college."
     }
   ],
-  "emailQuestion": "What incentive would convince a college student to report an incident on a verified safety app rather than posting it to social media?"
+  "emailQuestion": "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?"
 }
