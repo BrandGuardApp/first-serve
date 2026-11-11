@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-10-am",
-  "slot": "morning",
+  "id": "2026-11-10-pm",
+  "slot": "evening",
   "date": "2026-11-10",
   "dateLabel": "Tue, Nov 10, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-10T23:07:30.993Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic's massive IPO filing, Wall Street's record bonuses, and more top news.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-11T02:44:28.333Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic chases a trillion-dollar IPO, inflation stays sticky, and Jannik Sinner targets a return.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Nov 10",
     "rows": [
@@ -39,35 +39,43 @@
       },
       {
         "name": "Gold",
-        "value": "$4,041",
-        "change": "+0.26%",
+        "value": "$4,052",
+        "change": "+0.55%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic files for an IPO that could raise up to $64.4 billion",
-    "body": "The company behind the Claude AI assistant has revealed draft prospectus details for a public market debut. The offering aims to raise as much as $64.4 billion at an indicative price of $70 to $78 per share, setting up what could be an unprecedented test for public tech valuations.",
+    "headline": "Anthropic files an S-1 targeting a trillion-dollar valuation",
+    "body": "AI lab Anthropic has set a share price range of $70 to $78 for its massive initial public offering on the Nasdaq. The Claude maker is aiming to raise up to $64.4 billion, which would value the company between $1.02 trillion and $1.4 trillion. However, the filing reveals a staggering $900 billion in future computing commitments as the race for AI infrastructure intensifies.",
     "sources": [
       {
-        "name": "ABC17News.com",
-        "url": "https://abc17news.com/money/cnn-business-consumer/2026/11/10/weve-never-seen-anything-like-the-anthropic-ipo/"
+        "name": "NDTV.com",
+        "url": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004"
       },
       {
-        "name": "The Hindu Business Line",
-        "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-could-raise-up-to-644-billion-at-share-price-of-70-78/article71685870.ece"
+        "name": "ZeroHedge",
+        "url": "https://www.zerohedge.com/markets/anthropic-launches-100-billion-ipo-worth-14-trillion-or-10-trillion-depending-whos-counting"
+      },
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation"
       }
     ],
-    "why": "This is a massive benchmark for tech valuations and institutional investor appetite. If you are looking at tech investing or valuation multiples in your finance classes, this is the biggest case study of the year.",
-    "kicker": "Markets + AI IPOs",
+    "why": "This is a masterclass in modern tech scaling and capital allocation. As a business student, watch how public markets price a company with massive revenue alongside near-trillion-dollar infrastructure liabilities.",
+    "kicker": "AI + Public Markets",
     "figures": [
       {
         "value": "$64.4B",
-        "label": "potential IPO raise"
+        "label": "maximum target raise"
       },
       {
-        "value": "$70-$78",
-        "label": "share price range"
+        "value": "$1.02T",
+        "label": "target valuation"
+      },
+      {
+        "value": "$900B",
+        "label": "computing commitments"
       }
     ]
   },
@@ -77,38 +85,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Wall Street bonus pool projected to jump 20% to 30%",
-          "body": "Big bank trading desks are on track for record profits and the fattest bonus haul in history. Hottest desks are seeing performance-related pay spike significantly.",
-          "sources": [
-            {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/10/business/top-bankers-set-to-score-record-payday-with-bonus-hikes-up-to-30-year-of-the-bank/"
-            },
-            {
-              "name": "Bloomberg Tax News",
-              "url": "https://news.bloombergtax.com/daily-tax-report/wall-street-bonuses-projected-to-climb-before-prospects-weaken"
-            }
-          ],
-          "why": "Good context for understanding compensation trends if you are eyeing high-finance or trading internships down the line."
-        },
-        {
-          "headline": "Nvidia shares edge higher as fallout from CEO affair continues",
-          "body": "Nvidia stock saw pressure and faced a shareholder class-action lawsuit following reports regarding CEO Jensen Huang. The company lost billions in market value as the market weighed the corporate governance implications.",
+          "headline": "Consumer inflation runs hotter than expected in October",
+          "body": "The consumer price index rose more than expected in October, signaling persistent pressure on the economy. The data gives the Federal Reserve difficult choices as officials weigh their next interest rate moves.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
-            },
-            {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/10/fbi-looking-into-jensen-huang-nvidia-corporate-governance/"
-            },
-            {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/nvidia-and-huang-face-class-action-lawsuit-over-affair"
+              "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
             }
           ],
-          "why": "A stark reminder of 'key-man risk' in corporate governance, showing how deeply a founder's personal actions can sway massive market valuations."
+          "why": "Higher rates increase the cost of capital for startups and debt financing for acquisitions, which directly impacts private equity and investing deal flow."
+        },
+        {
+          "headline": "Average new vehicle prices hit a record $51,109",
+          "body": "The average transaction price for a new car in the United States climbed to a record high of $51,109. Kelley Blue Book notes that buyers are responding by extending the length of their car loans to finance the purchases.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high"
+            }
+          ],
+          "why": "Consumer credit trends like stretched auto loans give you a real-world look at how everyday household debt expands when baseline costs rise."
         }
       ]
     },
@@ -117,15 +113,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Crunchbase report shows AI taking nearly two-thirds of venture funding",
-          "body": "Venture capital is heavily concentrated in AI, capturing 64% of global venture dollars in the third quarter. Out of $159 billion total, AI startups pulled in $102 billion.",
+          "headline": "Nvidia shares see heavy retail dip-buying after scandal",
+          "body": "Retail investors poured capital into Nvidia stock, surging purchases by over 400 percent after shares dropped following reports regarding CEO Jensen Huang. Despite the executive distraction, analysts view the long-term chip replacement cycle as intact.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/ai-startups-global-venture-funding-q3-2026-3809588"
+              "name": "Seeking Alpha",
+              "url": "https://seekingalpha.com/article/4965688-nvidia-separating-the-jensen-huang-noise-from-the-3-6-year-chip-replacement-cycle"
+            },
+            {
+              "name": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/money/investing/news/investors-pile-into-nvidia-after-honeytrap-scandal/"
             }
           ],
-          "why": "This concentration dictates where early-stage capital flows, which matters if you want to launch a startup or work in venture capital."
+          "why": "Market sell-offs driven by headlines often create classic buy-the-dip moments. It is a textbook study in separating short-term noise from a company's underlying fundamentals."
+        },
+        {
+          "headline": "TSMC invests up to $1 billion across Anthropic and OpenAI",
+          "body": "Taiwan Semiconductor Manufacturing Company plans to invest up to $1 billion across leading AI developers Anthropic and OpenAI. The move highlights the chipmaker's confidence in long-term demand despite broader market anxiety over soaring AI spending.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
+            }
+          ],
+          "why": "When a picks-and-shovels manufacturer invests directly in its own customers, it signals immense conviction in the supply chain's multi-year revenue visibility."
         }
       ]
     },
@@ -134,19 +145,19 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey report says AI could cut manual banking risk tasks by up to 70%",
-          "body": "A new McKinsey study highlights that artificial intelligence can eliminate a large portion of manual operational tasks in bank risk functions. This shift aims to free up capacity for deeper strategic decision-making.",
+          "headline": "Boston Consulting Group tapped for UK government strategy",
+          "body": "Boston Consulting Group has been hired by the UK government to advise on its upcoming 10-year national strategy. The engagement highlights the continued reliance of public sector entities on top-tier strategy firms.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
+              "name": "Middle East Monitor",
+              "url": "https://www.middleeastmonitor.com/20261109-consultancy-linked-to-trumps-gaza-plans-hired-to-advise-on-uks-10-year-strategy-report/"
             }
           ],
-          "why": "As you study business and look at financial services, understanding how AI automates entry-level operational work will shape what junior roles actually look like."
+          "why": "If you are targeting a career in management consulting, keeping tabs on major public sector wins shows where top firms are capturing long-term advisory fees."
         },
         {
-          "headline": "Gen Z founders bypass traditional entry-level jobs to build AI startups",
-          "body": "A growing number of young people are skipping traditional corporate entry-level jobs to start their own companies. Lower software and operational costs driven by AI are making it easier to launch early-stage ventures.",
+          "headline": "Gen Z founders bypass entry-level corporate jobs for AI startups",
+          "body": "A growing number of young professionals are skipping traditional entry-level corporate roles to launch their own companies. Artificial intelligence tools have dramatically lowered the technical barrier and cost required to build a minimum viable product.",
           "sources": [
             {
               "name": "International Business Times",
@@ -157,7 +168,7 @@
               "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
             }
           ],
-          "why": "Directly relevant if you are weighing the traditional corporate recruiting track against building your own venture straight out of Merage."
+          "why": "This is your exact peer group. It proves you don't need a decade of corporate experience anymore to spin up a tech-enabled venture right out of college."
         }
       ]
     },
@@ -166,8 +177,8 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "University of California launches $38.2 million climate research initiative",
-          "body": "The Climate Change Research & Policy Institute was established to drive research across multiple campuses, including UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "headline": "UC Irvine included in new $38.2 million climate research initiative",
+          "body": "The University of California launched the Climate Change Research and Policy Institute, an initiative funding work to be conducted across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
@@ -182,12 +193,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Ben Shelton agrees to massive new New Balance contract",
-          "body": "Following his US Open final run, 24-year-old tennis star Ben Shelton has signed a deal worth up to $18 million per year with New Balance, parting ways with On.",
+          "headline": "Jannik Sinner targets Australian Open comeback",
+          "body": "Former world number one Jannik Sinner confirmed he is targeting the Australian Open in January for his return to competitive tennis. Sinner has been sidelined since July due to a knee injury.",
           "sources": [
             {
-              "name": "The Sun U.S Edition",
-              "url": "https://www.the-sun.com/sport/17282463/ben-shelton-new-balance-contract-tennis/"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/10/tennis-sinner-positive-on-australian-open-prospects-but-won039t-rush-return"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury"
             }
           ]
         }
@@ -195,55 +210,51 @@
     }
   ],
   "term": {
-    "name": "Key-Man Risk",
-    "definition": "Key-man risk is the danger to a company's operations and stock price if a single vital executive, like a charismatic founder or CEO, suddenly leaves, faces a scandal, or can no longer lead. We saw this play out when Nvidia shares wobbled and investors scrambled following headlines about CEO Jensen Huang.",
+    "name": "Consumer Price Index (CPI)",
+    "definition": "A broad economic gauge that measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Central banks use it as a primary benchmark to track inflation and determine interest rate policy. When the CPI rises faster than expected, it often prompts the Federal Reserve to keep borrowing costs elevated.",
     "sources": [
       {
-        "name": "Los Angeles Times",
-        "url": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test"
-      },
-      {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/a-reined-in-jensen-huang-is-nvidia-s-best-option-101794308072129.html"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
       }
     ]
   },
   "serve": {
-    "headline": "Snapp raised $4.6 million from a16z Speedrun to build a specialized sports prediction AI",
-    "body": "San Francisco-based Snapp secured backing to build an AI model tailored specifically for the speed and unpredictability of sports like football and basketball. General-purpose models struggle with live sports data, so Snapp is targeting that vertical gap.",
+    "headline": "Bay raised $50 million to help companies secure AI agents",
+    "body": "Israeli cybersecurity startup Bay secured $50 million in early funding led by Battery Ventures to help enterprises deploy and manage secure AI agents. The company has spent less than a year operating in stealth with dozens of corporate clients.",
     "questions": [
-      "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?",
-      "What operational costs would you cut first if you were launching an early-stage AI startup on a student budget?",
-      "How does targeting a specific vertical like sports analytics change your go-to-market strategy compared to building a broad consumer app?"
+      "How do you monetize enterprise software before your product is even publicly launched?",
+      "What security vulnerabilities emerge when autonomous AI agents start making corporate decisions?",
+      "How would you pitch this security layer to a risk-averse bank CIO?"
     ],
     "sources": [
       {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/09/snapp-raises-4-6m-from-a16z-to-take-on-chatgpt-and-claude-with-real-time-sports-ai/"
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/bay-raises-50lcr-to-help-companies-run-secure-ai-agents/tldr"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic's massive IPO filing aims to raise up to $64.4 billion.",
-      "blurb": "The Claude AI maker is setting up a monumental test for public tech valuations."
+      "headline": "Anthropic targets a trillion-dollar valuation in massive IPO",
+      "blurb": "The Claude maker is seeking up to $64.4 billion in a blockbuster Nasdaq debut."
     },
     {
-      "headline": "Wall Street bonuses are projected to jump 20% to 30%.",
-      "blurb": "Big bank trading desks are cashing in on record profits."
+      "headline": "Consumer inflation prints higher than expected in October",
+      "blurb": "Sticky costs give the Federal Reserve fresh headaches over future rate cuts."
     },
     {
-      "headline": "Nvidia stock faces pressure amid fallout from CEO Jensen Huang's scandal.",
-      "blurb": "Shareholders filed a class-action lawsuit as governance questions arise."
+      "headline": "Nvidia sees heavy retail dip-buying after executive scandal",
+      "blurb": "Investors piled into shares following a drop triggered by CEO headlines."
     },
     {
-      "headline": "AI captures nearly two-thirds of all venture capital funding in Q3.",
-      "blurb": "Crunchbase data shows $102 billion flowing into AI startups."
+      "headline": "TSMC commits up to $1 billion to back Anthropic and OpenAI",
+      "blurb": "The chipmaking giant is doubling down on long-term artificial intelligence demand."
     },
     {
-      "headline": "Gen Z founders are skipping entry-level corporate jobs to launch startups.",
-      "blurb": "Lower software costs are making it easier to build companies straight out of college."
+      "headline": "Gen Z founders skip corporate tracks to build AI startups",
+      "blurb": "Lower technical barriers are helping young entrepreneurs launch companies early."
     }
   ],
-  "emailQuestion": "If you were pitching a venture capitalist at a UCI entrepreneurship event, how would you prove your niche AI model is defensible against giants like OpenAI?"
+  "emailQuestion": "How do you monetize enterprise software before your product is even publicly launched?"
 }

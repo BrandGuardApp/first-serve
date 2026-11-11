@@ -1,0 +1,260 @@
+{
+  "id": "2026-11-10-pm",
+  "slot": "evening",
+  "date": "2026-11-10",
+  "dateLabel": "Tue, Nov 10, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-11T02:44:28.333Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic chases a trillion-dollar IPO, inflation stays sticky, and Jannik Sinner targets a return.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Nov 10",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,521",
+        "change": "−0.38%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,066",
+        "change": "−0.74%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,232",
+        "change": "−0.30%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.98%",
+        "change": "+12 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,052",
+        "change": "+0.55%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic files an S-1 targeting a trillion-dollar valuation",
+    "body": "AI lab Anthropic has set a share price range of $70 to $78 for its massive initial public offering on the Nasdaq. The Claude maker is aiming to raise up to $64.4 billion, which would value the company between $1.02 trillion and $1.4 trillion. However, the filing reveals a staggering $900 billion in future computing commitments as the race for AI infrastructure intensifies.",
+    "sources": [
+      {
+        "name": "NDTV.com",
+        "url": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004"
+      },
+      {
+        "name": "ZeroHedge",
+        "url": "https://www.zerohedge.com/markets/anthropic-launches-100-billion-ipo-worth-14-trillion-or-10-trillion-depending-whos-counting"
+      },
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation"
+      }
+    ],
+    "why": "This is a masterclass in modern tech scaling and capital allocation. As a business student, watch how public markets price a company with massive revenue alongside near-trillion-dollar infrastructure liabilities.",
+    "kicker": "AI + Public Markets",
+    "figures": [
+      {
+        "value": "$64.4B",
+        "label": "maximum target raise"
+      },
+      {
+        "value": "$1.02T",
+        "label": "target valuation"
+      },
+      {
+        "value": "$900B",
+        "label": "computing commitments"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Consumer inflation runs hotter than expected in October",
+          "body": "The consumer price index rose more than expected in October, signaling persistent pressure on the economy. The data gives the Federal Reserve difficult choices as officials weigh their next interest rate moves.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+            }
+          ],
+          "why": "Higher rates increase the cost of capital for startups and debt financing for acquisitions, which directly impacts private equity and investing deal flow."
+        },
+        {
+          "headline": "Average new vehicle prices hit a record $51,109",
+          "body": "The average transaction price for a new car in the United States climbed to a record high of $51,109. Kelley Blue Book notes that buyers are responding by extending the length of their car loans to finance the purchases.",
+          "sources": [
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high"
+            }
+          ],
+          "why": "Consumer credit trends like stretched auto loans give you a real-world look at how everyday household debt expands when baseline costs rise."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Nvidia shares see heavy retail dip-buying after scandal",
+          "body": "Retail investors poured capital into Nvidia stock, surging purchases by over 400 percent after shares dropped following reports regarding CEO Jensen Huang. Despite the executive distraction, analysts view the long-term chip replacement cycle as intact.",
+          "sources": [
+            {
+              "name": "Seeking Alpha",
+              "url": "https://seekingalpha.com/article/4965688-nvidia-separating-the-jensen-huang-noise-from-the-3-6-year-chip-replacement-cycle"
+            },
+            {
+              "name": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/money/investing/news/investors-pile-into-nvidia-after-honeytrap-scandal/"
+            }
+          ],
+          "why": "Market sell-offs driven by headlines often create classic buy-the-dip moments. It is a textbook study in separating short-term noise from a company's underlying fundamentals."
+        },
+        {
+          "headline": "TSMC invests up to $1 billion across Anthropic and OpenAI",
+          "body": "Taiwan Semiconductor Manufacturing Company plans to invest up to $1 billion across leading AI developers Anthropic and OpenAI. The move highlights the chipmaker's confidence in long-term demand despite broader market anxiety over soaring AI spending.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
+            }
+          ],
+          "why": "When a picks-and-shovels manufacturer invests directly in its own customers, it signals immense conviction in the supply chain's multi-year revenue visibility."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Boston Consulting Group tapped for UK government strategy",
+          "body": "Boston Consulting Group has been hired by the UK government to advise on its upcoming 10-year national strategy. The engagement highlights the continued reliance of public sector entities on top-tier strategy firms.",
+          "sources": [
+            {
+              "name": "Middle East Monitor",
+              "url": "https://www.middleeastmonitor.com/20261109-consultancy-linked-to-trumps-gaza-plans-hired-to-advise-on-uks-10-year-strategy-report/"
+            }
+          ],
+          "why": "If you are targeting a career in management consulting, keeping tabs on major public sector wins shows where top firms are capturing long-term advisory fees."
+        },
+        {
+          "headline": "Gen Z founders bypass entry-level corporate jobs for AI startups",
+          "body": "A growing number of young professionals are skipping traditional entry-level corporate roles to launch their own companies. Artificial intelligence tools have dramatically lowered the technical barrier and cost required to build a minimum viable product.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
+            }
+          ],
+          "why": "This is your exact peer group. It proves you don't need a decade of corporate experience anymore to spin up a tech-enabled venture right out of college."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine included in new $38.2 million climate research initiative",
+          "body": "The University of California launched the Climate Change Research and Policy Institute, an initiative funding work to be conducted across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Jannik Sinner targets Australian Open comeback",
+          "body": "Former world number one Jannik Sinner confirmed he is targeting the Australian Open in January for his return to competitive tennis. Sinner has been sidelined since July due to a knee injury.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/10/tennis-sinner-positive-on-australian-open-prospects-but-won039t-rush-return"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Consumer Price Index (CPI)",
+    "definition": "A broad economic gauge that measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Central banks use it as a primary benchmark to track inflation and determine interest rate policy. When the CPI rises faster than expected, it often prompts the Federal Reserve to keep borrowing costs elevated.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Bay raised $50 million to help companies secure AI agents",
+    "body": "Israeli cybersecurity startup Bay secured $50 million in early funding led by Battery Ventures to help enterprises deploy and manage secure AI agents. The company has spent less than a year operating in stealth with dozens of corporate clients.",
+    "questions": [
+      "How do you monetize enterprise software before your product is even publicly launched?",
+      "What security vulnerabilities emerge when autonomous AI agents start making corporate decisions?",
+      "How would you pitch this security layer to a risk-averse bank CIO?"
+    ],
+    "sources": [
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/bay-raises-50lcr-to-help-companies-run-secure-ai-agents/tldr"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic targets a trillion-dollar valuation in massive IPO",
+      "blurb": "The Claude maker is seeking up to $64.4 billion in a blockbuster Nasdaq debut."
+    },
+    {
+      "headline": "Consumer inflation prints higher than expected in October",
+      "blurb": "Sticky costs give the Federal Reserve fresh headaches over future rate cuts."
+    },
+    {
+      "headline": "Nvidia sees heavy retail dip-buying after executive scandal",
+      "blurb": "Investors piled into shares following a drop triggered by CEO headlines."
+    },
+    {
+      "headline": "TSMC commits up to $1 billion to back Anthropic and OpenAI",
+      "blurb": "The chipmaking giant is doubling down on long-term artificial intelligence demand."
+    },
+    {
+      "headline": "Gen Z founders skip corporate tracks to build AI startups",
+      "blurb": "Lower technical barriers are helping young entrepreneurs launch companies early."
+    }
+  ],
+  "emailQuestion": "How do you monetize enterprise software before your product is even publicly launched?"
+}
