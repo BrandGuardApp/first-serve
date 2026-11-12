@@ -1,81 +1,81 @@
 {
-  "id": "2026-11-10-pm",
+  "id": "2026-11-11-pm",
   "slot": "evening",
-  "date": "2026-11-10",
-  "dateLabel": "Tue, Nov 10, 2026",
+  "date": "2026-11-11",
+  "dateLabel": "Wed, Nov 11, 2026",
   "editionLabel": "Evening edition",
   "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-11T02:44:28.333Z",
+  "generatedAt": "2026-11-12T01:27:32.267Z",
   "greeting": "Evening, Samrudh.",
-  "preheader": "Anthropic chases a trillion-dollar IPO, inflation stays sticky, and Jannik Sinner targets a return.",
+  "preheader": "CoreWeave lifts tech futures, PepsiCo cuts 1,000 jobs, and UCI basketball stays undefeated.",
   "storyCount": 11,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 10",
+    "asOf": "Close, Nov 11",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,521",
-        "change": "−0.38%",
-        "direction": "down"
+        "value": "7,619",
+        "change": "+1.31%",
+        "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "25,066",
-        "change": "−0.74%",
-        "direction": "down"
+        "value": "25,466",
+        "change": "+1.60%",
+        "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,232",
-        "change": "−0.30%",
-        "direction": "down"
+        "value": "52,486",
+        "change": "+0.49%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.98%",
-        "change": "+12 bp",
+        "value": "5.00%",
+        "change": "+2 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,052",
-        "change": "+0.55%",
+        "value": "$4,003",
+        "change": "+0.07%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic files an S-1 targeting a trillion-dollar valuation",
-    "body": "AI lab Anthropic has set a share price range of $70 to $78 for its massive initial public offering on the Nasdaq. The Claude maker is aiming to raise up to $64.4 billion, which would value the company between $1.02 trillion and $1.4 trillion. However, the filing reveals a staggering $900 billion in future computing commitments as the race for AI infrastructure intensifies.",
+    "headline": "CoreWeave Earnings Calm AI Spending Concerns as Markets Rebound",
+    "body": "CoreWeave reported strong earnings and announced it expects to reach profitability by the first half of 2028. The news pushed CoreWeave shares up over 13% in premarket trading and lifted tech futures overall. Nvidia stock also stabilized ahead of its upcoming earnings report on November 17.",
     "sources": [
       {
-        "name": "NDTV.com",
-        "url": "https://www.ndtv.com/world-news/anthropic-ipo-share-price-anthropic-sets-70-78-price-band-per-share-targets-trillion-dollar-listing-12309004"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-rise-nearly-2-as-coreweave-earnings-calm-ai-spending-fears/articleshow/135738901.cms"
       },
       {
-        "name": "ZeroHedge",
-        "url": "https://www.zerohedge.com/markets/anthropic-launches-100-billion-ipo-worth-14-trillion-or-10-trillion-depending-whos-counting"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-is-nvidia-stock-surging-today-after-a-two-day-crash-that-wiped-out-480-billion-investors-buy-the-dip-as-nvda-rebounds-despite-jensen-huang-controversy-ahead-of-november-17-earnings/articleshow/135736282.cms"
       },
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation"
+        "name": "Bnn Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/11/11/us-futures-climb-and-nvidia-shares-stabilize-in-a-brutal-week-for-the-chipmaker/"
       }
     ],
-    "why": "This is a masterclass in modern tech scaling and capital allocation. As a business student, watch how public markets price a company with massive revenue alongside near-trillion-dollar infrastructure liabilities.",
-    "kicker": "AI + Public Markets",
+    "why": "Strong earnings from AI infrastructure providers reassure public markets that enterprise tech spending remains healthy. Tracking these operational milestones gives you better context when valuing high-growth tech firms.",
+    "kicker": "Tech & AI Markets",
     "figures": [
       {
-        "value": "$64.4B",
-        "label": "maximum target raise"
+        "value": "+13%",
+        "label": "CoreWeave premarket surge"
       },
       {
-        "value": "$1.02T",
-        "label": "target valuation"
+        "value": "2028",
+        "label": "CoreWeave profit target year"
       },
       {
-        "value": "$900B",
-        "label": "computing commitments"
+        "value": "nearly 2%",
+        "label": "Nasdaq futures gain"
       }
     ]
   },
@@ -85,26 +85,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Consumer inflation runs hotter than expected in October",
-          "body": "The consumer price index rose more than expected in October, signaling persistent pressure on the economy. The data gives the Federal Reserve difficult choices as officials weigh their next interest rate moves.",
+          "headline": "PepsiCo to Cut 1,000 North American Jobs",
+          "body": "PepsiCo is cutting about 1,000 jobs across its North American food and beverage units. The company is restructuring to streamline operations amid rising costs and softer customer demand.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/retail/pepsico-cut-1000-north-american-jobs-seeks-improve-performance"
+            }
+          ],
+          "why": "Operational turnarounds at corporate giants showcase how management teams cut overhead when product demand slows down."
+        },
+        {
+          "headline": "Fed Official Warns on Inflation as Rate Hike Odds Rise",
+          "body": "Chicago Fed President Austan Goolsbee called the latest consumer price index report borderline disturbing. The hotter data sparked fresh bets among currency traders that the Federal Reserve might hike interest rates next month, driving up the U.S. dollar.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
-            }
-          ],
-          "why": "Higher rates increase the cost of capital for startups and debt financing for acquisitions, which directly impacts private equity and investing deal flow."
-        },
-        {
-          "headline": "Average new vehicle prices hit a record $51,109",
-          "body": "The average transaction price for a new car in the United States climbed to a record high of $51,109. Kelley Blue Book notes that buyers are responding by extending the length of their car loans to finance the purchases.",
-          "sources": [
+              "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+            },
             {
-              "name": "NPR",
-              "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms"
             }
           ],
-          "why": "Consumer credit trends like stretched auto loans give you a real-world look at how everyday household debt expands when baseline costs rise."
+          "why": "Interest rate expectations directly impact corporate borrowing costs and startup funding environments."
         }
       ]
     },
@@ -113,30 +117,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Nvidia shares see heavy retail dip-buying after scandal",
-          "body": "Retail investors poured capital into Nvidia stock, surging purchases by over 400 percent after shares dropped following reports regarding CEO Jensen Huang. Despite the executive distraction, analysts view the long-term chip replacement cycle as intact.",
+          "headline": "Microsoft Finds Subtle Neural Backdoor Vulnerability in AI Models",
+          "body": "Microsoft researchers demonstrated that editing fewer than 10 rarely used neurons can insert a hidden backdoor into an AI model without full retraining. When a specific trigger appears, the altered model secretly executes attacker commands.",
           "sources": [
             {
-              "name": "Seeking Alpha",
-              "url": "https://seekingalpha.com/article/4965688-nvidia-separating-the-jensen-huang-noise-from-the-3-6-year-chip-replacement-cycle"
-            },
-            {
-              "name": "The Telegraph",
-              "url": "https://www.telegraph.co.uk/money/investing/news/investors-pile-into-nvidia-after-honeytrap-scandal/"
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
             }
           ],
-          "why": "Market sell-offs driven by headlines often create classic buy-the-dip moments. It is a textbook study in separating short-term noise from a company's underlying fundamentals."
+          "why": "AI security is becoming a core challenge for enterprise adoption, creating opportunities for cybersecurity startups."
         },
         {
-          "headline": "TSMC invests up to $1 billion across Anthropic and OpenAI",
-          "body": "Taiwan Semiconductor Manufacturing Company plans to invest up to $1 billion across leading AI developers Anthropic and OpenAI. The move highlights the chipmaker's confidence in long-term demand despite broader market anxiety over soaring AI spending.",
+          "headline": "OpenAI Board Member Warns of Autonomous AI Safety Risks",
+          "body": "OpenAI board member Paul Christiano stated at the 2026 Hinton Lecture that AI accidents could become a leading cause of mortality if systems become unsafe. He urged researchers to focus more heavily on alignment techniques.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/ai-accident-is-most-likely-reason-you-will-die-warns-openai-board-member-12699672"
             }
           ],
-          "why": "When a picks-and-shovels manufacturer invests directly in its own customers, it signals immense conviction in the supply chain's multi-year revenue visibility."
+          "why": "Understanding AI safety debates helps you evaluate risk factors when analyzing frontier AI companies."
         }
       ]
     },
@@ -145,30 +145,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Boston Consulting Group tapped for UK government strategy",
-          "body": "Boston Consulting Group has been hired by the UK government to advise on its upcoming 10-year national strategy. The engagement highlights the continued reliance of public sector entities on top-tier strategy firms.",
+          "headline": "McKinsey Report Highlights AI Automation in Banking Risk Roles",
+          "body": "A report from McKinsey found that AI could eliminate 60% to 70% of manual tasks in bank risk functions. This shift will allow financial institutions to redirect staff toward strategic analysis and model development.",
           "sources": [
             {
-              "name": "Middle East Monitor",
-              "url": "https://www.middleeastmonitor.com/20261109-consultancy-linked-to-trumps-gaza-plans-hired-to-advise-on-uks-10-year-strategy-report/"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
             }
           ],
-          "why": "If you are targeting a career in management consulting, keeping tabs on major public sector wins shows where top firms are capturing long-term advisory fees."
+          "why": "Entry-level finance jobs are shifting away from manual data entry toward strategic analysis and judgment."
         },
         {
-          "headline": "Gen Z founders bypass entry-level corporate jobs for AI startups",
-          "body": "A growing number of young professionals are skipping traditional entry-level corporate roles to launch their own companies. Artificial intelligence tools have dramatically lowered the technical barrier and cost required to build a minimum viable product.",
+          "headline": "BCG Ranks India as an AI Contender Powered by Talent",
+          "body": "Boston Consulting Group labeled India a Rising Contender in AI, noting that its growth relies on a deep talent pool rather than heavy compute infrastructure. Government upskilling programs are expanding local technical knowledge.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute/articleshow/135736932.cms"
             }
           ],
-          "why": "This is your exact peer group. It proves you don't need a decade of corporate experience anymore to spin up a tech-enabled venture right out of college."
+          "why": "Consulting firms track global workforce shifts, showing where tech talent and international expansion are heading."
         }
       ]
     },
@@ -177,12 +173,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine included in new $38.2 million climate research initiative",
-          "body": "The University of California launched the Climate Change Research and Policy Institute, an initiative funding work to be conducted across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "headline": "UCI Men's Basketball Tops San Jose State 91-79 to Move to 2-0",
+          "body": "Jovan Jester Jr. scored 24 points and pulled down eight rebounds as the Anteaters defeated San Jose State at the Bren Events Center. UC Irvine opened the game on a 13-0 run and led by 20 points at halftime.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
+              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
             }
           ]
         }
@@ -193,16 +193,20 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Jannik Sinner targets Australian Open comeback",
-          "body": "Former world number one Jannik Sinner confirmed he is targeting the Australian Open in January for his return to competitive tennis. Sinner has been sidelined since July due to a knee injury.",
+          "headline": "Linda Noskova Defeats Coco Gauff to Advance at WTA Finals",
+          "body": "Linda Noskova beat world No. 4 Coco Gauff 6-3 6-3 in Indian Wells. The straight-sets win secured Noskova a spot in the semifinals of the season-ending tournament.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/10/tennis-sinner-positive-on-australian-open-prospects-but-won039t-rush-return"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/linda-noskova-bests-coco-gauff-to-reach-wta-finals-semis-americans-battle-for-second-spot-101794360886863.html"
             },
             {
               "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13610594/jannik-sinner-world-no-2-confirms-aim-to-return-to-tennis-at-australian-open-after-lengthy-absence-with-knee-injury"
+              "url": "https://www.skysports.com/tennis/news/13610698/wta-finals-linda-noskova-dismantles-coco-gauff-to-reach-semi-finals-as-jessica-pegula-keeps-hopes-alive-with-victory"
+            },
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4004847-tennis-noskova-beats-gauff-to-reach-wta-finals-semis-pegula-stays-in-hunt"
             }
           ]
         }
@@ -210,51 +214,51 @@
     }
   ],
   "term": {
-    "name": "Consumer Price Index (CPI)",
-    "definition": "A broad economic gauge that measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Central banks use it as a primary benchmark to track inflation and determine interest rate policy. When the CPI rises faster than expected, it often prompts the Federal Reserve to keep borrowing costs elevated.",
+    "name": "Per Diem",
+    "definition": "A per diem is a fixed daily allowance paid by an employer to cover an employee's daily living and travel expenses while working away from home. In data center construction, workers are using per diems to live in RVs near project sites to save money while earning stipends.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/data-center-workers-living-in-rv-park-housing-per-diem-2026-11"
       }
     ]
   },
   "serve": {
-    "headline": "Bay raised $50 million to help companies secure AI agents",
-    "body": "Israeli cybersecurity startup Bay secured $50 million in early funding led by Battery Ventures to help enterprises deploy and manage secure AI agents. The company has spent less than a year operating in stealth with dozens of corporate clients.",
+    "headline": "Rox raised $100M to build AI sales tools",
+    "body": "Rox raised $100 million in Series B funding at a $1.3 billion valuation to expand its AI sales agent platform. General Catalyst and March Capital co-led the round to help Rox challenge traditional platforms like Salesforce.",
     "questions": [
-      "How do you monetize enterprise software before your product is even publicly launched?",
-      "What security vulnerabilities emerge when autonomous AI agents start making corporate decisions?",
-      "How would you pitch this security layer to a risk-averse bank CIO?"
+      "How can sales teams use AI to automate routine outreach without losing personal customer trust?",
+      "If you were launching an AI sales product on campus, what workflow would you target first?",
+      "What weaknesses in legacy software giants like Salesforce make them vulnerable to AI startups?"
     ],
     "sources": [
       {
-        "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/business/bay-raises-50lcr-to-help-companies-run-secure-ai-agents/tldr"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic targets a trillion-dollar valuation in massive IPO",
-      "blurb": "The Claude maker is seeking up to $64.4 billion in a blockbuster Nasdaq debut."
+      "headline": "CoreWeave earnings calm AI spending fears as tech futures jump",
+      "blurb": "The company expects profitability by 2028, sending its stock up 13% in premarket trading."
     },
     {
-      "headline": "Consumer inflation prints higher than expected in October",
-      "blurb": "Sticky costs give the Federal Reserve fresh headaches over future rate cuts."
+      "headline": "PepsiCo trims 1,000 North American jobs to offset rising costs",
+      "blurb": "The food and beverage giant is restructuring operations due to weaker customer demand."
     },
     {
-      "headline": "Nvidia sees heavy retail dip-buying after executive scandal",
-      "blurb": "Investors piled into shares following a drop triggered by CEO headlines."
+      "headline": "Microsoft finds editing under 10 neurons can backdoor AI models",
+      "blurb": "Researchers showed that specific command triggers can be added without full model retraining."
     },
     {
-      "headline": "TSMC commits up to $1 billion to back Anthropic and OpenAI",
-      "blurb": "The chipmaking giant is doubling down on long-term artificial intelligence demand."
+      "headline": "McKinsey finds AI could replace up to 70% of manual banking risk tasks",
+      "blurb": "Banks are moving staff from entry-level processing toward strategic decision-making."
     },
     {
-      "headline": "Gen Z founders skip corporate tracks to build AI startups",
-      "blurb": "Lower technical barriers are helping young entrepreneurs launch companies early."
+      "headline": "Linda Noskova defeats Coco Gauff in straight sets at WTA Finals",
+      "blurb": "The 6-3 6-3 victory makes Noskova the first player to secure a semifinal spot in Indian Wells."
     }
   ],
-  "emailQuestion": "How do you monetize enterprise software before your product is even publicly launched?"
+  "emailQuestion": "How can sales teams use AI to automate routine outreach without losing personal customer trust?"
 }

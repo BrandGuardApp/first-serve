@@ -1,0 +1,264 @@
+{
+  "id": "2026-11-11-pm",
+  "slot": "evening",
+  "date": "2026-11-11",
+  "dateLabel": "Wed, Nov 11, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-12T01:27:32.267Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "CoreWeave lifts tech futures, PepsiCo cuts 1,000 jobs, and UCI basketball stays undefeated.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 11",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,619",
+        "change": "+1.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,466",
+        "change": "+1.60%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,486",
+        "change": "+0.49%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.00%",
+        "change": "+2 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$4,003",
+        "change": "+0.07%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "CoreWeave Earnings Calm AI Spending Concerns as Markets Rebound",
+    "body": "CoreWeave reported strong earnings and announced it expects to reach profitability by the first half of 2028. The news pushed CoreWeave shares up over 13% in premarket trading and lifted tech futures overall. Nvidia stock also stabilized ahead of its upcoming earnings report on November 17.",
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-rise-nearly-2-as-coreweave-earnings-calm-ai-spending-fears/articleshow/135738901.cms"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-is-nvidia-stock-surging-today-after-a-two-day-crash-that-wiped-out-480-billion-investors-buy-the-dip-as-nvda-rebounds-despite-jensen-huang-controversy-ahead-of-november-17-earnings/articleshow/135736282.cms"
+      },
+      {
+        "name": "Bnn Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/11/11/us-futures-climb-and-nvidia-shares-stabilize-in-a-brutal-week-for-the-chipmaker/"
+      }
+    ],
+    "why": "Strong earnings from AI infrastructure providers reassure public markets that enterprise tech spending remains healthy. Tracking these operational milestones gives you better context when valuing high-growth tech firms.",
+    "kicker": "Tech & AI Markets",
+    "figures": [
+      {
+        "value": "+13%",
+        "label": "CoreWeave premarket surge"
+      },
+      {
+        "value": "2028",
+        "label": "CoreWeave profit target year"
+      },
+      {
+        "value": "nearly 2%",
+        "label": "Nasdaq futures gain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "PepsiCo to Cut 1,000 North American Jobs",
+          "body": "PepsiCo is cutting about 1,000 jobs across its North American food and beverage units. The company is restructuring to streamline operations amid rising costs and softer customer demand.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/retail/pepsico-cut-1000-north-american-jobs-seeks-improve-performance"
+            }
+          ],
+          "why": "Operational turnarounds at corporate giants showcase how management teams cut overhead when product demand slows down."
+        },
+        {
+          "headline": "Fed Official Warns on Inflation as Rate Hike Odds Rise",
+          "body": "Chicago Fed President Austan Goolsbee called the latest consumer price index report borderline disturbing. The hotter data sparked fresh bets among currency traders that the Federal Reserve might hike interest rates next month, driving up the U.S. dollar.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+            },
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms"
+            }
+          ],
+          "why": "Interest rate expectations directly impact corporate borrowing costs and startup funding environments."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Microsoft Finds Subtle Neural Backdoor Vulnerability in AI Models",
+          "body": "Microsoft researchers demonstrated that editing fewer than 10 rarely used neurons can insert a hidden backdoor into an AI model without full retraining. When a specific trigger appears, the altered model secretly executes attacker commands.",
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
+            }
+          ],
+          "why": "AI security is becoming a core challenge for enterprise adoption, creating opportunities for cybersecurity startups."
+        },
+        {
+          "headline": "OpenAI Board Member Warns of Autonomous AI Safety Risks",
+          "body": "OpenAI board member Paul Christiano stated at the 2026 Hinton Lecture that AI accidents could become a leading cause of mortality if systems become unsafe. He urged researchers to focus more heavily on alignment techniques.",
+          "sources": [
+            {
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/ai-accident-is-most-likely-reason-you-will-die-warns-openai-board-member-12699672"
+            }
+          ],
+          "why": "Understanding AI safety debates helps you evaluate risk factors when analyzing frontier AI companies."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Report Highlights AI Automation in Banking Risk Roles",
+          "body": "A report from McKinsey found that AI could eliminate 60% to 70% of manual tasks in bank risk functions. This shift will allow financial institutions to redirect staff toward strategic analysis and model development.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
+            }
+          ],
+          "why": "Entry-level finance jobs are shifting away from manual data entry toward strategic analysis and judgment."
+        },
+        {
+          "headline": "BCG Ranks India as an AI Contender Powered by Talent",
+          "body": "Boston Consulting Group labeled India a Rising Contender in AI, noting that its growth relies on a deep talent pool rather than heavy compute infrastructure. Government upskilling programs are expanding local technical knowledge.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute/articleshow/135736932.cms"
+            }
+          ],
+          "why": "Consulting firms track global workforce shifts, showing where tech talent and international expansion are heading."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Men's Basketball Tops San Jose State 91-79 to Move to 2-0",
+          "body": "Jovan Jester Jr. scored 24 points and pulled down eight rebounds as the Anteaters defeated San Jose State at the Bren Events Center. UC Irvine opened the game on a 13-0 run and led by 20 points at halftime.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Linda Noskova Defeats Coco Gauff to Advance at WTA Finals",
+          "body": "Linda Noskova beat world No. 4 Coco Gauff 6-3 6-3 in Indian Wells. The straight-sets win secured Noskova a spot in the semifinals of the season-ending tournament.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/linda-noskova-bests-coco-gauff-to-reach-wta-finals-semis-americans-battle-for-second-spot-101794360886863.html"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13610698/wta-finals-linda-noskova-dismantles-coco-gauff-to-reach-semi-finals-as-jessica-pegula-keeps-hopes-alive-with-victory"
+            },
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4004847-tennis-noskova-beats-gauff-to-reach-wta-finals-semis-pegula-stays-in-hunt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Per Diem",
+    "definition": "A per diem is a fixed daily allowance paid by an employer to cover an employee's daily living and travel expenses while working away from home. In data center construction, workers are using per diems to live in RVs near project sites to save money while earning stipends.",
+    "sources": [
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/data-center-workers-living-in-rv-park-housing-per-diem-2026-11"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Rox raised $100M to build AI sales tools",
+    "body": "Rox raised $100 million in Series B funding at a $1.3 billion valuation to expand its AI sales agent platform. General Catalyst and March Capital co-led the round to help Rox challenge traditional platforms like Salesforce.",
+    "questions": [
+      "How can sales teams use AI to automate routine outreach without losing personal customer trust?",
+      "If you were launching an AI sales product on campus, what workflow would you target first?",
+      "What weaknesses in legacy software giants like Salesforce make them vulnerable to AI startups?"
+    ],
+    "sources": [
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "CoreWeave earnings calm AI spending fears as tech futures jump",
+      "blurb": "The company expects profitability by 2028, sending its stock up 13% in premarket trading."
+    },
+    {
+      "headline": "PepsiCo trims 1,000 North American jobs to offset rising costs",
+      "blurb": "The food and beverage giant is restructuring operations due to weaker customer demand."
+    },
+    {
+      "headline": "Microsoft finds editing under 10 neurons can backdoor AI models",
+      "blurb": "Researchers showed that specific command triggers can be added without full model retraining."
+    },
+    {
+      "headline": "McKinsey finds AI could replace up to 70% of manual banking risk tasks",
+      "blurb": "Banks are moving staff from entry-level processing toward strategic decision-making."
+    },
+    {
+      "headline": "Linda Noskova defeats Coco Gauff in straight sets at WTA Finals",
+      "blurb": "The 6-3 6-3 victory makes Noskova the first player to secure a semifinal spot in Indian Wells."
+    }
+  ],
+  "emailQuestion": "How can sales teams use AI to automate routine outreach without losing personal customer trust?"
+}
