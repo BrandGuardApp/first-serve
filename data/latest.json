@@ -1,81 +1,81 @@
 {
-  "id": "2026-11-11-pm",
-  "slot": "evening",
-  "date": "2026-11-11",
-  "dateLabel": "Wed, Nov 11, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-12T01:27:32.267Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "CoreWeave lifts tech futures, PepsiCo cuts 1,000 jobs, and UCI basketball stays undefeated.",
+  "id": "2026-11-12-am",
+  "slot": "morning",
+  "date": "2026-11-12",
+  "dateLabel": "Thu, Nov 12, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-12T18:10:21.998Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia board considers ousting CEO, Anthropic IPO demand surges, and United Airlines blocks AI agents.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 11",
+    "asOf": "1:05 PM ET, Nov 12",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,619",
-        "change": "+1.31%",
+        "value": "7,628",
+        "change": "+0.12%",
         "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "25,466",
-        "change": "+1.60%",
+        "value": "25,473",
+        "change": "+0.03%",
         "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "52,486",
-        "change": "+0.49%",
+        "value": "52,613",
+        "change": "+0.24%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.00%",
-        "change": "+2 bp",
+        "value": "5.10%",
+        "change": "+10 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$4,003",
-        "change": "+0.07%",
-        "direction": "up"
+        "value": "$3,879",
+        "change": "−3.05%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "CoreWeave Earnings Calm AI Spending Concerns as Markets Rebound",
-    "body": "CoreWeave reported strong earnings and announced it expects to reach profitability by the first half of 2028. The news pushed CoreWeave shares up over 13% in premarket trading and lifted tech futures overall. Nvidia stock also stabilized ahead of its upcoming earnings report on November 17.",
+    "headline": "Nvidia Board Weighs Ousting CEO Jensen Huang After Personal Conduct Review",
+    "body": "Nvidia stock tumbled 9% after reports surfaced that the board is preparing to oust CEO Jensen Huang following an admitted extramarital affair. Under company bylaws, 6 of the board's 11 directors can remove the CEO. Nvidia currently supplies about 90% of the advanced chips used in major AI projects worldwide.",
     "sources": [
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-rise-nearly-2-as-coreweave-earnings-calm-ai-spending-fears/articleshow/135738901.cms"
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
       },
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/international/us/why-is-nvidia-stock-surging-today-after-a-two-day-crash-that-wiped-out-480-billion-investors-buy-the-dip-as-nvda-rebounds-despite-jensen-huang-controversy-ahead-of-november-17-earnings/articleshow/135736282.cms"
+        "name": "CNBC TV18",
+        "url": "https://www.cnbctv18.com/business/nvidia-plunges-as-jensen-huangs-future-hangs-in-balance-vance-to-lead-iran-talks-and-more-20032024.htm"
       },
       {
-        "name": "Bnn Bloomberg",
-        "url": "https://www.bnnbloomberg.ca/markets/2026/11/11/us-futures-climb-and-nvidia-shares-stabilize-in-a-brutal-week-for-the-chipmaker/"
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/ht-explainers/nvidia-jensen-huang-removal-board-investigation-successor-ai-chips-101794462310722.html"
       }
     ],
-    "why": "Strong earnings from AI infrastructure providers reassure public markets that enterprise tech spending remains healthy. Tracking these operational milestones gives you better context when valuing high-growth tech firms.",
-    "kicker": "Tech & AI Markets",
+    "why": "If Nvidia changes leadership, supply chains and hardware valuations across the AI sector could shift quickly. Tracking chip supply dynamics will help you analyze tech stock valuations in your finance courses.",
+    "kicker": "Tech Leadership + Markets",
     "figures": [
       {
-        "value": "+13%",
-        "label": "CoreWeave premarket surge"
+        "value": "9%",
+        "label": "Stock drop in extended trading"
       },
       {
-        "value": "2028",
-        "label": "CoreWeave profit target year"
+        "value": "90%",
+        "label": "Nvidia share of big AI chip market"
       },
       {
-        "value": "nearly 2%",
-        "label": "Nasdaq futures gain"
+        "value": "6 of 11",
+        "label": "Board directors needed to oust CEO"
       }
     ]
   },
@@ -85,30 +85,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "PepsiCo to Cut 1,000 North American Jobs",
-          "body": "PepsiCo is cutting about 1,000 jobs across its North American food and beverage units. The company is restructuring to streamline operations amid rising costs and softer customer demand.",
+          "headline": "Anthropic IPO Projections Signal Record Demand from Retail Investors",
+          "body": "Anthropic's upcoming Nasdaq debut could attract $250 million in net retail buying, according to analysis by Vanda Research. That total would nearly double the previous retail buying record set during the SpaceX IPO.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/retail/pepsico-cut-1000-north-american-jobs-seeks-improve-performance"
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/business/why-anthropics-ipo-could-trigger-record-retail-investor-demand-14059467.html"
             }
           ],
-          "why": "Operational turnarounds at corporate giants showcase how management teams cut overhead when product demand slows down."
+          "why": "Retail investor interest can drive strong initial pricing for high-profile tech stocks, which gives you clear examples of retail market dynamics for investment analysis."
         },
         {
-          "headline": "Fed Official Warns on Inflation as Rate Hike Odds Rise",
-          "body": "Chicago Fed President Austan Goolsbee called the latest consumer price index report borderline disturbing. The hotter data sparked fresh bets among currency traders that the Federal Reserve might hike interest rates next month, driving up the U.S. dollar.",
+          "headline": "United Airlines Blocks AI Assistants from Managing User Accounts",
+          "body": "United Airlines has banned digital AI agents from logging into customer accounts and booking flights. The airline cited data privacy risks, potential disruptions, and compliance issues if humans are not directly involved.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
             }
           ],
-          "why": "Interest rate expectations directly impact corporate borrowing costs and startup funding environments."
+          "why": "Seeing legacy corporations restrict autonomous software highlights where startups can build solutions focused on security and compliance."
         }
       ]
     },
@@ -117,26 +113,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Microsoft Finds Subtle Neural Backdoor Vulnerability in AI Models",
-          "body": "Microsoft researchers demonstrated that editing fewer than 10 rarely used neurons can insert a hidden backdoor into an AI model without full retraining. When a specific trigger appears, the altered model secretly executes attacker commands.",
+          "headline": "Sovereign Wealth Funds Expand Direct AI Investments Toward $22 Trillion Goal",
+          "body": "Sovereign wealth fund assets are projected to grow nearly 50% to $22.4 trillion by 2030, according to a PwC report. State-backed investment funds are expanding their direct holdings in artificial intelligence and energy infrastructure.",
           "sources": [
             {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/public-funds-ploughing-cash-into-ai-will-own-megatrends-shaping-economy-ce785ed8d98ff422"
             }
           ],
-          "why": "AI security is becoming a core challenge for enterprise adoption, creating opportunities for cybersecurity startups."
+          "why": "State capital is playing a bigger role in venture funding, giving you insight into where global money is moving for long-term tech projects."
         },
         {
-          "headline": "OpenAI Board Member Warns of Autonomous AI Safety Risks",
-          "body": "OpenAI board member Paul Christiano stated at the 2026 Hinton Lecture that AI accidents could become a leading cause of mortality if systems become unsafe. He urged researchers to focus more heavily on alignment techniques.",
+          "headline": "Chinese AI Firms Rent Overseas Nvidia Servers Amid Regulatory Uncertainty",
+          "body": "Chinese artificial intelligence startups are moving to rent Nvidia-powered computing capacity at data centers outside China. They fear leadership changes at Nvidia could accelerate US government restrictions on remote chip access.",
           "sources": [
             {
-              "name": "Newsweek",
-              "url": "https://www.newsweek.com/ai-accident-is-most-likely-reason-you-will-die-warns-openai-board-member-12699672"
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html"
             }
           ],
-          "why": "Understanding AI safety debates helps you evaluate risk factors when analyzing frontier AI companies."
+          "why": "Geopolitical trade rules directly impact cloud infrastructure costs, a critical factor when modeling startup expenses for software businesses."
         }
       ]
     },
@@ -145,26 +141,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Report Highlights AI Automation in Banking Risk Roles",
-          "body": "A report from McKinsey found that AI could eliminate 60% to 70% of manual tasks in bank risk functions. This shift will allow financial institutions to redirect staff toward strategic analysis and model development.",
+          "headline": "Gen Z Graduates Choose Entrepreneurship Over Corporate Entry-Level Jobs",
+          "body": "More young graduates are skipping traditional corporate paths to launch their own companies. Accessible AI tools have lowered the cost of building software, enabling young founders to start companies without corporate work experience.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/technology/ai-could-eliminate-up-to-70-of-manual-risk-tasks-in-banks-free-capacity-for-strategic-roles-mckinsey-11794287875319.html"
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
             }
           ],
-          "why": "Entry-level finance jobs are shifting away from manual data entry toward strategic analysis and judgment."
+          "why": "Lower development costs mean you can test real startup ideas while taking business classes at UCI."
         },
         {
-          "headline": "BCG Ranks India as an AI Contender Powered by Talent",
-          "body": "Boston Consulting Group labeled India a Rising Contender in AI, noting that its growth relies on a deep talent pool rather than heavy compute infrastructure. Government upskilling programs are expanding local technical knowledge.",
+          "headline": "International Cricket Council Hires McKinsey for Governance and Data Strategy",
+          "body": "The International Cricket Council commissioned McKinsey to conduct a strategic review of its corporate governance. The consulting project aims to grow revenues from data rights, franchise rules, and mobile gaming partnerships.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute/articleshow/135736932.cms"
+              "name": "Telegraph India",
+              "url": "https://www.telegraphindia.com/sports/icc-eyes-usd-10-billion-cricket-economy-through-sponsorship-gaming-and-data-monetisation-prnt/cid/2188994"
             }
           ],
-          "why": "Consulting firms track global workforce shifts, showing where tech talent and international expansion are heading."
+          "why": "Management consultancies frequently advise global sports organizations on digital transformation, showing how consulting projects extend far beyond traditional corporate clients."
         }
       ]
     },
@@ -173,16 +173,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI Men's Basketball Tops San Jose State 91-79 to Move to 2-0",
-          "body": "Jovan Jester Jr. scored 24 points and pulled down eight rebounds as the Anteaters defeated San Jose State at the Bren Events Center. UC Irvine opened the game on a 13-0 run and led by 20 points at halftime.",
+          "headline": "University of California Launches $38.2 Million Climate Research Initiative",
+          "body": "The University of California system has launched the Climate Change Research & Policy Institute. The $38.2 million program funds collaborative environmental research across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/07/jester-uc-irvine-men-use-strong-start-to-dismiss-san-jose-state/"
-            },
-            {
-              "name": "WTOP",
-              "url": "https://wtop.com/college-sports/2026/11/jesters-24-lead-uc-irvine-past-san-jose-state-91-79/"
+              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
             }
           ]
         }
@@ -193,20 +189,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Linda Noskova Defeats Coco Gauff to Advance at WTA Finals",
-          "body": "Linda Noskova beat world No. 4 Coco Gauff 6-3 6-3 in Indian Wells. The straight-sets win secured Noskova a spot in the semifinals of the season-ending tournament.",
+          "headline": "19-Year-Old Mirra Andreeva Defeats Sabalenka to Reach WTA Finals Semifinals",
+          "body": "Mirra Andreeva won 11 consecutive games to defeat world No. 2 Aryna Sabalenka 6-4, 6-0 in Group 2 action. The victory sent the 19-year-old French Open champion into the WTA Finals semifinals as group winner.",
           "sources": [
             {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/12/tennis-sabalenka-still-hopeful-of-reaching-wta-finals-last-four-despite-defeat-by-andreeva"
+            },
+            {
               "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/linda-noskova-bests-coco-gauff-to-reach-wta-finals-semis-americans-battle-for-second-spot-101794360886863.html"
-            },
-            {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13610698/wta-finals-linda-noskova-dismantles-coco-gauff-to-reach-semi-finals-as-jessica-pegula-keeps-hopes-alive-with-victory"
-            },
-            {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4004847-tennis-noskova-beats-gauff-to-reach-wta-finals-semis-pegula-stays-in-hunt"
+              "url": "https://www.hindustantimes.com/sports/tennis/andreeva-beats-sabalenka-to-reach-wta-finals-semis-svitolina-fights-back-to-beat-muchova-101794447145963.html"
             }
           ]
         }
@@ -214,51 +206,55 @@
     }
   ],
   "term": {
-    "name": "Per Diem",
-    "definition": "A per diem is a fixed daily allowance paid by an employer to cover an employee's daily living and travel expenses while working away from home. In data center construction, workers are using per diems to live in RVs near project sites to save money while earning stipends.",
+    "name": "AI Agent",
+    "definition": "An AI agent is software programmed to perform complex, multi-step tasks autonomously without constant human direction. Companies use AI agents to automate customer bookings or monitor cyber threats, but firms like United Airlines are limiting their access over security and privacy risks.",
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/data-center-workers-living-in-rv-park-housing-per-diem-2026-11"
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+      },
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
       }
     ]
   },
   "serve": {
-    "headline": "Rox raised $100M to build AI sales tools",
-    "body": "Rox raised $100 million in Series B funding at a $1.3 billion valuation to expand its AI sales agent platform. General Catalyst and March Capital co-led the round to help Rox challenge traditional platforms like Salesforce.",
+    "headline": "Mercor Raised $750M at $20B Valuation for AI Hiring Platform",
+    "body": "Mercor raised $750 million in Series D funding at a $20 billion valuation, with backing from Nvidia and Salesforce. Founded in 2023 by three college dropouts, the company has doubled its valuation in just over a year.",
     "questions": [
-      "How can sales teams use AI to automate routine outreach without losing personal customer trust?",
-      "If you were launching an AI sales product on campus, what workflow would you target first?",
-      "What weaknesses in legacy software giants like Salesforce make them vulnerable to AI startups?"
+      "What routine business operations at UCI could an AI platform streamline?",
+      "How would you evaluate leaving college early to build a venture-backed startup?",
+      "What key features help an early-stage startup secure backing from tech leaders like Nvidia?"
     ],
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/11/mercor-raises-750m-at-20b-valuation-doubling-its-worth-in-just-over-a-year-with-backing-from-nvidia-salesforce/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "CoreWeave earnings calm AI spending fears as tech futures jump",
-      "blurb": "The company expects profitability by 2028, sending its stock up 13% in premarket trading."
+      "headline": "Nvidia board prepares to oust CEO Jensen Huang after personal conduct review.",
+      "blurb": "Nvidia stock fell 9% after hours while the board weighs removing the chief executive."
     },
     {
-      "headline": "PepsiCo trims 1,000 North American jobs to offset rising costs",
-      "blurb": "The food and beverage giant is restructuring operations due to weaker customer demand."
+      "headline": "Anthropic IPO is projected to draw $250 million in retail investor buying.",
+      "blurb": "Demand for the AI maker's Nasdaq debut could top the retail record set by SpaceX."
     },
     {
-      "headline": "Microsoft finds editing under 10 neurons can backdoor AI models",
-      "blurb": "Researchers showed that specific command triggers can be added without full model retraining."
+      "headline": "United Airlines blocks digital AI agents from logging into user accounts.",
+      "blurb": "The airline cited privacy and compliance risks associated with automated flight bookings."
     },
     {
-      "headline": "McKinsey finds AI could replace up to 70% of manual banking risk tasks",
-      "blurb": "Banks are moving staff from entry-level processing toward strategic decision-making."
+      "headline": "More Gen Z graduates skip entry-level corporate jobs to launch startups.",
+      "blurb": "Young founders are leveraging low-cost AI software to start companies straight out of school."
     },
     {
-      "headline": "Linda Noskova defeats Coco Gauff in straight sets at WTA Finals",
-      "blurb": "The 6-3 6-3 victory makes Noskova the first player to secure a semifinal spot in Indian Wells."
+      "headline": "Mercor reaches a $20 billion valuation with a $750 million funding round.",
+      "blurb": "The AI startup founded by three college dropouts secured investments from Nvidia and Salesforce."
     }
   ],
-  "emailQuestion": "How can sales teams use AI to automate routine outreach without losing personal customer trust?"
+  "emailQuestion": "What routine business operations at UCI could an AI platform streamline?"
 }

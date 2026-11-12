@@ -1,0 +1,260 @@
+{
+  "id": "2026-11-12-am",
+  "slot": "morning",
+  "date": "2026-11-12",
+  "dateLabel": "Thu, Nov 12, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-12T18:10:21.998Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia board considers ousting CEO, Anthropic IPO demand surges, and United Airlines blocks AI agents.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "1:05 PM ET, Nov 12",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,628",
+        "change": "+0.12%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,473",
+        "change": "+0.03%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "52,613",
+        "change": "+0.24%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "+10 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,879",
+        "change": "−3.05%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia Board Weighs Ousting CEO Jensen Huang After Personal Conduct Review",
+    "body": "Nvidia stock tumbled 9% after reports surfaced that the board is preparing to oust CEO Jensen Huang following an admitted extramarital affair. Under company bylaws, 6 of the board's 11 directors can remove the CEO. Nvidia currently supplies about 90% of the advanced chips used in major AI projects worldwide.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+      },
+      {
+        "name": "CNBC TV18",
+        "url": "https://www.cnbctv18.com/business/nvidia-plunges-as-jensen-huangs-future-hangs-in-balance-vance-to-lead-iran-talks-and-more-20032024.htm"
+      },
+      {
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/ht-explainers/nvidia-jensen-huang-removal-board-investigation-successor-ai-chips-101794462310722.html"
+      }
+    ],
+    "why": "If Nvidia changes leadership, supply chains and hardware valuations across the AI sector could shift quickly. Tracking chip supply dynamics will help you analyze tech stock valuations in your finance courses.",
+    "kicker": "Tech Leadership + Markets",
+    "figures": [
+      {
+        "value": "9%",
+        "label": "Stock drop in extended trading"
+      },
+      {
+        "value": "90%",
+        "label": "Nvidia share of big AI chip market"
+      },
+      {
+        "value": "6 of 11",
+        "label": "Board directors needed to oust CEO"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Anthropic IPO Projections Signal Record Demand from Retail Investors",
+          "body": "Anthropic's upcoming Nasdaq debut could attract $250 million in net retail buying, according to analysis by Vanda Research. That total would nearly double the previous retail buying record set during the SpaceX IPO.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/business/why-anthropics-ipo-could-trigger-record-retail-investor-demand-14059467.html"
+            }
+          ],
+          "why": "Retail investor interest can drive strong initial pricing for high-profile tech stocks, which gives you clear examples of retail market dynamics for investment analysis."
+        },
+        {
+          "headline": "United Airlines Blocks AI Assistants from Managing User Accounts",
+          "body": "United Airlines has banned digital AI agents from logging into customer accounts and booking flights. The airline cited data privacy risks, potential disruptions, and compliance issues if humans are not directly involved.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+            }
+          ],
+          "why": "Seeing legacy corporations restrict autonomous software highlights where startups can build solutions focused on security and compliance."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Sovereign Wealth Funds Expand Direct AI Investments Toward $22 Trillion Goal",
+          "body": "Sovereign wealth fund assets are projected to grow nearly 50% to $22.4 trillion by 2030, according to a PwC report. State-backed investment funds are expanding their direct holdings in artificial intelligence and energy infrastructure.",
+          "sources": [
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/public-funds-ploughing-cash-into-ai-will-own-megatrends-shaping-economy-ce785ed8d98ff422"
+            }
+          ],
+          "why": "State capital is playing a bigger role in venture funding, giving you insight into where global money is moving for long-term tech projects."
+        },
+        {
+          "headline": "Chinese AI Firms Rent Overseas Nvidia Servers Amid Regulatory Uncertainty",
+          "body": "Chinese artificial intelligence startups are moving to rent Nvidia-powered computing capacity at data centers outside China. They fear leadership changes at Nvidia could accelerate US government restrictions on remote chip access.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html"
+            }
+          ],
+          "why": "Geopolitical trade rules directly impact cloud infrastructure costs, a critical factor when modeling startup expenses for software businesses."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Gen Z Graduates Choose Entrepreneurship Over Corporate Entry-Level Jobs",
+          "body": "More young graduates are skipping traditional corporate paths to launch their own companies. Accessible AI tools have lowered the cost of building software, enabling young founders to start companies without corporate work experience.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
+            }
+          ],
+          "why": "Lower development costs mean you can test real startup ideas while taking business classes at UCI."
+        },
+        {
+          "headline": "International Cricket Council Hires McKinsey for Governance and Data Strategy",
+          "body": "The International Cricket Council commissioned McKinsey to conduct a strategic review of its corporate governance. The consulting project aims to grow revenues from data rights, franchise rules, and mobile gaming partnerships.",
+          "sources": [
+            {
+              "name": "Telegraph India",
+              "url": "https://www.telegraphindia.com/sports/icc-eyes-usd-10-billion-cricket-economy-through-sponsorship-gaming-and-data-monetisation-prnt/cid/2188994"
+            }
+          ],
+          "why": "Management consultancies frequently advise global sports organizations on digital transformation, showing how consulting projects extend far beyond traditional corporate clients."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "University of California Launches $38.2 Million Climate Research Initiative",
+          "body": "The University of California system has launched the Climate Change Research & Policy Institute. The $38.2 million program funds collaborative environmental research across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "19-Year-Old Mirra Andreeva Defeats Sabalenka to Reach WTA Finals Semifinals",
+          "body": "Mirra Andreeva won 11 consecutive games to defeat world No. 2 Aryna Sabalenka 6-4, 6-0 in Group 2 action. The victory sent the 19-year-old French Open champion into the WTA Finals semifinals as group winner.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/12/tennis-sabalenka-still-hopeful-of-reaching-wta-finals-last-four-despite-defeat-by-andreeva"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/andreeva-beats-sabalenka-to-reach-wta-finals-semis-svitolina-fights-back-to-beat-muchova-101794447145963.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "AI Agent",
+    "definition": "An AI agent is software programmed to perform complex, multi-step tasks autonomously without constant human direction. Companies use AI agents to automate customer bookings or monitor cyber threats, but firms like United Airlines are limiting their access over security and privacy risks.",
+    "sources": [
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+      },
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Mercor Raised $750M at $20B Valuation for AI Hiring Platform",
+    "body": "Mercor raised $750 million in Series D funding at a $20 billion valuation, with backing from Nvidia and Salesforce. Founded in 2023 by three college dropouts, the company has doubled its valuation in just over a year.",
+    "questions": [
+      "What routine business operations at UCI could an AI platform streamline?",
+      "How would you evaluate leaving college early to build a venture-backed startup?",
+      "What key features help an early-stage startup secure backing from tech leaders like Nvidia?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/11/mercor-raises-750m-at-20b-valuation-doubling-its-worth-in-just-over-a-year-with-backing-from-nvidia-salesforce/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia board prepares to oust CEO Jensen Huang after personal conduct review.",
+      "blurb": "Nvidia stock fell 9% after hours while the board weighs removing the chief executive."
+    },
+    {
+      "headline": "Anthropic IPO is projected to draw $250 million in retail investor buying.",
+      "blurb": "Demand for the AI maker's Nasdaq debut could top the retail record set by SpaceX."
+    },
+    {
+      "headline": "United Airlines blocks digital AI agents from logging into user accounts.",
+      "blurb": "The airline cited privacy and compliance risks associated with automated flight bookings."
+    },
+    {
+      "headline": "More Gen Z graduates skip entry-level corporate jobs to launch startups.",
+      "blurb": "Young founders are leveraging low-cost AI software to start companies straight out of school."
+    },
+    {
+      "headline": "Mercor reaches a $20 billion valuation with a $750 million funding round.",
+      "blurb": "The AI startup founded by three college dropouts secured investments from Nvidia and Salesforce."
+    }
+  ],
+  "emailQuestion": "What routine business operations at UCI could an AI platform streamline?"
+}
