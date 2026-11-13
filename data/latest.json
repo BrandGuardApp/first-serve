@@ -1,35 +1,35 @@
 {
-  "id": "2026-11-12-am",
-  "slot": "morning",
+  "id": "2026-11-12-pm",
+  "slot": "evening",
   "date": "2026-11-12",
   "dateLabel": "Thu, Nov 12, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-12T18:10:21.998Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Nvidia board considers ousting CEO, Anthropic IPO demand surges, and United Airlines blocks AI agents.",
-  "storyCount": 11,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-13T06:21:30.787Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia CEO Jensen Huang resigns, SpaceX plans massive AI supercomputing hubs, and ATP Finals draws.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "1:05 PM ET, Nov 12",
+    "asOf": "Close, Nov 12",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,628",
-        "change": "+0.12%",
-        "direction": "up"
+        "value": "7,592",
+        "change": "−0.35%",
+        "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "25,473",
-        "change": "+0.03%",
-        "direction": "up"
+        "value": "25,366",
+        "change": "−0.39%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,613",
-        "change": "+0.24%",
-        "direction": "up"
+        "value": "52,297",
+        "change": "−0.36%",
+        "direction": "down"
       },
       {
         "name": "10-yr Treasury",
@@ -39,43 +39,39 @@
       },
       {
         "name": "Gold",
-        "value": "$3,879",
-        "change": "−3.05%",
-        "direction": "down"
+        "value": "$3,902",
+        "change": "+0.42%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia Board Weighs Ousting CEO Jensen Huang After Personal Conduct Review",
-    "body": "Nvidia stock tumbled 9% after reports surfaced that the board is preparing to oust CEO Jensen Huang following an admitted extramarital affair. Under company bylaws, 6 of the board's 11 directors can remove the CEO. Nvidia currently supplies about 90% of the advanced chips used in major AI projects worldwide.",
+    "headline": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+    "body": "Nvidia co-founder and CEO Jensen Huang has resigned following reports of affairs, including one with a customer suspected by U.S. intelligence of being a foreign intelligence asset. The sudden departure sent shockwaves through global markets, though tech stocks managed to bounce back after initial steep losses. The exit also casts a shadow over Nvidia's planned $12.9 billion acquisition of Hugging Face and its broader AI financing strategy.",
     "sources": [
       {
-        "name": "CBS News",
-        "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
       },
       {
-        "name": "CNBC TV18",
-        "url": "https://www.cnbctv18.com/business/nvidia-plunges-as-jensen-huangs-future-hangs-in-balance-vance-to-lead-iran-talks-and-more-20032024.htm"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/12/anthropic-ipo-jensen-huang-resignation-nvidia/"
       },
       {
-        "name": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/ht-explainers/nvidia-jensen-huang-removal-board-investigation-successor-ai-chips-101794462310722.html"
+        "name": "The New Indian Express",
+        "url": "https://www.newindianexpress.com/world/2026/Nov/12/markets-whiplashed-as-huang-quits-nvidia"
       }
     ],
-    "why": "If Nvidia changes leadership, supply chains and hardware valuations across the AI sector could shift quickly. Tracking chip supply dynamics will help you analyze tech stock valuations in your finance courses.",
-    "kicker": "Tech Leadership + Markets",
+    "why": "Since you are studying business and tracking tech markets, pay attention to how governance failures at the top can instantly disrupt multi-billion-dollar deals and market valuations.",
+    "kicker": "Tech + Leadership",
     "figures": [
       {
-        "value": "9%",
-        "label": "Stock drop in extended trading"
+        "value": "$12.9B",
+        "label": "Hugging Face acquisition price"
       },
       {
-        "value": "90%",
-        "label": "Nvidia share of big AI chip market"
-      },
-      {
-        "value": "6 of 11",
-        "label": "Board directors needed to oust CEO"
+        "value": "5.4%",
+        "label": "Nvidia share drop"
       }
     ]
   },
@@ -85,26 +81,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Anthropic IPO Projections Signal Record Demand from Retail Investors",
-          "body": "Anthropic's upcoming Nasdaq debut could attract $250 million in net retail buying, according to analysis by Vanda Research. That total would nearly double the previous retail buying record set during the SpaceX IPO.",
-          "sources": [
-            {
-              "name": "Firstpost",
-              "url": "https://www.firstpost.com/business/why-anthropics-ipo-could-trigger-record-retail-investor-demand-14059467.html"
-            }
-          ],
-          "why": "Retail investor interest can drive strong initial pricing for high-profile tech stocks, which gives you clear examples of retail market dynamics for investment analysis."
-        },
-        {
-          "headline": "United Airlines Blocks AI Assistants from Managing User Accounts",
-          "body": "United Airlines has banned digital AI agents from logging into customer accounts and booking flights. The airline cited data privacy risks, potential disruptions, and compliance issues if humans are not directly involved.",
+          "headline": "Mortgage Rates Slide Slightly to 7.11 Percent",
+          "body": "The average 30-year fixed home loan fell for the fourth straight week, but rates remain stubbornly above 7 percent. High borrowing costs continue to sideline buyers and freeze up the housing market.",
           "sources": [
             {
               "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+              "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html"
             }
           ],
-          "why": "Seeing legacy corporations restrict autonomous software highlights where startups can build solutions focused on security and compliance."
+          "why": "This macro environment directly impacts real estate valuations, private equity deal flow, and consumer finance trends you will study in your Merage finance classes."
+        },
+        {
+          "headline": "CFPB Enforcement Slumps Under Trump Administration",
+          "body": "The Consumer Financial Protection Bureau has started dropping major enforcement lawsuits against top financial institutions like JPMorgan Chase and Bank of America. Meanwhile, consumer complaints regarding banks continue to climb.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers"
+            }
+          ],
+          "why": "Understanding how regulatory oversight shifts across political administrations is crucial for analyzing compliance and risk management in the banking sector."
         }
       ]
     },
@@ -113,26 +109,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Sovereign Wealth Funds Expand Direct AI Investments Toward $22 Trillion Goal",
-          "body": "Sovereign wealth fund assets are projected to grow nearly 50% to $22.4 trillion by 2030, according to a PwC report. State-backed investment funds are expanding their direct holdings in artificial intelligence and energy infrastructure.",
+          "headline": "SpaceX Plans $74 Billion AI Supercomputing Campuses in Texas and Arizona",
+          "body": "Elon Musk's aerospace company is expanding heavily into artificial intelligence by building two massive supercomputing campuses. The massive infrastructure play pairs the company's orbital operations with heavy-duty AI compute.",
           "sources": [
             {
-              "name": "MarketScreener",
-              "url": "https://www.marketscreener.com/news/public-funds-ploughing-cash-into-ai-will-own-megatrends-shaping-economy-ce785ed8d98ff422"
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1423410-spacex-plans-massive-ai-supercomputing-campuses-in-texas-and-arizona"
             }
           ],
-          "why": "State capital is playing a bigger role in venture funding, giving you insight into where global money is moving for long-term tech projects."
+          "why": "This is a massive capital expenditure trend in physical infrastructure. It shows how top tech players are locking down power and compute assets to scale AI workloads."
         },
         {
-          "headline": "Chinese AI Firms Rent Overseas Nvidia Servers Amid Regulatory Uncertainty",
-          "body": "Chinese artificial intelligence startups are moving to rent Nvidia-powered computing capacity at data centers outside China. They fear leadership changes at Nvidia could accelerate US government restrictions on remote chip access.",
+          "headline": "Xbox Leadership Alludes to Generative AI for Game Development",
+          "body": "In a memo marking 25 years of Xbox, gaming leader Asha Sharma suggested that generative AI will allow small teams to build expansive virtual worlds. The technology aims to drastically reduce the developer headcount needed for large-scale games.",
           "sources": [
             {
-              "name": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/jensen-huang-controversy-sends-chinese-ai-firms-scrambling-for-nvidia-computing-power-overseas-14078021.html"
+              "name": "Eurogamer.net",
+              "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo"
             }
           ],
-          "why": "Geopolitical trade rules directly impact cloud infrastructure costs, a critical factor when modeling startup expenses for software businesses."
+          "why": "This highlights a major efficiency play in software development, showing how generative tools are altering cost structures and team sizes across tech."
         }
       ]
     },
@@ -141,30 +137,15 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Gen Z Graduates Choose Entrepreneurship Over Corporate Entry-Level Jobs",
-          "body": "More young graduates are skipping traditional corporate paths to launch their own companies. Accessible AI tools have lowered the cost of building software, enabling young founders to start companies without corporate work experience.",
+          "headline": "Big Four and Audit Firms Roll Out Double-Digit Pay Hikes",
+          "body": "Major advisory firms like EY, Deloitte, and PwC are handing out pay hikes and bonuses of up to 28 percent to top performers. The retention push comes ahead of a wave of mandatory client auditor rotations next year.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/young-americans-start-businesses-ai-entrepreneurship-3809577"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/world-news/20somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-101794215014353.html"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/industry/big-four-audit-firms-salary-hikes-bonuses-retention-ai-11794416956134.html"
             }
           ],
-          "why": "Lower development costs mean you can test real startup ideas while taking business classes at UCI."
-        },
-        {
-          "headline": "International Cricket Council Hires McKinsey for Governance and Data Strategy",
-          "body": "The International Cricket Council commissioned McKinsey to conduct a strategic review of its corporate governance. The consulting project aims to grow revenues from data rights, franchise rules, and mobile gaming partnerships.",
-          "sources": [
-            {
-              "name": "Telegraph India",
-              "url": "https://www.telegraphindia.com/sports/icc-eyes-usd-10-billion-cricket-economy-through-sponsorship-gaming-and-data-monetisation-prnt/cid/2188994"
-            }
-          ],
-          "why": "Management consultancies frequently advise global sports organizations on digital transformation, showing how consulting projects extend far beyond traditional corporate clients."
+          "why": "If you are eyeing consulting or accounting internships, note how talent retention wars and regulatory rotation schedules dictate hiring budgets at professional services firms."
         }
       ]
     },
@@ -173,12 +154,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "University of California Launches $38.2 Million Climate Research Initiative",
-          "body": "The University of California system has launched the Climate Change Research & Policy Institute. The $38.2 million program funds collaborative environmental research across UC Irvine, UCLA, UC Santa Barbara, and UC Davis.",
+          "headline": "UC Irvine Men's Basketball Rout Lincoln University 90-40",
+          "body": "The Anteaters opened the game with the first 19 points and dominated the boards with a 71-29 rebounding advantage to stay unbeaten at the Bren Events Center.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/09/universities-get-38-2-million-boost-for-climate-collaboration-initiative/"
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
             }
           ]
         }
@@ -189,16 +170,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "19-Year-Old Mirra Andreeva Defeats Sabalenka to Reach WTA Finals Semifinals",
-          "body": "Mirra Andreeva won 11 consecutive games to defeat world No. 2 Aryna Sabalenka 6-4, 6-0 in Group 2 action. The victory sent the 19-year-old French Open champion into the WTA Finals semifinals as group winner.",
+          "headline": "Carlos Alcaraz Lands Favorable Draw at ATP Finals",
+          "body": "World No. 1 Alexander Zverev faces a tough group stage at the ATP Finals, while 23-year-old Carlos Alcaraz has been handed a more favorable draw as he targets his maiden title at the season-ending event.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/12/tennis-sabalenka-still-hopeful-of-reaching-wta-finals-last-four-despite-defeat-by-andreeva"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/andreeva-beats-sabalenka-to-reach-wta-finals-semis-svitolina-fights-back-to-beat-muchova-101794447145963.html"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/group-of-death-for-alexander-zverev-carlos-alcaraz-handed-favourable-draw-at-atp-finals-article-156500207"
             }
           ]
         }
@@ -206,55 +183,51 @@
     }
   ],
   "term": {
-    "name": "AI Agent",
-    "definition": "An AI agent is software programmed to perform complex, multi-step tasks autonomously without constant human direction. Companies use AI agents to automate customer bookings or monitor cyber threats, but firms like United Airlines are limiting their access over security and privacy risks.",
+    "name": "Preferential Warrant Issue",
+    "definition": "A corporate finance tool where a company issues options to specific investors to buy shares at a set price in the future. This allows firms to raise capital quickly without making a public stock offering, though it can dilute existing shareholders' stakes if exercised.",
     "sources": [
       {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
-      },
-      {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/11/daylight-raises-80m-in-goldman-sachs-led-funding-to-fight-cyber-threats-with-ai-agents/"
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/companies/emiac-technologies-q2fy27-results-net-profit-302-lakh-30-cr-warrant/56052544"
       }
     ]
   },
   "serve": {
-    "headline": "Mercor Raised $750M at $20B Valuation for AI Hiring Platform",
-    "body": "Mercor raised $750 million in Series D funding at a $20 billion valuation, with backing from Nvidia and Salesforce. Founded in 2023 by three college dropouts, the company has doubled its valuation in just over a year.",
+    "headline": "Axle Raised $9M to Bring AI Agents to Investment Banking",
+    "body": "Axle secured $9 million in funding led by Eniac and Bonfire Ventures to build software and AI agents that help investment banks coordinate meetings between corporate executives and investors. The startup's tools are already used by major North American banks.",
     "questions": [
-      "What routine business operations at UCI could an AI platform streamline?",
-      "How would you evaluate leaving college early to build a venture-backed startup?",
-      "What key features help an early-stage startup secure backing from tech leaders like Nvidia?"
+      "How would you price a B2B SaaS tool for investment banks, flat subscription or per-meeting usage?",
+      "What compliance hurdles would an AI agent face when scheduling sensitive institutional meetings?",
+      "If you were pitching Eniac, what moat would you claim against legacy CRM tools?"
     ],
     "sources": [
       {
-        "name": "TechStartups.com",
-        "url": "https://techstartups.com/2026/11/11/mercor-raises-750m-at-20b-valuation-doubling-its-worth-in-just-over-a-year-with-backing-from-nvidia-salesforce/"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/axle-9m-ai-agents-investment-banks-corporate-access"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nvidia board prepares to oust CEO Jensen Huang after personal conduct review.",
-      "blurb": "Nvidia stock fell 9% after hours while the board weighs removing the chief executive."
+      "headline": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+      "blurb": "The sudden departure of the chipmaker's leader rattles global markets and puts billions in deals at risk."
     },
     {
-      "headline": "Anthropic IPO is projected to draw $250 million in retail investor buying.",
-      "blurb": "Demand for the AI maker's Nasdaq debut could top the retail record set by SpaceX."
+      "headline": "SpaceX Plans $74B AI Supercomputing Campuses",
+      "blurb": "Elon Musk's aerospace venture is pouring capital into massive infrastructure builds in Texas and Arizona."
     },
     {
-      "headline": "United Airlines blocks digital AI agents from logging into user accounts.",
-      "blurb": "The airline cited privacy and compliance risks associated with automated flight bookings."
+      "headline": "Mortgage Rates Slide Slightly to 7.11 Percent",
+      "blurb": "Borrowing costs remain stubbornly high, keeping buyers on the sidelines."
     },
     {
-      "headline": "More Gen Z graduates skip entry-level corporate jobs to launch startups.",
-      "blurb": "Young founders are leveraging low-cost AI software to start companies straight out of school."
+      "headline": "Big Four Firms Roll Out Big Pay Hikes",
+      "blurb": "Consulting and audit giants are boosting salaries to retain top talent ahead of mandatory client rotations."
     },
     {
-      "headline": "Mercor reaches a $20 billion valuation with a $750 million funding round.",
-      "blurb": "The AI startup founded by three college dropouts secured investments from Nvidia and Salesforce."
+      "headline": "Axle Secures $9M for Investment Banking AI",
+      "blurb": "The startup is building autonomous agents to help banks set up meetings between investors and executives."
     }
   ],
-  "emailQuestion": "What routine business operations at UCI could an AI platform streamline?"
+  "emailQuestion": "How would you price a B2B SaaS tool for investment banks, flat subscription or per-meeting usage?"
 }

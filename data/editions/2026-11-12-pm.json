@@ -1,0 +1,233 @@
+{
+  "id": "2026-11-12-pm",
+  "slot": "evening",
+  "date": "2026-11-12",
+  "dateLabel": "Thu, Nov 12, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-13T06:21:30.787Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia CEO Jensen Huang resigns, SpaceX plans massive AI supercomputing hubs, and ATP Finals draws.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 12",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,592",
+        "change": "−0.35%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,366",
+        "change": "−0.39%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,297",
+        "change": "−0.36%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "+10 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,902",
+        "change": "+0.42%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+    "body": "Nvidia co-founder and CEO Jensen Huang has resigned following reports of affairs, including one with a customer suspected by U.S. intelligence of being a foreign intelligence asset. The sudden departure sent shockwaves through global markets, though tech stocks managed to bounce back after initial steep losses. The exit also casts a shadow over Nvidia's planned $12.9 billion acquisition of Hugging Face and its broader AI financing strategy.",
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/12/anthropic-ipo-jensen-huang-resignation-nvidia/"
+      },
+      {
+        "name": "The New Indian Express",
+        "url": "https://www.newindianexpress.com/world/2026/Nov/12/markets-whiplashed-as-huang-quits-nvidia"
+      }
+    ],
+    "why": "Since you are studying business and tracking tech markets, pay attention to how governance failures at the top can instantly disrupt multi-billion-dollar deals and market valuations.",
+    "kicker": "Tech + Leadership",
+    "figures": [
+      {
+        "value": "$12.9B",
+        "label": "Hugging Face acquisition price"
+      },
+      {
+        "value": "5.4%",
+        "label": "Nvidia share drop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Mortgage Rates Slide Slightly to 7.11 Percent",
+          "body": "The average 30-year fixed home loan fell for the fourth straight week, but rates remain stubbornly above 7 percent. High borrowing costs continue to sideline buyers and freeze up the housing market.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html"
+            }
+          ],
+          "why": "This macro environment directly impacts real estate valuations, private equity deal flow, and consumer finance trends you will study in your Merage finance classes."
+        },
+        {
+          "headline": "CFPB Enforcement Slumps Under Trump Administration",
+          "body": "The Consumer Financial Protection Bureau has started dropping major enforcement lawsuits against top financial institutions like JPMorgan Chase and Bank of America. Meanwhile, consumer complaints regarding banks continue to climb.",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers"
+            }
+          ],
+          "why": "Understanding how regulatory oversight shifts across political administrations is crucial for analyzing compliance and risk management in the banking sector."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "SpaceX Plans $74 Billion AI Supercomputing Campuses in Texas and Arizona",
+          "body": "Elon Musk's aerospace company is expanding heavily into artificial intelligence by building two massive supercomputing campuses. The massive infrastructure play pairs the company's orbital operations with heavy-duty AI compute.",
+          "sources": [
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1423410-spacex-plans-massive-ai-supercomputing-campuses-in-texas-and-arizona"
+            }
+          ],
+          "why": "This is a massive capital expenditure trend in physical infrastructure. It shows how top tech players are locking down power and compute assets to scale AI workloads."
+        },
+        {
+          "headline": "Xbox Leadership Alludes to Generative AI for Game Development",
+          "body": "In a memo marking 25 years of Xbox, gaming leader Asha Sharma suggested that generative AI will allow small teams to build expansive virtual worlds. The technology aims to drastically reduce the developer headcount needed for large-scale games.",
+          "sources": [
+            {
+              "name": "Eurogamer.net",
+              "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo"
+            }
+          ],
+          "why": "This highlights a major efficiency play in software development, showing how generative tools are altering cost structures and team sizes across tech."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Big Four and Audit Firms Roll Out Double-Digit Pay Hikes",
+          "body": "Major advisory firms like EY, Deloitte, and PwC are handing out pay hikes and bonuses of up to 28 percent to top performers. The retention push comes ahead of a wave of mandatory client auditor rotations next year.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/industry/big-four-audit-firms-salary-hikes-bonuses-retention-ai-11794416956134.html"
+            }
+          ],
+          "why": "If you are eyeing consulting or accounting internships, note how talent retention wars and regulatory rotation schedules dictate hiring budgets at professional services firms."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Men's Basketball Rout Lincoln University 90-40",
+          "body": "The Anteaters opened the game with the first 19 points and dominated the boards with a 71-29 rebounding advantage to stay unbeaten at the Bren Events Center.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Lands Favorable Draw at ATP Finals",
+          "body": "World No. 1 Alexander Zverev faces a tough group stage at the ATP Finals, while 23-year-old Carlos Alcaraz has been handed a more favorable draw as he targets his maiden title at the season-ending event.",
+          "sources": [
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/group-of-death-for-alexander-zverev-carlos-alcaraz-handed-favourable-draw-at-atp-finals-article-156500207"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Preferential Warrant Issue",
+    "definition": "A corporate finance tool where a company issues options to specific investors to buy shares at a set price in the future. This allows firms to raise capital quickly without making a public stock offering, though it can dilute existing shareholders' stakes if exercised.",
+    "sources": [
+      {
+        "name": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/companies/emiac-technologies-q2fy27-results-net-profit-302-lakh-30-cr-warrant/56052544"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Axle Raised $9M to Bring AI Agents to Investment Banking",
+    "body": "Axle secured $9 million in funding led by Eniac and Bonfire Ventures to build software and AI agents that help investment banks coordinate meetings between corporate executives and investors. The startup's tools are already used by major North American banks.",
+    "questions": [
+      "How would you price a B2B SaaS tool for investment banks, flat subscription or per-meeting usage?",
+      "What compliance hurdles would an AI agent face when scheduling sensitive institutional meetings?",
+      "If you were pitching Eniac, what moat would you claim against legacy CRM tools?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/axle-9m-ai-agents-investment-banks-corporate-access"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+      "blurb": "The sudden departure of the chipmaker's leader rattles global markets and puts billions in deals at risk."
+    },
+    {
+      "headline": "SpaceX Plans $74B AI Supercomputing Campuses",
+      "blurb": "Elon Musk's aerospace venture is pouring capital into massive infrastructure builds in Texas and Arizona."
+    },
+    {
+      "headline": "Mortgage Rates Slide Slightly to 7.11 Percent",
+      "blurb": "Borrowing costs remain stubbornly high, keeping buyers on the sidelines."
+    },
+    {
+      "headline": "Big Four Firms Roll Out Big Pay Hikes",
+      "blurb": "Consulting and audit giants are boosting salaries to retain top talent ahead of mandatory client rotations."
+    },
+    {
+      "headline": "Axle Secures $9M for Investment Banking AI",
+      "blurb": "The startup is building autonomous agents to help banks set up meetings between investors and executives."
+    }
+  ],
+  "emailQuestion": "How would you price a B2B SaaS tool for investment banks, flat subscription or per-meeting usage?"
+}
