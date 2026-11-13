@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-13-am",
+  "slot": "morning",
+  "date": "2026-11-13",
+  "dateLabel": "Fri, Nov 13, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-13T15:18:48.993Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia fallout hits D.C., FBI recovers $1.2B crypto, Anthropic IPO details, and UCI brain mapping.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "10:16 AM ET, Nov 13",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,518",
+        "change": "−0.98%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,005",
+        "change": "−1.42%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,081",
+        "change": "−0.41%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.16%",
+        "change": "+5 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,894",
+        "change": "+0.21%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia Fallout Spills Into Washington as Lutnick Faces Scrutiny",
+    "body": "Commerce Secretary Howard Lutnick faces potential removal over alleged lax oversight of Nvidia chip sales to Chinese firms. Meanwhile, ousted CEO Jensen Huang will forfeit $108 million in unvested stock awards following his resignation.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/"
+      },
+      {
+        "name": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/nvidia-spy-row-trump-administration-weighs-ousting-commerce-secretary-howard-lutnick-amid-china-export-concerns-article-156501697"
+      },
+      {
+        "name": "News18",
+        "url": "https://www.news18.com/business/markets/jensen-huang-to-lose-108-million-in-nvidia-stock-awards-after-exit-but-his-138-billion-fortune-remains-intact-report-ws-l-10423888.html"
+      }
+    ],
+    "why": "Scrutiny on AI hardware supply chains directly impacts chip pricing and availability for startups, while showing how political risk affects major corporate stock holdings.",
+    "kicker": "BUSINESS + REGULATION",
+    "figures": [
+      {
+        "value": "$108M",
+        "label": "unvested stock forfeited by ex-CEO"
+      },
+      {
+        "value": "346,000",
+        "label": "unvested RSUs surrendered"
+      },
+      {
+        "value": "$138B",
+        "label": "estimated net worth retained"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "FBI Seizes $1.2 Billion in Stolen Binance Crypto",
+          "body": "The FBI recovered over $1.2 billion worth of cryptocurrency linked to last month's massive $6.3 billion hack of Binance. It stands as the largest crypto theft recorded to date.",
+          "sources": [
+            {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Technology/wireStory/fbi-us-seized-12-billion-worth-cryptocurrency-stolen-138094651"
+            }
+          ],
+          "why": "Major security breaches in financial infrastructure highlight operational and security risks you must evaluate when analyzing fintech companies."
+        },
+        {
+          "headline": "Anthropic Prepares IPO With Five Share Classes",
+          "body": "Claude developer Anthropic is moving toward its initial public offering with a multi-tiered share structure. Market analysts are evaluating how founder control and voting rights will be structured across five share types.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html"
+            },
+            {
+              "name": "The Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/11/13/anthropic-ipo-are-5-types-of-shares-too-many/"
+            }
+          ],
+          "why": "Evaluating multi-class share structures is key when assessing corporate governance and founder voting power in venture-backed companies going public."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Meta's Muse AI Agent Can Now Call US Businesses",
+          "body": "Meta rolled out a feature allowing its Muse consumer AI agent to place outbound phone calls to US businesses on behalf of users. The feature is available exclusively to paid subscribers.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+            }
+          ],
+          "why": "AI agents shifting from text prompts to real-world operations create new product categories for founders building autonomous software."
+        },
+        {
+          "headline": "Fed Governor Warns AI Market Concentration May Harm Small Firms",
+          "body": "Federal Reserve Governor Michael S. Barr warned that heavy market concentration in the AI industry could widen economic inequality. He noted a few dominant companies may capture most financial gains, squeezing smaller businesses.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/fed-governor-barr-warns-ai-market-concentration-could-widen-inequality-squeeze-smaller-businesses/"
+            }
+          ],
+          "why": "Understanding industry concentration helps you anticipate how big tech platforms might pricing-squeeze early-stage startups that depend on their APIs."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Deloitte Acquires AI Business From Flipside Crypto",
+          "body": "Deloitte purchased the Edisyl AI division of Boston startup Flipside Crypto. Flipside originally started eight years ago focused on digital currency analysis before expanding into AI tools.",
+          "sources": [
+            {
+              "name": "The Boston Globe",
+              "url": "https://www.bostonglobe.com/2026/11/12/business/flipside-edisyl-crypto-ai-sold-deloitte/"
+            }
+          ],
+          "why": "Big Four firms are actively buying niche AI startups, creating specialized advisory practice groups you can target for tech consulting roles."
+        },
+        {
+          "headline": "Deloitte Cuts Coverage for GLP-1 Weight Loss Drugs",
+          "body": "Deloitte informed US employees it will stop covering GLP-1 weight loss medications starting in January. The consulting firm cited rising healthcare costs as untenable to manage alone.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/deloitte-benefits-cuts-glp-1-coverage-healthcare-costs-rise-2026-11"
+            }
+          ],
+          "why": "Tracking corporate benefit adjustments shows how major consulting firms manage corporate overhead during tightening economic conditions."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Researchers Map 8 Million Brain Cells in Deep Brain Regions",
+          "body": "University of California, Irvine scientists mapped roughly 8 million cells deep inside the human brain. The study identified 60 distinct cell types and revealed how they form complex cellular communities.",
+          "sources": [
+            {
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Jessica Pegula Wins WTA Finals Thriller to Knock Out Coco Gauff",
+          "body": "Jessica Pegula saved a match point to defeat Linda Noskova 7-6(2), 4-6, 7-5 in round-robin play. The result qualified Pegula for the semifinals while eliminating Coco Gauff from the tournament.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4006254-tennis-pegula-wins-thriller-at-wta-finals-gauff-eliminated"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Unvested RSUs (Restricted Stock Units)",
+    "definition": "Restricted Stock Units are company shares granted to employees that vest over a set timeline. Unvested RSUs represent equity an employee does not fully own yet. If an executive or employee leaves the company before the vesting date, those unvested shares are surrendered back to the company.",
+    "sources": [
+      {
+        "name": "News18",
+        "url": "https://www.news18.com/business/markets/jensen-huang-to-lose-108-million-in-nvidia-stock-awards-after-exit-but-his-138-billion-fortune-remains-intact-report-ws-l-10423888.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Luminal raised $23M to challenge Nvidia's CUDA software moat",
+    "body": "Luminal AI raised $23 million in Series A funding to build software that competes directly with Nvidia's CUDA ecosystem. The round was led by Standard Capital.",
+    "questions": [
+      "How hard is it to convince developers to switch away from established software tools like CUDA?",
+      "If you were building an AI startup today, would you build on top of Nvidia's software or look for open alternatives?",
+      "What key advantage allows early-stage startups to compete against established tech monopolies?"
+    ],
+    "sources": [
+      {
+        "name": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia's executive fallout widens as policy and leadership scramble.",
+      "blurb": "Commerce Secretary Howard Lutnick faces potential removal while ousted CEO Jensen Huang forfeits $108 million in unvested equity."
+    },
+    {
+      "headline": "The FBI recovered $1.2 billion from the $6.3 billion Binance hack.",
+      "blurb": "Federal agents seized the funds following the largest crypto theft recorded to date."
+    },
+    {
+      "headline": "Anthropic is structuring its upcoming IPO with five distinct share classes.",
+      "blurb": "Analysts are examining how voting power and founder control will be structured ahead of the public listing."
+    },
+    {
+      "headline": "Meta's Muse AI agent can now place actual phone calls to businesses.",
+      "blurb": "The new outbound calling feature is currently restricted to paid subscribers."
+    },
+    {
+      "headline": "Deloitte bought the Edisyl AI unit of crypto analytics firm Flipside.",
+      "blurb": "The Big Four firm continues to expand its internal AI consulting capabilities through targeted startup acquisitions."
+    }
+  ],
+  "emailQuestion": "How hard is it to convince developers to switch away from established software tools like CUDA?"
+}
