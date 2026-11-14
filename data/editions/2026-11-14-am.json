@@ -1,0 +1,256 @@
+{
+  "id": "2026-11-14-am",
+  "slot": "morning",
+  "date": "2026-11-14",
+  "dateLabel": "Sat, Nov 14, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-14T16:33:42.815Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia's Jensen Huang resigns, FAA grounds all flights, and LangChain raises $300M.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Nov 13",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,562",
+        "change": "−0.40%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,136",
+        "change": "−0.91%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,348",
+        "change": "+0.10%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.15%",
+        "change": "+5 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,886",
+        "change": "+0.03%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Jensen Huang Resigns From Nvidia After Scandal",
+    "body": "Nvidia co-founder and CEO Jensen Huang resigned following reports of undisclosed relationships, including one with a former executive suspected of ties to Chinese intelligence. The sudden exit triggered a 13 percent drop in Nvidia stock over the week, its worst performance since April 2025. Colette Kress has stepped in as interim CEO while the board evaluates candidates.",
+    "sources": [
+      {
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/world-news-live-updates-us-faa-flights-grounded-nvidia-crisis-jensen-huang-trump-spacex-starship-ukraine-war-china-10962543/"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/trending/who-benefits-from-jensen-huangs-nvidia-exit-indian-influencer-breaks-down-who-stands-to-gain-and-lose-12325104"
+      }
+    ],
+    "why": "Nvidia has been the backbone of the AI boom you study and invest in. Executive chaos at the top can completely shift supply chains, chip access, and market valuations for tech stocks you watch.",
+    "kicker": "Tech + Leadership",
+    "figures": [
+      {
+        "value": "33",
+        "label": "Years led Nvidia"
+      },
+      {
+        "value": "13%",
+        "label": "Stock drop in a week"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "FAA Orders Rare Nationwide Ground Stop",
+          "body": "The Federal Aviation Administration ordered a nationwide ground stop for all departing flights due to safety reasons, snarling travel for over four hours. Transportation Secretary Sean Duffy stated there were no indications of a cyberattack.",
+          "sources": [
+            {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
+            },
+            {
+              "name": "Mashable",
+              "url": "https://mashable.com/tech/faa-smart-ai-tool-nationwide-groundstop"
+            }
+          ],
+          "why": "Massive infrastructure halts disrupt corporate supply chains and consulting travel schedules right before key client meetings."
+        },
+        {
+          "headline": "Federal Reserve Survey Flags AI as Top Financial Risk",
+          "body": "A recent Federal Reserve report reveals that 87 percent of respondents view artificial intelligence as a key risk to financial stability. The survey highlights rising debt tied to infrastructure investments and growing cyber threats.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms"
+            }
+          ],
+          "why": "As an aspiring investor, pay attention to how central banks view debt accumulation in tech. High systemic risk could mean tighter credit for startups you might want to build or fund."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Intel Recains Desktop CPU Ground As AMD Slips",
+          "body": "AMD's share of desktop CPU shipments fell to 29.9 percent in the third quarter of 2026, marking a five-point drop from the previous quarter. Intel recaptured lost ground to climb back to 70.1 percent.",
+          "sources": [
+            {
+              "name": "TechPowerUp",
+              "url": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground"
+            }
+          ],
+          "why": "Hardware market share shifts quickly in semiconductors. It is a classic case study in competitive moats and cyclical hardware demand."
+        },
+        {
+          "headline": "Treasury and Commerce Clash Over Chip Exports",
+          "body": "Treasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick for delaying export restrictions on advanced Nvidia chips to Megaspeed International. The dispute highlights internal administration friction over technology controls.",
+          "sources": [
+            {
+              "name": "PBS",
+              "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips"
+            },
+            {
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/world-news/us-news/why-is-us-treasury-secy-bessent-criticising-commerce-chief-lutnick-over-nvidia-chip-exports/4384276/"
+            }
+          ],
+          "why": "Geopolitical export controls dictate which markets hardware startups can sell to, directly impacting venture returns in deep tech."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Consulting Leaders Balance AI Tools With Human Context",
+          "body": "Industry experts note that while AI tools can rapidly accelerate the drafting of consulting deliverables, human understanding of business context remains essential. A recent survey shows 80 percent of respondents rely on AI integration in business strategy.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
+            }
+          ],
+          "why": "This directly impacts what Merage consulting clubs and future employers expect from you. You need to know how to use AI tools while mastering the human strategy behind them."
+        },
+        {
+          "headline": "Financial Compliance Hubs Face Entry-Level Job Cuts",
+          "body": "Automated systems and artificial intelligence tools are rapidly replacing entry-level compliance and finance roles, even in regional hubs far from major financial capitals. Firms are relying on software to handle tasks previously given to junior staff.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3373237/"
+            }
+          ],
+          "why": "If you are aiming for finance or fintech internships, you need to build skills that go beyond basic spreadsheet entry, which software now handles automatically."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "Researchers Map 8 Million Brain Cells at UC Irvine",
+          "body": "UC Irvine researchers mapped approximately 8 million cells deep within the human brain, identifying 60 distinct types and their cellular communities. The findings provide a foundational reference for studying neurological disorders like Parkinson's.",
+          "sources": [
+            {
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Svitolina Stuns Sabalenka to Reach WTA Finals Semis",
+          "body": "Elina Svitolina overcame a second-set deficit to defeat Aryna Sabalenka 6-3, 3-6, 6-1 at the WTA Finals in Indian Wells. Svitolina advances to face Linda Noskova in the semi-finals.",
+          "sources": [
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4006910-tennis-svitolina-stuns-sabalenka-to-reach-wta-finals-semis"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13612096/wta-finals-elina-svitolina-defeats-aryna-sabalenka-to-reach-semi-finals-as-mirra-andreeva-overwhelms-diana-shnaider"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Red Herring Prospectus",
+    "definition": "A preliminary registration document filed by a company with securities regulators before an initial public offering. It provides financial details to potential investors but does not include final share prices or the exact number of shares being offered, much like the recent filing by Coal India arm Mahanadi Coalfields.",
+    "sources": [
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/mahanadi-coalfields-ipo-coal-india-arm-files-rhp-for-public-issue-12325042"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "LangChain raised $300 million at a $3 billion valuation in a Series C round",
+    "body": "LangChain is an agent management startup that builds platforms for developing AI applications. The funding round was led by CapitalG, with additional participation from GIC.",
+    "questions": [
+      "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?",
+      "If you were leading CapitalG, what metrics would you look for beyond raw developer signups?",
+      "How can smaller startups compete when infrastructure giants drop hundreds of millions on agent management?"
+    ],
+    "sources": [
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/langchain-raises-300-million-at-3b-valuation-in-series-c/tldr"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Jensen Huang resigns from Nvidia amid scandal.",
+      "blurb": "The co-founder stepped down after revelations of undisclosed relationships, sending the stock tumbling."
+    },
+    {
+      "headline": "FAA issues rare nationwide ground stop.",
+      "blurb": "A four-hour operational shutdown snarled air travel across U.S. airports on Friday."
+    },
+    {
+      "headline": "Federal Reserve flags AI as a top financial stability risk.",
+      "blurb": "Eighty-seven percent of survey respondents cited AI infrastructure debt and cybersecurity threats as major concerns."
+    },
+    {
+      "headline": "Intel recaptures desktop CPU market share.",
+      "blurb": "AMD saw its desktop shipment share drop to 29.9 percent as Intel climbed back to 70.1 percent."
+    },
+    {
+      "headline": "LangChain secures $300 million Series C funding.",
+      "blurb": "The AI agent management startup doubled its valuation to $3 billion in a round led by CapitalG."
+    }
+  ],
+  "emailQuestion": "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?"
+}

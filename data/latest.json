@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-13-pm",
-  "slot": "evening",
-  "date": "2026-11-13",
-  "dateLabel": "Fri, Nov 13, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-14T02:13:22.483Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Nvidia faces subpoena threat; Mercor hits $20B valuation; McKinsey forecasts air travel slowdown.",
+  "id": "2026-11-14-am",
+  "slot": "morning",
+  "date": "2026-11-14",
+  "dateLabel": "Sat, Nov 14, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-14T16:33:42.815Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia's Jensen Huang resigns, FAA grounds all flights, and LangChain raises $300M.",
   "storyCount": 11,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Nov 13",
     "rows": [
@@ -39,35 +39,39 @@
       },
       {
         "name": "Gold",
-        "value": "$3,888",
-        "change": "+0.06%",
+        "value": "$3,886",
+        "change": "+0.03%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "House Lawmakers Threaten Subpoena for Former Nvidia CEO Jensen Huang",
-    "body": "Three Republican House committee chairmen are threatening to subpoena former Nvidia CEO Jensen Huang over chip exports and national security concerns. The regulatory pressure comes as Nvidia sits 30% below its October peak, erasing $1.5 trillion in market value following Huang's exit.",
+    "headline": "Jensen Huang Resigns From Nvidia After Scandal",
+    "body": "Nvidia co-founder and CEO Jensen Huang resigned following reports of undisclosed relationships, including one with a former executive suspected of ties to Chinese intelligence. The sudden exit triggered a 13 percent drop in Nvidia stock over the week, its worst performance since April 2025. Colette Kress has stepped in as interim CEO while the board evaluates candidates.",
     "sources": [
       {
-        "name": "Lokmat Times",
-        "url": "https://www.lokmattimes.com/international/us-republicans-threaten-subpoena-for-former-nvidia-ceo-over-chip-exports-a001-w02/"
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/world-news-live-updates-us-faa-flights-grounded-nvidia-crisis-jensen-huang-trump-spacex-starship-ukraine-war-china-10962543/"
       },
       {
-        "name": "Protos",
-        "url": "https://protos.com/jensen-huangs-exit-caps-a-year-of-wrecked-nvidia-predictions/"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms"
+      },
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/trending/who-benefits-from-jensen-huangs-nvidia-exit-indian-influencer-breaks-down-who-stands-to-gain-and-lose-12325104"
       }
     ],
-    "why": "Watching how geopolitical probes impact Big Tech valuations shows how regulatory decisions directly move financial markets.",
-    "kicker": "Tech + Regulation",
+    "why": "Nvidia has been the backbone of the AI boom you study and invest in. Executive chaos at the top can completely shift supply chains, chip access, and market valuations for tech stocks you watch.",
+    "kicker": "Tech + Leadership",
     "figures": [
       {
-        "value": "$1.5 trillion",
-        "label": "Market value drop from peak"
+        "value": "33",
+        "label": "Years led Nvidia"
       },
       {
-        "value": "30%",
-        "label": "Decline from October high"
+        "value": "13%",
+        "label": "Stock drop in a week"
       }
     ]
   },
@@ -77,30 +81,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "October Wholesale Inflation Rises Slower Than Expected",
-          "body": "U.S. producer prices rose 0.4% in October, coming in slightly softer than Wall Street estimates. While inflation pressures remain, the lower reading eased investor concerns about aggressive Federal Reserve interest rate hikes.",
+          "headline": "FAA Orders Rare Nationwide Ground Stop",
+          "body": "The Federal Aviation Administration ordered a nationwide ground stop for all departing flights due to safety reasons, snarling travel for over four hours. Transportation Secretary Sean Duffy stated there were no indications of a cyberattack.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
             },
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4006649-us-stocks-wall-st-set-to-open-higher-after-soft-producer-prices"
+              "name": "Mashable",
+              "url": "https://mashable.com/tech/faa-smart-ai-tool-nationwide-groundstop"
             }
           ],
-          "why": "Analyzing wholesale price shifts helps you evaluate corporate margin pressures in your finance and accounting courses."
+          "why": "Massive infrastructure halts disrupt corporate supply chains and consulting travel schedules right before key client meetings."
         },
         {
-          "headline": "Kraken Parent Payward Reports 67% Drop in Q3 Earnings",
-          "body": "Payward reported a 67% annual drop in third-quarter adjusted earnings as cryptocurrency trading volume slowed. Despite the financial drop, the firm plans to expand into new markets.",
+          "headline": "Federal Reserve Survey Flags AI as Top Financial Risk",
+          "body": "A recent Federal Reserve report reveals that 87 percent of respondents view artificial intelligence as a key risk to financial stability. The survey highlights rising debt tied to infrastructure investments and growing cyber threats.",
           "sources": [
             {
-              "name": "Crypto News",
-              "url": "https://crypto.news/kraken-parent-paywards-q3-earnings-fall-67-as-crypto-trading-slows/"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms"
             }
           ],
-          "why": "This illustrates how fee-dependent fintech platforms remain vulnerable to trading volume cycles during quiet market periods."
+          "why": "As an aspiring investor, pay attention to how central banks view debt accumulation in tech. High systemic risk could mean tighter credit for startups you might want to build or fund."
         }
       ]
     },
@@ -109,30 +113,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "AI Chip Startup Fractile Raises $720M at $7B Valuation",
-          "body": "British startup Fractile closed a $720 million Series C funding round to build hardware for artificial intelligence. Venture investors continue placing large bets on physical chip infrastructure to challenge existing market leaders.",
+          "headline": "Intel Recains Desktop CPU Ground As AMD Slips",
+          "body": "AMD's share of desktop CPU shipments fell to 29.9 percent in the third quarter of 2026, marking a five-point drop from the previous quarter. Intel recaptured lost ground to climb back to 70.1 percent.",
           "sources": [
             {
-              "name": "TechStartups.com",
-              "url": "https://techstartups.com/2026/11/12/startup-funding-news-today-november-12-2026-fractile-uforce-agile-robots-imprint-more/"
+              "name": "TechPowerUp",
+              "url": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground"
             }
           ],
-          "why": "Tracking hardware investments helps you see where venture capitalists see long-term opportunities beyond software applications."
+          "why": "Hardware market share shifts quickly in semiconductors. It is a classic case study in competitive moats and cyclical hardware demand."
         },
         {
-          "headline": "Apple Releases HomeView Smart Display and New Apple TV 4K",
-          "body": "Apple officially launched its new HomeView smart home display alongside a fourth-generation Apple TV 4K. Both products hit store shelves on Friday after opening for pre-orders in mid-October.",
+          "headline": "Treasury and Commerce Clash Over Chip Exports",
+          "body": "Treasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick for delaying export restrictions on advanced Nvidia chips to Megaspeed International. The dispute highlights internal administration friction over technology controls.",
           "sources": [
             {
-              "name": "9to5Mac",
-              "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/"
+              "name": "PBS",
+              "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips"
             },
             {
-              "name": "MacRumors",
-              "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/world-news/us-news/why-is-us-treasury-secy-bessent-criticising-commerce-chief-lutnick-over-nvidia-chip-exports/4384276/"
             }
           ],
-          "why": "Observing product rollout schedules provides real-world context for technology marketing and ecosystem hardware strategies."
+          "why": "Geopolitical export controls dictate which markets hardware startups can sell to, directly impacting venture returns in deep tech."
         }
       ]
     },
@@ -141,34 +145,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Report Forecasts Air Travel Growth Slowdown",
-          "body": "A new McKinsey survey reveals that 56% of airlines expect air travel growth to slow over the next two to three years. The firm cites elevated jet fuel prices, rising maintenance costs, and aircraft delivery delays as primary causes.",
+          "headline": "Consulting Leaders Balance AI Tools With Human Context",
+          "body": "Industry experts note that while AI tools can rapidly accelerate the drafting of consulting deliverables, human understanding of business context remains essential. A recent survey shows 80 percent of respondents rely on AI integration in business strategy.",
           "sources": [
             {
-              "name": "The Financial Express",
-              "url": "https://www.financialexpress.com/business/airlines-aviation-rising-fuel-costs-aircraft-delays-may-slow-air-travel-growth-mckinsey-warns-4383860/"
-            },
-            {
-              "name": "Zee News",
-              "url": "https://zeenews.india.com/india/article-56-of-airlines-expect-air-travel-slowdown-over-next-2-3-years-amid-rising-costs-mckinsey-3162085"
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
             }
           ],
-          "why": "Studying how consulting firms break down macroeconomic headwinds gives you insight into the analytical frameworks used in case interviews."
+          "why": "This directly impacts what Merage consulting clubs and future employers expect from you. You need to know how to use AI tools while mastering the human strategy behind them."
         },
         {
-          "headline": "AI Automation Reduces Entry-Level Finance Roles",
-          "body": "Regional hubs like Bournemouth are seeing entry-level back-office finance jobs cut as companies automate routine processing tasks. Industry analysts advise young professionals to focus on adaptability and critical judgment to stay competitive.",
+          "headline": "Financial Compliance Hubs Face Entry-Level Job Cuts",
+          "body": "Automated systems and artificial intelligence tools are rapidly replacing entry-level compliance and finance roles, even in regional hubs far from major financial capitals. Firms are relying on software to handle tasks previously given to junior staff.",
           "sources": [
             {
-              "name": "The Guardian",
-              "url": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/education/features/as-ai-reshapes-jobs-what-must-gen-z-do-to-stay-employable-101794391075080.html"
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3373237/"
             }
           ],
-          "why": "As you prepare for internship recruiting, this highlights the importance of pursuing advisory skills that basic software cannot replace."
+          "why": "If you are aiming for finance or fintech internships, you need to build skills that go beyond basic spreadsheet entry, which software now handles automatically."
         }
       ]
     },
@@ -177,12 +173,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Anteaters Men's Basketball Dominates Lincoln 90-40",
-          "body": "UC Irvine men's basketball team remained undefeated after a 90-40 victory against Lincoln University at the Bren Events Center. UCI opened the game with 19 unanswered points and held a 71-29 rebounding advantage.",
+          "headline": "Researchers Map 8 Million Brain Cells at UC Irvine",
+          "body": "UC Irvine researchers mapped approximately 8 million cells deep within the human brain, identifying 60 distinct types and their cellular communities. The findings provide a foundational reference for studying neurological disorders like Parkinson's.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
             }
           ]
         }
@@ -193,20 +189,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Top Seeds Zverev and Alcaraz Headline ATP Finals Draw",
-          "body": "The top eight men's tennis players gathered in Turin, Italy for the season-ending ATP Finals starting Sunday. World No. 1 Alexander Zverev and second seed Carlos Alcaraz were placed in separate groups for round-robin play.",
+          "headline": "Svitolina Stuns Sabalenka to Reach WTA Finals Semis",
+          "body": "Elina Svitolina overcame a second-set deficit to defeat Aryna Sabalenka 6-3, 3-6, 6-1 at the WTA Finals in Indian Wells. Svitolina advances to face Linda Noskova in the semi-finals.",
           "sources": [
             {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4006910-tennis-svitolina-stuns-sabalenka-to-reach-wta-finals-semis"
+            },
+            {
               "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13611772/atp-finals-predictions-sky-sports-panel-pick-their-winners-and-surprise-package-as-alexander-zverev-and-carlos-alcaraz-lead-the-field"
-            },
-            {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/athletic/7768814/2026/11/13/atp-finals-2026-players-mens-tennis/"
-            },
-            {
-              "name": "Essentially Sports",
-              "url": "https://www.essentiallysports.com/tennis-news-tennis-insider-warns-alexander-zverev-as-carlos-alcaraz-gets-a-big-advantage-in-the-atp-finals/"
+              "url": "https://www.skysports.com/tennis/news/13612096/wta-finals-elina-svitolina-defeats-aryna-sabalenka-to-reach-semi-finals-as-mirra-andreeva-overwhelms-diana-shnaider"
             }
           ]
         }
@@ -214,55 +206,51 @@
     }
   ],
   "term": {
-    "name": "Producer Price Index (PPI)",
-    "definition": "The Producer Price Index measures the average change over time in the selling prices received by domestic producers for their output. Unlike consumer price indexes that measure retail store prices, PPI tracks wholesale inflation before costs reach consumers.",
+    "name": "Red Herring Prospectus",
+    "definition": "A preliminary registration document filed by a company with securities regulators before an initial public offering. It provides financial details to potential investors but does not include final share prices or the exact number of shares being offered, much like the recent filing by Coal India arm Mahanadi Coalfields.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
-      },
-      {
-        "name": "Devdiscourse",
-        "url": "https://www.devdiscourse.com/article/international/4006649-us-stocks-wall-st-set-to-open-higher-after-soft-producer-prices"
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/mahanadi-coalfields-ipo-coal-india-arm-files-rhp-for-public-issue-12325042"
       }
     ]
   },
   "serve": {
-    "headline": "Mercor raises $750M at $20B valuation for AI hiring platform",
-    "body": "Artificial intelligence startup Mercor raised $750 million in new funding, raising its valuation to $20 billion. The company was founded by 23-year-old entrepreneurs Adarsh Hiremath and Surya Midha.",
+    "headline": "LangChain raised $300 million at a $3 billion valuation in a Series C round",
+    "body": "LangChain is an agent management startup that builds platforms for developing AI applications. The funding round was led by CapitalG, with additional participation from GIC.",
     "questions": [
-      "How can AI tools streamline candidate vetting for campus recruiting without losing human judgment?",
-      "What advantages do young founders have when disrupting legacy hiring marketplaces?",
-      "How might high startup valuations in AI impact equity distribution for early employees?"
+      "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?",
+      "If you were leading CapitalG, what metrics would you look for beyond raw developer signups?",
+      "How can smaller startups compete when infrastructure giants drop hundreds of millions on agent management?"
     ],
     "sources": [
       {
-        "name": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/how-two-23-year-old-indian-origin-ai-founders-became-the-worlds-youngest-self-made-billionaires-14059878.html"
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/langchain-raises-300-million-at-3b-valuation-in-series-c/tldr"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "House lawmakers threaten subpoena for former Nvidia CEO Jensen Huang.",
-      "blurb": "Republican committee chairs are demanding answers on chip exports as Nvidia trades 30% below its October peak."
+      "headline": "Jensen Huang resigns from Nvidia amid scandal.",
+      "blurb": "The co-founder stepped down after revelations of undisclosed relationships, sending the stock tumbling."
     },
     {
-      "headline": "AI recruitment startup Mercor hits $20B valuation with $750M funding round.",
-      "blurb": "The 23-year-old co-founders doubled their net worth after closing the massive venture capital deal."
+      "headline": "FAA issues rare nationwide ground stop.",
+      "blurb": "A four-hour operational shutdown snarled air travel across U.S. airports on Friday."
     },
     {
-      "headline": "McKinsey report forecasts air travel growth slowdown over next three years.",
-      "blurb": "Over half of surveyed airlines cite rising fuel prices, maintenance costs, and aircraft delivery delays."
+      "headline": "Federal Reserve flags AI as a top financial stability risk.",
+      "blurb": "Eighty-seven percent of survey respondents cited AI infrastructure debt and cybersecurity threats as major concerns."
     },
     {
-      "headline": "October wholesale inflation rises less than expected, easing Fed pressure.",
-      "blurb": "Softer producer price figures offered relief to stock markets despite ongoing cost pressures."
+      "headline": "Intel recaptures desktop CPU market share.",
+      "blurb": "AMD saw its desktop shipment share drop to 29.9 percent as Intel climbed back to 70.1 percent."
     },
     {
-      "headline": "Top eight players head to Turin as ATP Finals groups are revealed.",
-      "blurb": "Alexander Zverev and Carlos Alcaraz lead the field for the season-ending championship in Italy."
+      "headline": "LangChain secures $300 million Series C funding.",
+      "blurb": "The AI agent management startup doubled its valuation to $3 billion in a round led by CapitalG."
     }
   ],
-  "emailQuestion": "How can AI tools streamline candidate vetting for campus recruiting without losing human judgment?"
+  "emailQuestion": "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?"
 }
