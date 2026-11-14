@@ -1,81 +1,73 @@
 {
-  "id": "2026-11-13-am",
-  "slot": "morning",
+  "id": "2026-11-13-pm",
+  "slot": "evening",
   "date": "2026-11-13",
   "dateLabel": "Fri, Nov 13, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-13T15:18:48.993Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Nvidia fallout hits D.C., FBI recovers $1.2B crypto, Anthropic IPO details, and UCI brain mapping.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-14T02:13:22.483Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia faces subpoena threat; Mercor hits $20B valuation; McKinsey forecasts air travel slowdown.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "10:16 AM ET, Nov 13",
+    "asOf": "Close, Nov 13",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,518",
-        "change": "−0.98%",
+        "value": "7,562",
+        "change": "−0.40%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "25,005",
-        "change": "−1.42%",
+        "value": "25,136",
+        "change": "−0.91%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "52,081",
-        "change": "−0.41%",
-        "direction": "down"
+        "value": "52,348",
+        "change": "+0.10%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.16%",
+        "value": "5.15%",
         "change": "+5 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$3,894",
-        "change": "+0.21%",
+        "value": "$3,888",
+        "change": "+0.06%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia Fallout Spills Into Washington as Lutnick Faces Scrutiny",
-    "body": "Commerce Secretary Howard Lutnick faces potential removal over alleged lax oversight of Nvidia chip sales to Chinese firms. Meanwhile, ousted CEO Jensen Huang will forfeit $108 million in unvested stock awards following his resignation.",
+    "headline": "House Lawmakers Threaten Subpoena for Former Nvidia CEO Jensen Huang",
+    "body": "Three Republican House committee chairmen are threatening to subpoena former Nvidia CEO Jensen Huang over chip exports and national security concerns. The regulatory pressure comes as Nvidia sits 30% below its October peak, erasing $1.5 trillion in market value following Huang's exit.",
     "sources": [
       {
-        "name": "CBS News",
-        "url": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/"
+        "name": "Lokmat Times",
+        "url": "https://www.lokmattimes.com/international/us-republicans-threaten-subpoena-for-former-nvidia-ceo-over-chip-exports-a001-w02/"
       },
       {
-        "name": "Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/nvidia-spy-row-trump-administration-weighs-ousting-commerce-secretary-howard-lutnick-amid-china-export-concerns-article-156501697"
-      },
-      {
-        "name": "News18",
-        "url": "https://www.news18.com/business/markets/jensen-huang-to-lose-108-million-in-nvidia-stock-awards-after-exit-but-his-138-billion-fortune-remains-intact-report-ws-l-10423888.html"
+        "name": "Protos",
+        "url": "https://protos.com/jensen-huangs-exit-caps-a-year-of-wrecked-nvidia-predictions/"
       }
     ],
-    "why": "Scrutiny on AI hardware supply chains directly impacts chip pricing and availability for startups, while showing how political risk affects major corporate stock holdings.",
-    "kicker": "BUSINESS + REGULATION",
+    "why": "Watching how geopolitical probes impact Big Tech valuations shows how regulatory decisions directly move financial markets.",
+    "kicker": "Tech + Regulation",
     "figures": [
       {
-        "value": "$108M",
-        "label": "unvested stock forfeited by ex-CEO"
+        "value": "$1.5 trillion",
+        "label": "Market value drop from peak"
       },
       {
-        "value": "346,000",
-        "label": "unvested RSUs surrendered"
-      },
-      {
-        "value": "$138B",
-        "label": "estimated net worth retained"
+        "value": "30%",
+        "label": "Decline from October high"
       }
     ]
   },
@@ -85,30 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "FBI Seizes $1.2 Billion in Stolen Binance Crypto",
-          "body": "The FBI recovered over $1.2 billion worth of cryptocurrency linked to last month's massive $6.3 billion hack of Binance. It stands as the largest crypto theft recorded to date.",
-          "sources": [
-            {
-              "name": "ABC News - Breaking News, Latest News and Videos",
-              "url": "https://abcnews.com/Technology/wireStory/fbi-us-seized-12-billion-worth-cryptocurrency-stolen-138094651"
-            }
-          ],
-          "why": "Major security breaches in financial infrastructure highlight operational and security risks you must evaluate when analyzing fintech companies."
-        },
-        {
-          "headline": "Anthropic Prepares IPO With Five Share Classes",
-          "body": "Claude developer Anthropic is moving toward its initial public offering with a multi-tiered share structure. Market analysts are evaluating how founder control and voting rights will be structured across five share types.",
+          "headline": "October Wholesale Inflation Rises Slower Than Expected",
+          "body": "U.S. producer prices rose 0.4% in October, coming in slightly softer than Wall Street estimates. While inflation pressures remain, the lower reading eased investor concerns about aggressive Federal Reserve interest rate hikes.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html"
+              "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
             },
             {
-              "name": "The Motley Fool Australia",
-              "url": "https://www.fool.com.au/2026/11/13/anthropic-ipo-are-5-types-of-shares-too-many/"
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4006649-us-stocks-wall-st-set-to-open-higher-after-soft-producer-prices"
             }
           ],
-          "why": "Evaluating multi-class share structures is key when assessing corporate governance and founder voting power in venture-backed companies going public."
+          "why": "Analyzing wholesale price shifts helps you evaluate corporate margin pressures in your finance and accounting courses."
+        },
+        {
+          "headline": "Kraken Parent Payward Reports 67% Drop in Q3 Earnings",
+          "body": "Payward reported a 67% annual drop in third-quarter adjusted earnings as cryptocurrency trading volume slowed. Despite the financial drop, the firm plans to expand into new markets.",
+          "sources": [
+            {
+              "name": "Crypto News",
+              "url": "https://crypto.news/kraken-parent-paywards-q3-earnings-fall-67-as-crypto-trading-slows/"
+            }
+          ],
+          "why": "This illustrates how fee-dependent fintech platforms remain vulnerable to trading volume cycles during quiet market periods."
         }
       ]
     },
@@ -117,26 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Meta's Muse AI Agent Can Now Call US Businesses",
-          "body": "Meta rolled out a feature allowing its Muse consumer AI agent to place outbound phone calls to US businesses on behalf of users. The feature is available exclusively to paid subscribers.",
+          "headline": "AI Chip Startup Fractile Raises $720M at $7B Valuation",
+          "body": "British startup Fractile closed a $720 million Series C funding round to build hardware for artificial intelligence. Venture investors continue placing large bets on physical chip infrastructure to challenge existing market leaders.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+              "name": "TechStartups.com",
+              "url": "https://techstartups.com/2026/11/12/startup-funding-news-today-november-12-2026-fractile-uforce-agile-robots-imprint-more/"
             }
           ],
-          "why": "AI agents shifting from text prompts to real-world operations create new product categories for founders building autonomous software."
+          "why": "Tracking hardware investments helps you see where venture capitalists see long-term opportunities beyond software applications."
         },
         {
-          "headline": "Fed Governor Warns AI Market Concentration May Harm Small Firms",
-          "body": "Federal Reserve Governor Michael S. Barr warned that heavy market concentration in the AI industry could widen economic inequality. He noted a few dominant companies may capture most financial gains, squeezing smaller businesses.",
+          "headline": "Apple Releases HomeView Smart Display and New Apple TV 4K",
+          "body": "Apple officially launched its new HomeView smart home display alongside a fourth-generation Apple TV 4K. Both products hit store shelves on Friday after opening for pre-orders in mid-October.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/fed-governor-barr-warns-ai-market-concentration-could-widen-inequality-squeeze-smaller-businesses/"
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
             }
           ],
-          "why": "Understanding industry concentration helps you anticipate how big tech platforms might pricing-squeeze early-stage startups that depend on their APIs."
+          "why": "Observing product rollout schedules provides real-world context for technology marketing and ecosystem hardware strategies."
         }
       ]
     },
@@ -145,26 +141,34 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Deloitte Acquires AI Business From Flipside Crypto",
-          "body": "Deloitte purchased the Edisyl AI division of Boston startup Flipside Crypto. Flipside originally started eight years ago focused on digital currency analysis before expanding into AI tools.",
+          "headline": "McKinsey Report Forecasts Air Travel Growth Slowdown",
+          "body": "A new McKinsey survey reveals that 56% of airlines expect air travel growth to slow over the next two to three years. The firm cites elevated jet fuel prices, rising maintenance costs, and aircraft delivery delays as primary causes.",
           "sources": [
             {
-              "name": "The Boston Globe",
-              "url": "https://www.bostonglobe.com/2026/11/12/business/flipside-edisyl-crypto-ai-sold-deloitte/"
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/business/airlines-aviation-rising-fuel-costs-aircraft-delays-may-slow-air-travel-growth-mckinsey-warns-4383860/"
+            },
+            {
+              "name": "Zee News",
+              "url": "https://zeenews.india.com/india/article-56-of-airlines-expect-air-travel-slowdown-over-next-2-3-years-amid-rising-costs-mckinsey-3162085"
             }
           ],
-          "why": "Big Four firms are actively buying niche AI startups, creating specialized advisory practice groups you can target for tech consulting roles."
+          "why": "Studying how consulting firms break down macroeconomic headwinds gives you insight into the analytical frameworks used in case interviews."
         },
         {
-          "headline": "Deloitte Cuts Coverage for GLP-1 Weight Loss Drugs",
-          "body": "Deloitte informed US employees it will stop covering GLP-1 weight loss medications starting in January. The consulting firm cited rising healthcare costs as untenable to manage alone.",
+          "headline": "AI Automation Reduces Entry-Level Finance Roles",
+          "body": "Regional hubs like Bournemouth are seeing entry-level back-office finance jobs cut as companies automate routine processing tasks. Industry analysts advise young professionals to focus on adaptability and critical judgment to stay competitive.",
           "sources": [
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/deloitte-benefits-cuts-glp-1-coverage-healthcare-costs-rise-2026-11"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/education/features/as-ai-reshapes-jobs-what-must-gen-z-do-to-stay-employable-101794391075080.html"
             }
           ],
-          "why": "Tracking corporate benefit adjustments shows how major consulting firms manage corporate overhead during tightening economic conditions."
+          "why": "As you prepare for internship recruiting, this highlights the importance of pursuing advisory skills that basic software cannot replace."
         }
       ]
     },
@@ -173,12 +177,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI Researchers Map 8 Million Brain Cells in Deep Brain Regions",
-          "body": "University of California, Irvine scientists mapped roughly 8 million cells deep inside the human brain. The study identified 60 distinct cell types and revealed how they form complex cellular communities.",
+          "headline": "Anteaters Men's Basketball Dominates Lincoln 90-40",
+          "body": "UC Irvine men's basketball team remained undefeated after a 90-40 victory against Lincoln University at the Bren Events Center. UCI opened the game with 19 unanswered points and held a 71-29 rebounding advantage.",
           "sources": [
             {
-              "name": "Medical Xpress",
-              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
             }
           ]
         }
@@ -189,12 +193,20 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Jessica Pegula Wins WTA Finals Thriller to Knock Out Coco Gauff",
-          "body": "Jessica Pegula saved a match point to defeat Linda Noskova 7-6(2), 4-6, 7-5 in round-robin play. The result qualified Pegula for the semifinals while eliminating Coco Gauff from the tournament.",
+          "headline": "Top Seeds Zverev and Alcaraz Headline ATP Finals Draw",
+          "body": "The top eight men's tennis players gathered in Turin, Italy for the season-ending ATP Finals starting Sunday. World No. 1 Alexander Zverev and second seed Carlos Alcaraz were placed in separate groups for round-robin play.",
           "sources": [
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4006254-tennis-pegula-wins-thriller-at-wta-finals-gauff-eliminated"
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13611772/atp-finals-predictions-sky-sports-panel-pick-their-winners-and-surprise-package-as-alexander-zverev-and-carlos-alcaraz-lead-the-field"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/athletic/7768814/2026/11/13/atp-finals-2026-players-mens-tennis/"
+            },
+            {
+              "name": "Essentially Sports",
+              "url": "https://www.essentiallysports.com/tennis-news-tennis-insider-warns-alexander-zverev-as-carlos-alcaraz-gets-a-big-advantage-in-the-atp-finals/"
             }
           ]
         }
@@ -202,51 +214,55 @@
     }
   ],
   "term": {
-    "name": "Unvested RSUs (Restricted Stock Units)",
-    "definition": "Restricted Stock Units are company shares granted to employees that vest over a set timeline. Unvested RSUs represent equity an employee does not fully own yet. If an executive or employee leaves the company before the vesting date, those unvested shares are surrendered back to the company.",
+    "name": "Producer Price Index (PPI)",
+    "definition": "The Producer Price Index measures the average change over time in the selling prices received by domestic producers for their output. Unlike consumer price indexes that measure retail store prices, PPI tracks wholesale inflation before costs reach consumers.",
     "sources": [
       {
-        "name": "News18",
-        "url": "https://www.news18.com/business/markets/jensen-huang-to-lose-108-million-in-nvidia-stock-awards-after-exit-but-his-138-billion-fortune-remains-intact-report-ws-l-10423888.html"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+      },
+      {
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/international/4006649-us-stocks-wall-st-set-to-open-higher-after-soft-producer-prices"
       }
     ]
   },
   "serve": {
-    "headline": "Luminal raised $23M to challenge Nvidia's CUDA software moat",
-    "body": "Luminal AI raised $23 million in Series A funding to build software that competes directly with Nvidia's CUDA ecosystem. The round was led by Standard Capital.",
+    "headline": "Mercor raises $750M at $20B valuation for AI hiring platform",
+    "body": "Artificial intelligence startup Mercor raised $750 million in new funding, raising its valuation to $20 billion. The company was founded by 23-year-old entrepreneurs Adarsh Hiremath and Surya Midha.",
     "questions": [
-      "How hard is it to convince developers to switch away from established software tools like CUDA?",
-      "If you were building an AI startup today, would you build on top of Nvidia's software or look for open alternatives?",
-      "What key advantage allows early-stage startups to compete against established tech monopolies?"
+      "How can AI tools streamline candidate vetting for campus recruiting without losing human judgment?",
+      "What advantages do young founders have when disrupting legacy hiring marketplaces?",
+      "How might high startup valuations in AI impact equity distribution for early employees?"
     ],
     "sources": [
       {
-        "name": "SiliconANGLE News",
-        "url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/"
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/how-two-23-year-old-indian-origin-ai-founders-became-the-worlds-youngest-self-made-billionaires-14059878.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nvidia's executive fallout widens as policy and leadership scramble.",
-      "blurb": "Commerce Secretary Howard Lutnick faces potential removal while ousted CEO Jensen Huang forfeits $108 million in unvested equity."
+      "headline": "House lawmakers threaten subpoena for former Nvidia CEO Jensen Huang.",
+      "blurb": "Republican committee chairs are demanding answers on chip exports as Nvidia trades 30% below its October peak."
     },
     {
-      "headline": "The FBI recovered $1.2 billion from the $6.3 billion Binance hack.",
-      "blurb": "Federal agents seized the funds following the largest crypto theft recorded to date."
+      "headline": "AI recruitment startup Mercor hits $20B valuation with $750M funding round.",
+      "blurb": "The 23-year-old co-founders doubled their net worth after closing the massive venture capital deal."
     },
     {
-      "headline": "Anthropic is structuring its upcoming IPO with five distinct share classes.",
-      "blurb": "Analysts are examining how voting power and founder control will be structured ahead of the public listing."
+      "headline": "McKinsey report forecasts air travel growth slowdown over next three years.",
+      "blurb": "Over half of surveyed airlines cite rising fuel prices, maintenance costs, and aircraft delivery delays."
     },
     {
-      "headline": "Meta's Muse AI agent can now place actual phone calls to businesses.",
-      "blurb": "The new outbound calling feature is currently restricted to paid subscribers."
+      "headline": "October wholesale inflation rises less than expected, easing Fed pressure.",
+      "blurb": "Softer producer price figures offered relief to stock markets despite ongoing cost pressures."
     },
     {
-      "headline": "Deloitte bought the Edisyl AI unit of crypto analytics firm Flipside.",
-      "blurb": "The Big Four firm continues to expand its internal AI consulting capabilities through targeted startup acquisitions."
+      "headline": "Top eight players head to Turin as ATP Finals groups are revealed.",
+      "blurb": "Alexander Zverev and Carlos Alcaraz lead the field for the season-ending championship in Italy."
     }
   ],
-  "emailQuestion": "How hard is it to convince developers to switch away from established software tools like CUDA?"
+  "emailQuestion": "How can AI tools streamline candidate vetting for campus recruiting without losing human judgment?"
 }
