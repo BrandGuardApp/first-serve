@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-14-pm",
-  "slot": "evening",
-  "date": "2026-11-14",
-  "dateLabel": "Sat, Nov 14, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-15T01:44:00.657Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Anthropic sets IPO date, Workday suffers outage, and McKinsey offers scandal advice.",
+  "id": "2026-11-15-am",
+  "slot": "morning",
+  "date": "2026-11-15",
+  "dateLabel": "Sun, Nov 15, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-15T16:59:42.543Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "AI signals split as Nvidia drops and Anthropic IPO demand surges, plus Fed debt warnings.",
   "storyCount": 11,
-  "readMinutes": 3,
+  "readMinutes": 4,
   "scoreboard": {
     "asOf": "Close, Nov 13",
     "rows": [
@@ -46,28 +46,24 @@
     ]
   },
   "lead": {
-    "headline": "Anthropic Prepares for Public Trading as Co-Founders Face Multi-Billion Payouts",
-    "body": "Artificial intelligence startup Anthropic is preparing to go public with trading expected to begin on November 19. Founded in 2021 by a team of seven co-founders, the company is set to make its founders multi-billionaires upon listing.",
+    "headline": "Nvidia Slumps While Anthropic IPO Demand Surges",
+    "body": "Nvidia stock posted its steepest weekly decline in over 18 months following the departure of CEO Jensen Huang. Meanwhile, investor demand for Anthropic's proposed IPO reached six times the available shares, showing a clear split in how markets view hardware suppliers versus platform developers.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/should-you-invest-in-ai-stocks-now-nvidia-s-slump-anthropic-s-ipo-and-5-strategies-to-consider-11794708555559.html"
       }
     ],
-    "why": "Tracking AI startups as they transition to public markets helps you evaluate tech valuations and exit strategies for your finance classes.",
-    "kicker": "AI + IPOs",
+    "why": "This market divergence shows how quickly investor focus shifts between chipmakers and AI application layers, which is crucial context when analyzing tech industry valuations in your finance courses.",
+    "kicker": "MARKETS & AI",
     "figures": [
       {
-        "value": "7",
-        "label": "Co-founders"
+        "value": "18 months",
+        "label": "Steepest weekly stock drop for Nvidia"
       },
       {
-        "value": "2021",
-        "label": "Year founded"
-      },
-      {
-        "value": "Nov 19",
-        "label": "Expected IPO date"
+        "value": "6x",
+        "label": "Demand multiple for Anthropic IPO shares"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Workday Payroll Outage Hits Thousands of Enterprise Clients",
-          "body": "Workday suffered a major service disruption on Friday, leaving thousands of companies without access to payroll and human resources management software. The outage comes just days after a separate widespread shutdown at Microsoft.",
+          "headline": "Fed Warns of Vulnerabilities from $3 Trillion AI Infrastructure Debt",
+          "body": "The Federal Reserve issued a warning in its Financial Stability Report regarding overvalued AI asset prices and circular financing. The Fed highlighted an estimated $3 trillion in liabilities and guarantees linked to AI data center buildouts.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage"
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3376363/"
             }
           ],
-          "why": "Understanding enterprise software reliability gives you insight into corporate operational risk and vendor stability."
+          "why": "Understanding how systemic credit risks build up in growing tech sectors helps you evaluate debt structures and risk management in corporate finance."
         },
         {
-          "headline": "Fed Vice Chair Says Inflation Determines Interest Rate Decisions",
-          "body": "Federal Reserve Vice Chair Philip Jefferson stated that elevated price pressures mean inflation remains the key factor for future interest rate policy. He noted that economic and labor market indicators currently show signs of stability.",
+          "headline": "Over 300 Los Angeles Dining Outlets Close in 2026 amid Rising Costs",
+          "body": "At least 301 restaurants, bars, and cafes have closed in Los Angeles so far this year, marking a 25% increase over all of 2025. Business owners cited rising minimum wages, elevated insurance costs, and municipal regulations.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/us-feds-jefferson-says-inflation-will-be-key-to-future-interest-rate-decisions/"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/14/business/las-dining-apocalypse-as-300-plus-spots-close-this-year/"
             }
           ],
-          "why": "Interest rate expectations directly impact corporate borrowing costs and equity valuations across capital markets."
+          "why": "This wave of closures offers a practical case study on how rising labor and fixed overhead costs compress margins in retail service businesses."
         }
       ]
     },
@@ -105,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Take-Two CEO Calls Out AI Companies Over Game Cloning",
-          "body": "Take-Two Interactive CEO Strauss Zelnick criticized Anthropic and OpenAI for allowing users to replicate existing video games using generative AI. Zelnick called it ironic that AI firms stomp on established intellectual property.",
+          "headline": "Tesla Opens Cybercab Orders at $29,990 with Monthly Subscription",
+          "body": "Tesla has started accepting orders from select customers for its fully autonomous Cybercab at a base price of $29,990. Owners must also pay a $299 monthly subscription fee for full autonomy features.",
           "sources": [
             {
-              "name": "GamesRadar+",
-              "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale"
             }
           ],
-          "why": "Intellectual property disputes around generative models will shape business models and legal liabilities in tech startups."
+          "why": "Combining a low hardware purchase price with a recurring software subscription is a core monetizing model used across modern tech startups."
         },
         {
-          "headline": "Attacker AI Use Triggers New Ransomware Concerns",
-          "body": "Cybersecurity researchers warn that unsophisticated attackers are increasingly leveraging AI tools to launch disruption campaigns. While fully automated ransomware has not yet arrived, accessible AI tools are accelerating attack frequency.",
+          "headline": "China Expands AI Data Center Hub in Inner Mongolia",
+          "body": "China is constructing a large artificial intelligence data center complex near Ulanqab in Inner Mongolia, creating a site roughly the size of a small U.S. city. The rapid expansion comes as similar data projects in the U.S. face local opposition.",
           "sources": [
             {
-              "name": "WIRED",
-              "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+              "name": "Natural News",
+              "url": "https://www.naturalnews.com/2026-11-15-china-expands-ai-data-center-construction-inner-mongolia.html"
             }
           ],
-          "why": "Cybersecurity risks represent a growing line item in enterprise IT budgets and strategic risk consulting."
+          "why": "Tracking global compute infrastructure helps you understand the operational scale and supply chain dynamics driving international AI competition."
         }
       ]
     },
@@ -133,26 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Chief Shares Crisis Blueprint for Boardrooms",
-          "body": "McKinsey global managing partner Bob Sternfels recommended corporate boards run scenario planning exercises for executive leadership scandals. His advice comes after Nvidia faced major market value losses following public scandal fallout.",
+          "headline": "Daloy Founder Reinterprets Consulting Deliverables with AI",
+          "body": "Daloy founder Jeff Lontoc noted that AI tools speed up the creation of management consulting deliverables. However, he emphasized that human expertise and deep business context remain required for clients to get real value.",
           "sources": [
             {
-              "name": "Business Insider",
-              "url": "https://www.businessinsider.com/mckinsey-boss-how-companies-can-prepare-for-nvidia-style-crisis-2026-11"
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
             }
           ],
-          "why": "Crisis management framework building is a core service management consultants deliver to corporate leadership teams."
+          "why": "As you prepare for consulting interviews, remember that top firms hire for problem-solving context and business logic rather than slide deck generation."
         },
         {
-          "headline": "McKinsey Report Warns of Slower Air Travel Growth",
-          "body": "A report from McKinsey reveals that 56 percent of airlines expect slower passenger growth over the next two to three years. The study points to rising fuel costs, aircraft delivery delays, and geopolitical uncertainties as key operational headwinds.",
+          "headline": "BCG Study Finds 60 Percent of Indian Consumers Trust AI Health Advice",
+          "body": "A Boston Consulting Group report shows that six out of ten Indian consumers view online health information as reliable as professional medical advice. A similar share prefers instant AI responses over waiting for appointments.",
           "sources": [
             {
-              "name": "The Financial Express",
-              "url": "https://www.financialexpress.com/business/airlines-aviation-rising-fuel-costs-aircraft-delays-may-slow-air-travel-growth-mckinsey-warns-4383860/"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/six-out-of-10-indian-consumers-trust-online-health-information-prefer-instant-ai-answers-bcg-study/"
             }
           ],
-          "why": "Analyzing industry-specific headwinds helps you practice building revenue forecasts and strategy case solutions."
+          "why": "Consulting firms frequently produce consumer adoption data like this to guide enterprise clients on digital service strategies."
         }
       ]
     },
@@ -161,12 +157,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Men's Basketball Rolls to 90-40 Victory",
-          "body": "The Anteaters opened with 19 straight points and dominated the glass with a 71-29 rebounding margin against Lincoln University to remain undefeated.",
+          "headline": "UC Irvine Researchers Map 8 Million Cells Deep in Human Brain",
+          "body": "UC Irvine scientists mapped approximately 8 million cells in deep brain regions, identifying 60 distinct cell types and their structural communities. The reference map will help researchers study conditions like Parkinson's disease.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
             }
           ]
         }
@@ -177,12 +173,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Mirra Andreeva Finishes Undefeated in WTA Finals Group Stage",
-          "body": "Teenager Mirra Andreeva completed a sweep of her group-stage matches at the WTA Finals in Indian Wells, stating she is learning to recover faster from court setbacks.",
+          "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
+          "body": "Nineteen-year-old Mirra Andreeva defeated world No. 5 Jessica Pegula 6-3, 6-4 at Indian Wells on Saturday. The win keeps her undefeated at the WTA Finals and advances her to the championship match against Elina Svitolina.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/14/tennis-andreeva-says-she-is-learning-to-move-on-faster-from-defeats-after-wta-finals-sweep"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/teenage-sensation-andreeva-storms-into-wta-finals-championship-pegula-out-a001-w02/"
+            },
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4007054-tennis-andreeva-beats-pegula-will-face-svitolina-in-wta-finals-championship-match"
             }
           ]
         }
@@ -190,51 +190,51 @@
     }
   ],
   "term": {
-    "name": "Initial Public Offering (IPO)",
-    "definition": "An Initial Public Offering is the process where a private corporation offers shares to the public in a new stock issuance. This allows early investors and founders to gain liquidity while raising capital for operational expansion. Anthropic's expected public trading on November 19 is an example of an AI market debut.",
+    "name": "Circular Financing",
+    "definition": "Circular financing occurs when tech companies or investors provide funding to entities that use those exact funds to purchase goods or services back from the original investor. The Federal Reserve warned that this practice can artificially inflate revenues and obscure real balance sheet risks during major technology buildouts.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
+        "name": "EUROPE SAYS",
+        "url": "https://www.europesays.com/3376363/"
       }
     ]
   },
   "serve": {
-    "headline": "Drogue raises $20M for ocean-based AI data centers",
-    "body": "Six-month-old startup Drogue secured $20 million in funding from XYZ Venture Capital and Toyota Ventures. The company uses warm ocean surface water to generate power for floating data centers.",
+    "headline": "Google invests ₹10 crore in creator startup Rigi at ₹670 crore valuation",
+    "body": "Google International acquired a 1.43% stake in India-based creator economy platform Rigi for ₹10 crore ($1.07 million). Rigi plans to use the investment to expand its free, ad-supported digital content and micro-drama offerings.",
     "questions": [
-      "How do floating data centers handle subsea internet infrastructure compared to land-based facilities?",
-      "What environmental regulations apply when operating off-grid power generation in ocean waters?",
-      "Can maritime data centers achieve lower operational costs than traditional land developments?"
+      "How can creator economy startups build defensible moats beyond the primary social media platforms?",
+      "What monetization strategies work best for short-form micro-dramas compared to traditional streaming platforms?",
+      "Why would a tech giant like Google take a small minority stake in an early-stage digital content startup?"
     ],
     "sources": [
       {
-        "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/science/drogue-raises-20-million-to-power-ai-data-centers-at-sea/tldr"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/companies/news/google-invests-rs-10-crore-in-creator-economy-and-micro-drama-startup-rigi-valuation-reaches-rs-670-crore-details-11794629036334.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic prepares for a public debut as co-founders eye billion-dollar payouts.",
-      "blurb": "The AI startup plans to start trading on November 19."
+      "headline": "Diverging AI Signals: Nvidia Slumps as Anthropic IPO Draws Massive Demand",
+      "blurb": "Nvidia dropped in its worst week in 18 months while Anthropic's proposed public offering saw 6x share oversubscription."
     },
     {
-      "headline": "Workday outage leaves thousands of companies without access to payroll platforms.",
-      "blurb": "The disruption comes right after a separate Microsoft service shutdown."
+      "headline": "Fed Warns of Vulnerability from $3 Trillion AI Debt",
+      "blurb": "The Federal Reserve flagged elevated asset valuations and circular financing risks tied to data center infrastructure."
     },
     {
-      "headline": "McKinsey CEO Bob Sternfels advises boards on handling executive leadership scandals.",
-      "blurb": "The firm recommends proactive scenario planning following Nvidia's executive turmoil."
+      "headline": "Tesla Opens Cybercab Orders at $29,990 with Subscription Model",
+      "blurb": "Select customers can order the autonomous vehicle paired with a $299 monthly software fee."
     },
     {
-      "headline": "Take-Two CEO criticizes AI developers over game cloning practices.",
-      "blurb": "Strauss Zelnick targeted Anthropic and OpenAI for enabling IP replication."
+      "headline": "Daloy Founder Reinterprets Management Consulting with AI Tools",
+      "blurb": "Jeff Lontoc noted AI accelerates document generation, but human context remains essential for client value."
     },
     {
-      "headline": "UC Irvine basketball dominates Lincoln University in a 90-40 blow-out.",
-      "blurb": "The Anteaters controlled the boards with a 71-29 rebounding advantage."
+      "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
+      "blurb": "The 19-year-old tennis star won 6-3, 6-4 to advance to the final against Elina Svitolina."
     }
   ],
-  "emailQuestion": "How do floating data centers handle subsea internet infrastructure compared to land-based facilities?"
+  "emailQuestion": "How can creator economy startups build defensible moats beyond the primary social media platforms?"
 }

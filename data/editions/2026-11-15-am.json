@@ -1,0 +1,240 @@
+{
+  "id": "2026-11-15-am",
+  "slot": "morning",
+  "date": "2026-11-15",
+  "dateLabel": "Sun, Nov 15, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-15T16:59:42.543Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "AI signals split as Nvidia drops and Anthropic IPO demand surges, plus Fed debt warnings.",
+  "storyCount": 11,
+  "readMinutes": 4,
+  "scoreboard": {
+    "asOf": "Close, Nov 13",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,562",
+        "change": "−0.40%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,136",
+        "change": "−0.91%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,348",
+        "change": "+0.10%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.15%",
+        "change": "+5 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,886",
+        "change": "+0.03%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia Slumps While Anthropic IPO Demand Surges",
+    "body": "Nvidia stock posted its steepest weekly decline in over 18 months following the departure of CEO Jensen Huang. Meanwhile, investor demand for Anthropic's proposed IPO reached six times the available shares, showing a clear split in how markets view hardware suppliers versus platform developers.",
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/should-you-invest-in-ai-stocks-now-nvidia-s-slump-anthropic-s-ipo-and-5-strategies-to-consider-11794708555559.html"
+      }
+    ],
+    "why": "This market divergence shows how quickly investor focus shifts between chipmakers and AI application layers, which is crucial context when analyzing tech industry valuations in your finance courses.",
+    "kicker": "MARKETS & AI",
+    "figures": [
+      {
+        "value": "18 months",
+        "label": "Steepest weekly stock drop for Nvidia"
+      },
+      {
+        "value": "6x",
+        "label": "Demand multiple for Anthropic IPO shares"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Fed Warns of Vulnerabilities from $3 Trillion AI Infrastructure Debt",
+          "body": "The Federal Reserve issued a warning in its Financial Stability Report regarding overvalued AI asset prices and circular financing. The Fed highlighted an estimated $3 trillion in liabilities and guarantees linked to AI data center buildouts.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3376363/"
+            }
+          ],
+          "why": "Understanding how systemic credit risks build up in growing tech sectors helps you evaluate debt structures and risk management in corporate finance."
+        },
+        {
+          "headline": "Over 300 Los Angeles Dining Outlets Close in 2026 amid Rising Costs",
+          "body": "At least 301 restaurants, bars, and cafes have closed in Los Angeles so far this year, marking a 25% increase over all of 2025. Business owners cited rising minimum wages, elevated insurance costs, and municipal regulations.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/14/business/las-dining-apocalypse-as-300-plus-spots-close-this-year/"
+            }
+          ],
+          "why": "This wave of closures offers a practical case study on how rising labor and fixed overhead costs compress margins in retail service businesses."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Tesla Opens Cybercab Orders at $29,990 with Monthly Subscription",
+          "body": "Tesla has started accepting orders from select customers for its fully autonomous Cybercab at a base price of $29,990. Owners must also pay a $299 monthly subscription fee for full autonomy features.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale"
+            }
+          ],
+          "why": "Combining a low hardware purchase price with a recurring software subscription is a core monetizing model used across modern tech startups."
+        },
+        {
+          "headline": "China Expands AI Data Center Hub in Inner Mongolia",
+          "body": "China is constructing a large artificial intelligence data center complex near Ulanqab in Inner Mongolia, creating a site roughly the size of a small U.S. city. The rapid expansion comes as similar data projects in the U.S. face local opposition.",
+          "sources": [
+            {
+              "name": "Natural News",
+              "url": "https://www.naturalnews.com/2026-11-15-china-expands-ai-data-center-construction-inner-mongolia.html"
+            }
+          ],
+          "why": "Tracking global compute infrastructure helps you understand the operational scale and supply chain dynamics driving international AI competition."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Daloy Founder Reinterprets Consulting Deliverables with AI",
+          "body": "Daloy founder Jeff Lontoc noted that AI tools speed up the creation of management consulting deliverables. However, he emphasized that human expertise and deep business context remain required for clients to get real value.",
+          "sources": [
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
+            }
+          ],
+          "why": "As you prepare for consulting interviews, remember that top firms hire for problem-solving context and business logic rather than slide deck generation."
+        },
+        {
+          "headline": "BCG Study Finds 60 Percent of Indian Consumers Trust AI Health Advice",
+          "body": "A Boston Consulting Group report shows that six out of ten Indian consumers view online health information as reliable as professional medical advice. A similar share prefers instant AI responses over waiting for appointments.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/six-out-of-10-indian-consumers-trust-online-health-information-prefer-instant-ai-answers-bcg-study/"
+            }
+          ],
+          "why": "Consulting firms frequently produce consumer adoption data like this to guide enterprise clients on digital service strategies."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Researchers Map 8 Million Cells Deep in Human Brain",
+          "body": "UC Irvine scientists mapped approximately 8 million cells in deep brain regions, identifying 60 distinct cell types and their structural communities. The reference map will help researchers study conditions like Parkinson's disease.",
+          "sources": [
+            {
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
+          "body": "Nineteen-year-old Mirra Andreeva defeated world No. 5 Jessica Pegula 6-3, 6-4 at Indian Wells on Saturday. The win keeps her undefeated at the WTA Finals and advances her to the championship match against Elina Svitolina.",
+          "sources": [
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/teenage-sensation-andreeva-storms-into-wta-finals-championship-pegula-out-a001-w02/"
+            },
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4007054-tennis-andreeva-beats-pegula-will-face-svitolina-in-wta-finals-championship-match"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Circular Financing",
+    "definition": "Circular financing occurs when tech companies or investors provide funding to entities that use those exact funds to purchase goods or services back from the original investor. The Federal Reserve warned that this practice can artificially inflate revenues and obscure real balance sheet risks during major technology buildouts.",
+    "sources": [
+      {
+        "name": "EUROPE SAYS",
+        "url": "https://www.europesays.com/3376363/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Google invests ₹10 crore in creator startup Rigi at ₹670 crore valuation",
+    "body": "Google International acquired a 1.43% stake in India-based creator economy platform Rigi for ₹10 crore ($1.07 million). Rigi plans to use the investment to expand its free, ad-supported digital content and micro-drama offerings.",
+    "questions": [
+      "How can creator economy startups build defensible moats beyond the primary social media platforms?",
+      "What monetization strategies work best for short-form micro-dramas compared to traditional streaming platforms?",
+      "Why would a tech giant like Google take a small minority stake in an early-stage digital content startup?"
+    ],
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/companies/news/google-invests-rs-10-crore-in-creator-economy-and-micro-drama-startup-rigi-valuation-reaches-rs-670-crore-details-11794629036334.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Diverging AI Signals: Nvidia Slumps as Anthropic IPO Draws Massive Demand",
+      "blurb": "Nvidia dropped in its worst week in 18 months while Anthropic's proposed public offering saw 6x share oversubscription."
+    },
+    {
+      "headline": "Fed Warns of Vulnerability from $3 Trillion AI Debt",
+      "blurb": "The Federal Reserve flagged elevated asset valuations and circular financing risks tied to data center infrastructure."
+    },
+    {
+      "headline": "Tesla Opens Cybercab Orders at $29,990 with Subscription Model",
+      "blurb": "Select customers can order the autonomous vehicle paired with a $299 monthly software fee."
+    },
+    {
+      "headline": "Daloy Founder Reinterprets Management Consulting with AI Tools",
+      "blurb": "Jeff Lontoc noted AI accelerates document generation, but human context remains essential for client value."
+    },
+    {
+      "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
+      "blurb": "The 19-year-old tennis star won 6-3, 6-4 to advance to the final against Elina Svitolina."
+    }
+  ],
+  "emailQuestion": "How can creator economy startups build defensible moats beyond the primary social media platforms?"
+}
