@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-14-am",
-  "slot": "morning",
+  "id": "2026-11-14-pm",
+  "slot": "evening",
   "date": "2026-11-14",
   "dateLabel": "Sat, Nov 14, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-14T16:33:42.815Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Nvidia's Jensen Huang resigns, FAA grounds all flights, and LangChain raises $300M.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-15T01:44:00.657Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic sets IPO date, Workday suffers outage, and McKinsey offers scandal advice.",
   "storyCount": 11,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 13",
     "rows": [
@@ -46,32 +46,28 @@
     ]
   },
   "lead": {
-    "headline": "Jensen Huang Resigns From Nvidia After Scandal",
-    "body": "Nvidia co-founder and CEO Jensen Huang resigned following reports of undisclosed relationships, including one with a former executive suspected of ties to Chinese intelligence. The sudden exit triggered a 13 percent drop in Nvidia stock over the week, its worst performance since April 2025. Colette Kress has stepped in as interim CEO while the board evaluates candidates.",
+    "headline": "Anthropic Prepares for Public Trading as Co-Founders Face Multi-Billion Payouts",
+    "body": "Artificial intelligence startup Anthropic is preparing to go public with trading expected to begin on November 19. Founded in 2021 by a team of seven co-founders, the company is set to make its founders multi-billionaires upon listing.",
     "sources": [
       {
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/world-news-live-updates-us-faa-flights-grounded-nvidia-crisis-jensen-huang-trump-spacex-starship-ukraine-war-china-10962543/"
-      },
-      {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms"
-      },
-      {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/trending/who-benefits-from-jensen-huangs-nvidia-exit-indian-influencer-breaks-down-who-stands-to-gain-and-lose-12325104"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
       }
     ],
-    "why": "Nvidia has been the backbone of the AI boom you study and invest in. Executive chaos at the top can completely shift supply chains, chip access, and market valuations for tech stocks you watch.",
-    "kicker": "Tech + Leadership",
+    "why": "Tracking AI startups as they transition to public markets helps you evaluate tech valuations and exit strategies for your finance classes.",
+    "kicker": "AI + IPOs",
     "figures": [
       {
-        "value": "33",
-        "label": "Years led Nvidia"
+        "value": "7",
+        "label": "Co-founders"
       },
       {
-        "value": "13%",
-        "label": "Stock drop in a week"
+        "value": "2021",
+        "label": "Year founded"
+      },
+      {
+        "value": "Nov 19",
+        "label": "Expected IPO date"
       }
     ]
   },
@@ -81,30 +77,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "FAA Orders Rare Nationwide Ground Stop",
-          "body": "The Federal Aviation Administration ordered a nationwide ground stop for all departing flights due to safety reasons, snarling travel for over four hours. Transportation Secretary Sean Duffy stated there were no indications of a cyberattack.",
+          "headline": "Workday Payroll Outage Hits Thousands of Enterprise Clients",
+          "body": "Workday suffered a major service disruption on Friday, leaving thousands of companies without access to payroll and human resources management software. The outage comes just days after a separate widespread shutdown at Microsoft.",
           "sources": [
             {
-              "name": "ABC News - Breaking News, Latest News and Videos",
-              "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
-            },
-            {
-              "name": "Mashable",
-              "url": "https://mashable.com/tech/faa-smart-ai-tool-nationwide-groundstop"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage"
             }
           ],
-          "why": "Massive infrastructure halts disrupt corporate supply chains and consulting travel schedules right before key client meetings."
+          "why": "Understanding enterprise software reliability gives you insight into corporate operational risk and vendor stability."
         },
         {
-          "headline": "Federal Reserve Survey Flags AI as Top Financial Risk",
-          "body": "A recent Federal Reserve report reveals that 87 percent of respondents view artificial intelligence as a key risk to financial stability. The survey highlights rising debt tied to infrastructure investments and growing cyber threats.",
+          "headline": "Fed Vice Chair Says Inflation Determines Interest Rate Decisions",
+          "body": "Federal Reserve Vice Chair Philip Jefferson stated that elevated price pressures mean inflation remains the key factor for future interest rate policy. He noted that economic and labor market indicators currently show signs of stability.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/us-feds-jefferson-says-inflation-will-be-key-to-future-interest-rate-decisions/"
             }
           ],
-          "why": "As an aspiring investor, pay attention to how central banks view debt accumulation in tech. High systemic risk could mean tighter credit for startups you might want to build or fund."
+          "why": "Interest rate expectations directly impact corporate borrowing costs and equity valuations across capital markets."
         }
       ]
     },
@@ -113,30 +105,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Intel Recains Desktop CPU Ground As AMD Slips",
-          "body": "AMD's share of desktop CPU shipments fell to 29.9 percent in the third quarter of 2026, marking a five-point drop from the previous quarter. Intel recaptured lost ground to climb back to 70.1 percent.",
+          "headline": "Take-Two CEO Calls Out AI Companies Over Game Cloning",
+          "body": "Take-Two Interactive CEO Strauss Zelnick criticized Anthropic and OpenAI for allowing users to replicate existing video games using generative AI. Zelnick called it ironic that AI firms stomp on established intellectual property.",
           "sources": [
             {
-              "name": "TechPowerUp",
-              "url": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground"
+              "name": "GamesRadar+",
+              "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/"
             }
           ],
-          "why": "Hardware market share shifts quickly in semiconductors. It is a classic case study in competitive moats and cyclical hardware demand."
+          "why": "Intellectual property disputes around generative models will shape business models and legal liabilities in tech startups."
         },
         {
-          "headline": "Treasury and Commerce Clash Over Chip Exports",
-          "body": "Treasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick for delaying export restrictions on advanced Nvidia chips to Megaspeed International. The dispute highlights internal administration friction over technology controls.",
+          "headline": "Attacker AI Use Triggers New Ransomware Concerns",
+          "body": "Cybersecurity researchers warn that unsophisticated attackers are increasingly leveraging AI tools to launch disruption campaigns. While fully automated ransomware has not yet arrived, accessible AI tools are accelerating attack frequency.",
           "sources": [
             {
-              "name": "PBS",
-              "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips"
-            },
-            {
-              "name": "The Financial Express",
-              "url": "https://www.financialexpress.com/world-news/us-news/why-is-us-treasury-secy-bessent-criticising-commerce-chief-lutnick-over-nvidia-chip-exports/4384276/"
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
             }
           ],
-          "why": "Geopolitical export controls dictate which markets hardware startups can sell to, directly impacting venture returns in deep tech."
+          "why": "Cybersecurity risks represent a growing line item in enterprise IT budgets and strategic risk consulting."
         }
       ]
     },
@@ -145,26 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Consulting Leaders Balance AI Tools With Human Context",
-          "body": "Industry experts note that while AI tools can rapidly accelerate the drafting of consulting deliverables, human understanding of business context remains essential. A recent survey shows 80 percent of respondents rely on AI integration in business strategy.",
+          "headline": "McKinsey Chief Shares Crisis Blueprint for Boardrooms",
+          "body": "McKinsey global managing partner Bob Sternfels recommended corporate boards run scenario planning exercises for executive leadership scandals. His advice comes after Nvidia faced major market value losses following public scandal fallout.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/mckinsey-boss-how-companies-can-prepare-for-nvidia-style-crisis-2026-11"
             }
           ],
-          "why": "This directly impacts what Merage consulting clubs and future employers expect from you. You need to know how to use AI tools while mastering the human strategy behind them."
+          "why": "Crisis management framework building is a core service management consultants deliver to corporate leadership teams."
         },
         {
-          "headline": "Financial Compliance Hubs Face Entry-Level Job Cuts",
-          "body": "Automated systems and artificial intelligence tools are rapidly replacing entry-level compliance and finance roles, even in regional hubs far from major financial capitals. Firms are relying on software to handle tasks previously given to junior staff.",
+          "headline": "McKinsey Report Warns of Slower Air Travel Growth",
+          "body": "A report from McKinsey reveals that 56 percent of airlines expect slower passenger growth over the next two to three years. The study points to rising fuel costs, aircraft delivery delays, and geopolitical uncertainties as key operational headwinds.",
           "sources": [
             {
-              "name": "EUROPE SAYS",
-              "url": "https://www.europesays.com/3373237/"
+              "name": "The Financial Express",
+              "url": "https://www.financialexpress.com/business/airlines-aviation-rising-fuel-costs-aircraft-delays-may-slow-air-travel-growth-mckinsey-warns-4383860/"
             }
           ],
-          "why": "If you are aiming for finance or fintech internships, you need to build skills that go beyond basic spreadsheet entry, which software now handles automatically."
+          "why": "Analyzing industry-specific headwinds helps you practice building revenue forecasts and strategy case solutions."
         }
       ]
     },
@@ -173,12 +161,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Researchers Map 8 Million Brain Cells at UC Irvine",
-          "body": "UC Irvine researchers mapped approximately 8 million cells deep within the human brain, identifying 60 distinct types and their cellular communities. The findings provide a foundational reference for studying neurological disorders like Parkinson's.",
+          "headline": "UC Irvine Men's Basketball Rolls to 90-40 Victory",
+          "body": "The Anteaters opened with 19 straight points and dominated the glass with a 71-29 rebounding margin against Lincoln University to remain undefeated.",
           "sources": [
             {
-              "name": "Medical Xpress",
-              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
             }
           ]
         }
@@ -189,16 +177,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Svitolina Stuns Sabalenka to Reach WTA Finals Semis",
-          "body": "Elina Svitolina overcame a second-set deficit to defeat Aryna Sabalenka 6-3, 3-6, 6-1 at the WTA Finals in Indian Wells. Svitolina advances to face Linda Noskova in the semi-finals.",
+          "headline": "Mirra Andreeva Finishes Undefeated in WTA Finals Group Stage",
+          "body": "Teenager Mirra Andreeva completed a sweep of her group-stage matches at the WTA Finals in Indian Wells, stating she is learning to recover faster from court setbacks.",
           "sources": [
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4006910-tennis-svitolina-stuns-sabalenka-to-reach-wta-finals-semis"
-            },
-            {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13612096/wta-finals-elina-svitolina-defeats-aryna-sabalenka-to-reach-semi-finals-as-mirra-andreeva-overwhelms-diana-shnaider"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/14/tennis-andreeva-says-she-is-learning-to-move-on-faster-from-defeats-after-wta-finals-sweep"
             }
           ]
         }
@@ -206,51 +190,51 @@
     }
   ],
   "term": {
-    "name": "Red Herring Prospectus",
-    "definition": "A preliminary registration document filed by a company with securities regulators before an initial public offering. It provides financial details to potential investors but does not include final share prices or the exact number of shares being offered, much like the recent filing by Coal India arm Mahanadi Coalfields.",
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An Initial Public Offering is the process where a private corporation offers shares to the public in a new stock issuance. This allows early investors and founders to gain liquidity while raising capital for operational expansion. Anthropic's expected public trading on November 19 is an example of an AI market debut.",
     "sources": [
       {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/markets/mahanadi-coalfields-ipo-coal-india-arm-files-rhp-for-public-issue-12325042"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
       }
     ]
   },
   "serve": {
-    "headline": "LangChain raised $300 million at a $3 billion valuation in a Series C round",
-    "body": "LangChain is an agent management startup that builds platforms for developing AI applications. The funding round was led by CapitalG, with additional participation from GIC.",
+    "headline": "Drogue raises $20M for ocean-based AI data centers",
+    "body": "Six-month-old startup Drogue secured $20 million in funding from XYZ Venture Capital and Toyota Ventures. The company uses warm ocean surface water to generate power for floating data centers.",
     "questions": [
-      "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?",
-      "If you were leading CapitalG, what metrics would you look for beyond raw developer signups?",
-      "How can smaller startups compete when infrastructure giants drop hundreds of millions on agent management?"
+      "How do floating data centers handle subsea internet infrastructure compared to land-based facilities?",
+      "What environmental regulations apply when operating off-grid power generation in ocean waters?",
+      "Can maritime data centers achieve lower operational costs than traditional land developments?"
     ],
     "sources": [
       {
         "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/business/langchain-raises-300-million-at-3b-valuation-in-series-c/tldr"
+        "url": "https://www.newsbytesapp.com/news/science/drogue-raises-20-million-to-power-ai-data-centers-at-sea/tldr"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Jensen Huang resigns from Nvidia amid scandal.",
-      "blurb": "The co-founder stepped down after revelations of undisclosed relationships, sending the stock tumbling."
+      "headline": "Anthropic prepares for a public debut as co-founders eye billion-dollar payouts.",
+      "blurb": "The AI startup plans to start trading on November 19."
     },
     {
-      "headline": "FAA issues rare nationwide ground stop.",
-      "blurb": "A four-hour operational shutdown snarled air travel across U.S. airports on Friday."
+      "headline": "Workday outage leaves thousands of companies without access to payroll platforms.",
+      "blurb": "The disruption comes right after a separate Microsoft service shutdown."
     },
     {
-      "headline": "Federal Reserve flags AI as a top financial stability risk.",
-      "blurb": "Eighty-seven percent of survey respondents cited AI infrastructure debt and cybersecurity threats as major concerns."
+      "headline": "McKinsey CEO Bob Sternfels advises boards on handling executive leadership scandals.",
+      "blurb": "The firm recommends proactive scenario planning following Nvidia's executive turmoil."
     },
     {
-      "headline": "Intel recaptures desktop CPU market share.",
-      "blurb": "AMD saw its desktop shipment share drop to 29.9 percent as Intel climbed back to 70.1 percent."
+      "headline": "Take-Two CEO criticizes AI developers over game cloning practices.",
+      "blurb": "Strauss Zelnick targeted Anthropic and OpenAI for enabling IP replication."
     },
     {
-      "headline": "LangChain secures $300 million Series C funding.",
-      "blurb": "The AI agent management startup doubled its valuation to $3 billion in a round led by CapitalG."
+      "headline": "UC Irvine basketball dominates Lincoln University in a 90-40 blow-out.",
+      "blurb": "The Anteaters controlled the boards with a 71-29 rebounding advantage."
     }
   ],
-  "emailQuestion": "How does a $3B valuation change LangChain's pressure to monetize enterprise developer tools?"
+  "emailQuestion": "How do floating data centers handle subsea internet infrastructure compared to land-based facilities?"
 }
