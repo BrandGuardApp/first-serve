@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-15-am",
-  "slot": "morning",
+  "id": "2026-11-15-pm",
+  "slot": "evening",
   "date": "2026-11-15",
   "dateLabel": "Sun, Nov 15, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-15T16:59:42.543Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "AI signals split as Nvidia drops and Anthropic IPO demand surges, plus Fed debt warnings.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-16T01:51:55.828Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Bank algorithms deny debt-free earners, EV makers plan without subsidies, and McKinsey advises on board crisis prep.",
   "storyCount": 11,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 13",
     "rows": [
@@ -39,31 +39,31 @@
       },
       {
         "name": "Gold",
-        "value": "$3,886",
-        "change": "+0.03%",
-        "direction": "up"
+        "value": "$3,872",
+        "change": "−0.37%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia Slumps While Anthropic IPO Demand Surges",
-    "body": "Nvidia stock posted its steepest weekly decline in over 18 months following the departure of CEO Jensen Huang. Meanwhile, investor demand for Anthropic's proposed IPO reached six times the available shares, showing a clear split in how markets view hardware suppliers versus platform developers.",
+    "headline": "Debt-Free Six-Figure Earners Blocked by Bank Credit Algorithms",
+    "body": "Automated bank underwriting algorithms are denying credit card applications from Americans making six-figure salaries with zero debt because they have thin credit files. Experts note that FICO scoring models penalize a lack of credit history even when applicants hold healthy savings accounts. This trend comes as total U.S. household debt reaches $1.29 trillion.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/should-you-invest-in-ai-stocks-now-nvidia-s-slump-anthropic-s-ipo-and-5-strategies-to-consider-11794708555559.html"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners"
       }
     ],
-    "why": "This market divergence shows how quickly investor focus shifts between chipmakers and AI application layers, which is crucial context when analyzing tech industry valuations in your finance courses.",
-    "kicker": "MARKETS & AI",
+    "why": "Building credit history early matters just as much as keeping cash in the bank. For your business studies, it shows how risk scoring algorithms can create unexpected outcomes for consumers and financial institutions.",
+    "kicker": "Banking & Credit Algorithms",
     "figures": [
       {
-        "value": "18 months",
-        "label": "Steepest weekly stock drop for Nvidia"
+        "value": "$1.29T",
+        "label": "total US debt"
       },
       {
-        "value": "6x",
-        "label": "Demand multiple for Anthropic IPO shares"
+        "value": "6-figure",
+        "label": "salaries of rejected applicants"
       }
     ]
   },
@@ -73,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Fed Warns of Vulnerabilities from $3 Trillion AI Infrastructure Debt",
-          "body": "The Federal Reserve issued a warning in its Financial Stability Report regarding overvalued AI asset prices and circular financing. The Fed highlighted an estimated $3 trillion in liabilities and guarantees linked to AI data center buildouts.",
+          "headline": "U.S. Cattle Herd Shrinks to 75-Year Low, Sustaining High Beef Prices",
+          "body": "The U.S. cattle herd has contracted to its smallest size in nearly 75 years due to persistent drought alongside high feed and fuel costs. Industry analysts state these elevated prices represent a long-term baseline for beef rather than a temporary spike.",
           "sources": [
             {
-              "name": "EUROPE SAYS",
-              "url": "https://www.europesays.com/3376363/"
+              "name": "Newser",
+              "url": "https://www.newser.com/story/399747/dont-expect-beef-prices-to-drop-anytime-soon.html"
             }
           ],
-          "why": "Understanding how systemic credit risks build up in growing tech sectors helps you evaluate debt structures and risk management in corporate finance."
+          "why": "When studying supply chain management and microeconomics, commodity shortages like cattle offer a clear example of how input costs directly drive consumer prices."
         },
         {
-          "headline": "Over 300 Los Angeles Dining Outlets Close in 2026 amid Rising Costs",
-          "body": "At least 301 restaurants, bars, and cafes have closed in Los Angeles so far this year, marking a 25% increase over all of 2025. Business owners cited rising minimum wages, elevated insurance costs, and municipal regulations.",
+          "headline": "EV Makers Plan Strategy Without Relying on Federal Incentives",
+          "body": "Leaders at electric vehicle manufacturers Rivian, Lucid, and Scout say they are not counting on increased federal support when Democrats take control of Congress in January. The automakers are designing operational strategies that do not depend on government subsidies.",
           "sources": [
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/14/business/las-dining-apocalypse-as-300-plus-spots-close-this-year/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html"
             }
           ],
-          "why": "This wave of closures offers a practical case study on how rising labor and fixed overhead costs compress margins in retail service businesses."
+          "why": "Corporate strategy requires building sustainable business models that can survive regulatory shifts, a key point when evaluating startup viability."
         }
       ]
     },
@@ -101,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Tesla Opens Cybercab Orders at $29,990 with Monthly Subscription",
-          "body": "Tesla has started accepting orders from select customers for its fully autonomous Cybercab at a base price of $29,990. Owners must also pay a $299 monthly subscription fee for full autonomy features.",
+          "headline": "U.S. Evaluates Tighter Restrictions on AI Chip Exports to Southeast Asia",
+          "body": "U.S. officials are considering stricter export controls on advanced artificial intelligence chips sold to data centers in Southeast Asia. The proposed regulations threaten Nvidia's international revenue streams and foreign data center access.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale"
+              "name": "Markets Insider",
+              "url": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-faces-china-revenue-risk-as-u-s-eyes-crackdown-on-overseas-ai-chips-1036764657"
             }
           ],
-          "why": "Combining a low hardware purchase price with a recurring software subscription is a core monetizing model used across modern tech startups."
+          "why": "Tech investing requires monitoring geopolitical risks, as trade policy directly restricts market access for AI hardware companies."
         },
         {
-          "headline": "China Expands AI Data Center Hub in Inner Mongolia",
-          "body": "China is constructing a large artificial intelligence data center complex near Ulanqab in Inner Mongolia, creating a site roughly the size of a small U.S. city. The rapid expansion comes as similar data projects in the U.S. face local opposition.",
+          "headline": "Nvidia Engineer Resigns Following CEO Jensen Huang's Exit",
+          "body": "Nvidia robot research engineer Darell Dai announced his resignation, citing the departure of former CEO Jensen Huang as his primary reason. Dai highlighted the risk-taking engineering culture Huang fostered during his tenure.",
           "sources": [
             {
-              "name": "Natural News",
-              "url": "https://www.naturalnews.com/2026-11-15-china-expands-ai-data-center-construction-inner-mongolia.html"
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/nvidia-engineer-quits-over-jensen-huangs-exit-pens-emotional-note-more-painful-than-i-expected-12330320"
             }
           ],
-          "why": "Tracking global compute infrastructure helps you understand the operational scale and supply chain dynamics driving international AI competition."
+          "why": "Executive changes can trigger key talent loss, illustrating why company leadership culture is a key factor when analyzing tech companies."
         }
       ]
     },
@@ -129,26 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Daloy Founder Reinterprets Consulting Deliverables with AI",
-          "body": "Daloy founder Jeff Lontoc noted that AI tools speed up the creation of management consulting deliverables. However, he emphasized that human expertise and deep business context remain required for clients to get real value.",
+          "headline": "McKinsey Managing Partner Advises Boards on Executive Crisis Planning",
+          "body": "McKinsey global managing partner Bob Sternfels urged corporate boards to stress-test crisis scenarios following executive shakeups at major tech firms. He advised leadership teams to proactively model reputation and succession risks before emergencies happen.",
           "sources": [
             {
-              "name": "International Business Times",
-              "url": "https://www.ibtimes.com/jeff-lontoc-challenging-traditional-management-consulting-model-3809741"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/mckinsey-boss-how-companies-can-prepare-for-nvidia-style-crisis-2026-11"
             }
           ],
-          "why": "As you prepare for consulting interviews, remember that top firms hire for problem-solving context and business logic rather than slide deck generation."
+          "why": "Board governance and risk advisory are core management consulting practice areas you will encounter when prepping for consulting interviews."
         },
         {
-          "headline": "BCG Study Finds 60 Percent of Indian Consumers Trust AI Health Advice",
-          "body": "A Boston Consulting Group report shows that six out of ten Indian consumers view online health information as reliable as professional medical advice. A similar share prefers instant AI responses over waiting for appointments.",
+          "headline": "Senegal Retains Deloitte for Public Debt Audit",
+          "body": "Senegal has selected Deloitte to conduct a audit of its national public debt. The appointment highlights the expanding role of international advisory firms in sovereign finance and government restructuring.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/six-out-of-10-indian-consumers-trust-online-health-information-prefer-instant-ai-answers-bcg-study/"
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3374738/"
             }
           ],
-          "why": "Consulting firms frequently produce consumer adoption data like this to guide enterprise clients on digital service strategies."
+          "why": "Sovereign advisory work demonstrates how global consulting firms win major public sector contracts alongside corporate consulting."
         }
       ]
     },
@@ -157,12 +157,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Researchers Map 8 Million Cells Deep in Human Brain",
-          "body": "UC Irvine scientists mapped approximately 8 million cells in deep brain regions, identifying 60 distinct cell types and their structural communities. The reference map will help researchers study conditions like Parkinson's disease.",
+          "headline": "UC Irvine Men's Basketball Dominates Lincoln University 90-40",
+          "body": "The UC Irvine Anteaters scored the first 19 points of the game and held a 71-29 rebounding advantage, rolling to a 90-40 win over Lincoln University at the Bren Events Center.",
           "sources": [
             {
-              "name": "Medical Xpress",
-              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
             }
           ]
         }
@@ -173,16 +173,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
-          "body": "Nineteen-year-old Mirra Andreeva defeated world No. 5 Jessica Pegula 6-3, 6-4 at Indian Wells on Saturday. The win keeps her undefeated at the WTA Finals and advances her to the championship match against Elina Svitolina.",
+          "headline": "Sabalenka Issues Apology Following WTA Finals Loss to Svitolina",
+          "body": "World No. 2 Aryna Sabalenka issued a public apology after an on-court outburst during her 6-3, 3-6, 6-1 defeat against Ukraine's Elina Svitolina at the WTA Finals. Svitolina advances to face Mirra Andreeva in the final.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/teenage-sensation-andreeva-storms-into-wta-finals-championship-pegula-out-a001-w02/"
-            },
-            {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4007054-tennis-andreeva-beats-pegula-will-face-svitolina-in-wta-finals-championship-match"
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13612414/wta-finals-aryna-sabalenka-apologises-for-on-court-outburst-after-defeat-to-elina-svitolina"
             }
           ]
         }
@@ -190,51 +186,51 @@
     }
   ],
   "term": {
-    "name": "Circular Financing",
-    "definition": "Circular financing occurs when tech companies or investors provide funding to entities that use those exact funds to purchase goods or services back from the original investor. The Federal Reserve warned that this practice can artificially inflate revenues and obscure real balance sheet risks during major technology buildouts.",
+    "name": "Thin Credit File",
+    "definition": "A thin credit file refers to a credit report with little or no payment history, making it difficult for automated bank systems to assess risk. Even high earners with zero debt can face instant loan rejections if they lack active credit accounts over time. Underwriting algorithms prioritize established records of managed debt over liquid savings.",
     "sources": [
       {
-        "name": "EUROPE SAYS",
-        "url": "https://www.europesays.com/3376363/"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners"
       }
     ]
   },
   "serve": {
-    "headline": "Google invests ₹10 crore in creator startup Rigi at ₹670 crore valuation",
-    "body": "Google International acquired a 1.43% stake in India-based creator economy platform Rigi for ₹10 crore ($1.07 million). Rigi plans to use the investment to expand its free, ad-supported digital content and micro-drama offerings.",
+    "headline": "Fusion launches $2M fund for defense tech startups",
+    "body": "Israeli venture capital fund Fusion launched an investment track offering up to $2 million in initial funding for defense tech startups. The fund backs early-stage companies building technologies for military applications, national security, and critical infrastructure.",
     "questions": [
-      "How can creator economy startups build defensible moats beyond the primary social media platforms?",
-      "What monetization strategies work best for short-form micro-dramas compared to traditional streaming platforms?",
-      "Why would a tech giant like Google take a small minority stake in an early-stage digital content startup?"
+      "How can early-stage defense tech founders validate their technology before pitching VC funds like Fusion?",
+      "What advantages do university incubators offer when developing hardware or security IP?",
+      "How might shifting geopolitical demand impact valuation multiples for dual-use tech startups?"
     ],
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/companies/news/google-invests-rs-10-crore-in-creator-economy-and-micro-drama-startup-rigi-valuation-reaches-rs-670-crore-details-11794629036334.html"
+        "name": "EUROPE SAYS",
+        "url": "https://www.europesays.com/3376818/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Diverging AI Signals: Nvidia Slumps as Anthropic IPO Draws Massive Demand",
-      "blurb": "Nvidia dropped in its worst week in 18 months while Anthropic's proposed public offering saw 6x share oversubscription."
+      "headline": "Debt-free earners rejected by bank credit algorithms.",
+      "blurb": "Six-figure salaries are getting denied credit cards due to thin credit histories as total U.S. debt hits $1.29 trillion."
     },
     {
-      "headline": "Fed Warns of Vulnerability from $3 Trillion AI Debt",
-      "blurb": "The Federal Reserve flagged elevated asset valuations and circular financing risks tied to data center infrastructure."
+      "headline": "EV makers build plans without federal tax incentives.",
+      "blurb": "Rivian, Lucid, and Scout are not relying on congressional support when Democrats take control in January."
     },
     {
-      "headline": "Tesla Opens Cybercab Orders at $29,990 with Subscription Model",
-      "blurb": "Select customers can order the autonomous vehicle paired with a $299 monthly software fee."
+      "headline": "U.S. weighs tighter AI chip restrictions in Southeast Asia.",
+      "blurb": "Proposed export controls threaten Nvidia data center chip sales across regional Asian markets."
     },
     {
-      "headline": "Daloy Founder Reinterprets Management Consulting with AI Tools",
-      "blurb": "Jeff Lontoc noted AI accelerates document generation, but human context remains essential for client value."
+      "headline": "McKinsey chief advises corporate boards on crisis planning.",
+      "blurb": "Bob Sternfels urges leadership teams to model executive reputation and succession risks proactively."
     },
     {
-      "headline": "Mirra Andreeva Beats Pegula to Reach WTA Finals Championship",
-      "blurb": "The 19-year-old tennis star won 6-3, 6-4 to advance to the final against Elina Svitolina."
+      "headline": "UC Irvine basketball dominates Lincoln University 90-40.",
+      "blurb": "The Anteaters opened with 19 unanswered points and controlled the glass 71-29."
     }
   ],
-  "emailQuestion": "How can creator economy startups build defensible moats beyond the primary social media platforms?"
+  "emailQuestion": "How can early-stage defense tech founders validate their technology before pitching VC funds like Fusion?"
 }

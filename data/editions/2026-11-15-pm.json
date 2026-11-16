@@ -1,0 +1,236 @@
+{
+  "id": "2026-11-15-pm",
+  "slot": "evening",
+  "date": "2026-11-15",
+  "dateLabel": "Sun, Nov 15, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-16T01:51:55.828Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Bank algorithms deny debt-free earners, EV makers plan without subsidies, and McKinsey advises on board crisis prep.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 13",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,562",
+        "change": "−0.40%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "25,136",
+        "change": "−0.91%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "52,348",
+        "change": "+0.10%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.15%",
+        "change": "+5 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,872",
+        "change": "−0.37%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Debt-Free Six-Figure Earners Blocked by Bank Credit Algorithms",
+    "body": "Automated bank underwriting algorithms are denying credit card applications from Americans making six-figure salaries with zero debt because they have thin credit files. Experts note that FICO scoring models penalize a lack of credit history even when applicants hold healthy savings accounts. This trend comes as total U.S. household debt reaches $1.29 trillion.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners"
+      }
+    ],
+    "why": "Building credit history early matters just as much as keeping cash in the bank. For your business studies, it shows how risk scoring algorithms can create unexpected outcomes for consumers and financial institutions.",
+    "kicker": "Banking & Credit Algorithms",
+    "figures": [
+      {
+        "value": "$1.29T",
+        "label": "total US debt"
+      },
+      {
+        "value": "6-figure",
+        "label": "salaries of rejected applicants"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "U.S. Cattle Herd Shrinks to 75-Year Low, Sustaining High Beef Prices",
+          "body": "The U.S. cattle herd has contracted to its smallest size in nearly 75 years due to persistent drought alongside high feed and fuel costs. Industry analysts state these elevated prices represent a long-term baseline for beef rather than a temporary spike.",
+          "sources": [
+            {
+              "name": "Newser",
+              "url": "https://www.newser.com/story/399747/dont-expect-beef-prices-to-drop-anytime-soon.html"
+            }
+          ],
+          "why": "When studying supply chain management and microeconomics, commodity shortages like cattle offer a clear example of how input costs directly drive consumer prices."
+        },
+        {
+          "headline": "EV Makers Plan Strategy Without Relying on Federal Incentives",
+          "body": "Leaders at electric vehicle manufacturers Rivian, Lucid, and Scout say they are not counting on increased federal support when Democrats take control of Congress in January. The automakers are designing operational strategies that do not depend on government subsidies.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html"
+            }
+          ],
+          "why": "Corporate strategy requires building sustainable business models that can survive regulatory shifts, a key point when evaluating startup viability."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "U.S. Evaluates Tighter Restrictions on AI Chip Exports to Southeast Asia",
+          "body": "U.S. officials are considering stricter export controls on advanced artificial intelligence chips sold to data centers in Southeast Asia. The proposed regulations threaten Nvidia's international revenue streams and foreign data center access.",
+          "sources": [
+            {
+              "name": "Markets Insider",
+              "url": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-faces-china-revenue-risk-as-u-s-eyes-crackdown-on-overseas-ai-chips-1036764657"
+            }
+          ],
+          "why": "Tech investing requires monitoring geopolitical risks, as trade policy directly restricts market access for AI hardware companies."
+        },
+        {
+          "headline": "Nvidia Engineer Resigns Following CEO Jensen Huang's Exit",
+          "body": "Nvidia robot research engineer Darell Dai announced his resignation, citing the departure of former CEO Jensen Huang as his primary reason. Dai highlighted the risk-taking engineering culture Huang fostered during his tenure.",
+          "sources": [
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/nvidia-engineer-quits-over-jensen-huangs-exit-pens-emotional-note-more-painful-than-i-expected-12330320"
+            }
+          ],
+          "why": "Executive changes can trigger key talent loss, illustrating why company leadership culture is a key factor when analyzing tech companies."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Managing Partner Advises Boards on Executive Crisis Planning",
+          "body": "McKinsey global managing partner Bob Sternfels urged corporate boards to stress-test crisis scenarios following executive shakeups at major tech firms. He advised leadership teams to proactively model reputation and succession risks before emergencies happen.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/mckinsey-boss-how-companies-can-prepare-for-nvidia-style-crisis-2026-11"
+            }
+          ],
+          "why": "Board governance and risk advisory are core management consulting practice areas you will encounter when prepping for consulting interviews."
+        },
+        {
+          "headline": "Senegal Retains Deloitte for Public Debt Audit",
+          "body": "Senegal has selected Deloitte to conduct a audit of its national public debt. The appointment highlights the expanding role of international advisory firms in sovereign finance and government restructuring.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3374738/"
+            }
+          ],
+          "why": "Sovereign advisory work demonstrates how global consulting firms win major public sector contracts alongside corporate consulting."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Men's Basketball Dominates Lincoln University 90-40",
+          "body": "The UC Irvine Anteaters scored the first 19 points of the game and held a 71-29 rebounding advantage, rolling to a 90-40 win over Lincoln University at the Bren Events Center.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Sabalenka Issues Apology Following WTA Finals Loss to Svitolina",
+          "body": "World No. 2 Aryna Sabalenka issued a public apology after an on-court outburst during her 6-3, 3-6, 6-1 defeat against Ukraine's Elina Svitolina at the WTA Finals. Svitolina advances to face Mirra Andreeva in the final.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13612414/wta-finals-aryna-sabalenka-apologises-for-on-court-outburst-after-defeat-to-elina-svitolina"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Thin Credit File",
+    "definition": "A thin credit file refers to a credit report with little or no payment history, making it difficult for automated bank systems to assess risk. Even high earners with zero debt can face instant loan rejections if they lack active credit accounts over time. Underwriting algorithms prioritize established records of managed debt over liquid savings.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Fusion launches $2M fund for defense tech startups",
+    "body": "Israeli venture capital fund Fusion launched an investment track offering up to $2 million in initial funding for defense tech startups. The fund backs early-stage companies building technologies for military applications, national security, and critical infrastructure.",
+    "questions": [
+      "How can early-stage defense tech founders validate their technology before pitching VC funds like Fusion?",
+      "What advantages do university incubators offer when developing hardware or security IP?",
+      "How might shifting geopolitical demand impact valuation multiples for dual-use tech startups?"
+    ],
+    "sources": [
+      {
+        "name": "EUROPE SAYS",
+        "url": "https://www.europesays.com/3376818/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Debt-free earners rejected by bank credit algorithms.",
+      "blurb": "Six-figure salaries are getting denied credit cards due to thin credit histories as total U.S. debt hits $1.29 trillion."
+    },
+    {
+      "headline": "EV makers build plans without federal tax incentives.",
+      "blurb": "Rivian, Lucid, and Scout are not relying on congressional support when Democrats take control in January."
+    },
+    {
+      "headline": "U.S. weighs tighter AI chip restrictions in Southeast Asia.",
+      "blurb": "Proposed export controls threaten Nvidia data center chip sales across regional Asian markets."
+    },
+    {
+      "headline": "McKinsey chief advises corporate boards on crisis planning.",
+      "blurb": "Bob Sternfels urges leadership teams to model executive reputation and succession risks proactively."
+    },
+    {
+      "headline": "UC Irvine basketball dominates Lincoln University 90-40.",
+      "blurb": "The Anteaters opened with 19 unanswered points and controlled the glass 71-29."
+    }
+  ],
+  "emailQuestion": "How can early-stage defense tech founders validate their technology before pitching VC funds like Fusion?"
+}
