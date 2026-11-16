@@ -1,0 +1,244 @@
+{
+  "id": "2026-11-16-am",
+  "slot": "morning",
+  "date": "2026-11-16",
+  "dateLabel": "Mon, Nov 16, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-16T20:16:42.717Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic plans $64.35B debut, Jensen Huang comeback push, and McKinsey's AI banking stats.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "3:14 PM ET, Nov 16",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,410",
+        "change": "−2.00%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,503",
+        "change": "−2.52%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "51,577",
+        "change": "−1.47%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.12%",
+        "change": "−3 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,867",
+        "change": "−0.50%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic's Planned $64.35 Billion Market Debut Faces Wall Street Scrutiny",
+    "body": "AI startup Anthropic is heading toward a public listing with a proposed $64.35 billion share sale. Wall Street investors are examining the valuation after mixed results from recent tech debuts, where only four out of seven major tech IPOs trade above their offer price after one year.",
+    "sources": [
+      {
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com/business/what-recent-tech-ipos-reveal-about-anthropics-mega-market-debut-14060282.html"
+      }
+    ],
+    "why": "If you want to work in finance or tech, watching how markets price cash-burning AI startups shows how investors balance growth against high infrastructure costs.",
+    "kicker": "AI + IPO MARKET",
+    "figures": [
+      {
+        "value": "$64.35B",
+        "label": "Proposed share sale valuation"
+      },
+      {
+        "value": "4 of 7",
+        "label": "Recent tech IPOs trading above offer price"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Networking Equipment Glitch Triggers Nationwide Flight Ground Stop",
+          "body": "A single router in Arkansas flooded the aviation network with data, causing a nationwide FAA ground stop. The outage stranded passengers across the country just weeks before Thanksgiving travel.",
+          "sources": [
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html"
+            }
+          ],
+          "why": "Operations management classes at Merage often focus on single points of failure, showing how one broken piece of hardware can stall an entire system."
+        },
+        {
+          "headline": "Boeing-Lockheed Rocket Launch Fails, Destroying 40 Amazon Satellites",
+          "body": "United Launch Alliance suffered its first total mission failure when its Vulcan rocket malfunctioned ten minutes after liftoff. The failure resulted in the loss of all 40 Amazon Leo internet satellites on board.",
+          "sources": [
+            {
+              "name": "DW.com",
+              "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931"
+            }
+          ],
+          "why": "Joint ventures come with high shared operational risks, which is key context if you analyze corporate strategy or aerospace supply chains."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Supporters Campaign for Former Nvidia CEO Jensen Huang to Return",
+          "body": "Following Jensen Huang's resignation, an open letter signed by over 158,000 people and a Silicon Valley war room are pushing for his reinstatement. Huang is reportedly in discussions about a potential comeback while board talks continue.",
+          "sources": [
+            {
+              "name": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/jensen-huang-nvidia-reinstatement-letter-7227408-Nov2026/"
+            },
+            {
+              "name": "Zee News",
+              "url": "https://zeenews.india.com/business/article-nvidia-former-ceo-jensen-huang-in-talks-over-return-amid-growing-support-for-comeback-3162253"
+            }
+          ],
+          "why": "Corporate governance battles offer a real-time lesson on how executive leadership and founder influence shape public tech companies."
+        },
+        {
+          "headline": "Apple Launches Research App to Study AI Use in Personal Health",
+          "body": "Apple debuted its Health AI Usage Study app to gather data on how people ask everyday medical questions. Participants can submit health queries and rate the accuracy of AI answers inside the app.",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+            }
+          ],
+          "why": "Big tech firms are testing consumer trust before shipping deep AI features, which matters if you want to product-manage consumer software."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Report Highlights Fast Returns for AI in Banking",
+          "body": "A new McKinsey report shows banks using autonomous AI software can recover their investment in 10 months. The study projects these tools will deliver 2.9 times returns over three years despite security and data readiness hurdles.",
+          "sources": [
+            {
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/business/banks-could-nearly-triple-their-ai-investments-in-three-years-with-payback-in-just-10-months"
+            }
+          ],
+          "why": "Consultants frequently advise corporate clients on technology ROI, so knowing these payback metrics gives you solid talking points for case interviews."
+        },
+        {
+          "headline": "Big Four Firms Expand M&A Advisory Teams to Match Indian Deal Boom",
+          "body": "Deloitte, PwC, EY, and KPMG are building out their transaction advisory teams in India. The expansion covers services from deal sourcing and due diligence to post-acquisition work.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/red-hot-indian-deals-market-drives-big-4-to-beef-up-local-advisory-teams/articleshow/135861899.cms"
+            }
+          ],
+          "why": "If you are eyeing advisory roles, transaction services remain a strong hiring track inside top accounting and consulting firms."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Researchers Map 8 Million Deep Brain Cells",
+          "body": "University of California, Irvine scientists mapped roughly 8 million cells in deep regions of the human brain. The team identified 60 distinct cell types to help advance research on neurological disorders.",
+          "sources": [
+            {
+              "name": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Mirra Andreeva Wins WTA Finals Without Dropping a Set",
+          "body": "Nineteen-year-old Mirra Andreeva beat Elina Svitolina 7-5, 6-3 in the WTA Finals championship match. The victory completed an undefeated 5-0 run at the tournament without losing a single set.",
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/teena-mirra-andreeva-beats-32-year-old-elina-svitolina-to-win-wta-finals-without-losing-a-set-101794798484296.html"
+            },
+            {
+              "name": "Devdiscourse",
+              "url": "https://www.devdiscourse.com/article/international/4007226-tennis-unbeaten-andreeva-captures-wta-finals-crown-on-debut"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Agentic AI",
+    "definition": "Software systems powered by artificial intelligence that can independently make decisions and carry out multi-step tasks without constant human guidance. In business, companies deploy these agents to automate complex workflows like customer service or banking operations.",
+    "sources": [
+      {
+        "name": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/banks-could-nearly-triple-their-ai-investments-in-three-years-with-payback-in-just-10-months"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Bharat Semi raised $24 million seed funding to build AI image sensors",
+    "body": "Indian chip startup Bharat Semi secured $24 million in an all-equity seed round led by Info Edge Group and South Park Commons. The pre-revenue company builds programmable sensors with built-in AI for defense, automotive, and drone applications.",
+    "questions": [
+      "How do hardware startups secure client commitments before their products hit full manufacturing?",
+      "What edge does built-in hardware AI have over software running in the cloud?",
+      "If you were pitching an Irvine incubator, how would you justify a multi-year timeline to reach revenue?"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic prepares for a $64.35 billion stock market debut.",
+      "blurb": "Investors are watching closely as recent tech IPO results remain mixed."
+    },
+    {
+      "headline": "Router outage causes nationwide FAA flight ground stop.",
+      "blurb": "A single piece of networking gear flooded the aviation system with data."
+    },
+    {
+      "headline": "Supporters push for Jensen Huang to return as Nvidia CEO.",
+      "blurb": "Over 158,000 people signed an open letter as allies build a Silicon Valley war room."
+    },
+    {
+      "headline": "McKinsey report finds banking AI tools offer 10-month payback.",
+      "blurb": "Autonomous AI agents can yield nearly three times initial investment within three years."
+    },
+    {
+      "headline": "Mirra Andreeva wins the WTA Finals without dropping a set.",
+      "blurb": "The 19-year-old defeated Elina Svitolina 7-5, 6-3 to close out an undefeated tournament."
+    }
+  ],
+  "emailQuestion": "How do hardware startups secure client commitments before their products hit full manufacturing?"
+}
