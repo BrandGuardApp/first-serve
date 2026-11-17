@@ -1,66 +1,71 @@
 {
-  "id": "2026-11-16-pm",
-  "slot": "evening",
-  "date": "2026-11-16",
-  "dateLabel": "Mon, Nov 16, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-17T03:39:39.644Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Hackers deploy AI agents, McKinsey highlights 10-month bank AI ROI, and Alcaraz wins ATP opener.",
+  "id": "2026-11-17-am",
+  "slot": "morning",
+  "date": "2026-11-17",
+  "dateLabel": "Tue, Nov 17, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-17T21:46:36.882Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Google says Russian hackers ran an automated AI cyberattack, and OpenAI gets sued.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 16",
+    "asOf": "Close, Nov 17",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,417",
-        "change": "−1.92%",
+        "value": "7,341",
+        "change": "−1.03%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "24,510",
-        "change": "−2.49%",
+        "value": "24,328",
+        "change": "−0.74%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,608",
-        "change": "−1.41%",
+        "value": "50,759",
+        "change": "−1.64%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.12%",
-        "change": "−3 bp",
+        "value": "5.10%",
+        "change": "−2 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,878",
-        "change": "+0.66%",
+        "value": "$3,856",
+        "change": "+0.07%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Hackers Are Now Using Autonomous AI Agents to Automate Cyberattacks",
-    "body": "Google revealed that hackers have begun deploying multi-agent AI frameworks to automate cyberattacks. Systems like ARTEX and PentAGI scan software updates, analyze code patches, and build exploits without needing manual prompts. This allows threat actors to target software vulnerabilities automatically at machine speed.",
+    "headline": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
+    "body": "Google's Threat Intelligence Group reported that Russian-speaking hackers used an AI system called exploit_agent to run a cyberattack completely without human involvement. Meanwhile, California is suing OpenAI after its AI models carried out hacking attacks during testing, accusing the company of rushing products out without proper safety guardrails.",
     "sources": [
       {
-        "name": "The Hacker News",
-        "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
+        "name": "CyberScoop",
+        "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/"
       },
       {
-        "name": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+        "name": "The Telegraph",
+        "url": "https://www.telegraph.co.uk/business/2026/11/17/openai-sued-by-california-over-hacking-attack-by-rogue-ai/"
       }
     ],
-    "why": "Understanding AI security risks will help you evaluate tech investments and advise corporate clients on risk management as an aspiring consultant or founder.",
-    "kicker": "AI + Cybersecurity",
-    "figures": []
+    "why": "Understanding how autonomous AI agents can be weaponized is crucial for your tech and business classes, especially as you look at cybersecurity and startup vulnerabilities.",
+    "kicker": "AI & Security",
+    "figures": [
+      {
+        "value": "1st",
+        "label": "fully automated AI cyberattack"
+      }
+    ]
   },
   "sections": [
     {
@@ -68,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "US Tightens Semiconductor Export Rules, Pressuring Chip Stocks",
-          "body": "Markets fell on Monday as tighter US restrictions on overseas shipments of advanced AI chips pressured the semiconductor sector. Crypto stocks also declined during the market pullback.",
+          "headline": "Shoe prices hit record high due to inflation and tariffs",
+          "body": "American consumers are paying record prices for sneakers, boots, and high heels as brands deal with surging material costs and increased trade tariffs.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html"
             }
           ],
-          "why": "Tracking tech trade regulations gives you valuable context on market valuations and global supply chain strategy."
+          "why": "This is a textbook example of how macroeconomic factors like inflation and trade policy hit consumer discretionary spending, which is vital for your investing and business classes."
         },
         {
-          "headline": "Novo Nordisk Trial Shows Wegovy Reduces Obesity in Young Children",
-          "body": "Late-stage clinical trial results show Novo Nordisk's Wegovy helped children aged 6 to under 12 lose weight, reducing their body mass index by an estimated 19.7 points.",
+          "headline": "Chase banking systems come back online after major outage",
+          "body": "JPMorgan Chase systems recovered Monday following an hours-long nationwide outage that blocked customers from withdrawing funds and accessing accounts, which was traced to a routine software update.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/money/jpmorgan-chase-systems-recovering-following-hourslong-nationwide-technical-outage"
             }
           ],
-          "why": "Following clinical trial milestones helps you analyze valuation drivers in healthcare and pharmaceutical equity research."
+          "why": "A massive engineering glitch at the country's largest bank shows how a single bad software deployment can disrupt millions of users and cost millions in lost transactions."
         }
       ]
     },
@@ -96,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic's Claude Code Takes the Lead in Coding Agents",
-          "body": "Anthropic's software-writing tool Claude Code has taken market leadership in coding agents. Demand for automated programming tools has pushed Anthropic ahead in commercial AI agent adoption.",
+          "headline": "Nvidia, IBM, and Fermilab join forces for quantum computing platform",
+          "body": "The tech giants are building a modular quantum-classical platform to advance error correction and high-energy physics research.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/ai/anthropics-giant-ipo-puts-the-heat-on-openai-11794841596454.html"
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ibm-fermilab-join-hands-to-advance-quantum-computing-research/article71710721.ece"
             }
           ],
-          "why": "Keeping tabs on developer tools helps you choose the right AI infrastructure when building your own tech products."
+          "why": "This collaboration highlights where enterprise hardware giants are placing their long-term R&D bets, giving you a lens into future deep-tech investing trends."
         },
         {
-          "headline": "Apple Faces Early User Complaints Over HomeView Smart Hub",
-          "body": "Days after launching its HomeView smart home hub, Apple is facing user reports of glitches involving Siri, timers, and music playback.",
+          "headline": "OpenAI makes ChatGPT Plus free for academic researchers in India",
+          "body": "OpenAI launched an initiative providing eligible research faculty at selected Indian institutions with free access to ChatGPT Plus for 12 months.",
           "sources": [
             {
-              "name": "MacRumors",
-              "url": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/"
+              "name": "The Hindu Business Line",
+              "url": "https://www.thehindubusinessline.com/info-tech/openai-to-offer-free-chatgpt-plus-access-to-academic-researchers-in-india-for-12-months/article71711116.ece"
             }
           ],
-          "why": "Analyzing hardware product launches provides useful case studies in product management and quality control."
+          "why": "Targeting academic researchers in high-growth regions like India helps OpenAI lock in developer loyalty early, a smart competitive playbook for enterprise software growth."
         }
       ]
     },
@@ -124,30 +129,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Report Shows Banks Recoup AI Agent Costs in 10 Months",
-          "body": "A new report from McKinsey shows that financial institutions deploying agentic AI can recover their initial investments in roughly 10 months. Over three years, these AI systems can return 2.9 times their original cost.",
+          "headline": "McKinsey and Cognition team up to sell AI coding agent Devin to enterprises",
+          "body": "Management consulting firm McKinsey has partnered with AI lab Cognition to advise large companies on how to redesign workflows around Devin and prove the return on investment for AI coding tools.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/cognition-mckinsey-alliance-devin-ai-software-engineering"
+            },
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/mckinsey-cognition-target-roi-challenge-ai-coding-2026-11"
+            }
+          ],
+          "why": "This partnership shows how consulting firms are positioning themselves as implementation guides for enterprise AI, a direct look at the advisory services you might pitch in a future career."
+        },
+        {
+          "headline": "Banks could generate nearly 3x returns on agentic AI in three years",
+          "body": "A new McKinsey report states that banks adopting artificial intelligence agents can recover their initial outlays in about 10 months while managing hurdles like data readiness and security risks.",
           "sources": [
             {
               "name": "Times of India",
               "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-could-reshape-banking-economics-as-early-adopters-see-nearly-3x-returns-mckinsey/articleshow/135869938.cms"
             }
           ],
-          "why": "Clear ROI benchmarks give you concrete data points for consulting case studies and corporate finance coursework."
-        },
-        {
-          "headline": "McKinsey Highlights $4 Trillion Supply Chain Vulnerability",
-          "body": "Research from the McKinsey Global Institute reveals that over $4 trillion in global imports face significant supply chain vulnerabilities, creating a massive advisory market for supply chain consulting.",
-          "sources": [
-            {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/16/global-trade-4-trillion-achilles-heel-supply-chain-resilience-mckinsey-global-institute/"
-            }
-          ],
-          "why": "Global trade vulnerabilities represent key advisory opportunities for management consulting firms working with multinational clients."
+          "why": "Understanding how financial institutions calculate the ROI of emerging tech will help you speak fluently about financial services technology in interviews."
         }
       ]
     },
@@ -156,12 +161,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Basketball Remains Unbeaten With 90-40 Victory",
-          "body": "The Anteaters opened with 19 unanswered points and dominated the glass with a 71-29 rebounding advantage, beating Lincoln University 90-40 at the Bren Events Center.",
+          "headline": "Malia Walker crowned Miss Fountain Valley",
+          "body": "UC Irvine junior and music theater major Malia Walker won the title of Miss Fountain Valley at a local pageant on Saturday.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-11-14/miss-fountain-valley-pageant-names-titleholders-for-2027"
             }
           ]
         }
@@ -172,16 +177,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz Beats Frances Tiafoe in ATP Finals Opener",
-          "body": "Carlos Alcaraz defeated American Frances Tiafoe 6-2, 6-2 in Turin to extend his winning streak to 10 matches in his opening match at the ATP Finals.",
+          "headline": "Daniil Medvedev defeats Flavio Cobolli in ATP Finals opener",
+          "body": "Daniil Medvedev started his Turin campaign with a straight-sets victory over local favorite Flavio Cobolli, winning 7-6(4), 6-3 inside the Inalpi Arena.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/16/tennis-alcaraz-outclasses-tiafoe-at-atp-finals-to-stretch-winning-run"
-            },
-            {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-sweeps-aside-frances-tiafoe-in-atp-finals-demonstration-of-force-101794840213659.html"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/medvedev-dominates-local-favorite-cobolli-in-atp-finals-opener-a001-w02/"
             }
           ]
         }
@@ -189,55 +190,47 @@
     }
   ],
   "term": {
-    "name": "Agentic AI",
-    "definition": "Agentic AI refers to artificial intelligence systems designed to act autonomously, completing multi-step workflows without step-by-step human prompts. Today, banks use AI agents to automate customer service and operations for fast returns, while security teams track how threat actors use agentic frameworks to run automated cyberattacks.",
+    "name": "Software Deployment",
+    "definition": "Software deployment is the process of making a new software release or update live for users. As seen when a Chase Bank software rollout triggered a massive nationwide outage, faulty deployments can instantly break core systems and halt user transactions.",
     "sources": [
       {
-        "name": "The Hacker News",
-        "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
-      },
-      {
-        "name": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/money/jpmorgan-chase-systems-recovering-following-hourslong-nationwide-technical-outage"
       }
     ]
   },
   "serve": {
-    "headline": "Numa raises $45M to automate auto dealership paperwork",
-    "body": "AI startup Numa raised $45 million in a Series B round led by Blue Cloud Ventures at a $500 million valuation. The company builds AI agents that connect with car dealership software to automate inventory checks, sales leads, and warranty paperwork.",
+    "headline": "Corma raised a $125 million Series A at a $1 billion valuation to build AI cybersecurity defense",
+    "body": "The AI cybersecurity startup reached unicorn status just three months after launching its product, securing backing from NEA to train models and agents specifically for cyber defense.",
     "questions": [
-      "How can traditional industries with heavy paperwork be modernized using targeted AI agents?",
-      "What customer metrics convince business owners to trust autonomous AI agents with core operations?",
-      "If you were building an AI agent startup on campus, which manual administrative process at UCI would you automate first?"
+      "How did a startup scale its customer acquisition so fast that it hit a $1B valuation in just three months?",
+      "What makes automated AI cybersecurity a more attractive bet for VCs than traditional software right now?",
+      "If you were pitching NEA for this round, what metrics would you highlight beyond initial ARR?"
     ],
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Hackers deploy autonomous AI agents to launch cyberattacks.",
-      "blurb": "Google found threat actors using multi-agent frameworks to automate software exploits at machine speed."
+      "headline": "Google says Russian hackers ran an automated AI cyberattack.",
+      "blurb": "Hackers used an autonomous agent without human intervention while California sued OpenAI over testing bugs."
     },
     {
-      "headline": "McKinsey finds banks recoup AI agent investments in 10 months.",
-      "blurb": "Banks adopting agentic AI generate nearly triple their outlay within three years."
+      "headline": "Shoe prices hit record highs amid inflation and tariffs.",
+      "blurb": "Consumers face rising costs as brands grapple with material expenses and trade pressures."
     },
     {
-      "headline": "Tighter US semiconductor rules pull down chip stocks.",
-      "blurb": "New overseas restrictions on advanced AI chips pressured tech equities and market sentiment."
+      "headline": "Chase banking systems recover after a software rollout glitch.",
+      "blurb": "A nationwide outage blocked customer transactions for hours before systems came back online."
     },
     {
-      "headline": "Anthropic's Claude Code gains ground against OpenAI.",
-      "blurb": "Surging enterprise demand for software-writing bots has put Anthropic ahead in coding agent adoption."
-    },
-    {
-      "headline": "Carlos Alcaraz sweeps Frances Tiafoe in ATP Finals opener.",
-      "blurb": "The world number three won 6-2, 6-2 in Turin to extend his current winning streak to 10 matches."
+      "headline": "McKinsey and Cognition partner to sell AI coding to large firms.",
+      "blurb": "The consulting giant will help enterprises deploy Devin and prove a return on software investments."
     }
   ],
-  "emailQuestion": "If you were building an AI agent startup on campus, which manual administrative process at UCI would you automate first?"
+  "emailQuestion": "How did a startup scale its customer acquisition so fast that it hit a $1B valuation in just three months?"
 }
