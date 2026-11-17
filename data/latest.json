@@ -1,34 +1,34 @@
 {
-  "id": "2026-11-16-am",
-  "slot": "morning",
+  "id": "2026-11-16-pm",
+  "slot": "evening",
   "date": "2026-11-16",
   "dateLabel": "Mon, Nov 16, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-16T20:16:42.717Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic plans $64.35B debut, Jensen Huang comeback push, and McKinsey's AI banking stats.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-17T03:39:39.644Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Hackers deploy AI agents, McKinsey highlights 10-month bank AI ROI, and Alcaraz wins ATP opener.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "3:14 PM ET, Nov 16",
+    "asOf": "Close, Nov 16",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,410",
-        "change": "−2.00%",
+        "value": "7,417",
+        "change": "−1.92%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "24,503",
-        "change": "−2.52%",
+        "value": "24,510",
+        "change": "−2.49%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "51,577",
-        "change": "−1.47%",
+        "value": "51,608",
+        "change": "−1.41%",
         "direction": "down"
       },
       {
@@ -39,33 +39,28 @@
       },
       {
         "name": "Gold",
-        "value": "$3,867",
-        "change": "−0.50%",
-        "direction": "down"
+        "value": "$3,878",
+        "change": "+0.66%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic's Planned $64.35 Billion Market Debut Faces Wall Street Scrutiny",
-    "body": "AI startup Anthropic is heading toward a public listing with a proposed $64.35 billion share sale. Wall Street investors are examining the valuation after mixed results from recent tech debuts, where only four out of seven major tech IPOs trade above their offer price after one year.",
+    "headline": "Hackers Are Now Using Autonomous AI Agents to Automate Cyberattacks",
+    "body": "Google revealed that hackers have begun deploying multi-agent AI frameworks to automate cyberattacks. Systems like ARTEX and PentAGI scan software updates, analyze code patches, and build exploits without needing manual prompts. This allows threat actors to target software vulnerabilities automatically at machine speed.",
     "sources": [
       {
-        "name": "Firstpost",
-        "url": "https://www.firstpost.com/business/what-recent-tech-ipos-reveal-about-anthropics-mega-market-debut-14060282.html"
-      }
-    ],
-    "why": "If you want to work in finance or tech, watching how markets price cash-burning AI startups shows how investors balance growth against high infrastructure costs.",
-    "kicker": "AI + IPO MARKET",
-    "figures": [
-      {
-        "value": "$64.35B",
-        "label": "Proposed share sale valuation"
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
       },
       {
-        "value": "4 of 7",
-        "label": "Recent tech IPOs trading above offer price"
+        "name": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
       }
-    ]
+    ],
+    "why": "Understanding AI security risks will help you evaluate tech investments and advise corporate clients on risk management as an aspiring consultant or founder.",
+    "kicker": "AI + Cybersecurity",
+    "figures": []
   },
   "sections": [
     {
@@ -73,26 +68,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Networking Equipment Glitch Triggers Nationwide Flight Ground Stop",
-          "body": "A single router in Arkansas flooded the aviation network with data, causing a nationwide FAA ground stop. The outage stranded passengers across the country just weeks before Thanksgiving travel.",
+          "headline": "US Tightens Semiconductor Export Rules, Pressuring Chip Stocks",
+          "body": "Markets fell on Monday as tighter US restrictions on overseas shipments of advanced AI chips pressured the semiconductor sector. Crypto stocks also declined during the market pullback.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150019770.html"
             }
           ],
-          "why": "Operations management classes at Merage often focus on single points of failure, showing how one broken piece of hardware can stall an entire system."
+          "why": "Tracking tech trade regulations gives you valuable context on market valuations and global supply chain strategy."
         },
         {
-          "headline": "Boeing-Lockheed Rocket Launch Fails, Destroying 40 Amazon Satellites",
-          "body": "United Launch Alliance suffered its first total mission failure when its Vulcan rocket malfunctioned ten minutes after liftoff. The failure resulted in the loss of all 40 Amazon Leo internet satellites on board.",
+          "headline": "Novo Nordisk Trial Shows Wegovy Reduces Obesity in Young Children",
+          "body": "Late-stage clinical trial results show Novo Nordisk's Wegovy helped children aged 6 to under 12 lose weight, reducing their body mass index by an estimated 19.7 points.",
           "sources": [
             {
-              "name": "DW.com",
-              "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html"
             }
           ],
-          "why": "Joint ventures come with high shared operational risks, which is key context if you analyze corporate strategy or aerospace supply chains."
+          "why": "Following clinical trial milestones helps you analyze valuation drivers in healthcare and pharmaceutical equity research."
         }
       ]
     },
@@ -101,30 +96,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Supporters Campaign for Former Nvidia CEO Jensen Huang to Return",
-          "body": "Following Jensen Huang's resignation, an open letter signed by over 158,000 people and a Silicon Valley war room are pushing for his reinstatement. Huang is reportedly in discussions about a potential comeback while board talks continue.",
+          "headline": "Anthropic's Claude Code Takes the Lead in Coding Agents",
+          "body": "Anthropic's software-writing tool Claude Code has taken market leadership in coding agents. Demand for automated programming tools has pushed Anthropic ahead in commercial AI agent adoption.",
           "sources": [
             {
-              "name": "TheJournal.ie",
-              "url": "https://www.thejournal.ie/jensen-huang-nvidia-reinstatement-letter-7227408-Nov2026/"
-            },
-            {
-              "name": "Zee News",
-              "url": "https://zeenews.india.com/business/article-nvidia-former-ceo-jensen-huang-in-talks-over-return-amid-growing-support-for-comeback-3162253"
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/anthropics-giant-ipo-puts-the-heat-on-openai-11794841596454.html"
             }
           ],
-          "why": "Corporate governance battles offer a real-time lesson on how executive leadership and founder influence shape public tech companies."
+          "why": "Keeping tabs on developer tools helps you choose the right AI infrastructure when building your own tech products."
         },
         {
-          "headline": "Apple Launches Research App to Study AI Use in Personal Health",
-          "body": "Apple debuted its Health AI Usage Study app to gather data on how people ask everyday medical questions. Participants can submit health queries and rate the accuracy of AI answers inside the app.",
+          "headline": "Apple Faces Early User Complaints Over HomeView Smart Hub",
+          "body": "Days after launching its HomeView smart home hub, Apple is facing user reports of glitches involving Siri, timers, and music playback.",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/"
             }
           ],
-          "why": "Big tech firms are testing consumer trust before shipping deep AI features, which matters if you want to product-manage consumer software."
+          "why": "Analyzing hardware product launches provides useful case studies in product management and quality control."
         }
       ]
     },
@@ -133,26 +124,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey Report Highlights Fast Returns for AI in Banking",
-          "body": "A new McKinsey report shows banks using autonomous AI software can recover their investment in 10 months. The study projects these tools will deliver 2.9 times returns over three years despite security and data readiness hurdles.",
+          "headline": "McKinsey Report Shows Banks Recoup AI Agent Costs in 10 Months",
+          "body": "A new report from McKinsey shows that financial institutions deploying agentic AI can recover their initial investments in roughly 10 months. Over three years, these AI systems can return 2.9 times their original cost.",
           "sources": [
             {
-              "name": "Free Press Journal",
-              "url": "https://www.freepressjournal.in/business/banks-could-nearly-triple-their-ai-investments-in-three-years-with-payback-in-just-10-months"
-            }
-          ],
-          "why": "Consultants frequently advise corporate clients on technology ROI, so knowing these payback metrics gives you solid talking points for case interviews."
-        },
-        {
-          "headline": "Big Four Firms Expand M&A Advisory Teams to Match Indian Deal Boom",
-          "body": "Deloitte, PwC, EY, and KPMG are building out their transaction advisory teams in India. The expansion covers services from deal sourcing and due diligence to post-acquisition work.",
-          "sources": [
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
+            },
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/red-hot-indian-deals-market-drives-big-4-to-beef-up-local-advisory-teams/articleshow/135861899.cms"
+              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-could-reshape-banking-economics-as-early-adopters-see-nearly-3x-returns-mckinsey/articleshow/135869938.cms"
             }
           ],
-          "why": "If you are eyeing advisory roles, transaction services remain a strong hiring track inside top accounting and consulting firms."
+          "why": "Clear ROI benchmarks give you concrete data points for consulting case studies and corporate finance coursework."
+        },
+        {
+          "headline": "McKinsey Highlights $4 Trillion Supply Chain Vulnerability",
+          "body": "Research from the McKinsey Global Institute reveals that over $4 trillion in global imports face significant supply chain vulnerabilities, creating a massive advisory market for supply chain consulting.",
+          "sources": [
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/16/global-trade-4-trillion-achilles-heel-supply-chain-resilience-mckinsey-global-institute/"
+            }
+          ],
+          "why": "Global trade vulnerabilities represent key advisory opportunities for management consulting firms working with multinational clients."
         }
       ]
     },
@@ -161,12 +156,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI Researchers Map 8 Million Deep Brain Cells",
-          "body": "University of California, Irvine scientists mapped roughly 8 million cells in deep regions of the human brain. The team identified 60 distinct cell types to help advance research on neurological disorders.",
+          "headline": "UC Irvine Basketball Remains Unbeaten With 90-40 Victory",
+          "body": "The Anteaters opened with 19 unanswered points and dominated the glass with a 71-29 rebounding advantage, beating Lincoln University 90-40 at the Bren Events Center.",
           "sources": [
             {
-              "name": "Medical Xpress",
-              "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/11/uc-irvine-men-dismantle-lincoln-university-to-remain-unbeaten/"
             }
           ]
         }
@@ -177,16 +172,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Mirra Andreeva Wins WTA Finals Without Dropping a Set",
-          "body": "Nineteen-year-old Mirra Andreeva beat Elina Svitolina 7-5, 6-3 in the WTA Finals championship match. The victory completed an undefeated 5-0 run at the tournament without losing a single set.",
+          "headline": "Carlos Alcaraz Beats Frances Tiafoe in ATP Finals Opener",
+          "body": "Carlos Alcaraz defeated American Frances Tiafoe 6-2, 6-2 in Turin to extend his winning streak to 10 matches in his opening match at the ATP Finals.",
           "sources": [
             {
-              "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/teena-mirra-andreeva-beats-32-year-old-elina-svitolina-to-win-wta-finals-without-losing-a-set-101794798484296.html"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/16/tennis-alcaraz-outclasses-tiafoe-at-atp-finals-to-stretch-winning-run"
             },
             {
-              "name": "Devdiscourse",
-              "url": "https://www.devdiscourse.com/article/international/4007226-tennis-unbeaten-andreeva-captures-wta-finals-crown-on-debut"
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-sweeps-aside-frances-tiafoe-in-atp-finals-demonstration-of-force-101794840213659.html"
             }
           ]
         }
@@ -195,50 +190,54 @@
   ],
   "term": {
     "name": "Agentic AI",
-    "definition": "Software systems powered by artificial intelligence that can independently make decisions and carry out multi-step tasks without constant human guidance. In business, companies deploy these agents to automate complex workflows like customer service or banking operations.",
+    "definition": "Agentic AI refers to artificial intelligence systems designed to act autonomously, completing multi-step workflows without step-by-step human prompts. Today, banks use AI agents to automate customer service and operations for fast returns, while security teams track how threat actors use agentic frameworks to run automated cyberattacks.",
     "sources": [
       {
-        "name": "Free Press Journal",
-        "url": "https://www.freepressjournal.in/business/banks-could-nearly-triple-their-ai-investments-in-three-years-with-payback-in-just-10-months"
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
+      },
+      {
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
       }
     ]
   },
   "serve": {
-    "headline": "Bharat Semi raised $24 million seed funding to build AI image sensors",
-    "body": "Indian chip startup Bharat Semi secured $24 million in an all-equity seed round led by Info Edge Group and South Park Commons. The pre-revenue company builds programmable sensors with built-in AI for defense, automotive, and drone applications.",
+    "headline": "Numa raises $45M to automate auto dealership paperwork",
+    "body": "AI startup Numa raised $45 million in a Series B round led by Blue Cloud Ventures at a $500 million valuation. The company builds AI agents that connect with car dealership software to automate inventory checks, sales leads, and warranty paperwork.",
     "questions": [
-      "How do hardware startups secure client commitments before their products hit full manufacturing?",
-      "What edge does built-in hardware AI have over software running in the cloud?",
-      "If you were pitching an Irvine incubator, how would you justify a multi-year timeline to reach revenue?"
+      "How can traditional industries with heavy paperwork be modernized using targeted AI agents?",
+      "What customer metrics convince business owners to trust autonomous AI agents with core operations?",
+      "If you were building an AI agent startup on campus, which manual administrative process at UCI would you automate first?"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Anthropic prepares for a $64.35 billion stock market debut.",
-      "blurb": "Investors are watching closely as recent tech IPO results remain mixed."
+      "headline": "Hackers deploy autonomous AI agents to launch cyberattacks.",
+      "blurb": "Google found threat actors using multi-agent frameworks to automate software exploits at machine speed."
     },
     {
-      "headline": "Router outage causes nationwide FAA flight ground stop.",
-      "blurb": "A single piece of networking gear flooded the aviation system with data."
+      "headline": "McKinsey finds banks recoup AI agent investments in 10 months.",
+      "blurb": "Banks adopting agentic AI generate nearly triple their outlay within three years."
     },
     {
-      "headline": "Supporters push for Jensen Huang to return as Nvidia CEO.",
-      "blurb": "Over 158,000 people signed an open letter as allies build a Silicon Valley war room."
+      "headline": "Tighter US semiconductor rules pull down chip stocks.",
+      "blurb": "New overseas restrictions on advanced AI chips pressured tech equities and market sentiment."
     },
     {
-      "headline": "McKinsey report finds banking AI tools offer 10-month payback.",
-      "blurb": "Autonomous AI agents can yield nearly three times initial investment within three years."
+      "headline": "Anthropic's Claude Code gains ground against OpenAI.",
+      "blurb": "Surging enterprise demand for software-writing bots has put Anthropic ahead in coding agent adoption."
     },
     {
-      "headline": "Mirra Andreeva wins the WTA Finals without dropping a set.",
-      "blurb": "The 19-year-old defeated Elina Svitolina 7-5, 6-3 to close out an undefeated tournament."
+      "headline": "Carlos Alcaraz sweeps Frances Tiafoe in ATP Finals opener.",
+      "blurb": "The world number three won 6-2, 6-2 in Turin to extend his current winning streak to 10 matches."
     }
   ],
-  "emailQuestion": "How do hardware startups secure client commitments before their products hit full manufacturing?"
+  "emailQuestion": "If you were building an AI agent startup on campus, which manual administrative process at UCI would you automate first?"
 }
