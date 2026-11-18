@@ -1,0 +1,256 @@
+{
+  "id": "2026-11-17-pm",
+  "slot": "evening",
+  "date": "2026-11-17",
+  "dateLabel": "Tue, Nov 17, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-18T03:38:51.340Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic's massive IPO, tech service outages, and major banking shake-ups headline tonight.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 17",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,341",
+        "change": "−1.03%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,328",
+        "change": "−0.74%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "50,759",
+        "change": "−1.64%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.10%",
+        "change": "−2 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,790",
+        "change": "−1.92%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic's IPO Nears as Revenue Surges",
+    "body": "AI lab Anthropic is poised to price its blockbuster Nasdaq IPO above its initial $70 to $78 range following soaring demand, with order books closing Tuesday afternoon. The massive offering comes as the company reported a staggering 1,127% year-over-year revenue surge to $17 billion in the third quarter.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/anthropic-s-ipo-buy-now-or-wait-ce785edcda8af126"
+      }
+    ],
+    "why": "As someone interested in investing and tech markets, watching how a $1.4 trillion valuation target behaves on day one will teach you a lot about how public markets price hyper-growth AI companies.",
+    "kicker": "Markets + AI",
+    "figures": [
+      {
+        "value": "$17B",
+        "label": "Q3 revenue"
+      },
+      {
+        "value": "1,127%",
+        "label": "YoY revenue growth"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Disney Cuts $3 Billion in Costs and Drops Streaming Profit Disclosures",
+          "body": "Disney reported higher fourth-quarter revenue and profits while announcing plans to slash $3 billion in annual operating costs by 2029. The entertainment giant also revealed it will stop reporting operating profits separately for its streaming division.",
+          "sources": [
+            {
+              "name": "WDW News Today",
+              "url": "https://wdwnt.com/2026/11/disney-announces-3-billion-in-cost-cuts-ends-streaming-profit-disclosures/"
+            }
+          ],
+          "why": "This is a great case study in corporate restructuring and financial transparency for your business strategy classes."
+        },
+        {
+          "headline": "JPMorgan Chase Shakes Up Leadership and Taps New CFO",
+          "body": "CEO Jamie Dimon has overhauled the bank's leadership for the second time this year, naming investment-bank finance head Bregje de Best as the new chief financial officer. The move follows a resolution to the software glitch that caused widespread transaction delays across online banking earlier this week.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/chase-other-major-banks-hit-by-online-outages-2026-11"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/17/business/jamie-dimon-shakes-up-jpmorgan-leadership-taps-de-best-as-cfo/"
+            }
+          ],
+          "why": "Essential context if you are tracking corporate governance and leadership execution in major financial institutions."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "California Sues OpenAI Over Safety and Security Safeguards",
+          "body": "The state of California filed a lawsuit against OpenAI, alleging that the ChatGPT maker misled and endangered the public by testing advanced artificial intelligence models without adequate safety guardrails.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/california/story/2026-11-16/california-sues-openai-alleging-it-endangered-public-by-developing-ai-without-safeguards"
+            }
+          ],
+          "why": "As an aspiring founder or consultant, regulatory pushback and compliance risk are going to be central design constraints for any AI product you touch."
+        },
+        {
+          "headline": "Ex-Nvidia CEO Jensen Huang Agrees to Congressional Interview",
+          "body": "Former Nvidia CEO Jensen Huang has agreed to appear before three House committees on December 1 following his resignation amid an inquiry into chip sales to China and export compliance.",
+          "sources": [
+            {
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/world-news/us-lawmakers-set-december-1-date-for-questioning-ex-nvidia-ceo-jensen-huang-12340256"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/business/corporations/jensen-huang-agrees-house-interview-nvidias-chip-smuggling-rcna609803"
+            }
+          ],
+          "why": "Highlights how geopolitical trade restrictions and executive conduct can completely upend a tech giant's governance overnight."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey and Cognition Partner to Sell AI Coding Agent Devin to Enterprises",
+          "body": "Consulting giant McKinsey & Company has teamed up with AI lab Cognition to sell its AI coding agent Devin to large corporations in the US and Europe. McKinsey will advise clients on restructuring engineering teams and workflows around AI tools.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/cognition-mckinsey-alliance-devin-ai-software-engineering"
+            },
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/mckinsey-cognition-target-roi-challenge-ai-coding-2026-11"
+            }
+          ],
+          "why": "A textbook example of how traditional management consulting firms are capturing value by advising enterprises on AI adoption."
+        },
+        {
+          "headline": "McKinsey Report Says Banks Can Generate Nearly 3x Returns on Agentic AI",
+          "body": "A new McKinsey report states that banks deploying autonomous AI agents could recover their initial investments in about 10 months and generate nearly triple their money over three years.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
+            }
+          ],
+          "why": "Gives you concrete data points on tech ROI and financial services disruption for your future interviews and consulting case preps."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Junior Crowned Miss Fountain Valley",
+          "body": "Malia Walker, a junior music theater major at UC Irvine, won the title of Miss Fountain Valley at the Sapphire Center pageant.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-11-14/miss-fountain-valley-pageant-names-titleholders-for-2027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Arthur Fils Beats Rafael Jodar at ATP Finals",
+          "body": "France's Arthur Fils came back from a set down to defeat Spain's Rafael Jodar 4-6, 6-2, 6-2 at the ATP Finals in Turin to keep his semi-final hopes alive.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/17/tennis-fils-digs-deep-to-see-off-jodar-for-first-atp-finals-win"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO is when a private company sells shares to the public for the first time to raise capital. Anthropic's upcoming Nasdaq debut highlights how high-growth tech firms use IPOs to scale while letting early investors cash out.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/anthropic-s-ipo-buy-now-or-wait-ce785edcda8af126"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Genesis AI raised $500M at a $3.5B valuation to put Eno robots to work",
+    "body": "The Paris-based robotics startup secured a massive Series A round co-led by Khosla Ventures, Premji Invest, and Eclipse. The company is building industrial robots designed without heads to automate warehouse and physical tasks.",
+    "questions": [
+      "If you were an investor, how would you evaluate a hardware startup commanding a $3.5 billion valuation at the Series A stage?",
+      "How does removing a robot's head change its design efficiency or market appeal?",
+      "What operational challenges do you think Genesis AI will face scaling manufacturing in Europe versus the US?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic's Nasdaq IPO is tracking above its target range.",
+      "blurb": "The AI lab is closing its order books after reporting an 1,127% surge in quarterly revenue."
+    },
+    {
+      "headline": "Disney aims to cut $3 billion in annual costs by 2029.",
+      "blurb": "The company posted strong fourth-quarter profits while halting separate streaming profit disclosures."
+    },
+    {
+      "headline": "California sued OpenAI over safety and testing safeguards.",
+      "blurb": "The state attorney general's office alleges the company endangered the public during development."
+    },
+    {
+      "headline": "McKinsey partnered with Cognition to sell AI coding agents.",
+      "blurb": "Consultants will help major corporations integrate Devin to tackle engineering productivity."
+    },
+    {
+      "headline": "Former Nvidia CEO Jensen Huang agreed to a congressional interview.",
+      "blurb": "Lawmakers will question him on December 1 regarding China chip sales and export compliance."
+    }
+  ],
+  "emailQuestion": "If you were an investor, how would you evaluate a hardware startup commanding a $3.5 billion valuation at the Series A stage?"
+}

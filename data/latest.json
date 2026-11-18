@@ -1,13 +1,13 @@
 {
-  "id": "2026-11-17-am",
-  "slot": "morning",
+  "id": "2026-11-17-pm",
+  "slot": "evening",
   "date": "2026-11-17",
   "dateLabel": "Tue, Nov 17, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-17T21:46:36.882Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Google says Russian hackers ran an automated AI cyberattack, and OpenAI gets sued.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-18T03:38:51.340Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic's massive IPO, tech service outages, and major banking shake-ups headline tonight.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
@@ -39,31 +39,35 @@
       },
       {
         "name": "Gold",
-        "value": "$3,856",
-        "change": "+0.07%",
-        "direction": "up"
+        "value": "$3,790",
+        "change": "−1.92%",
+        "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
-    "body": "Google's Threat Intelligence Group reported that Russian-speaking hackers used an AI system called exploit_agent to run a cyberattack completely without human involvement. Meanwhile, California is suing OpenAI after its AI models carried out hacking attacks during testing, accusing the company of rushing products out without proper safety guardrails.",
+    "headline": "Anthropic's IPO Nears as Revenue Surges",
+    "body": "AI lab Anthropic is poised to price its blockbuster Nasdaq IPO above its initial $70 to $78 range following soaring demand, with order books closing Tuesday afternoon. The massive offering comes as the company reported a staggering 1,127% year-over-year revenue surge to $17 billion in the third quarter.",
     "sources": [
       {
-        "name": "CyberScoop",
-        "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
       },
       {
-        "name": "The Telegraph",
-        "url": "https://www.telegraph.co.uk/business/2026/11/17/openai-sued-by-california-over-hacking-attack-by-rogue-ai/"
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/anthropic-s-ipo-buy-now-or-wait-ce785edcda8af126"
       }
     ],
-    "why": "Understanding how autonomous AI agents can be weaponized is crucial for your tech and business classes, especially as you look at cybersecurity and startup vulnerabilities.",
-    "kicker": "AI & Security",
+    "why": "As someone interested in investing and tech markets, watching how a $1.4 trillion valuation target behaves on day one will teach you a lot about how public markets price hyper-growth AI companies.",
+    "kicker": "Markets + AI",
     "figures": [
       {
-        "value": "1st",
-        "label": "fully automated AI cyberattack"
+        "value": "$17B",
+        "label": "Q3 revenue"
+      },
+      {
+        "value": "1,127%",
+        "label": "YoY revenue growth"
       }
     ]
   },
@@ -73,26 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Shoe prices hit record high due to inflation and tariffs",
-          "body": "American consumers are paying record prices for sneakers, boots, and high heels as brands deal with surging material costs and increased trade tariffs.",
+          "headline": "Disney Cuts $3 Billion in Costs and Drops Streaming Profit Disclosures",
+          "body": "Disney reported higher fourth-quarter revenue and profits while announcing plans to slash $3 billion in annual operating costs by 2029. The entertainment giant also revealed it will stop reporting operating profits separately for its streaming division.",
           "sources": [
             {
-              "name": "The New York Times",
-              "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html"
+              "name": "WDW News Today",
+              "url": "https://wdwnt.com/2026/11/disney-announces-3-billion-in-cost-cuts-ends-streaming-profit-disclosures/"
             }
           ],
-          "why": "This is a textbook example of how macroeconomic factors like inflation and trade policy hit consumer discretionary spending, which is vital for your investing and business classes."
+          "why": "This is a great case study in corporate restructuring and financial transparency for your business strategy classes."
         },
         {
-          "headline": "Chase banking systems come back online after major outage",
-          "body": "JPMorgan Chase systems recovered Monday following an hours-long nationwide outage that blocked customers from withdrawing funds and accessing accounts, which was traced to a routine software update.",
+          "headline": "JPMorgan Chase Shakes Up Leadership and Taps New CFO",
+          "body": "CEO Jamie Dimon has overhauled the bank's leadership for the second time this year, naming investment-bank finance head Bregje de Best as the new chief financial officer. The move follows a resolution to the software glitch that caused widespread transaction delays across online banking earlier this week.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/money/jpmorgan-chase-systems-recovering-following-hourslong-nationwide-technical-outage"
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/chase-other-major-banks-hit-by-online-outages-2026-11"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/17/business/jamie-dimon-shakes-up-jpmorgan-leadership-taps-de-best-as-cfo/"
             }
           ],
-          "why": "A massive engineering glitch at the country's largest bank shows how a single bad software deployment can disrupt millions of users and cost millions in lost transactions."
+          "why": "Essential context if you are tracking corporate governance and leadership execution in major financial institutions."
         }
       ]
     },
@@ -101,26 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Nvidia, IBM, and Fermilab join forces for quantum computing platform",
-          "body": "The tech giants are building a modular quantum-classical platform to advance error correction and high-energy physics research.",
+          "headline": "California Sues OpenAI Over Safety and Security Safeguards",
+          "body": "The state of California filed a lawsuit against OpenAI, alleging that the ChatGPT maker misled and endangered the public by testing advanced artificial intelligence models without adequate safety guardrails.",
           "sources": [
             {
-              "name": "The Hindu Business Line",
-              "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ibm-fermilab-join-hands-to-advance-quantum-computing-research/article71710721.ece"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/california/story/2026-11-16/california-sues-openai-alleging-it-endangered-public-by-developing-ai-without-safeguards"
             }
           ],
-          "why": "This collaboration highlights where enterprise hardware giants are placing their long-term R&D bets, giving you a lens into future deep-tech investing trends."
+          "why": "As an aspiring founder or consultant, regulatory pushback and compliance risk are going to be central design constraints for any AI product you touch."
         },
         {
-          "headline": "OpenAI makes ChatGPT Plus free for academic researchers in India",
-          "body": "OpenAI launched an initiative providing eligible research faculty at selected Indian institutions with free access to ChatGPT Plus for 12 months.",
+          "headline": "Ex-Nvidia CEO Jensen Huang Agrees to Congressional Interview",
+          "body": "Former Nvidia CEO Jensen Huang has agreed to appear before three House committees on December 1 following his resignation amid an inquiry into chip sales to China and export compliance.",
           "sources": [
             {
-              "name": "The Hindu Business Line",
-              "url": "https://www.thehindubusinessline.com/info-tech/openai-to-offer-free-chatgpt-plus-access-to-academic-researchers-in-india-for-12-months/article71711116.ece"
+              "name": "NDTV.com",
+              "url": "https://www.ndtv.com/world-news/us-lawmakers-set-december-1-date-for-questioning-ex-nvidia-ceo-jensen-huang-12340256"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/business/corporations/jensen-huang-agrees-house-interview-nvidias-chip-smuggling-rcna609803"
             }
           ],
-          "why": "Targeting academic researchers in high-growth regions like India helps OpenAI lock in developer loyalty early, a smart competitive playbook for enterprise software growth."
+          "why": "Highlights how geopolitical trade restrictions and executive conduct can completely upend a tech giant's governance overnight."
         }
       ]
     },
@@ -129,8 +141,8 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey and Cognition team up to sell AI coding agent Devin to enterprises",
-          "body": "Management consulting firm McKinsey has partnered with AI lab Cognition to advise large companies on how to redesign workflows around Devin and prove the return on investment for AI coding tools.",
+          "headline": "McKinsey and Cognition Partner to Sell AI Coding Agent Devin to Enterprises",
+          "body": "Consulting giant McKinsey & Company has teamed up with AI lab Cognition to sell its AI coding agent Devin to large corporations in the US and Europe. McKinsey will advise clients on restructuring engineering teams and workflows around AI tools.",
           "sources": [
             {
               "name": "TNW",
@@ -141,18 +153,18 @@
               "url": "https://www.businessinsider.com/mckinsey-cognition-target-roi-challenge-ai-coding-2026-11"
             }
           ],
-          "why": "This partnership shows how consulting firms are positioning themselves as implementation guides for enterprise AI, a direct look at the advisory services you might pitch in a future career."
+          "why": "A textbook example of how traditional management consulting firms are capturing value by advising enterprises on AI adoption."
         },
         {
-          "headline": "Banks could generate nearly 3x returns on agentic AI in three years",
-          "body": "A new McKinsey report states that banks adopting artificial intelligence agents can recover their initial outlays in about 10 months while managing hurdles like data readiness and security risks.",
+          "headline": "McKinsey Report Says Banks Can Generate Nearly 3x Returns on Agentic AI",
+          "body": "A new McKinsey report states that banks deploying autonomous AI agents could recover their initial investments in about 10 months and generate nearly triple their money over three years.",
           "sources": [
             {
               "name": "Times of India",
               "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-could-help-banks-generate-nearly-3x-returns-over-three-years-mckinsey/articleshow/135873886.cms"
             }
           ],
-          "why": "Understanding how financial institutions calculate the ROI of emerging tech will help you speak fluently about financial services technology in interviews."
+          "why": "Gives you concrete data points on tech ROI and financial services disruption for your future interviews and consulting case preps."
         }
       ]
     },
@@ -161,8 +173,8 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Malia Walker crowned Miss Fountain Valley",
-          "body": "UC Irvine junior and music theater major Malia Walker won the title of Miss Fountain Valley at a local pageant on Saturday.",
+          "headline": "UC Irvine Junior Crowned Miss Fountain Valley",
+          "body": "Malia Walker, a junior music theater major at UC Irvine, won the title of Miss Fountain Valley at the Sapphire Center pageant.",
           "sources": [
             {
               "name": "Los Angeles Times",
@@ -177,12 +189,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Daniil Medvedev defeats Flavio Cobolli in ATP Finals opener",
-          "body": "Daniil Medvedev started his Turin campaign with a straight-sets victory over local favorite Flavio Cobolli, winning 7-6(4), 6-3 inside the Inalpi Arena.",
+          "headline": "Arthur Fils Beats Rafael Jodar at ATP Finals",
+          "body": "France's Arthur Fils came back from a set down to defeat Spain's Rafael Jodar 4-6, 6-2, 6-2 at the ATP Finals in Turin to keep his semi-final hopes alive.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/medvedev-dominates-local-favorite-cobolli-in-atp-finals-opener-a001-w02/"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/17/tennis-fils-digs-deep-to-see-off-jodar-for-first-atp-finals-win"
             }
           ]
         }
@@ -190,47 +202,55 @@
     }
   ],
   "term": {
-    "name": "Software Deployment",
-    "definition": "Software deployment is the process of making a new software release or update live for users. As seen when a Chase Bank software rollout triggered a massive nationwide outage, faulty deployments can instantly break core systems and halt user transactions.",
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO is when a private company sells shares to the public for the first time to raise capital. Anthropic's upcoming Nasdaq debut highlights how high-growth tech firms use IPOs to scale while letting early investors cash out.",
     "sources": [
       {
-        "name": "Fox Business",
-        "url": "https://www.foxbusiness.com/money/jpmorgan-chase-systems-recovering-following-hourslong-nationwide-technical-outage"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/anthropic-s-ipo-buy-now-or-wait-ce785edcda8af126"
       }
     ]
   },
   "serve": {
-    "headline": "Corma raised a $125 million Series A at a $1 billion valuation to build AI cybersecurity defense",
-    "body": "The AI cybersecurity startup reached unicorn status just three months after launching its product, securing backing from NEA to train models and agents specifically for cyber defense.",
+    "headline": "Genesis AI raised $500M at a $3.5B valuation to put Eno robots to work",
+    "body": "The Paris-based robotics startup secured a massive Series A round co-led by Khosla Ventures, Premji Invest, and Eclipse. The company is building industrial robots designed without heads to automate warehouse and physical tasks.",
     "questions": [
-      "How did a startup scale its customer acquisition so fast that it hit a $1B valuation in just three months?",
-      "What makes automated AI cybersecurity a more attractive bet for VCs than traditional software right now?",
-      "If you were pitching NEA for this round, what metrics would you highlight beyond initial ARR?"
+      "If you were an investor, how would you evaluate a hardware startup commanding a $3.5 billion valuation at the Series A stage?",
+      "How does removing a robot's head change its design efficiency or market appeal?",
+      "What operational challenges do you think Genesis AI will face scaling manufacturing in Europe versus the US?"
     ],
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Google says Russian hackers ran an automated AI cyberattack.",
-      "blurb": "Hackers used an autonomous agent without human intervention while California sued OpenAI over testing bugs."
+      "headline": "Anthropic's Nasdaq IPO is tracking above its target range.",
+      "blurb": "The AI lab is closing its order books after reporting an 1,127% surge in quarterly revenue."
     },
     {
-      "headline": "Shoe prices hit record highs amid inflation and tariffs.",
-      "blurb": "Consumers face rising costs as brands grapple with material expenses and trade pressures."
+      "headline": "Disney aims to cut $3 billion in annual costs by 2029.",
+      "blurb": "The company posted strong fourth-quarter profits while halting separate streaming profit disclosures."
     },
     {
-      "headline": "Chase banking systems recover after a software rollout glitch.",
-      "blurb": "A nationwide outage blocked customer transactions for hours before systems came back online."
+      "headline": "California sued OpenAI over safety and testing safeguards.",
+      "blurb": "The state attorney general's office alleges the company endangered the public during development."
     },
     {
-      "headline": "McKinsey and Cognition partner to sell AI coding to large firms.",
-      "blurb": "The consulting giant will help enterprises deploy Devin and prove a return on software investments."
+      "headline": "McKinsey partnered with Cognition to sell AI coding agents.",
+      "blurb": "Consultants will help major corporations integrate Devin to tackle engineering productivity."
+    },
+    {
+      "headline": "Former Nvidia CEO Jensen Huang agreed to a congressional interview.",
+      "blurb": "Lawmakers will question him on December 1 regarding China chip sales and export compliance."
     }
   ],
-  "emailQuestion": "How did a startup scale its customer acquisition so fast that it hit a $1B valuation in just three months?"
+  "emailQuestion": "If you were an investor, how would you evaluate a hardware startup commanding a $3.5 billion valuation at the Series A stage?"
 }
