@@ -1,0 +1,224 @@
+{
+  "id": "2026-11-18-am",
+  "slot": "morning",
+  "date": "2026-11-18",
+  "dateLabel": "Wed, Nov 18, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-18T21:27:51.827Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia posts results after Jensen Huang's exit, Model ML raises $250M, and U.K. inflation hits 3.6%.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 18",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,324",
+        "change": "−0.23%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,430",
+        "change": "+0.42%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "50,198",
+        "change": "−1.11%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.07%",
+        "change": "−4 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,727",
+        "change": "−3.55%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia Posts Strong Results as Colette Kress Takes Charge",
+    "body": "Nvidia reported better-than-expected financial results and raised its forecast for the next fiscal year. The earnings call was the company's first since Jensen Huang stepped down as CEO amid controversy, leaving new chief executive Colette Kress to run the business alongside a restructured leadership team.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-beats-forecasts-rules-huang-053103648.html"
+      },
+      {
+        "name": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/11/18/colette-kress-just-delivered-excellent-news-for-nvidia-investors/"
+      },
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/will-nvidia-cut-ai-startup-funding-after-jensen-huang-s-exit-its-65-5-billion-portfolio-raises-questions-11794973451741.html"
+      }
+    ],
+    "why": "Understanding how massive tech companies handle sudden leadership changes gives you a front-row seat to corporate governance and executive strategy, which is critical for your Merage classes.",
+    "kicker": "Markets and Chips",
+    "figures": []
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "U.K. Inflation Rises to 1-Year High of 3.6%",
+          "body": "The U.K.'s annual inflation rate climbed to 3.6% in the 12 months leading to October, driven higher by record diesel prices and rising fuel costs.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
+            }
+          ],
+          "why": "This macroeconomic print gives you a concrete real-world data point on how commodity price spikes directly influence central bank targets and national cost-of-living pressures."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Model ML Raises $250 Million to Automate Banking and Consulting",
+          "body": "London-based startup Model ML has secured a $250 million Series funding round to build AI agents that handle grunt work like financial modeling, pitch decks, and due diligence reports for bankers and consultants.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+            }
+          ],
+          "why": "As someone aiming for a career in consulting and investing, you need to know what tools are automating the exact entry-level tasks junior analysts usually spend hours building."
+        },
+        {
+          "headline": "Microsoft Agent Framework Package on PyPI Compromised",
+          "body": "Security researchers discovered that malicious versions of Microsoft's agent-framework package on PyPI used Python startup hooks to harvest cloud and CI/CD credentials.",
+          "sources": [
+            {
+              "name": "The Hacker News",
+              "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
+            }
+          ],
+          "why": "As AI agents gain deeper integrations into enterprise infrastructure, software supply chain security becomes a massive risk factor for tech startups to solve."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Boutique Consulting Firms Challenge Big Names in B-School Hiring",
+          "body": "Boutique consulting firms are directly challenging giants like BCG, Bain, and the Big Four during campus recruiting as management consulting draws up to 40% of business school graduates.",
+          "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/companies/news/boutique-consulting-firms-compete-for-iim-campus-talent-mckinsey-bcg-big-four-11794976482483.html"
+            }
+          ],
+          "why": "This gives you a wider lens on recruitment options beyond the traditional bulge-bracket firms when you start looking for internships."
+        },
+        {
+          "headline": "McKinsey Report Says Agentic AI Cuts Business Planning Workload",
+          "body": "A new McKinsey report states that agentic artificial intelligence can reduce business planning workloads by 83% and cut forecasting errors by 50% through predictive decision-making agents.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-can-reduce-business-planning-workload-by-83-forecast-errors-by-50-mckinsey/articleshow/135955270.cms"
+            }
+          ],
+          "why": "Understanding how major consulting firms package and sell AI efficiency metrics will help you frame your business case presentations at Merage."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Men's Basketball Falls to Stanford in First Loss",
+          "body": "The UC Irvine men's basketball team controlled the game for the bulk of the night, but Stanford closed on an 8-0 run to hand the Anteaters a 65-61 defeat.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alexander Zverev Beats Ben Shelton to Reach ATP Finals Semifinals",
+          "body": "Alexander Zverev produced a clinical display to defeat American Ben Shelton 6-2, 7-6 at the ATP Finals in Turin, securing his spot in the knockout stages.",
+          "sources": [
+            {
+              "name": "Essentially Sports",
+              "url": "https://www.essentiallysports.com/tennis-news-alexander-zverev-extends-flawless-head-to-head-as-tennis-world-questions-ben-sheltons-atp-finals-form/"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13613313/atp-finals-alexander-zverev-books-place-in-semi-finals-after-brushing-aside-ben-shelton-arthur-fils-beats-rafael-jodar"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Anchor Investor",
+    "definition": "An anchor investor is an institutional buyer that commits to purchasing a portion of an initial public offering ahead of time, signaling strong market confidence to retail investors. For example, firms like the Abu Dhabi Investment Authority recently boarded Mahanadi Coalfields' upcoming IPO as anchor investors to stabilize the offering.",
+    "sources": [
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/coal-india-unit-mahanadi-coalfields-ipo-opens-thursday-seeking-rs2295cr/tldr"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Model ML raised $250M in Series financing to automate financial modeling and pitch decks",
+    "body": "The London-based startup uses AI agents to understand deal context and automatically update financial models and presentations for investment banking and consulting workflows. The massive round highlights strong venture capital appetite for verticalized enterprise automation.",
+    "questions": [
+      "If an AI agent can build a complete financial model in seconds, what specific skills should junior analysts focus on to stay valuable?",
+      "How would you price a B2B SaaS tool that replaces hours of billable junior analyst labor?",
+      "What is the biggest operational risk when enterprise clients hand their sensitive deal data over to a startup's AI agents?"
+    ],
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia posts strong results after Jensen Huang's exit",
+      "blurb": "Colette Kress takes charge as the chipmaker beats expectations and raises forecasts."
+    },
+    {
+      "headline": "Model ML raises $250 million for AI banking tools",
+      "blurb": "The startup automates financial modeling and pitch decks traditionally built by junior staff."
+    },
+    {
+      "headline": "U.K. inflation hits a 1-year high of 3.6%",
+      "blurb": "Rising fuel costs and record diesel prices pushed annual consumer prices up in October."
+    },
+    {
+      "headline": "Boutique consultants take on Big Four in hiring",
+      "blurb": "Smaller firms are aggressively recruiting management graduates as AI shifts entry-level roles."
+    }
+  ],
+  "emailQuestion": "If an AI agent can build a complete financial model in seconds, what specific skills should junior analysts focus on to stay valuable?"
+}
