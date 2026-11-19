@@ -1,0 +1,256 @@
+{
+  "id": "2026-11-18-pm",
+  "slot": "evening",
+  "date": "2026-11-18",
+  "dateLabel": "Wed, Nov 18, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-19T03:07:57.756Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia beats estimates despite jitters, Anthropic prices its IPO, and Carlos Alcaraz rolls in Turin.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 18",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,324",
+        "change": "−0.23%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,430",
+        "change": "+0.42%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "50,198",
+        "change": "−1.11%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.07%",
+        "change": "−4 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,711",
+        "change": "−0.82%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia Beats Expectations With a Massive $116 Billion Quarter",
+    "body": "Nvidia posted a record $116 billion in third-quarter revenue, comfortably topping Wall Street estimates and forecasting strong continued demand for AI computing. Despite the blockbuster numbers, the stock slipped over 1% as investors processed the abrupt departure of co-founder Jensen Huang and a new short-seller bet targeting the chipmaker's ties to China.",
+    "sources": [
+      {
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/post-huang-jitters-nvidia-share-price-pares-early-gains-slip-over-1-even-as-record-116b-quarter-tops-estimates-12345434"
+      },
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-stocks-hold-steadier-after-nvidia-says-it-still-sees-strong-growth-ahead/articleshow/135966205.cms"
+      }
+    ],
+    "why": "Nvidia remains the bellwether for the entire tech and AI sector. Keeping tabs on its supply chain and investor sentiment gives you a baseline for how institutional money views tech valuations in your finance classes.",
+    "kicker": "Markets + Earnings",
+    "figures": [
+      {
+        "value": "$116B",
+        "label": "Q3 revenue"
+      },
+      {
+        "value": "1.1%",
+        "label": "stock slip"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Pending Home Sales Drop 4.7% as Market Freezes",
+          "body": "Two new housing reports show activity slowing down further as persistent high mortgage rates and inflation strain builders and buyers alike.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html"
+            }
+          ],
+          "why": "High interest rates affect everything from commercial real estate valuations to consumer spending patterns. It is a key macroeconomic constraint to keep in mind for equity research."
+        },
+        {
+          "headline": "Tech Outages Spark Costco Panic Buying",
+          "body": "A series of recent infrastructure and tech outages at major airlines, banks, and apps has consumers panic buying emergency supplies, giving Costco a measurable sales boost.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
+            },
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/world-nation/story/2026-11-18/outages-alarm-vulnerabilities-critical-infrastructure"
+            }
+          ],
+          "why": "Consumer behavior changes instantly when digital infrastructure stumbles. This is a fascinating real-world case study in supply chain and retail resilience during unexpected shocks."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic Prices Its IPO Ahead of Thursday Nasdaq Debut",
+          "body": "Anthropic is pricing its highly anticipated initial public offering, with retail investors expected to pour hundreds of millions into the AI leader's first day of trading under the ticker symbol ANT.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/why-the-anthropic-ipo-could-be-a-trap-for-investors-135504884.html"
+            },
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1424138-anthropic-ipo-everything-investors-need-to-know-ahead-of-highly-anticipated-debut"
+            },
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/retail-buying-in-anthropics-ipo-could-double-spacexs-debut-cnbc-reports"
+            }
+          ],
+          "why": "Watching a major AI pure-play hit the public markets gives you a front-row seat to how institutional and retail capital value frontier AI labs compared to legacy tech giants."
+        },
+        {
+          "headline": "NVIDIA Drivers Face Complaints Over Excessive SSD Writes",
+          "body": "Users are reporting that recent GeForce drivers are causing continuous data writes of up to 30GB per hour to system drives, creating a hardware bug similar to a recent AMD issue.",
+          "sources": [
+            {
+              "name": "Wccftech",
+              "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
+            }
+          ],
+          "why": "Quality control and driver stability are critical for hardware heavyweights. Hardware bugs can quickly erode consumer trust and hurt hardware adoption cycles."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Luxury Goods Sales Projected to Return to Growth",
+          "body": "Bain & Company's annual industry outlook predicts personal luxury goods sales will return to growth this year following a two-year decline.",
+          "sources": [
+            {
+              "name": "CP24 Toronto",
+              "url": "https://www.cp24.com/news/money/2026/11/18/luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile/"
+            }
+          ],
+          "why": "Consulting firms like Bain publish these definitive industry trackers. Reading them helps you understand how top-tier management consultants structure market sizing and demand forecasts."
+        },
+        {
+          "headline": "Bosses Openly Admit AI Is Helping Them Cut Entry-Level Jobs",
+          "body": "A growing number of employers report that artificial intelligence tools are actively helping them eliminate positions, placing a specific squeeze on graduate and entry-level hiring.",
+          "sources": [
+            {
+              "name": "LADbible",
+              "url": "https://www.ladbible.com/technology/ai-apocalypse-half-bosses-cut-jobs-553205-20261116"
+            },
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/freshers-are-not-disappearing-their-jobs-are-changing-cognizant-india-chief-on-ai-hiring-567581-2026-11-16"
+            }
+          ],
+          "why": "As a business student, knowing how AI tools reshape corporate headcount helps you target internships in functions less vulnerable to immediate automation."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Men's Basketball Falls to Stanford in First Defeat",
+          "body": "The Anteaters led for the bulk of the game but dropped a close 65-61 decision to Stanford, suffering their first loss of the season.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Overtakes Daniil Medvedev at ATP Finals",
+          "body": "World number three Carlos Alcaraz eased past Daniil Medvedev 6-2 6-4 in Turin to move to the brink of the ATP Finals semi-finals.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/18/tennis-alcaraz-overpowers-medvedev-to-edge-closer-to-last-four"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Short-Seller",
+    "definition": "An investor who borrows a stock and sells it immediately, hoping the price will drop so they can buy it back cheaper later, return the borrowed shares, and pocket the difference. Muddy Waters used this exact strategy to bet against Nvidia ahead of its earnings report.",
+    "sources": [
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/short-seller-nvidia-china-smci-gpu-sales-nvda-earnings-2026-11"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Humyn Labs raised $47 million in Series A funding to build physical AI training data",
+    "body": "The startup provides real-world data and simulated environments to help U.S. robotics and AI companies train models for physical spaces like warehouses and factories. The round was backed by venture debt firms Lighthouse Canton and Trifecta Capital.",
+    "questions": [
+      "How would you price a data-as-a-service product for physical AI companies?",
+      "What customer acquisition channels work best when selling deep tech infrastructure to U.S. enterprises from abroad?",
+      "How does a startup build a defensible moat when competitors can also collect warehouse video data?"
+    ],
+    "sources": [
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/humyn-labs-raises-47-million-physical-ai-data-platform-11794980153757.html"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia posts a record $116B quarter.",
+      "blurb": "The chip giant beat Wall Street estimates, but its stock slipped amid executive shifts."
+    },
+    {
+      "headline": "Anthropic prices its massive IPO.",
+      "blurb": "The AI leader hits the Nasdaq under ticker ANT with heavy retail interest."
+    },
+    {
+      "headline": "Housing market faces a bleak winter.",
+      "blurb": "Pending home sales dropped 4.7% as high mortgage rates freeze buyers."
+    },
+    {
+      "headline": "Bosses admit AI is squeezing entry-level jobs.",
+      "blurb": "Over half of surveyed executives say AI is helping them cut corporate headcount."
+    }
+  ],
+  "emailQuestion": "How would you price a data-as-a-service product for physical AI companies?"
+}

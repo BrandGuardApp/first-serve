@@ -1,14 +1,14 @@
 {
-  "id": "2026-11-18-am",
-  "slot": "morning",
+  "id": "2026-11-18-pm",
+  "slot": "evening",
   "date": "2026-11-18",
   "dateLabel": "Wed, Nov 18, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-18T21:27:51.827Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Nvidia posts results after Jensen Huang's exit, Model ML raises $250M, and U.K. inflation hits 3.6%.",
-  "storyCount": 10,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-19T03:07:57.756Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia beats estimates despite jitters, Anthropic prices its IPO, and Carlos Alcaraz rolls in Turin.",
+  "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 18",
@@ -39,32 +39,37 @@
       },
       {
         "name": "Gold",
-        "value": "$3,727",
-        "change": "−3.55%",
+        "value": "$3,711",
+        "change": "−0.82%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia Posts Strong Results as Colette Kress Takes Charge",
-    "body": "Nvidia reported better-than-expected financial results and raised its forecast for the next fiscal year. The earnings call was the company's first since Jensen Huang stepped down as CEO amid controversy, leaving new chief executive Colette Kress to run the business alongside a restructured leadership team.",
+    "headline": "Nvidia Beats Expectations With a Massive $116 Billion Quarter",
+    "body": "Nvidia posted a record $116 billion in third-quarter revenue, comfortably topping Wall Street estimates and forecasting strong continued demand for AI computing. Despite the blockbuster numbers, the stock slipped over 1% as investors processed the abrupt departure of co-founder Jensen Huang and a new short-seller bet targeting the chipmaker's ties to China.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/articles/nvidia-beats-forecasts-rules-huang-053103648.html"
+        "name": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/post-huang-jitters-nvidia-share-price-pares-early-gains-slip-over-1-even-as-record-116b-quarter-tops-estimates-12345434"
       },
       {
-        "name": "The Motley Fool",
-        "url": "https://www.fool.com/investing/2026/11/18/colette-kress-just-delivered-excellent-news-for-nvidia-investors/"
-      },
-      {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/will-nvidia-cut-ai-startup-funding-after-jensen-huang-s-exit-its-65-5-billion-portfolio-raises-questions-11794973451741.html"
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-stocks-hold-steadier-after-nvidia-says-it-still-sees-strong-growth-ahead/articleshow/135966205.cms"
       }
     ],
-    "why": "Understanding how massive tech companies handle sudden leadership changes gives you a front-row seat to corporate governance and executive strategy, which is critical for your Merage classes.",
-    "kicker": "Markets and Chips",
-    "figures": []
+    "why": "Nvidia remains the bellwether for the entire tech and AI sector. Keeping tabs on its supply chain and investor sentiment gives you a baseline for how institutional money views tech valuations in your finance classes.",
+    "kicker": "Markets + Earnings",
+    "figures": [
+      {
+        "value": "$116B",
+        "label": "Q3 revenue"
+      },
+      {
+        "value": "1.1%",
+        "label": "stock slip"
+      }
+    ]
   },
   "sections": [
     {
@@ -72,15 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "U.K. Inflation Rises to 1-Year High of 3.6%",
-          "body": "The U.K.'s annual inflation rate climbed to 3.6% in the 12 months leading to October, driven higher by record diesel prices and rising fuel costs.",
+          "headline": "Pending Home Sales Drop 4.7% as Market Freezes",
+          "body": "Two new housing reports show activity slowing down further as persistent high mortgage rates and inflation strain builders and buyers alike.",
           "sources": [
             {
               "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
+              "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html"
             }
           ],
-          "why": "This macroeconomic print gives you a concrete real-world data point on how commodity price spikes directly influence central bank targets and national cost-of-living pressures."
+          "why": "High interest rates affect everything from commercial real estate valuations to consumer spending patterns. It is a key macroeconomic constraint to keep in mind for equity research."
+        },
+        {
+          "headline": "Tech Outages Spark Costco Panic Buying",
+          "body": "A series of recent infrastructure and tech outages at major airlines, banks, and apps has consumers panic buying emergency supplies, giving Costco a measurable sales boost.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
+            },
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/world-nation/story/2026-11-18/outages-alarm-vulnerabilities-critical-infrastructure"
+            }
+          ],
+          "why": "Consumer behavior changes instantly when digital infrastructure stumbles. This is a fascinating real-world case study in supply chain and retail resilience during unexpected shocks."
         }
       ]
     },
@@ -89,26 +109,34 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Model ML Raises $250 Million to Automate Banking and Consulting",
-          "body": "London-based startup Model ML has secured a $250 million Series funding round to build AI agents that handle grunt work like financial modeling, pitch decks, and due diligence reports for bankers and consultants.",
+          "headline": "Anthropic Prices Its IPO Ahead of Thursday Nasdaq Debut",
+          "body": "Anthropic is pricing its highly anticipated initial public offering, with retail investors expected to pour hundreds of millions into the AI leader's first day of trading under the ticker symbol ANT.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/why-the-anthropic-ipo-could-be-a-trap-for-investors-135504884.html"
+            },
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1424138-anthropic-ipo-everything-investors-need-to-know-ahead-of-highly-anticipated-debut"
+            },
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/retail-buying-in-anthropics-ipo-could-double-spacexs-debut-cnbc-reports"
             }
           ],
-          "why": "As someone aiming for a career in consulting and investing, you need to know what tools are automating the exact entry-level tasks junior analysts usually spend hours building."
+          "why": "Watching a major AI pure-play hit the public markets gives you a front-row seat to how institutional and retail capital value frontier AI labs compared to legacy tech giants."
         },
         {
-          "headline": "Microsoft Agent Framework Package on PyPI Compromised",
-          "body": "Security researchers discovered that malicious versions of Microsoft's agent-framework package on PyPI used Python startup hooks to harvest cloud and CI/CD credentials.",
+          "headline": "NVIDIA Drivers Face Complaints Over Excessive SSD Writes",
+          "body": "Users are reporting that recent GeForce drivers are causing continuous data writes of up to 30GB per hour to system drives, creating a hardware bug similar to a recent AMD issue.",
           "sources": [
             {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
+              "name": "Wccftech",
+              "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
             }
           ],
-          "why": "As AI agents gain deeper integrations into enterprise infrastructure, software supply chain security becomes a massive risk factor for tech startups to solve."
+          "why": "Quality control and driver stability are critical for hardware heavyweights. Hardware bugs can quickly erode consumer trust and hurt hardware adoption cycles."
         }
       ]
     },
@@ -117,26 +145,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Boutique Consulting Firms Challenge Big Names in B-School Hiring",
-          "body": "Boutique consulting firms are directly challenging giants like BCG, Bain, and the Big Four during campus recruiting as management consulting draws up to 40% of business school graduates.",
+          "headline": "Luxury Goods Sales Projected to Return to Growth",
+          "body": "Bain & Company's annual industry outlook predicts personal luxury goods sales will return to growth this year following a two-year decline.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/companies/news/boutique-consulting-firms-compete-for-iim-campus-talent-mckinsey-bcg-big-four-11794976482483.html"
+              "name": "CP24 Toronto",
+              "url": "https://www.cp24.com/news/money/2026/11/18/luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile/"
             }
           ],
-          "why": "This gives you a wider lens on recruitment options beyond the traditional bulge-bracket firms when you start looking for internships."
+          "why": "Consulting firms like Bain publish these definitive industry trackers. Reading them helps you understand how top-tier management consultants structure market sizing and demand forecasts."
         },
         {
-          "headline": "McKinsey Report Says Agentic AI Cuts Business Planning Workload",
-          "body": "A new McKinsey report states that agentic artificial intelligence can reduce business planning workloads by 83% and cut forecasting errors by 50% through predictive decision-making agents.",
+          "headline": "Bosses Openly Admit AI Is Helping Them Cut Entry-Level Jobs",
+          "body": "A growing number of employers report that artificial intelligence tools are actively helping them eliminate positions, placing a specific squeeze on graduate and entry-level hiring.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-can-reduce-business-planning-workload-by-83-forecast-errors-by-50-mckinsey/articleshow/135955270.cms"
+              "name": "LADbible",
+              "url": "https://www.ladbible.com/technology/ai-apocalypse-half-bosses-cut-jobs-553205-20261116"
+            },
+            {
+              "name": "Business Today",
+              "url": "https://www.businesstoday.in/technology/news/story/freshers-are-not-disappearing-their-jobs-are-changing-cognizant-india-chief-on-ai-hiring-567581-2026-11-16"
             }
           ],
-          "why": "Understanding how major consulting firms package and sell AI efficiency metrics will help you frame your business case presentations at Merage."
+          "why": "As a business student, knowing how AI tools reshape corporate headcount helps you target internships in functions less vulnerable to immediate automation."
         }
       ]
     },
@@ -145,8 +177,8 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Men's Basketball Falls to Stanford in First Loss",
-          "body": "The UC Irvine men's basketball team controlled the game for the bulk of the night, but Stanford closed on an 8-0 run to hand the Anteaters a 65-61 defeat.",
+          "headline": "UC Irvine Men's Basketball Falls to Stanford in First Defeat",
+          "body": "The Anteaters led for the bulk of the game but dropped a close 65-61 decision to Stanford, suffering their first loss of the season.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
@@ -161,16 +193,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alexander Zverev Beats Ben Shelton to Reach ATP Finals Semifinals",
-          "body": "Alexander Zverev produced a clinical display to defeat American Ben Shelton 6-2, 7-6 at the ATP Finals in Turin, securing his spot in the knockout stages.",
+          "headline": "Carlos Alcaraz Overtakes Daniil Medvedev at ATP Finals",
+          "body": "World number three Carlos Alcaraz eased past Daniil Medvedev 6-2 6-4 in Turin to move to the brink of the ATP Finals semi-finals.",
           "sources": [
             {
-              "name": "Essentially Sports",
-              "url": "https://www.essentiallysports.com/tennis-news-alexander-zverev-extends-flawless-head-to-head-as-tennis-world-questions-ben-sheltons-atp-finals-form/"
-            },
-            {
-              "name": "Sky Sports",
-              "url": "https://www.skysports.com/tennis/news/13613313/atp-finals-alexander-zverev-books-place-in-semi-finals-after-brushing-aside-ben-shelton-arthur-fils-beats-rafael-jodar"
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/18/tennis-alcaraz-overpowers-medvedev-to-edge-closer-to-last-four"
             }
           ]
         }
@@ -178,47 +206,51 @@
     }
   ],
   "term": {
-    "name": "Anchor Investor",
-    "definition": "An anchor investor is an institutional buyer that commits to purchasing a portion of an initial public offering ahead of time, signaling strong market confidence to retail investors. For example, firms like the Abu Dhabi Investment Authority recently boarded Mahanadi Coalfields' upcoming IPO as anchor investors to stabilize the offering.",
+    "name": "Short-Seller",
+    "definition": "An investor who borrows a stock and sells it immediately, hoping the price will drop so they can buy it back cheaper later, return the borrowed shares, and pocket the difference. Muddy Waters used this exact strategy to bet against Nvidia ahead of its earnings report.",
     "sources": [
       {
-        "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/business/coal-india-unit-mahanadi-coalfields-ipo-opens-thursday-seeking-rs2295cr/tldr"
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/short-seller-nvidia-china-smci-gpu-sales-nvda-earnings-2026-11"
       }
     ]
   },
   "serve": {
-    "headline": "Model ML raised $250M in Series financing to automate financial modeling and pitch decks",
-    "body": "The London-based startup uses AI agents to understand deal context and automatically update financial models and presentations for investment banking and consulting workflows. The massive round highlights strong venture capital appetite for verticalized enterprise automation.",
+    "headline": "Humyn Labs raised $47 million in Series A funding to build physical AI training data",
+    "body": "The startup provides real-world data and simulated environments to help U.S. robotics and AI companies train models for physical spaces like warehouses and factories. The round was backed by venture debt firms Lighthouse Canton and Trifecta Capital.",
     "questions": [
-      "If an AI agent can build a complete financial model in seconds, what specific skills should junior analysts focus on to stay valuable?",
-      "How would you price a B2B SaaS tool that replaces hours of billable junior analyst labor?",
-      "What is the biggest operational risk when enterprise clients hand their sensitive deal data over to a startup's AI agents?"
+      "How would you price a data-as-a-service product for physical AI companies?",
+      "What customer acquisition channels work best when selling deep tech infrastructure to U.S. enterprises from abroad?",
+      "How does a startup build a defensible moat when competitors can also collect warehouse video data?"
     ],
     "sources": [
       {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/ai/artificial-intelligence/humyn-labs-raises-47-million-physical-ai-data-platform-11794980153757.html"
+      },
+      {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nvidia posts strong results after Jensen Huang's exit",
-      "blurb": "Colette Kress takes charge as the chipmaker beats expectations and raises forecasts."
+      "headline": "Nvidia posts a record $116B quarter.",
+      "blurb": "The chip giant beat Wall Street estimates, but its stock slipped amid executive shifts."
     },
     {
-      "headline": "Model ML raises $250 million for AI banking tools",
-      "blurb": "The startup automates financial modeling and pitch decks traditionally built by junior staff."
+      "headline": "Anthropic prices its massive IPO.",
+      "blurb": "The AI leader hits the Nasdaq under ticker ANT with heavy retail interest."
     },
     {
-      "headline": "U.K. inflation hits a 1-year high of 3.6%",
-      "blurb": "Rising fuel costs and record diesel prices pushed annual consumer prices up in October."
+      "headline": "Housing market faces a bleak winter.",
+      "blurb": "Pending home sales dropped 4.7% as high mortgage rates freeze buyers."
     },
     {
-      "headline": "Boutique consultants take on Big Four in hiring",
-      "blurb": "Smaller firms are aggressively recruiting management graduates as AI shifts entry-level roles."
+      "headline": "Bosses admit AI is squeezing entry-level jobs.",
+      "blurb": "Over half of surveyed executives say AI is helping them cut corporate headcount."
     }
   ],
-  "emailQuestion": "If an AI agent can build a complete financial model in seconds, what specific skills should junior analysts focus on to stay valuable?"
+  "emailQuestion": "How would you price a data-as-a-service product for physical AI companies?"
 }
