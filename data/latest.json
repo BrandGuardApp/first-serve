@@ -1,73 +1,73 @@
 {
-  "id": "2026-11-18-pm",
-  "slot": "evening",
-  "date": "2026-11-18",
-  "dateLabel": "Wed, Nov 18, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-19T03:07:57.756Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Nvidia beats estimates despite jitters, Anthropic prices its IPO, and Carlos Alcaraz rolls in Turin.",
-  "storyCount": 11,
+  "id": "2026-11-19-am",
+  "slot": "morning",
+  "date": "2026-11-19",
+  "dateLabel": "Thu, Nov 19, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-19T21:21:36.697Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic breaks IPO records, Take-Two surges on GTA VI, and mid-tier accounting firms gain ground.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 18",
+    "asOf": "Close, Nov 19",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,324",
-        "change": "−0.23%",
+        "value": "7,176",
+        "change": "−2.02%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "24,430",
-        "change": "+0.42%",
-        "direction": "up"
+        "value": "23,879",
+        "change": "−2.25%",
+        "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "50,198",
-        "change": "−1.11%",
+        "value": "49,097",
+        "change": "−2.19%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.07%",
-        "change": "−4 bp",
+        "value": "5.05%",
+        "change": "−1 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,711",
-        "change": "−0.82%",
+        "value": "$3,661",
+        "change": "−2.17%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Nvidia Beats Expectations With a Massive $116 Billion Quarter",
-    "body": "Nvidia posted a record $116 billion in third-quarter revenue, comfortably topping Wall Street estimates and forecasting strong continued demand for AI computing. Despite the blockbuster numbers, the stock slipped over 1% as investors processed the abrupt departure of co-founder Jensen Huang and a new short-seller bet targeting the chipmaker's ties to China.",
+    "headline": "Anthropic raises $81.3 billion in record-breaking Nasdaq debut",
+    "body": "Artificial intelligence company Anthropic priced its initial public offering at $83 per share, raising $81.3 billion. The offering gives the Claude chatbot creator a market valuation of over $1.5 trillion. It tops SpaceX's previous record fundraising haul of $75 billion.",
     "sources": [
       {
-        "name": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/markets/post-huang-jitters-nvidia-share-price-pares-early-gains-slip-over-1-even-as-record-116b-quarter-tops-estimates-12345434"
-      },
-      {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-stocks-hold-steadier-after-nvidia-says-it-still-sees-strong-growth-ahead/articleshow/135966205.cms"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/"
       }
     ],
-    "why": "Nvidia remains the bellwether for the entire tech and AI sector. Keeping tabs on its supply chain and investor sentiment gives you a baseline for how institutional money views tech valuations in your finance classes.",
-    "kicker": "Markets + Earnings",
+    "why": "Massive capital inflows into AI set public market benchmarks you will analyze in corporate finance classes and track for venture investments.",
+    "kicker": "AI + IPOs",
     "figures": [
       {
-        "value": "$116B",
-        "label": "Q3 revenue"
+        "value": "$81.3 billion",
+        "label": "raised in IPO"
       },
       {
-        "value": "1.1%",
-        "label": "stock slip"
+        "value": "$1.5 trillion",
+        "label": "valuation"
+      },
+      {
+        "value": "$83",
+        "label": "per share price"
       }
     ]
   },
@@ -77,30 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Pending Home Sales Drop 4.7% as Market Freezes",
-          "body": "Two new housing reports show activity slowing down further as persistent high mortgage rates and inflation strain builders and buyers alike.",
+          "headline": "Middle East war cuts 2.8 billion barrels from global oil supply",
+          "body": "The International Energy Agency reported that the war in the Middle East has removed 2.8 billion barrels of oil and 60 billion cubic meters of natural gas from global markets. The agency warned the disruption could permanently reshape energy markets.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html"
+              "name": "Crude Oil Prices Today | OilPrice.com",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html"
             }
           ],
-          "why": "High interest rates affect everything from commercial real estate valuations to consumer spending patterns. It is a key macroeconomic constraint to keep in mind for equity research."
+          "why": "Energy disruptions drive inflation trends and central bank rate decisions, which directly impact macroeconomic models in business school."
         },
         {
-          "headline": "Tech Outages Spark Costco Panic Buying",
-          "body": "A series of recent infrastructure and tech outages at major airlines, banks, and apps has consumers panic buying emergency supplies, giving Costco a measurable sales boost.",
+          "headline": "Elon Musk regrets spending $500 million on midterm elections",
+          "body": "Billionaire Elon Musk stated he felt foolish after spending nearly $500 million on the 2026 midterm elections following poor Republican results. Speaking at the New York Times DealBook Summit, he added that he does not consider himself part of the MAGA movement.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Politics/musk-regrets-500-million-midterm-elections-spending-hes/story?id=138270985"
             },
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/world-nation/story/2026-11-18/outages-alarm-vulnerabilities-critical-infrastructure"
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
             }
           ],
-          "why": "Consumer behavior changes instantly when digital infrastructure stumbles. This is a fascinating real-world case study in supply chain and retail resilience during unexpected shocks."
+          "why": "This highlights corporate leadership and brand risk when executives deploy massive personal capital into political campaigns."
         }
       ]
     },
@@ -109,34 +109,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic Prices Its IPO Ahead of Thursday Nasdaq Debut",
-          "body": "Anthropic is pricing its highly anticipated initial public offering, with retail investors expected to pour hundreds of millions into the AI leader's first day of trading under the ticker symbol ANT.",
+          "headline": "Take-Two stock jumps 6% following GTA VI release",
+          "body": "Take-Two Interactive Software shares rose over 6% to $216.61 as reviews for Grand Theft Auto VI went live. The game logged an estimated 17 million pre-launch sales.",
           "sources": [
             {
-              "name": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/article/why-the-anthropic-ipo-could-be-a-trap-for-investors-135504884.html"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait"
             },
             {
-              "name": "The News International",
-              "url": "https://www.thenews.com.pk/latest/1424138-anthropic-ipo-everything-investors-need-to-know-ahead-of-highly-anticipated-debut"
-            },
-            {
-              "name": "TNW",
-              "url": "https://thenextweb.com/news/retail-buying-in-anthropics-ipo-could-double-spacexs-debut-cnbc-reports"
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece"
             }
           ],
-          "why": "Watching a major AI pure-play hit the public markets gives you a front-row seat to how institutional and retail capital value frontier AI labs compared to legacy tech giants."
+          "why": "Understanding how major consumer entertainment rollouts drive public equity valuations is useful for evaluating tech stock performance."
         },
         {
-          "headline": "NVIDIA Drivers Face Complaints Over Excessive SSD Writes",
-          "body": "Users are reporting that recent GeForce drivers are causing continuous data writes of up to 30GB per hour to system drives, creating a hardware bug similar to a recent AMD issue.",
+          "headline": "23-year-old founder sells AI startup for $4.5 billion",
+          "body": "Yash Patil, a 23-year-old Stanford dropout, agreed to sell his startup to Palo Alto Networks for $4.5 billion. Patil will now head the cybersecurity firm's artificial intelligence unit.",
           "sources": [
             {
-              "name": "Wccftech",
-              "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/markets/yash-patil-23-year-old-indian-origin-stanford-dropout-who-left-openai-built-rs-40000-crore-startup-to-head-ai-at-palo-alto-14084633.html"
             }
           ],
-          "why": "Quality control and driver stability are critical for hardware heavyweights. Hardware bugs can quickly erode consumer trust and hurt hardware adoption cycles."
+          "why": "Demonstrates how young founders can turn early AI projects into major corporate acquisitions and executive leadership roles."
         }
       ]
     },
@@ -145,30 +141,15 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Luxury Goods Sales Projected to Return to Growth",
-          "body": "Bain & Company's annual industry outlook predicts personal luxury goods sales will return to growth this year following a two-year decline.",
+          "headline": "Mid-tier accounting firms outpace shrinking Big Four",
+          "body": "Revenue across Australia's top accounting practices reached $15.6 billion, but Deloitte, EY, KPMG, and PwC contracted by 1.6% combined amid slow consulting demand. Mid-tier and smaller firms grew revenue 9% to $6.55 billion.",
           "sources": [
             {
-              "name": "CP24 Toronto",
-              "url": "https://www.cp24.com/news/money/2026/11/18/luxury-goods-sales-seen-returning-to-growth-in-2026-but-outlook-fragile/"
+              "name": "Australian Financial Review",
+              "url": "https://www.afr.com/companies/professional-services/big-four-accounting-firms-shrink-as-mid-tiers-surge-on-scandal-fallout-20261119-p61det"
             }
           ],
-          "why": "Consulting firms like Bain publish these definitive industry trackers. Reading them helps you understand how top-tier management consultants structure market sizing and demand forecasts."
-        },
-        {
-          "headline": "Bosses Openly Admit AI Is Helping Them Cut Entry-Level Jobs",
-          "body": "A growing number of employers report that artificial intelligence tools are actively helping them eliminate positions, placing a specific squeeze on graduate and entry-level hiring.",
-          "sources": [
-            {
-              "name": "LADbible",
-              "url": "https://www.ladbible.com/technology/ai-apocalypse-half-bosses-cut-jobs-553205-20261116"
-            },
-            {
-              "name": "Business Today",
-              "url": "https://www.businesstoday.in/technology/news/story/freshers-are-not-disappearing-their-jobs-are-changing-cognizant-india-chief-on-ai-hiring-567581-2026-11-16"
-            }
-          ],
-          "why": "As a business student, knowing how AI tools reshape corporate headcount helps you target internships in functions less vulnerable to immediate automation."
+          "why": "If you are targeting consulting internships, mid-tier firms are expanding their market share and entry-level hiring while traditional giants tighten budgets."
         }
       ]
     },
@@ -177,12 +158,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Men's Basketball Falls to Stanford in First Defeat",
-          "body": "The Anteaters led for the bulk of the game but dropped a close 65-61 decision to Stanford, suffering their first loss of the season.",
+          "headline": "UC Irvine opens Disability Cultural Center on campus",
+          "body": "UC Irvine established a new Disability Cultural Center under director Naty Rico to build an inclusive community and support students with disabilities.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
             }
           ]
         }
@@ -193,12 +174,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Carlos Alcaraz Overtakes Daniil Medvedev at ATP Finals",
-          "body": "World number three Carlos Alcaraz eased past Daniil Medvedev 6-2 6-4 in Turin to move to the brink of the ATP Finals semi-finals.",
+          "headline": "Ash Barty selected for International Tennis Hall of Fame",
+          "body": "Three-time Grand Slam champion Ash Barty will be inducted into the International Tennis Hall of Fame in 2027, five years after her retirement at age 25.",
           "sources": [
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/18/tennis-alcaraz-overpowers-medvedev-to-edge-closer-to-last-four"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/tennis-legends-ash-barty-shingo-kunieda-to-join-international-hall-of-fame-in-2027-a001-w02/"
             }
           ]
         }
@@ -206,51 +187,51 @@
     }
   ],
   "term": {
-    "name": "Short-Seller",
-    "definition": "An investor who borrows a stock and sells it immediately, hoping the price will drop so they can buy it back cheaper later, return the borrowed shares, and pocket the difference. Muddy Waters used this exact strategy to bet against Nvidia ahead of its earnings report.",
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO occurs when a private company sells stock to public investors on an exchange for the first time. Companies use IPOs to raise cash for growth and provide liquidity to early investors. Anthropic completed the largest IPO in history, raising $81.3 billion at a valuation over $1.5 trillion.",
     "sources": [
       {
-        "name": "Business Insider",
-        "url": "https://www.businessinsider.com/short-seller-nvidia-china-smci-gpu-sales-nvda-earnings-2026-11"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/"
       }
     ]
   },
   "serve": {
-    "headline": "Humyn Labs raised $47 million in Series A funding to build physical AI training data",
-    "body": "The startup provides real-world data and simulated environments to help U.S. robotics and AI companies train models for physical spaces like warehouses and factories. The round was backed by venture debt firms Lighthouse Canton and Trifecta Capital.",
+    "headline": "BrightAI raises $97M to bring AI sensors to physical infrastructure",
+    "body": "Palo Alto startup BrightAI secured $97 million in funding led by Smith Point Capital. The company deploys smart sensors, autonomous robots, and drones to help industrial operators spot equipment failures before outages occur.",
     "questions": [
-      "How would you price a data-as-a-service product for physical AI companies?",
-      "What customer acquisition channels work best when selling deep tech infrastructure to U.S. enterprises from abroad?",
-      "How does a startup build a defensible moat when competitors can also collect warehouse video data?"
+      "How can hardware-software startups convince traditional utility companies to adopt new AI sensors?",
+      "What operational data would UCI facilities need to monitor in real time to prevent campus power outages?",
+      "Is it smarter for an AI infrastructure startup to build custom hardware or partner with existing robot makers?"
     ],
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/ai/artificial-intelligence/humyn-labs-raises-47-million-physical-ai-data-platform-11794980153757.html"
-      },
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/18/brightai-raises-97m-to-bring-physical-ai-to-critical-infrastructure-using-robots-drones-and-smart-sensors/"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Nvidia posts a record $116B quarter.",
-      "blurb": "The chip giant beat Wall Street estimates, but its stock slipped amid executive shifts."
+      "headline": "Anthropic raises $81.3 billion in record-breaking Nasdaq debut.",
+      "blurb": "The AI lab achieved a valuation over $1.5 trillion, surpassing SpaceX's previous fundraising record."
     },
     {
-      "headline": "Anthropic prices its massive IPO.",
-      "blurb": "The AI leader hits the Nasdaq under ticker ANT with heavy retail interest."
+      "headline": "23-year-old Stanford dropout sells startup to Palo Alto Networks for $4.5 billion.",
+      "blurb": "Yash Patil will lead AI initiatives at the cybersecurity giant following the acquisition."
     },
     {
-      "headline": "Housing market faces a bleak winter.",
-      "blurb": "Pending home sales dropped 4.7% as high mortgage rates freeze buyers."
+      "headline": "Take-Two shares jump 6% as GTA VI launches worldwide.",
+      "blurb": "Strong reviews and 17 million pre-launch sales boosted the video game publisher."
     },
     {
-      "headline": "Bosses admit AI is squeezing entry-level jobs.",
-      "blurb": "Over half of surveyed executives say AI is helping them cut corporate headcount."
+      "headline": "Big Four consulting firms shrink while mid-tier practices grow.",
+      "blurb": "Sluggish consulting demand caused Big Four revenue to drop 1.6% while smaller firms grew 9%."
+    },
+    {
+      "headline": "Middle East war cuts 2.8 billion barrels from global oil supply.",
+      "blurb": "The IEA warned that supply losses could permanently alter international energy markets."
     }
   ],
-  "emailQuestion": "How would you price a data-as-a-service product for physical AI companies?"
+  "emailQuestion": "How can hardware-software startups convince traditional utility companies to adopt new AI sensors?"
 }

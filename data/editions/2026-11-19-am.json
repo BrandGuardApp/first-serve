@@ -1,0 +1,237 @@
+{
+  "id": "2026-11-19-am",
+  "slot": "morning",
+  "date": "2026-11-19",
+  "dateLabel": "Thu, Nov 19, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-19T21:21:36.697Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic breaks IPO records, Take-Two surges on GTA VI, and mid-tier accounting firms gain ground.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 19",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,176",
+        "change": "−2.02%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "23,879",
+        "change": "−2.25%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "49,097",
+        "change": "−2.19%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "5.05%",
+        "change": "−1 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,661",
+        "change": "−2.17%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic raises $81.3 billion in record-breaking Nasdaq debut",
+    "body": "Artificial intelligence company Anthropic priced its initial public offering at $83 per share, raising $81.3 billion. The offering gives the Claude chatbot creator a market valuation of over $1.5 trillion. It tops SpaceX's previous record fundraising haul of $75 billion.",
+    "sources": [
+      {
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/"
+      }
+    ],
+    "why": "Massive capital inflows into AI set public market benchmarks you will analyze in corporate finance classes and track for venture investments.",
+    "kicker": "AI + IPOs",
+    "figures": [
+      {
+        "value": "$81.3 billion",
+        "label": "raised in IPO"
+      },
+      {
+        "value": "$1.5 trillion",
+        "label": "valuation"
+      },
+      {
+        "value": "$83",
+        "label": "per share price"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Middle East war cuts 2.8 billion barrels from global oil supply",
+          "body": "The International Energy Agency reported that the war in the Middle East has removed 2.8 billion barrels of oil and 60 billion cubic meters of natural gas from global markets. The agency warned the disruption could permanently reshape energy markets.",
+          "sources": [
+            {
+              "name": "Crude Oil Prices Today | OilPrice.com",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html"
+            }
+          ],
+          "why": "Energy disruptions drive inflation trends and central bank rate decisions, which directly impact macroeconomic models in business school."
+        },
+        {
+          "headline": "Elon Musk regrets spending $500 million on midterm elections",
+          "body": "Billionaire Elon Musk stated he felt foolish after spending nearly $500 million on the 2026 midterm elections following poor Republican results. Speaking at the New York Times DealBook Summit, he added that he does not consider himself part of the MAGA movement.",
+          "sources": [
+            {
+              "name": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Politics/musk-regrets-500-million-midterm-elections-spending-hes/story?id=138270985"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
+            }
+          ],
+          "why": "This highlights corporate leadership and brand risk when executives deploy massive personal capital into political campaigns."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Take-Two stock jumps 6% following GTA VI release",
+          "body": "Take-Two Interactive Software shares rose over 6% to $216.61 as reviews for Grand Theft Auto VI went live. The game logged an estimated 17 million pre-launch sales.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece"
+            }
+          ],
+          "why": "Understanding how major consumer entertainment rollouts drive public equity valuations is useful for evaluating tech stock performance."
+        },
+        {
+          "headline": "23-year-old founder sells AI startup for $4.5 billion",
+          "body": "Yash Patil, a 23-year-old Stanford dropout, agreed to sell his startup to Palo Alto Networks for $4.5 billion. Patil will now head the cybersecurity firm's artificial intelligence unit.",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/markets/yash-patil-23-year-old-indian-origin-stanford-dropout-who-left-openai-built-rs-40000-crore-startup-to-head-ai-at-palo-alto-14084633.html"
+            }
+          ],
+          "why": "Demonstrates how young founders can turn early AI projects into major corporate acquisitions and executive leadership roles."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Mid-tier accounting firms outpace shrinking Big Four",
+          "body": "Revenue across Australia's top accounting practices reached $15.6 billion, but Deloitte, EY, KPMG, and PwC contracted by 1.6% combined amid slow consulting demand. Mid-tier and smaller firms grew revenue 9% to $6.55 billion.",
+          "sources": [
+            {
+              "name": "Australian Financial Review",
+              "url": "https://www.afr.com/companies/professional-services/big-four-accounting-firms-shrink-as-mid-tiers-surge-on-scandal-fallout-20261119-p61det"
+            }
+          ],
+          "why": "If you are targeting consulting internships, mid-tier firms are expanding their market share and entry-level hiring while traditional giants tighten budgets."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine opens Disability Cultural Center on campus",
+          "body": "UC Irvine established a new Disability Cultural Center under director Naty Rico to build an inclusive community and support students with disabilities.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Ash Barty selected for International Tennis Hall of Fame",
+          "body": "Three-time Grand Slam champion Ash Barty will be inducted into the International Tennis Hall of Fame in 2027, five years after her retirement at age 25.",
+          "sources": [
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/tennis-legends-ash-barty-shingo-kunieda-to-join-international-hall-of-fame-in-2027-a001-w02/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Initial Public Offering (IPO)",
+    "definition": "An IPO occurs when a private company sells stock to public investors on an exchange for the first time. Companies use IPOs to raise cash for growth and provide liquidity to early investors. Anthropic completed the largest IPO in history, raising $81.3 billion at a valuation over $1.5 trillion.",
+    "sources": [
+      {
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "BrightAI raises $97M to bring AI sensors to physical infrastructure",
+    "body": "Palo Alto startup BrightAI secured $97 million in funding led by Smith Point Capital. The company deploys smart sensors, autonomous robots, and drones to help industrial operators spot equipment failures before outages occur.",
+    "questions": [
+      "How can hardware-software startups convince traditional utility companies to adopt new AI sensors?",
+      "What operational data would UCI facilities need to monitor in real time to prevent campus power outages?",
+      "Is it smarter for an AI infrastructure startup to build custom hardware or partner with existing robot makers?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/18/brightai-raises-97m-to-bring-physical-ai-to-critical-infrastructure-using-robots-drones-and-smart-sensors/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic raises $81.3 billion in record-breaking Nasdaq debut.",
+      "blurb": "The AI lab achieved a valuation over $1.5 trillion, surpassing SpaceX's previous fundraising record."
+    },
+    {
+      "headline": "23-year-old Stanford dropout sells startup to Palo Alto Networks for $4.5 billion.",
+      "blurb": "Yash Patil will lead AI initiatives at the cybersecurity giant following the acquisition."
+    },
+    {
+      "headline": "Take-Two shares jump 6% as GTA VI launches worldwide.",
+      "blurb": "Strong reviews and 17 million pre-launch sales boosted the video game publisher."
+    },
+    {
+      "headline": "Big Four consulting firms shrink while mid-tier practices grow.",
+      "blurb": "Sluggish consulting demand caused Big Four revenue to drop 1.6% while smaller firms grew 9%."
+    },
+    {
+      "headline": "Middle East war cuts 2.8 billion barrels from global oil supply.",
+      "blurb": "The IEA warned that supply losses could permanently alter international energy markets."
+    }
+  ],
+  "emailQuestion": "How can hardware-software startups convince traditional utility companies to adopt new AI sensors?"
+}
