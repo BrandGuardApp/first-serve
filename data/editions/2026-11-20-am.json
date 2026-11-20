@@ -1,0 +1,241 @@
+{
+  "id": "2026-11-20-am",
+  "slot": "morning",
+  "date": "2026-11-20",
+  "dateLabel": "Fri, Nov 20, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-20T19:56:43.928Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic's record IPO debut, Intuit sells Mailchimp for $3.7B, and Model ML raises $250M.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "2:55 PM ET, Nov 20",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "6,971",
+        "change": "−2.86%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "22,841",
+        "change": "−4.35%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "48,509",
+        "change": "−1.20%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.92%",
+        "change": "−13 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,531",
+        "change": "−4.18%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic completes record $107B IPO as tech stocks pull back",
+    "body": "Anthropic went public in a record-setting $107.3 billion offering that valued the company at $1.8 trillion. Shares opened at $111.50 before closing at $97.17 on its first day. The debut coincided with a broader market decline, with the Dow dropping 1,101 points.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
+      },
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+      },
+      {
+        "name": "ThePrint",
+        "url": "https://theprint.in/world/anthropic-shares-fall-5-after-record-107-3-billion-ipo/3103950/"
+      }
+    ],
+    "why": "Understanding how public markets price massive AI companies gives you critical context for valuation models in your finance classes and potential tech investments.",
+    "kicker": "AI & Markets",
+    "figures": [
+      {
+        "value": "$107.3B",
+        "label": "Capital raised in IPO"
+      },
+      {
+        "value": "$1.8T",
+        "label": "Valuation at debut"
+      },
+      {
+        "value": "$97.17",
+        "label": "Day one closing price"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Intuit sells Mailchimp to Bending Spoons for $3.7B",
+          "body": "Intuit agreed to sell email marketing service Mailchimp to Italian tech firm Bending Spoons for about $3.7 billion. Intuit bought the company for $12 billion just five years ago.",
+          "sources": [
+            {
+              "name": "The Atlanta Journal-Constitution",
+              "url": "https://www.ajc.com/business/2026/11/mailchimp-sold-to-bending-spoons-for-37b-in-major-atlanta-tech-deal/"
+            }
+          ],
+          "why": "Analyzing huge corporate write-downs helps you understand real-world M&A deal structures and valuation errors in business strategy."
+        },
+        {
+          "headline": "Trump discloses stock trades in Nvidia and SpaceX",
+          "body": "President Donald Trump disclosed hundreds of stock and bond transactions from September. The filings showed investments in major companies like Nvidia and SpaceX.",
+          "sources": [
+            {
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/trump-stock-trades-nvidia-spacex-financial-disclosure-12744178"
+            }
+          ],
+          "why": "Monitoring how political figures hold assets in regulated tech firms helps you evaluate policy risk in market investing."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Apple is building AI agents to operate Macs",
+          "body": "Apple is working on AI agents that can control Mac applications, write code, and navigate websites for users. Bloomberg reported the project after spotting recent job postings at the company.",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+            }
+          ],
+          "why": "Operating system level AI agents could change how software startups build apps and how tech consultants evaluate desktop productivity."
+        },
+        {
+          "headline": "OpenAI begins testing Dots with ChatGPT Plus subscribers",
+          "body": "OpenAI has started testing its Dots feature with select ChatGPT Plus users. The tool was previously restricted to higher tier Pro, Business, and Enterprise accounts.",
+          "sources": [
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/"
+            }
+          ],
+          "why": "Tracking how top AI platforms roll out features helps you analyze product tiering and monetization strategies in tech."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey report shows sustainability risks threaten 20% of EBITDA",
+          "body": "A new McKinsey report shows that sustainability risks and opportunities can impact corporate free cash flow by up to 20% of EBITDA. The firm advised chief executives to personally manage sustainability strategies.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+            }
+          ],
+          "why": "Consulting interviews focus heavily on core metrics like EBITDA, so knowing industry benchmarks will sharpen your case interview answers."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine opens new Disability Cultural Center",
+          "body": "UC Irvine has launched a Disability Cultural Center directed by Naty Rico. The center offers a supportive space to destigmatize disability and help Anteaters thrive on campus.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Ben Shelton advances to ATP Finals semifinals",
+          "body": "Ben Shelton defeated Spain's Rafael Jodar 7-6(8), 7-5 in Turin. The victory secured his spot in the ATP Finals semifinals after Arthur Fils lost his opening set to Alexander Zverev.",
+          "sources": [
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/atp-finals-shelton-zverev-alcaraz-reach-semifinals-after-dramatic-group-stage-a001-w02/"
+            },
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/sports/ben-shelton-beats-jodar-in-straight-sets-advances-to-nitto-atp-finals-last-four/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "EBITDA",
+    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a company's operational profitability by stripping away tax structures and accounting decisions. McKinsey highlighted today that sustainability factors could impact long-term cash flows by up to 20% of EBITDA.",
+    "sources": [
+      {
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Model ML raises $250M at $1.5B valuation for finance AI agents",
+    "body": "London startup Model ML raised $250 million in Series B funding co-led by General Atlantic and QED Investors. The company builds AI agents specifically tailored for consultants, bankers, and investors.",
+    "questions": [
+      "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?",
+      "How can a niche vertical AI tool defend its pricing against general models like ChatGPT or Claude?",
+      "If you were starting a student venture at UCI today, which specific industry workflow would you automate first?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic wraps record $107B IPO as tech stocks drop.",
+      "blurb": "Shares closed at $97.17 on day one while the Dow fell over 1,100 points."
+    },
+    {
+      "headline": "Intuit sells Mailchimp for $3.7B after paying $12B.",
+      "blurb": "Italian firm Bending Spoons acquired the marketing platform at a huge discount."
+    },
+    {
+      "headline": "Apple is developing AI agents to run Mac applications.",
+      "blurb": "Job listings reveal plans for software that can browse websites and write code."
+    },
+    {
+      "headline": "Model ML lands $250M to build AI agents for consultants.",
+      "blurb": "The London startup hit a $1.5 billion valuation to automate financial workflows."
+    },
+    {
+      "headline": "UC Irvine launches a new Disability Cultural Center.",
+      "blurb": "Director Naty Rico is building a judgment-free space for students on campus."
+    }
+  ],
+  "emailQuestion": "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?"
+}

@@ -1,69 +1,81 @@
 {
-  "id": "2026-11-19-pm",
-  "slot": "evening",
-  "date": "2026-11-19",
-  "dateLabel": "Thu, Nov 19, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-20T02:59:33.855Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "SpaceX inks $120B Anthropic pact, Walmart raises guidance, and Anteaters battle Stanford.",
-  "storyCount": 11,
+  "id": "2026-11-20-am",
+  "slot": "morning",
+  "date": "2026-11-20",
+  "dateLabel": "Fri, Nov 20, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-20T19:56:43.928Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Anthropic's record IPO debut, Intuit sells Mailchimp for $3.7B, and Model ML raises $250M.",
+  "storyCount": 10,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 19",
+    "asOf": "2:55 PM ET, Nov 20",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,176",
-        "change": "−2.02%",
+        "value": "6,971",
+        "change": "−2.86%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "23,879",
-        "change": "−2.25%",
+        "value": "22,841",
+        "change": "−4.35%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "49,097",
-        "change": "−2.19%",
+        "value": "48,509",
+        "change": "−1.20%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "5.05%",
-        "change": "−1 bp",
+        "value": "4.92%",
+        "change": "−13 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,555",
-        "change": "−3.55%",
+        "value": "$3,531",
+        "change": "−4.18%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "SpaceX Inks $120.5B Deal with Anthropic",
-    "body": "Anthropic's regulatory S-1 filing revealed a massive agreement with SpaceX worth up to $120.5 billion. The deal pays SpaceX roughly $3.1 billion per month as Claude's developer scales operations. This partnership pairs Elon Musk's space company with an AI lab he previously criticized.",
+    "headline": "Anthropic completes record $107B IPO as tech stocks pull back",
+    "body": "Anthropic went public in a record-setting $107.3 billion offering that valued the company at $1.8 trillion. Shares opened at $111.50 before closing at $97.17 on its first day. The debut coincided with a broader market decline, with the Dow dropping 1,101 points.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/misanthropic-evil-elon-musk-spacex-144500945.html"
-      }
-    ],
-    "why": "For venture capital and tech strategy classes, this shows how leading AI labs are spending huge capital reserves on computing and satellite infrastructure.",
-    "kicker": "AI Deals",
-    "figures": [
-      {
-        "value": "$120.5B",
-        "label": "Contract ceiling"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
       },
       {
-        "value": "$3.1B",
-        "label": "Monthly payment"
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+      },
+      {
+        "name": "ThePrint",
+        "url": "https://theprint.in/world/anthropic-shares-fall-5-after-record-107-3-billion-ipo/3103950/"
+      }
+    ],
+    "why": "Understanding how public markets price massive AI companies gives you critical context for valuation models in your finance classes and potential tech investments.",
+    "kicker": "AI & Markets",
+    "figures": [
+      {
+        "value": "$107.3B",
+        "label": "Capital raised in IPO"
+      },
+      {
+        "value": "$1.8T",
+        "label": "Valuation at debut"
+      },
+      {
+        "value": "$97.17",
+        "label": "Day one closing price"
       }
     ]
   },
@@ -73,34 +85,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Walmart Lifts Outlook Again on Broad Customer Gains",
-          "body": "Walmart beat third-quarter expectations and raised its full-year financial outlook for the third consecutive time. The company drew shoppers across all income brackets looking to cut costs amid elevated grocery and consumer prices.",
+          "headline": "Intuit sells Mailchimp to Bending Spoons for $3.7B",
+          "body": "Intuit agreed to sell email marketing service Mailchimp to Italian tech firm Bending Spoons for about $3.7 billion. Intuit bought the company for $12 billion just five years ago.",
           "sources": [
             {
-              "name": "ABC News - Breaking News, Latest News and Videos",
-              "url": "https://abcnews.com/Business/wireStory/walmart-raises-outlook-year-3rd-time-after-solid-138283336"
-            },
-            {
-              "name": "Investor's Business Daily",
-              "url": "https://www.investors.com/news/walmart-stock-q3-2027-earnings/"
+              "name": "The Atlanta Journal-Constitution",
+              "url": "https://www.ajc.com/business/2026/11/mailchimp-sold-to-bending-spoons-for-37b-in-major-atlanta-tech-deal/"
             }
           ],
-          "why": "In retail consulting and corporate finance, Walmart proves that value-oriented scale and pricing power can drive growth through changing macro environments."
+          "why": "Analyzing huge corporate write-downs helps you understand real-world M&A deal structures and valuation errors in business strategy."
         },
         {
-          "headline": "Goldman Sachs Bullish on India with Overweight Upgrade",
-          "body": "Goldman Sachs upgraded Indian equities to Overweight, setting a December 2027 Nifty target of 28,500. Foreign portfolio investors channeled a record 84,291 crore rupees into the market during the first half of November, led by financials and autos.",
+          "headline": "Trump discloses stock trades in Nvidia and SpaceX",
+          "body": "President Donald Trump disclosed hundreds of stock and bond transactions from September. The filings showed investments in major companies like Nvidia and SpaceX.",
           "sources": [
             {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/market/stock-market-news/goldman-sachs-turns-bullish-on-india-stock-market-upgrades-rating-to-overweight-sets-nifty-target-of-28500-11795099232497.html"
-            },
-            {
-              "name": "Business Standard",
-              "url": "https://www.business-standard.com/markets/news/fpis-pour-record-84k-cr-in-1st-half-of-nov-financials-auto-rake-in-most-126111901252_1.html"
+              "name": "Newsweek",
+              "url": "https://www.newsweek.com/trump-stock-trades-nvidia-spacex-financial-disclosure-12744178"
             }
           ],
-          "why": "Emerging market equities are central to portfolio diversification, and India's inflows highlight where institutional fund managers see long-term corporate earnings growth."
+          "why": "Monitoring how political figures hold assets in regulated tech firms helps you evaluate policy risk in market investing."
         }
       ]
     },
@@ -109,26 +113,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "EU Battling Month-Long Cyberattack Driven by AI",
-          "body": "A cyberattack executed using artificial intelligence struck a major European Union institution in October. EU cybersecurity officials confirmed that several digital tools remain offline nearly a month later as investigations continue.",
+          "headline": "Apple is building AI agents to operate Macs",
+          "body": "Apple is working on AI agents that can control Mac applications, write code, and navigate websites for users. Bloomberg reported the project after spotting recent job postings at the company.",
           "sources": [
             {
-              "name": "Bnn Bloomberg",
-              "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/19/a-cyberattack-using-artificial-intelligence-targeted-the-eu-in-october-official-says/"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
             }
           ],
-          "why": "Cyber risk advisory is one of the fastest-growing niches in management consulting, and automated exploits create urgent demand for enterprise defense audits."
+          "why": "Operating system level AI agents could change how software startups build apps and how tech consultants evaluate desktop productivity."
         },
         {
-          "headline": "Pebble Introduces Index 01 Single-Button Smart Ring",
-          "body": "Hardware brand Pebble unveiled Index 01, a stainless steel ring with a single rubber-covered physical button. The low-tech wearable is built for quick AI voice inputs without complicated sensors or screens.",
+          "headline": "OpenAI begins testing Dots with ChatGPT Plus subscribers",
+          "body": "OpenAI has started testing its Dots feature with select ChatGPT Plus users. The tool was previously restricted to higher tier Pro, Business, and Enterprise accounts.",
           "sources": [
             {
-              "name": "Engadget",
-              "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/"
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/"
             }
           ],
-          "why": "For startup building, this is a clean case study in unbundling complex hardware into a focused, low-cost product that solves one task well."
+          "why": "Tracking how top AI platforms roll out features helps you analyze product tiering and monetization strategies in tech."
         }
       ]
     },
@@ -137,26 +141,15 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Cognizant India Chief Says AI Will Reshape, Not Kill, Junior Roles",
-          "body": "Cognizant India chairman Rajesh Varrier stated that entry-level positions are not disappearing, but rather evolving to demand new technical skills. He pointed to a 2026 workforce study showing that fresh graduates who leverage AI tools effectively remain in strong demand.",
+          "headline": "McKinsey report shows sustainability risks threaten 20% of EBITDA",
+          "body": "A new McKinsey report shows that sustainability risks and opportunities can impact corporate free cash flow by up to 20% of EBITDA. The firm advised chief executives to personally manage sustainability strategies.",
           "sources": [
             {
-              "name": "Business Today",
-              "url": "https://www.businesstoday.in/technology/news/story/freshers-are-not-disappearing-their-jobs-are-changing-cognizant-india-chief-on-ai-hiring-567581-2026-11-16"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
             }
           ],
-          "why": "When interviewing for internships, emphasize your ability to use AI for market research and data analysis rather than worrying about automation replacing entry-level analysts."
-        },
-        {
-          "headline": "AI Legal Lab Darrow Ranks on Deloitte Fast 500",
-          "body": "Legal intelligence lab Darrow placed 271st on the 2026 Deloitte Technology Fast 500 list. The ranking tracks rapid revenue growth among software firms that detect legal liability and regulatory exposure across industries.",
-          "sources": [
-            {
-              "name": "The Manila Times",
-              "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/ai-legal-exposure-management-leader-darrow-recognized-on-2026-deloitte-technology-fast-500/2474254"
-            }
-          ],
-          "why": "Deloitte's annual list serves as a practical recruiting target list for high-growth tech firms that need business analysts and operational talent."
+          "why": "Consulting interviews focus heavily on core metrics like EBITDA, so knowing industry benchmarks will sharpen your case interview answers."
         }
       ]
     },
@@ -165,12 +158,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "Anteaters Suffer First Loss in Tight Battle at Stanford",
-          "body": "The UC Irvine men's basketball team fell to 3-1 after a 65-61 road defeat against Stanford. The Anteaters led for the bulk of the night before the Cardinal closed the game on an 8-0 scoring run over the final 2:33.",
+          "headline": "UC Irvine opens new Disability Cultural Center",
+          "body": "UC Irvine has launched a Disability Cultural Center directed by Naty Rico. The center offers a supportive space to destigmatize disability and help Anteaters thrive on campus.",
           "sources": [
             {
-              "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
             }
           ]
         }
@@ -181,12 +174,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Jannik Sinner Seeking US Medical Opinion as Knee Concerns Mount",
-          "body": "Five-time Grand Slam champion Jannik Sinner is consulting specialists in the United States regarding a persistent knee injury. Potential surgery leaves his participation in the upcoming Australian Open in jeopardy.",
+          "headline": "Ben Shelton advances to ATP Finals semifinals",
+          "body": "Ben Shelton defeated Spain's Rafael Jodar 7-6(8), 7-5 in Turin. The victory secured his spot in the ATP Finals semifinals after Arthur Fils lost his opening set to Alexander Zverev.",
           "sources": [
             {
-              "name": "Times Now",
-              "url": "https://www.timesnownews.com/sports/tennis/jannik-sinners-australian-open-comeback-uncertain-as-knee-injury-raises-surgery-concerns-article-156537884"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/atp-finals-shelton-zverev-alcaraz-reach-semifinals-after-dramatic-group-stage-a001-w02/"
+            },
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/sports/ben-shelton-beats-jodar-in-straight-sets-advances-to-nitto-atp-finals-last-four/"
             }
           ]
         }
@@ -194,51 +191,51 @@
     }
   ],
   "term": {
-    "name": "Overweight",
-    "definition": "An investment rating indicating that an analyst expects an asset, sector, or country market to outperform its peers or benchmark index. Institutional portfolios following this guidance allocate a higher percentage of capital to that holding.",
+    "name": "EBITDA",
+    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a company's operational profitability by stripping away tax structures and accounting decisions. McKinsey highlighted today that sustainability factors could impact long-term cash flows by up to 20% of EBITDA.",
     "sources": [
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/market/stock-market-news/goldman-sachs-turns-bullish-on-india-stock-market-upgrades-rating-to-overweight-sets-nifty-target-of-28500-11795099232497.html"
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
       }
     ]
   },
   "serve": {
-    "headline": "Disseqt AI raised $8M to verify enterprise AI agents",
-    "body": "Dublin startup Disseqt AI secured $8 million in funding led by Gresham House Ventures to build safety and compliance monitoring systems for autonomous enterprise agents. The round attracted angel capital from cricket star Rahul Dravid as well as executives from OpenAI, Meta, and Salesforce.",
+    "headline": "Model ML raises $250M at $1.5B valuation for finance AI agents",
+    "body": "London startup Model ML raised $250 million in Series B funding co-led by General Atlantic and QED Investors. The company builds AI agents specifically tailored for consultants, bankers, and investors.",
     "questions": [
-      "If you launched an audit tool for student business projects at Merage, how would you test agent accuracy before client reviews?",
-      "What compliance checks must universities establish before adopting automated AI agents across campus services?",
-      "How can early-stage AI safety startups build enterprise sales pipelines before official regulatory mandates take effect?"
+      "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?",
+      "How can a niche vertical AI tool defend its pricing against general models like ChatGPT or Claude?",
+      "If you were starting a student venture at UCI today, which specific industry workflow would you automate first?"
     ],
     "sources": [
       {
-        "name": "NewsBytes",
-        "url": "https://www.newsbytesapp.com/news/business/dublin-startup-disseqt-ai-raises-8-million-including-rahul-dravid/tldr"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "SpaceX and Anthropic reveal a $120.5 billion compute agreement.",
-      "blurb": "Regulatory filings show monthly commitments of roughly $3.1 billion between the two tech giants."
+      "headline": "Anthropic wraps record $107B IPO as tech stocks drop.",
+      "blurb": "Shares closed at $97.17 on day one while the Dow fell over 1,100 points."
     },
     {
-      "headline": "Walmart raises its full-year guidance for the third consecutive quarter.",
-      "blurb": "Shoppers across all income groups drove strong sales gains by seeking discounts on everyday essentials."
+      "headline": "Intuit sells Mailchimp for $3.7B after paying $12B.",
+      "blurb": "Italian firm Bending Spoons acquired the marketing platform at a huge discount."
     },
     {
-      "headline": "European Union institutions hit by month-long AI cyberattack.",
-      "blurb": "Brussels officials confirmed that key internal digital tools remain disabled weeks after the breach."
+      "headline": "Apple is developing AI agents to run Mac applications.",
+      "blurb": "Job listings reveal plans for software that can browse websites and write code."
     },
     {
-      "headline": "Cognizant India leadership outlines the evolution of entry-level hiring.",
-      "blurb": "Junior business roles are shifting toward AI-augmented analysis rather than facing outright elimination."
+      "headline": "Model ML lands $250M to build AI agents for consultants.",
+      "blurb": "The London startup hit a $1.5 billion valuation to automate financial workflows."
     },
     {
-      "headline": "UC Irvine men's basketball drops a 65-61 heartbreaker to Stanford.",
-      "blurb": "The Anteaters controlled most of the game before the Cardinal finished with an 8-0 closing run."
+      "headline": "UC Irvine launches a new Disability Cultural Center.",
+      "blurb": "Director Naty Rico is building a judgment-free space for students on campus."
     }
   ],
-  "emailQuestion": "If you launched an audit tool for student business projects at Merage, how would you test agent accuracy before client reviews?"
+  "emailQuestion": "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?"
 }
