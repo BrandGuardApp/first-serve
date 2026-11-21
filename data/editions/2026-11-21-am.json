@@ -1,0 +1,268 @@
+{
+  "id": "2026-11-21-am",
+  "slot": "morning",
+  "date": "2026-11-21",
+  "dateLabel": "Sat, Nov 21, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-21T17:19:18.155Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Wall Street hits a market correction, Anthropic AI claims a math breakthrough, and campus hiring spikes.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 20",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "6,910",
+        "change": "−3.70%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "22,618",
+        "change": "−5.28%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "48,147",
+        "change": "−1.93%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.91%",
+        "change": "−14 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,515",
+        "change": "−4.62%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Massive AI Sell-Off Pushes Stocks Into Correction Territory",
+    "body": "U.S. stocks plunged on Friday as an artificial intelligence sell-off wiped out the Nasdaq's gains for the year. The Nasdaq dropped 5.28%, while the S&P 500 and Dow Jones Industrial Average officially entered correction territory by falling over 10% from their record highs. Around $4 trillion in market value has been erased across the AI sector during this market downturn.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+      },
+      {
+        "name": "Deadline",
+        "url": "https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137/"
+      },
+      {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4970784-fear-erupts-ai-stocks-tank-so-do-gold-silver-cryptos-nearly-everything-treasuries"
+      }
+    ],
+    "why": "Market downturns show why valuation discipline matters when evaluating tech growth. Pay attention to how public tech valuations adjust as you study financial modeling in your business classes.",
+    "kicker": "MARKETS + AI ROUT",
+    "figures": [
+      {
+        "value": "5.28%",
+        "label": "Nasdaq single-day drop"
+      },
+      {
+        "value": "$4T",
+        "label": "AI market value erased"
+      },
+      {
+        "value": "10%",
+        "label": "Drop from record highs for S&P 500"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Nvidia Shares Plunge 14% Following CEO Exit and SEC Scrutiny",
+          "body": "Nvidia stock suffered its worst week since 2008, dropping 14% on Friday to $125.53. The fall follows the sudden resignation of long-time CEO Jensen Huang and reports of SEC enforcement staff scrutinizing potential accounting issues.",
+          "sources": [
+            {
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/investing/2026/11/20/prediction-nvidia-stock-will-do-this-in-the-6-months-after-a-new-ceo-takes-over-according-to-history/"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/markets/23-percent-decline-in-a-week-three-reasons-behind-nvidia-share-prices-worst-plunge-since-2008-12357424"
+            }
+          ],
+          "why": "Executive exits and accounting probes can rapidly alter corporate valuations, showing how critical governance and audit transparency are for investor trust."
+        },
+        {
+          "headline": "U.S. Formally Ends Penny Production After 233 Years",
+          "body": "President Trump signed the Common Cents Act on Friday, officially ending the minting of the U.S. penny. The U.S. Mint reported that manufacturing each penny cost nearly four cents, making continued production economically wasteful.",
+          "sources": [
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580"
+            }
+          ],
+          "why": "This is a simple lesson in cost accounting: eliminating product lines where production costs exceed real value is standard operational turnaround strategy."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic Researcher Claims Claude Helped Solve Historic Math Problem",
+          "body": "An Anthropic researcher posted a four-page note claiming he collaborated with the Claude AI system to prove the Riemann Hypothesis. The 160-year-old math problem is one of seven Millennium Prize Problems carrying a $1 million prize.",
+          "sources": [
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/technology/anthropic-researcher-says-claude-helped-prove-one-of-maths-biggest-open-problems-12357451"
+            },
+            {
+              "name": "Deccan Herald",
+              "url": "https://www.deccanherald.com/technology/anthropic-mathematician-claims-to-have-solved-maths-most-famous-problem-riemann-hypothesis-4226294"
+            }
+          ],
+          "why": "If AI models can assist with advanced proofs, automated research tools could soon reshape complex quantitative modeling in finance and consulting."
+        },
+        {
+          "headline": "GTA VI Hardware Strain Causes Performance Drops on PS5",
+          "body": "The release of Grand Theft Auto VI is proving too demanding for some PlayStation 5 consoles, even when running at 30 frames per second. Players report frame rates dropping into the low 20s during intense gameplay scenes.",
+          "sources": [
+            {
+              "name": "TechPowerUp",
+              "url": "https://www.techpowerup.com/355064/gta-vi-proves-too-demanding-for-some-ps5-consoles-even-at-30-fps"
+            }
+          ],
+          "why": "High-end software releases often hit compute limits, illustrating how hardware capacity bottlenecks affect consumer tech product performance."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Campus Recruiting Offers Jump 15% for Class of 2027",
+          "body": "Top undergraduate business programs report a 15% increase in average salary packages for the Class of 2027. Major recruiters include consulting firms like McKinsey & Company, Bain & Company, and Deloitte, though selectivity remains very high.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/industry/services/education/class-of-2027-sees-surge-in-salary-packages-despite-stringent-hiring-processes-at-top-colleges/articleshow/136038476.cms"
+            }
+          ],
+          "why": "Top consulting firms are still raising pay for standout business undergrads, making early case prep and networking vital for future internship cycles."
+        },
+        {
+          "headline": "McKinsey Report Highlights Sustainability Cash Flow Risks",
+          "body": "A new McKinsey report indicates that sustainability risks and opportunities could impact a company's long-term free cash flow by up to 20% of EBITDA. The firm advises chief executives to take direct control of sustainability planning.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+            }
+          ],
+          "why": "Consultants regularly advise corporate leaders on financial risk exposure, a key strategic framework to understand when analyzing business models."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Destigmatizes Disability With New Cultural Center",
+          "body": "Director Naty Rico is creating a judgment-free community at UC Irvine's new Disability Cultural Center to support students and destigmatize disabilities across campus.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Mirra Andreeva Caps Breakout Season With WTA Finals Title",
+          "body": "19-year-old Mirra Andreeva won the WTA Finals in Indian Wells to complete a standout year, moving up to a career-high ranking of World No. 2.",
+          "sources": [
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/sport/tennis/mirra-andreeva-wta-finals-triumph-star-making-year-2026-form-titles/article71725927.ece"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Market Correction",
+    "definition": "A market correction occurs when a financial index or stock drops 10% or more from its recent peak. Yesterday, both the S&P 500 and the Dow Jones Industrial Average officially entered correction territory as a sharp sell-off in technology stocks dragged down the wider market.",
+    "sources": [
+      {
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+      },
+      {
+        "name": "The Hindu Business Line",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets/wall-street-selloff-deepens-as-dow-sp-500-enter-correction-nasdaq-plunges-528/article71727285.ece"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Everful raised $48.5M to streamline global retail sourcing",
+    "body": "Everful raised $48.5 million in venture funding to connect retail companies directly with Chinese manufacturers. The company focuses on solving unglamorous friction in factory sourcing and international supply chains.",
+    "questions": [
+      "How can software remove expensive middleman steps when importing physical goods from international factories?",
+      "What operational risks occur when a retail startup depends on manufacturers concentrated in a single country?",
+      "If you launched a consumer product at UCI, how would you manage supplier minimum order quantities early on?"
+    ],
+    "sources": [
+      {
+        "name": "TechStartups.com",
+        "url": "https://techstartups.com/2026/11/20/startup-funding-news-today-november-20-2026-archer-everful-metano-modern-industrials-satsure-more/"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "AI sell-off triggers market correction",
+      "blurb": "The Nasdaq fell 5.28% as tech stocks led a $4 trillion wipeout across the sector."
+    },
+    {
+      "headline": "Nvidia drops 14% amid accounting scrutiny",
+      "blurb": "The chipmaker hit its worst week since 2008 following the sudden exit of CEO Jensen Huang."
+    },
+    {
+      "headline": "Campus salary offers rise over 15%",
+      "blurb": "McKinsey, Bain, and Deloitte are boosting packages for business undergrads while raising selection standards."
+    },
+    {
+      "headline": "AI model tackles 160-year-old math problem",
+      "blurb": "An Anthropic researcher claims Claude helped prove the famous Riemann Hypothesis."
+    },
+    {
+      "headline": "Mirra Andreeva wins WTA Finals title",
+      "blurb": "The 19-year-old capped her breakout season by winning in Indian Wells and reaching World No. 2."
+    }
+  ],
+  "emailQuestion": "How can software remove expensive middleman steps when importing physical goods from international factories?"
+}
