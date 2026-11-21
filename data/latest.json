@@ -1,81 +1,73 @@
 {
-  "id": "2026-11-20-am",
-  "slot": "morning",
+  "id": "2026-11-20-pm",
+  "slot": "evening",
   "date": "2026-11-20",
   "dateLabel": "Fri, Nov 20, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-20T19:56:43.928Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Anthropic's record IPO debut, Intuit sells Mailchimp for $3.7B, and Model ML raises $250M.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-21T01:20:09.520Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic exercises its greenshoe option, ATP expands player payouts, and Signal fights screen-scraping AI.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "2:55 PM ET, Nov 20",
+    "asOf": "Close, Nov 20",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "6,971",
-        "change": "−2.86%",
+        "value": "6,910",
+        "change": "−3.70%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "22,841",
-        "change": "−4.35%",
+        "value": "22,618",
+        "change": "−5.28%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "48,509",
-        "change": "−1.20%",
+        "value": "48,147",
+        "change": "−1.93%",
         "direction": "down"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.92%",
-        "change": "−13 bp",
+        "value": "4.91%",
+        "change": "−14 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,531",
-        "change": "−4.18%",
+        "value": "$3,539",
+        "change": "−3.98%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Anthropic completes record $107B IPO as tech stocks pull back",
-    "body": "Anthropic went public in a record-setting $107.3 billion offering that valued the company at $1.8 trillion. Shares opened at $111.50 before closing at $97.17 on its first day. The debut coincided with a broader market decline, with the Dow dropping 1,101 points.",
+    "headline": "Anthropic pulls in $93.5 billion after underwriters exercise greenshoe option",
+    "body": "Underwriters for Anthropic officially exercised their overallotment option on Friday, lifting total funds raised in the stock offering to $93.5 billion. The artificial intelligence firm sold 1.127 billion shares at $83 each. The extra share allotment marks the final phase of the record public listing.",
     "sources": [
       {
         "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
-      },
-      {
-        "name": "CBS News",
-        "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
-      },
-      {
-        "name": "ThePrint",
-        "url": "https://theprint.in/world/anthropic-shares-fall-5-after-record-107-3-billion-ipo/3103950/"
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
       }
     ],
-    "why": "Understanding how public markets price massive AI companies gives you critical context for valuation models in your finance classes and potential tech investments.",
-    "kicker": "AI & Markets",
+    "why": "Understanding how investment banks use greenshoe allotments to meet demand is a core corporate finance topic you will see in Merage valuation courses and banking interviews.",
+    "kicker": "Capital Markets + IPOs",
     "figures": [
       {
-        "value": "$107.3B",
-        "label": "Capital raised in IPO"
+        "value": "$93.5B",
+        "label": "Total raised"
       },
       {
-        "value": "$1.8T",
-        "label": "Valuation at debut"
+        "value": "$83",
+        "label": "Price per share"
       },
       {
-        "value": "$97.17",
-        "label": "Day one closing price"
+        "value": "1.127B",
+        "label": "Shares sold"
       }
     ]
   },
@@ -85,26 +77,30 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Intuit sells Mailchimp to Bending Spoons for $3.7B",
-          "body": "Intuit agreed to sell email marketing service Mailchimp to Italian tech firm Bending Spoons for about $3.7 billion. Intuit bought the company for $12 billion just five years ago.",
+          "headline": "Cathie Wood's Ark Invest buys $91 million in Anthropic while trimming Nvidia",
+          "body": "Ark Invest scooped up nearly one million shares of Anthropic on its opening day across six funds, totaling about $90.8 million. At the same time, Ark sold 33,430 shares of chipmaker Nvidia.",
           "sources": [
             {
-              "name": "The Atlanta Journal-Constitution",
-              "url": "https://www.ajc.com/business/2026/11/mailchimp-sold-to-bending-spoons-for-37b-in-major-atlanta-tech-deal/"
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"
+            },
+            {
+              "name": "International Business Times",
+              "url": "https://www.ibtimes.com/ark-invest-buys-anthropic-shares-record-ipo-3810011"
             }
           ],
-          "why": "Analyzing huge corporate write-downs helps you understand real-world M&A deal structures and valuation errors in business strategy."
+          "why": "This is a clean case study in portfolio management: fund managers often trim hardware winners to reallocate cash into software and foundation models."
         },
         {
-          "headline": "Trump discloses stock trades in Nvidia and SpaceX",
-          "body": "President Donald Trump disclosed hundreds of stock and bond transactions from September. The filings showed investments in major companies like Nvidia and SpaceX.",
+          "headline": "Gold slides toward its worst week in eight months",
+          "body": "Gold prices fell again on Friday as traders priced in a resilient dollar and weighed the likelihood of an interest rate hike in December. Broad declines across commodities suggest inflation pressures could be easing.",
           "sources": [
             {
               "name": "Newsweek",
-              "url": "https://www.newsweek.com/trump-stock-trades-nvidia-spacex-financial-disclosure-12744178"
+              "url": "https://www.newsweek.com/what-golds-price-collapse-means-for-millions-of-americans-12745775"
             }
           ],
-          "why": "Monitoring how political figures hold assets in regulated tech firms helps you evaluate policy risk in market investing."
+          "why": "In macroeconomics, rate hike expectations drive investors toward yield-bearing assets and away from precious metals that pay no interest."
         }
       ]
     },
@@ -113,26 +109,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Apple is building AI agents to operate Macs",
-          "body": "Apple is working on AI agents that can control Mac applications, write code, and navigate websites for users. Bloomberg reported the project after spotting recent job postings at the company.",
+          "headline": "Signal restricts screenshots to block AI agents from scraping messages",
+          "body": "Signal rolled out updates on iOS and Android to prevent users and external tools from taking screenshots. The messaging platform called screen-reading AI agents hostile to user privacy.",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
             }
           ],
-          "why": "Operating system level AI agents could change how software startups build apps and how tech consultants evaluate desktop productivity."
+          "why": "If you look to build consumer software, expect to navigate fresh tensions between agent-driven automation and strict user privacy boundaries."
         },
         {
-          "headline": "OpenAI begins testing Dots with ChatGPT Plus subscribers",
-          "body": "OpenAI has started testing its Dots feature with select ChatGPT Plus users. The tool was previously restricted to higher tier Pro, Business, and Enterprise accounts.",
+          "headline": "Most consumers view AI-generated branding as cheap and lazy, survey says",
+          "body": "An Accenture Song report found that 56% of respondents in India feel brands using artificial intelligence for ads and content look cheap, lazy, and careless. The research highlights growing consumer pushback against unedited automated marketing.",
           "sources": [
             {
-              "name": "9to5Mac",
-              "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/ai-in-ads-and-content-makes-brands-look-careless-say-56-of-india-respondents-accenture/"
             }
           ],
-          "why": "Tracking how top AI platforms roll out features helps you analyze product tiering and monetization strategies in tech."
+          "why": "When preparing Merage marketing presentations or launching a venture, remember that using raw AI copy can actively harm your brand reputation."
         }
       ]
     },
@@ -141,15 +137,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "McKinsey report shows sustainability risks threaten 20% of EBITDA",
-          "body": "A new McKinsey report shows that sustainability risks and opportunities can impact corporate free cash flow by up to 20% of EBITDA. The firm advised chief executives to personally manage sustainability strategies.",
+          "headline": "BCG projects India's capital goods market will reach $1.2 trillion",
+          "body": "A joint report by CII and BCG projects India's capital goods sector will expand to between $1 trillion and $1.2 trillion by 2047. The growth is fueled by heavy spending on data centers, semiconductors, clean energy, and defense.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-capital-goods-market-could-reach-1-2-trillion-by-2047-driven-by-data-centres-chips-report/articleshow/136021509.cms"
             }
           ],
-          "why": "Consulting interviews focus heavily on core metrics like EBITDA, so knowing industry benchmarks will sharpen your case interview answers."
+          "why": "Keep this thesis in mind for consulting case interviews focused on emerging markets, industrial manufacturing, and cross-border infrastructure investing."
+        },
+        {
+          "headline": "Tech companies expand AI teams while reducing entry-level headcounts",
+          "body": "Nearly nine out of ten employers in India plan to grow their tech teams for AI, according to hiring data, but most anticipate cutting total staff over the coming years. Recruiters are shifting budgets toward specialized roles instead of entry-level positions.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-boom-fuels-tech-hiring-in-india-but-a-majority-of-employers-foresee-workforce-cuts/articleshow/136023937.cms"
+            }
+          ],
+          "why": "To secure business and tech internships, you will need demonstrable technical or analytical projects rather than just general business administration skills."
         }
       ]
     },
@@ -158,12 +165,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine opens new Disability Cultural Center",
-          "body": "UC Irvine has launched a Disability Cultural Center directed by Naty Rico. The center offers a supportive space to destigmatize disability and help Anteaters thrive on campus.",
+          "headline": "UC Irvine men's basketball drops tight matchup to Stanford",
+          "body": "The Anteaters led for most of the game before Stanford mounted an 8-0 run over the final two and a half minutes to win 65-61. The defeat drops UC Irvine to a 3-1 record on the season.",
           "sources": [
             {
-              "name": "Los Angeles Times",
-              "url": "https://www.latimes.com/socal/daily-pilot/opinion/story/2026-11-18/apodaca-holistic-approach-for-students-with-disabilities"
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
             }
           ]
         }
@@ -174,16 +181,20 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Ben Shelton advances to ATP Finals semifinals",
-          "body": "Ben Shelton defeated Spain's Rafael Jodar 7-6(8), 7-5 in Turin. The victory secured his spot in the ATP Finals semifinals after Arthur Fils lost his opening set to Alexander Zverev.",
+          "headline": "ATP Tour approves $350 million compensation structure starting in 2028",
+          "body": "The ATP approved changes to its OneVision plan that will expand total player prize money and financial rewards past $350 million by 2028, up from $270 million this year. The expanded plan provides guaranteed baseline support and higher payouts for up to 250 men's players.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/atp-finals-shelton-zverev-alcaraz-reach-semifinals-after-dramatic-group-stage-a001-w02/"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/atp-raises-player-earnings-bar-with-350-million-compensation-plan-doubles-decision-deferred-article-156542376"
             },
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/sports/ben-shelton-beats-jodar-in-straight-sets-advances-to-nitto-atp-finals-last-four/"
+              "name": "ESPN",
+              "url": "https://www.espn.com/tennis/story/_/id/50539880/atp-tour-unveils-expanded-compensation-top-250-players"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/sport/2026/nov/20/major-changes-in-mens-tennis-will-take-prize-money-for-players-to-more-than-350m"
             }
           ]
         }
@@ -191,22 +202,22 @@
     }
   ],
   "term": {
-    "name": "EBITDA",
-    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a company's operational profitability by stripping away tax structures and accounting decisions. McKinsey highlighted today that sustainability factors could impact long-term cash flows by up to 20% of EBITDA.",
+    "name": "Greenshoe option",
+    "definition": "A provision in an underwriting agreement that permits investment banks to sell up to 15% more shares than originally planned at the initial offer price. Banks exercise it when investor demand is exceptionally strong, helping stabilize trading and letting the issuing firm collect extra capital. Anthropic's bankers exercised theirs on Friday to lift total proceeds to $93.5 billion.",
     "sources": [
       {
-        "name": "The Tribune",
-        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
       }
     ]
   },
   "serve": {
-    "headline": "Model ML raises $250M at $1.5B valuation for finance AI agents",
-    "body": "London startup Model ML raised $250 million in Series B funding co-led by General Atlantic and QED Investors. The company builds AI agents specifically tailored for consultants, bankers, and investors.",
+    "headline": "Model ML raised $250M to build AI agents for financiers and consultants",
+    "body": "London-based Model ML develops specialized AI agents that handle analytical workflows for investment bankers, strategy consultants, and private equity firms. The company closed a $250 million Series B round at a $1.5 billion valuation co-led by General Atlantic and QED Investors.",
     "questions": [
-      "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?",
-      "How can a niche vertical AI tool defend its pricing against general models like ChatGPT or Claude?",
-      "If you were starting a student venture at UCI today, which specific industry workflow would you automate first?"
+      "Which repetitive tasks in financial modeling and deck building will AI agents replace first?",
+      "How should business schools update their curriculum if junior analyst grunt work gets automated away?",
+      "What core skills will help first-year students prove their unique value to top advisory firms?"
     ],
     "sources": [
       {
@@ -217,25 +228,25 @@
   },
   "emailItems": [
     {
-      "headline": "Anthropic wraps record $107B IPO as tech stocks drop.",
-      "blurb": "Shares closed at $97.17 on day one while the Dow fell over 1,100 points."
+      "headline": "Anthropic raises $93.5B after bankers exercise overallotment option",
+      "blurb": "Underwriters bought an extra slice of shares at the $83 offer price to close out the record offering."
     },
     {
-      "headline": "Intuit sells Mailchimp for $3.7B after paying $12B.",
-      "blurb": "Italian firm Bending Spoons acquired the marketing platform at a huge discount."
+      "headline": "ATP Tour approves new $350M player payout model",
+      "blurb": "The OneVision compensation package will increase baseline earnings for the top 250 men's tennis pros."
     },
     {
-      "headline": "Apple is developing AI agents to run Mac applications.",
-      "blurb": "Job listings reveal plans for software that can browse websites and write code."
+      "headline": "Signal moves to block AI screen reading on mobile devices",
+      "blurb": "The app restricted screenshots on iOS and Android to prevent assistants like Gemini and Siri from scraping chats."
     },
     {
-      "headline": "Model ML lands $250M to build AI agents for consultants.",
-      "blurb": "The London startup hit a $1.5 billion valuation to automate financial workflows."
+      "headline": "Ark Invest buys $91M of Anthropic on opening day",
+      "blurb": "Cathie Wood's funds reallocated capital by buying Anthropic stock while trimming shares in Nvidia."
     },
     {
-      "headline": "UC Irvine launches a new Disability Cultural Center.",
-      "blurb": "Director Naty Rico is building a judgment-free space for students on campus."
+      "headline": "UC Irvine basketball suffers first defeat of the season against Stanford",
+      "blurb": "The Anteaters led most of the night before Stanford used a late 8-0 run to close out a 65-61 victory."
     }
   ],
-  "emailQuestion": "What daily tasks in consulting or banking could an AI agent handle better than a first-year analyst?"
+  "emailQuestion": "Which repetitive tasks in financial modeling and deck building will AI agents replace first?"
 }
