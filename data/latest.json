@@ -1,15 +1,15 @@
 {
-  "id": "2026-11-21-pm",
-  "slot": "evening",
-  "date": "2026-11-21",
-  "dateLabel": "Sat, Nov 21, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-22T02:58:24.017Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Goldman flags broader market risk, GTA VI sets records, and Nadal joins Real Madrid's board.",
+  "id": "2026-11-22-am",
+  "slot": "morning",
+  "date": "2026-11-22",
+  "dateLabel": "Sun, Nov 22, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-22T18:27:42.897Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Jensen Huang ousted at Nvidia, top business school offers rise 15%, and ATP Finals set.",
   "storyCount": 11,
-  "readMinutes": 4,
+  "readMinutes": 3,
   "scoreboard": {
     "asOf": "Close, Nov 20",
     "rows": [
@@ -46,28 +46,24 @@
     ]
   },
   "lead": {
-    "headline": "Goldman Sachs warns AI sell-off has widened into broader growth fears",
-    "body": "Goldman Sachs reported that Wall Street's tech slump has expanded from an AI unwind into a broader downgrade of economic growth expectations. Mutual funds and ETFs remain heavily exposed even after hedge funds trimmed positions. Anthropic's public debut was not enough to halt the slide as tech suffered its worst week since 2020.",
+    "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illicit AI chip sales",
+    "body": "Jensen Huang was forced out as Nvidia CEO following allegations of illicit AI chip sales to China that threatened US national security, alongside personal misconduct allegations. Corporate boards are moving quickly to manage executive liability. Nvidia stock dropped by more than 10% following the announcement.",
     "sources": [
       {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/"
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/21/business/jensen-huangs-demise-isnt-from-the-affair-but-rather-his-shady-nvidia-business-with-china/"
       },
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        "name": "Livemint",
+        "url": "https://www.livemint.com/focus/nvidia-isn-t-first-company-to-dump-misbehaving-ceo-history-shows-it-s-in-interest-of-corporate-boards-to-act-11795327640497.html"
       }
     ],
-    "why": "This shift shows the market drop is spreading beyond software hype into standard industrial and consumer firms. Watch how non-tech earnings hold up when planning long-term portfolio entries.",
-    "kicker": "Markets + AI",
+    "why": "As a business student tracking big tech and leadership, this shows how national security regulations and governance issues can instantly alter corporate leadership and market valuation.",
+    "kicker": "Tech + Governance",
     "figures": [
       {
-        "value": "32%",
-        "label": "decline in Goldman AI basket since Oct 6"
-      },
-      {
-        "value": "6%",
-        "label": "drop in S&P 500 excluding AI stocks"
+        "value": ">10%",
+        "label": "Drop in Nvidia stock price following resignation"
       }
     ]
   },
@@ -77,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "American Airlines retires long-haul first class to expand business suites",
-          "body": "American Airlines completed its last flight featuring an eight-suite first-class section this week. The airline is replacing those cabins with larger business-class layouts that hold up to 70 premium passengers.",
-          "sources": [
-            {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html"
-            }
-          ],
-          "why": "This is a clean case study in airline unit economics, showing how carriers trade ultra-luxury perks for high-volume, premium business travel."
-        },
-        {
-          "headline": "GTA VI sets entertainment record with $3.79 billion opening day",
-          "body": "Rockstar Games announced Grand Theft Auto VI brought in $3.79 billion during its first 24 hours on sale. The total marks the largest launch in entertainment history, topping major Hollywood theatrical runs.",
+          "headline": "Trump proposes 10% cap on credit card interest rates",
+          "body": "Donald Trump stated he is willing to work with Democrats to cap credit card interest rates at 10%. The proposal comes as total US credit card debt reaches a record $1.29 trillion.",
           "sources": [
             {
               "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/entertainment/grand-theft-auto-vi-shatters-entertainment-records-staggering-3-79b-debut"
+              "url": "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt"
             }
           ],
-          "why": "It shows the sheer commercial scale of video game software relative to traditional media, useful context for media and consumer tech case competitions."
+          "why": "Interest rate caps directly affect consumer lending margins. If you study finance at Merage, this is a prime example of how price controls reshape credit availability and bank profits."
+        },
+        {
+          "headline": "Waymo issues two recalls after California bans robotaxis from freeways",
+          "body": "Alphabet-owned Waymo issued two NHTSA safety recalls for its autonomous vehicles over closed freeway lanes and manual traffic control issues. The recalls follow California barring the robotaxis from state freeways.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/technology/waymo-issues-double-safety-recall-days-after-california-bans-robotaxis-from-freeways"
+            }
+          ],
+          "why": "Understanding regulatory friction and recall procedures is critical if you want to analyze automated logistics or evaluate mobility startups."
         }
       ]
     },
@@ -105,26 +101,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "School districts push back as Google ties Search access to AI",
-          "body": "Major school districts in Chicago, New York, and Los Angeles are resisting Google after the company required schools to accept AI Overviews to keep using its search engine. The dispute follows Google's earlier decision to disable Gemini tools for student accounts.",
+          "headline": "Anthropic AI tool Claude helps prove math's Riemann Hypothesis",
+          "body": "Levent Alpöge, a technical staff member at Anthropic, used the AI model Claude to help solve the 1859 Riemann Hypothesis regarding prime numbers. Two independent expert groups have verified the achievement.",
           "sources": [
             {
-              "name": "Fortune",
-              "url": "https://fortune.com/2026/11/21/google-search-ai-overviews-schools-chicago-nyc-los-angeles-miami/"
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/science/claude-helped-solve-riemann-hypothesis-claims-now-verified/story"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/artificial-intelligence/who-is-levent-alp-ge-meet-anthropic-s-technical-staff-member-who-solved-the-riemann-hypothesis-with-ai-tool-claude-11795321945858.html"
             }
           ],
-          "why": "Enterprise software sales often hit walls when vendors try to force AI adoption on institutional clients. It is a key dynamic to watch if you plan to work in tech strategy."
+          "why": "This signals that AI models are expanding from writing code and generating text into complex mathematical reasoning."
         },
         {
-          "headline": "Flaw in Meta Muse allowed web pages to access private user data",
-          "body": "Security researchers found a vulnerability where a single malicious webpage could pull private chats and saved memories from Meta Muse without prompting the user. Security firm NebuSec confirmed the exploit has been patched.",
+          "headline": "OpenAI model discovers critical Java4Shell vulnerability",
+          "body": "Cybersecurity firm Calif used a new OpenAI model to uncover a critical vulnerability in Java's base64 decoder. Named Java4Shell, the flaw affects one of the world's most popular programming languages.",
           "sources": [
             {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+              "name": "Natural News",
+              "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html"
             }
           ],
-          "why": "As generative assistants handle private enterprise data, security reviews will be a central part of any IT consulting advisory engagement."
+          "why": "AI-driven code auditing will change corporate cybersecurity spending and enterprise risk management."
         }
       ]
     },
@@ -133,26 +133,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "BCG report projects $1.2 trillion Indian capital goods boom by 2047",
-          "body": "A report from the Confederation of Indian Industry and Boston Consulting Group projects India's capital goods sector could reach $1.2 trillion by 2047. The expansion is backed by heavy spending on data centers, semiconductors, and clean energy.",
+          "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
+          "body": "Top undergraduate business colleges reported average salary offer increases exceeding 15% for the Class of 2027, even as interview processes become more selective. Active recruiters include McKinsey & Company, Bain & Company, and Deloitte.",
           "sources": [
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-capital-goods-market-could-reach-1-2-trillion-by-2047-driven-by-data-centres-chips-report/articleshow/136021509.cms"
+              "url": "https://economictimes.indiatimes.com/industry/services/education/class-of-2027-sees-surge-in-salary-packages-despite-stringent-hiring-processes-at-top-colleges/articleshow/136038476.cms"
             }
           ],
-          "why": "Consulting firms frequently structure hiring and project staffing around major global capital expenditure waves like this one."
+          "why": "Consulting firms continue to hire top business talent, but landing an offer requires standing out in an increasingly selective recruiting process."
         },
         {
-          "headline": "Tech employers cut generalist roles in favor of specialized AI staff",
-          "body": "Nearly 90% of surveyed Indian tech employers plan to grow their AI teams, but most also anticipate cutting total headcounts. Companies are focusing recruiting budgets on specialized talent rather than broad entry-level positions.",
+          "headline": "McKinsey reports sustainability risks threaten up to 20% of corporate EBITDA",
+          "body": "A report by McKinsey indicates that sustainability-related risks and opportunities could affect long-term free cash flow by up to 20% of EBITDA. The firm recommends CEOs take direct control of corporate sustainability strategy.",
           "sources": [
             {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-boom-fuels-tech-hiring-in-india-but-a-majority-of-employers-foresee-workforce-cuts/articleshow/136023937.cms"
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
             }
           ],
-          "why": "For campus recruiting, having tangible technical skills in data modeling or specific business analytics tools matters much more than generalist business coursework."
+          "why": "Management consulting projects increasingly focus on linking environmental and operational risks directly to company balance sheets."
         }
       ]
     },
@@ -161,12 +161,16 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine men's basketball drops first game of season at Stanford",
-          "body": "The Anteaters moved to 3-1 after falling 65-61 to Stanford on the road. UC Irvine held the lead for most of the contest before Stanford closed the game on an 8-0 run in the final 2:33.",
+          "headline": "UC Irvine men's basketball falls 67-64 to San Diego",
+          "body": "Jovan Jester Jr. scored 16 points and Nils Cooper recorded 15 points and 10 rebounds, but San Diego used a 15-2 second-half run to beat UC Irvine in Palm Desert.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/17/uc-irvine-men-cant-finish-off-stanford-in-1st-loss-of-season/"
+              "url": "https://www.ocregister.com/2026/11/21/uc-irvine-men-cant-hold-off-san-diego-in-palm-desert/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/worthys-20-lead-san-diego-past-uc-irvine-67-64/"
             }
           ]
         }
@@ -177,12 +181,20 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Rafael Nadal joins Real Madrid's board of directors",
-          "body": "Rafael Nadal received formal approval to join the board of directors at Spanish soccer giant Real Madrid. The appointment pairs the tennis legend with club president Florentino Perez as the organization unlocks 1.25 billion euros in resources.",
+          "headline": "Alcaraz and Zverev set up ATP Finals title showdown in Turin",
+          "body": "Carlos Alcaraz defeated Ben Shelton 3-6, 6-3, 7-6 in the semifinals, while Alexander Zverev beat Daniil Medvedev in straight sets to advance to the Nitto ATP Finals final.",
           "sources": [
             {
-              "name": "Yardbarker",
-              "url": "https://www.yardbarker.com/soccer/articles/official_nadal_enters_prezs_fortress_as_real_madrid_open_their_coffers_to_125_billion/s1_17790_44595830"
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/alcaraz-zverev-set-for-blockbuster-atp-finals-title-showdown-in-turin-a001-w02/"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-to-face-alexander-zverev-for-atp-finals-title-101795312162283.html"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/tennis/zverev-beats-medvedev-sets-up-atp-finals-showdown-against-alcaraz-a001-w01/"
             }
           ]
         }
@@ -190,51 +202,51 @@
     }
   ],
   "term": {
-    "name": "Market Correction",
-    "definition": "A market correction occurs when a major index falls 10% or more from a recent high. Financial markets view corrections as standard resets that bring stretched asset valuations back in line with fundamentals.",
+    "name": "EBITDA",
+    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a business's pure operating performance by stripping out tax rates, debt costs, and accounting choices. Analysts and management consultants use it to evaluate core operational profitability across competing companies. Today, McKinsey reported that sustainability risks could alter long-term free cash flows by up to 20% of corporate EBITDA.",
     "sources": [
       {
-        "name": "AL.com",
-        "url": "https://www.al.com/news/2026/11/a-10-drop-for-us-stock-market-feels-scary-but-its-not-that-unusual.html"
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
       }
     ]
   },
   "serve": {
-    "headline": "Bharat Semi raises $24 million seed round for semiconductor infrastructure",
-    "body": "Hardware startup Bharat Semi secured a $24 million seed round to develop local semiconductor manufacturing and automation systems. The funding comes as global investors channel capital toward domestic chip supply chains.",
+    "headline": "Google contracts 50 MW of geothermal power from Quaise Energy",
+    "body": "Quaise Energy is a Houston-based startup developing rock-vaporizing microwave technology to drill deep geothermal energy wells. Google signed an agreement to purchase 50 megawatts of electricity from Quaise Energy to power its data centers.",
     "questions": [
-      "If hardware startups require massive seed funding, how can student founders at UCI break into the physical tech space?",
-      "How would you convince an enterprise client to trust an unproven seed-stage supplier for critical hardware components?",
-      "What campus resources or engineering partnerships at UCI could help validate a physical prototype before raising capital?"
+      "How can deep geothermal technology solve the massive power demands of AI data centers?",
+      "What buyer commitments do hardware energy startups need to secure before scaling up?",
+      "How would you pitch reliable clean energy to tech giants competing for data center capacity?"
     ],
     "sources": [
       {
-        "name": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/business/funding/weekly-funding-roundup-the-startup-deals-you-may-have-missed-in-week-of-november-22-14085961.html"
+        "name": "Newser",
+        "url": "https://www.newser.com/story/400237/could-geothermal-energy-be-a-data-center-power-solution.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Goldman Sachs warns the AI stock unwind is morphing into broad economic growth worries.",
-      "blurb": "The firm's AI index is down 32% while broader equities also began to slide."
+      "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illegal chip sales",
+      "blurb": "Nvidia stock fell over 10% following his resignation amid national security concerns."
     },
     {
-      "headline": "Grand Theft Auto VI generated $3.79 billion during its first 24 hours on sale.",
-      "blurb": "Rockstar's launch marked the largest single-day release in entertainment history."
+      "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
+      "blurb": "McKinsey, Bain, and Deloitte are actively recruiting, though hiring processes remain highly selective."
     },
     {
-      "headline": "American Airlines retired its final long-haul international first-class cabin.",
-      "blurb": "The carrier is reallocating cabin floorspace to expand premium business suites."
+      "headline": "Anthropic AI tool Claude helps solve the Riemann Hypothesis",
+      "blurb": "Two independent expert groups verified that the AI model helped tackle the 1859 prime number problem."
     },
     {
-      "headline": "Large public school districts are pushing back against Google's mandatory AI Search terms.",
-      "blurb": "Districts in New York, Chicago, and Los Angeles objected to required AI Overviews."
+      "headline": "Trump proposes capping credit card interest rates at 10%",
+      "blurb": "The bipartisan pitch comes as total US credit card debt reaches a record $1.29 trillion."
     },
     {
-      "headline": "Rafael Nadal secured approval to join the board of directors at Real Madrid.",
-      "blurb": "The 22-time Grand Slam champion will help steer governance at the Spanish sports power."
+      "headline": "Alcaraz and Zverev advance to ATP Finals championship match",
+      "blurb": "Alcaraz rallied past Ben Shelton in three sets to set up a Sunday final against Zverev in Turin."
     }
   ],
-  "emailQuestion": "If hardware startups require massive seed funding, how can student founders at UCI break into the physical tech space?"
+  "emailQuestion": "How can deep geothermal technology solve the massive power demands of AI data centers?"
 }

@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-22-am",
+  "slot": "morning",
+  "date": "2026-11-22",
+  "dateLabel": "Sun, Nov 22, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-22T18:27:42.897Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Jensen Huang ousted at Nvidia, top business school offers rise 15%, and ATP Finals set.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 20",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "6,910",
+        "change": "−3.70%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "22,618",
+        "change": "−5.28%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "48,147",
+        "change": "−1.93%",
+        "direction": "down"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.91%",
+        "change": "−14 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,515",
+        "change": "−4.62%",
+        "direction": "down"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illicit AI chip sales",
+    "body": "Jensen Huang was forced out as Nvidia CEO following allegations of illicit AI chip sales to China that threatened US national security, alongside personal misconduct allegations. Corporate boards are moving quickly to manage executive liability. Nvidia stock dropped by more than 10% following the announcement.",
+    "sources": [
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/21/business/jensen-huangs-demise-isnt-from-the-affair-but-rather-his-shady-nvidia-business-with-china/"
+      },
+      {
+        "name": "Livemint",
+        "url": "https://www.livemint.com/focus/nvidia-isn-t-first-company-to-dump-misbehaving-ceo-history-shows-it-s-in-interest-of-corporate-boards-to-act-11795327640497.html"
+      }
+    ],
+    "why": "As a business student tracking big tech and leadership, this shows how national security regulations and governance issues can instantly alter corporate leadership and market valuation.",
+    "kicker": "Tech + Governance",
+    "figures": [
+      {
+        "value": ">10%",
+        "label": "Drop in Nvidia stock price following resignation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Trump proposes 10% cap on credit card interest rates",
+          "body": "Donald Trump stated he is willing to work with Democrats to cap credit card interest rates at 10%. The proposal comes as total US credit card debt reaches a record $1.29 trillion.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt"
+            }
+          ],
+          "why": "Interest rate caps directly affect consumer lending margins. If you study finance at Merage, this is a prime example of how price controls reshape credit availability and bank profits."
+        },
+        {
+          "headline": "Waymo issues two recalls after California bans robotaxis from freeways",
+          "body": "Alphabet-owned Waymo issued two NHTSA safety recalls for its autonomous vehicles over closed freeway lanes and manual traffic control issues. The recalls follow California barring the robotaxis from state freeways.",
+          "sources": [
+            {
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/technology/waymo-issues-double-safety-recall-days-after-california-bans-robotaxis-from-freeways"
+            }
+          ],
+          "why": "Understanding regulatory friction and recall procedures is critical if you want to analyze automated logistics or evaluate mobility startups."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Anthropic AI tool Claude helps prove math's Riemann Hypothesis",
+          "body": "Levent Alpöge, a technical staff member at Anthropic, used the AI model Claude to help solve the 1859 Riemann Hypothesis regarding prime numbers. Two independent expert groups have verified the achievement.",
+          "sources": [
+            {
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/science/claude-helped-solve-riemann-hypothesis-claims-now-verified/story"
+            },
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/ai/artificial-intelligence/who-is-levent-alp-ge-meet-anthropic-s-technical-staff-member-who-solved-the-riemann-hypothesis-with-ai-tool-claude-11795321945858.html"
+            }
+          ],
+          "why": "This signals that AI models are expanding from writing code and generating text into complex mathematical reasoning."
+        },
+        {
+          "headline": "OpenAI model discovers critical Java4Shell vulnerability",
+          "body": "Cybersecurity firm Calif used a new OpenAI model to uncover a critical vulnerability in Java's base64 decoder. Named Java4Shell, the flaw affects one of the world's most popular programming languages.",
+          "sources": [
+            {
+              "name": "Natural News",
+              "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html"
+            }
+          ],
+          "why": "AI-driven code auditing will change corporate cybersecurity spending and enterprise risk management."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
+          "body": "Top undergraduate business colleges reported average salary offer increases exceeding 15% for the Class of 2027, even as interview processes become more selective. Active recruiters include McKinsey & Company, Bain & Company, and Deloitte.",
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/industry/services/education/class-of-2027-sees-surge-in-salary-packages-despite-stringent-hiring-processes-at-top-colleges/articleshow/136038476.cms"
+            }
+          ],
+          "why": "Consulting firms continue to hire top business talent, but landing an offer requires standing out in an increasingly selective recruiting process."
+        },
+        {
+          "headline": "McKinsey reports sustainability risks threaten up to 20% of corporate EBITDA",
+          "body": "A report by McKinsey indicates that sustainability-related risks and opportunities could affect long-term free cash flow by up to 20% of EBITDA. The firm recommends CEOs take direct control of corporate sustainability strategy.",
+          "sources": [
+            {
+              "name": "The Tribune",
+              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+            }
+          ],
+          "why": "Management consulting projects increasingly focus on linking environmental and operational risks directly to company balance sheets."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine men's basketball falls 67-64 to San Diego",
+          "body": "Jovan Jester Jr. scored 16 points and Nils Cooper recorded 15 points and 10 rebounds, but San Diego used a 15-2 second-half run to beat UC Irvine in Palm Desert.",
+          "sources": [
+            {
+              "name": "Santa Ana Orange County Register",
+              "url": "https://www.ocregister.com/2026/11/21/uc-irvine-men-cant-hold-off-san-diego-in-palm-desert/"
+            },
+            {
+              "name": "WTOP",
+              "url": "https://wtop.com/college-sports/2026/11/worthys-20-lead-san-diego-past-uc-irvine-67-64/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Alcaraz and Zverev set up ATP Finals title showdown in Turin",
+          "body": "Carlos Alcaraz defeated Ben Shelton 3-6, 6-3, 7-6 in the semifinals, while Alexander Zverev beat Daniil Medvedev in straight sets to advance to the Nitto ATP Finals final.",
+          "sources": [
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/other-sports/alcaraz-zverev-set-for-blockbuster-atp-finals-title-showdown-in-turin-a001-w02/"
+            },
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-to-face-alexander-zverev-for-atp-finals-title-101795312162283.html"
+            },
+            {
+              "name": "Lokmat Times",
+              "url": "https://www.lokmattimes.com/tennis/zverev-beats-medvedev-sets-up-atp-finals-showdown-against-alcaraz-a001-w01/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "EBITDA",
+    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a business's pure operating performance by stripping out tax rates, debt costs, and accounting choices. Analysts and management consultants use it to evaluate core operational profitability across competing companies. Today, McKinsey reported that sustainability risks could alter long-term free cash flows by up to 20% of corporate EBITDA.",
+    "sources": [
+      {
+        "name": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Google contracts 50 MW of geothermal power from Quaise Energy",
+    "body": "Quaise Energy is a Houston-based startup developing rock-vaporizing microwave technology to drill deep geothermal energy wells. Google signed an agreement to purchase 50 megawatts of electricity from Quaise Energy to power its data centers.",
+    "questions": [
+      "How can deep geothermal technology solve the massive power demands of AI data centers?",
+      "What buyer commitments do hardware energy startups need to secure before scaling up?",
+      "How would you pitch reliable clean energy to tech giants competing for data center capacity?"
+    ],
+    "sources": [
+      {
+        "name": "Newser",
+        "url": "https://www.newser.com/story/400237/could-geothermal-energy-be-a-data-center-power-solution.html"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illegal chip sales",
+      "blurb": "Nvidia stock fell over 10% following his resignation amid national security concerns."
+    },
+    {
+      "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
+      "blurb": "McKinsey, Bain, and Deloitte are actively recruiting, though hiring processes remain highly selective."
+    },
+    {
+      "headline": "Anthropic AI tool Claude helps solve the Riemann Hypothesis",
+      "blurb": "Two independent expert groups verified that the AI model helped tackle the 1859 prime number problem."
+    },
+    {
+      "headline": "Trump proposes capping credit card interest rates at 10%",
+      "blurb": "The bipartisan pitch comes as total US credit card debt reaches a record $1.29 trillion."
+    },
+    {
+      "headline": "Alcaraz and Zverev advance to ATP Finals championship match",
+      "blurb": "Alcaraz rallied past Ben Shelton in three sets to set up a Sunday final against Zverev in Turin."
+    }
+  ],
+  "emailQuestion": "How can deep geothermal technology solve the massive power demands of AI data centers?"
+}
