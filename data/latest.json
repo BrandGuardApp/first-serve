@@ -1,69 +1,85 @@
 {
-  "id": "2026-11-22-am",
-  "slot": "morning",
-  "date": "2026-11-22",
-  "dateLabel": "Sun, Nov 22, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-22T18:27:42.897Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "Jensen Huang ousted at Nvidia, top business school offers rise 15%, and ATP Finals set.",
+  "id": "2026-11-23-pm",
+  "slot": "evening",
+  "date": "2026-11-23",
+  "dateLabel": "Mon, Nov 23, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-24T05:52:52.543Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Jensen Huang reinstated at Nvidia, Amazon buys Decart for $7.5B, and Alcaraz wins ATP Finals.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "Close, Nov 20",
+    "asOf": "Close, Nov 23",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "6,910",
-        "change": "−3.70%",
-        "direction": "down"
+        "value": "7,237",
+        "change": "+4.73%",
+        "direction": "up"
       },
       {
         "name": "Nasdaq",
-        "value": "22,618",
-        "change": "−5.28%",
-        "direction": "down"
+        "value": "24,090",
+        "change": "+6.51%",
+        "direction": "up"
       },
       {
         "name": "Dow",
-        "value": "48,147",
-        "change": "−1.93%",
-        "direction": "down"
+        "value": "49,595",
+        "change": "+3.01%",
+        "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.91%",
-        "change": "−14 bp",
-        "direction": "down"
+        "value": "4.92%",
+        "change": "+1 bp",
+        "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$3,515",
-        "change": "−4.62%",
+        "value": "$3,635",
+        "change": "−0.44%",
         "direction": "down"
       }
     ]
   },
   "lead": {
-    "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illicit AI chip sales",
-    "body": "Jensen Huang was forced out as Nvidia CEO following allegations of illicit AI chip sales to China that threatened US national security, alongside personal misconduct allegations. Corporate boards are moving quickly to manage executive liability. Nvidia stock dropped by more than 10% following the announcement.",
+    "headline": "Jensen Huang Reinstated as Nvidia CEO",
+    "body": "Nvidia's board of directors unanimously voted to bring back co-founder Jensen Huang as CEO and president. The decision followed input from U.S. officials confirming his return poses no national security risk, driving a sharp market rally.",
     "sources": [
       {
-        "name": "New York Post",
-        "url": "https://nypost.com/2026/11/21/business/jensen-huangs-demise-isnt-from-the-affair-but-rather-his-shady-nvidia-business-with-china/"
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
       },
       {
-        "name": "Livemint",
-        "url": "https://www.livemint.com/focus/nvidia-isn-t-first-company-to-dump-misbehaving-ceo-history-shows-it-s-in-interest-of-corporate-boards-to-act-11795327640497.html"
+        "name": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street"
+      },
+      {
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/international/4010972-us-stocks-wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo"
+      },
+      {
+        "name": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/full-list-of-nvidia-board-of-directors-who-reinstated-jensen-huang-article-156556298"
       }
     ],
-    "why": "As a business student tracking big tech and leadership, this shows how national security regulations and governance issues can instantly alter corporate leadership and market valuation.",
-    "kicker": "Tech + Governance",
+    "why": "Understanding how rapidly executive governance decisions impact enterprise valuation is essential for your financial analysis and management courses at Merage.",
+    "kicker": "Tech & Governance",
     "figures": [
       {
-        "value": ">10%",
-        "label": "Drop in Nvidia stock price following resignation"
+        "value": "34%",
+        "label": "Nvidia stock jump"
+      },
+      {
+        "value": "10",
+        "label": "Board members voting"
+      },
+      {
+        "value": "6.5%",
+        "label": "Nasdaq index rally"
       }
     ]
   },
@@ -73,26 +89,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Trump proposes 10% cap on credit card interest rates",
-          "body": "Donald Trump stated he is willing to work with Democrats to cap credit card interest rates at 10%. The proposal comes as total US credit card debt reaches a record $1.29 trillion.",
+          "headline": "Amazon buys AI startup Decart for $7.5 billion",
+          "body": "Amazon is acquiring Israeli AI startup Decart's optimization technology and research team in a reported $7.5 billion deal. The purchase comes as Amazon prepares to launch its proprietary Trainium chips.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt"
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
             }
           ],
-          "why": "Interest rate caps directly affect consumer lending margins. If you study finance at Merage, this is a prime example of how price controls reshape credit availability and bank profits."
+          "why": "This deal provides a real-world example of how major cloud providers acquire specialized AI software teams to support proprietary hardware lines."
         },
         {
-          "headline": "Waymo issues two recalls after California bans robotaxis from freeways",
-          "body": "Alphabet-owned Waymo issued two NHTSA safety recalls for its autonomous vehicles over closed freeway lanes and manual traffic control issues. The recalls follow California barring the robotaxis from state freeways.",
+          "headline": "Disney+ to fully integrate Hulu in December",
+          "body": "Disney CEO Josh D'Amaro announced that Disney+ will fully combine Hulu into a single unified app starting December 2026 for subscribers.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/technology/waymo-issues-double-safety-recall-days-after-california-bans-robotaxis-from-freeways"
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/23/disney-plus-hulu-app-integration-december-merge-what-to-know/92923767007/"
             }
           ],
-          "why": "Understanding regulatory friction and recall procedures is critical if you want to analyze automated logistics or evaluate mobility startups."
+          "why": "Useful for analyzing corporate strategy and subscriber retention tactics in your marketing classes."
         }
       ]
     },
@@ -101,30 +117,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic AI tool Claude helps prove math's Riemann Hypothesis",
-          "body": "Levent Alpöge, a technical staff member at Anthropic, used the AI model Claude to help solve the 1859 Riemann Hypothesis regarding prime numbers. Two independent expert groups have verified the achievement.",
+          "headline": "Tesla reveals FSD v15 maxes out AI4 computer chips",
+          "body": "Elon Musk explained that Tesla's Full Self-Driving v15 software utilizes almost all available processing compute on current AI4 vehicle hardware. Future AI5 chips will go to Optimus humanoid robots first.",
           "sources": [
             {
-              "name": "NewsBytes",
-              "url": "https://www.newsbytesapp.com/news/science/claude-helped-solve-riemann-hypothesis-claims-now-verified/story"
-            },
-            {
-              "name": "Livemint",
-              "url": "https://www.livemint.com/ai/artificial-intelligence/who-is-levent-alp-ge-meet-anthropic-s-technical-staff-member-who-solved-the-riemann-hypothesis-with-ai-tool-claude-11795321945858.html"
+              "name": "Electrek",
+              "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/"
             }
           ],
-          "why": "This signals that AI models are expanding from writing code and generating text into complex mathematical reasoning."
+          "why": "Illustrates how hardware constraints dictate product roadmaps in autonomous technology companies."
         },
         {
-          "headline": "OpenAI model discovers critical Java4Shell vulnerability",
-          "body": "Cybersecurity firm Calif used a new OpenAI model to uncover a critical vulnerability in Java's base64 decoder. Named Java4Shell, the flaw affects one of the world's most popular programming languages.",
+          "headline": "U.S. intelligence chief warns of AI upgrade outages",
+          "body": "Director of National Intelligence Jay Clayton warned that updating legacy digital infrastructure for AI integration will trigger more tech outages across federal agencies and corporations.",
           "sources": [
             {
-              "name": "Natural News",
-              "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html"
+              "name": "Fox Business",
+              "url": "https://www.foxbusiness.com/fox-news-tech/us-intel-chief-warns-bumps-road-amid-tech-upgrades-aging-systems"
             }
           ],
-          "why": "AI-driven code auditing will change corporate cybersecurity spending and enterprise risk management."
+          "why": "Highlights the operational risks enterprise clients face when executing massive IT overhauls."
         }
       ]
     },
@@ -133,26 +145,34 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
-          "body": "Top undergraduate business colleges reported average salary offer increases exceeding 15% for the Class of 2027, even as interview processes become more selective. Active recruiters include McKinsey & Company, Bain & Company, and Deloitte.",
+          "headline": "BCG report outlines $100B export strategy for Indian textiles",
+          "body": "A joint study by Boston Consulting Group and CII indicates India must grow textile exports by over 20% annually to reach $100 billion by FY31, identifying automation and capacity expansion as top priorities.",
           "sources": [
+            {
+              "name": "Livemint",
+              "url": "https://www.livemint.com/industry/indias-textile-exports-stuck-at-37-billion-as-garment-gap-widens-says-cii-bcg-report-11795435782017.html"
+            },
+            {
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/economy/india-needs-over-20percent-annual-export-growth-to-achieve-usd-100-billion-textiles-target-by-fy31-says-bcg-cii-report-20040150.htm"
+            },
             {
               "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/industry/services/education/class-of-2027-sees-surge-in-salary-packages-despite-stringent-hiring-processes-at-top-colleges/articleshow/136038476.cms"
+              "url": "https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/indias-textile-sector-needs-over-10-annual-growth-to-hit-350-billion-target-by-fy31-bcg-cii-report/articleshow/136104092.cms"
             }
           ],
-          "why": "Consulting firms continue to hire top business talent, but landing an offer requires standing out in an increasingly selective recruiting process."
+          "why": "A clear demonstration of how management consultancies build market entry and growth strategies for national sector initiatives."
         },
         {
-          "headline": "McKinsey reports sustainability risks threaten up to 20% of corporate EBITDA",
-          "body": "A report by McKinsey indicates that sustainability-related risks and opportunities could affect long-term free cash flow by up to 20% of EBITDA. The firm recommends CEOs take direct control of corporate sustainability strategy.",
+          "headline": "LinkedIn CEO shares networking strategy for Gen Z",
+          "body": "LinkedIn CEO Daniel Shapero advised student job seekers to combat AI-driven hiring hurdles by reaching out directly to current employees at target firms.",
           "sources": [
             {
-              "name": "The Tribune",
-              "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/linkedin-ceo-daniel-shapero-has-a-tip-for-gen-z-job-seekers-talk-to-someone-who-already/articleshow/136100824.cms"
             }
           ],
-          "why": "Management consulting projects increasingly focus on linking environmental and operational risks directly to company balance sheets."
+          "why": "Direct advice for your upcoming internship search and alumni outreach efforts at UCI."
         }
       ]
     },
@@ -161,16 +181,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine men's basketball falls 67-64 to San Diego",
-          "body": "Jovan Jester Jr. scored 16 points and Nils Cooper recorded 15 points and 10 rebounds, but San Diego used a 15-2 second-half run to beat UC Irvine in Palm Desert.",
+          "headline": "UC Irvine men's basketball falls 72-68 to LMU",
+          "body": "The Anteaters narrowed a late seven-point deficit down to one point twice, but Loyola Marymount converted six late free throws to close out the win in Palm Desert.",
           "sources": [
             {
               "name": "Santa Ana Orange County Register",
-              "url": "https://www.ocregister.com/2026/11/21/uc-irvine-men-cant-hold-off-san-diego-in-palm-desert/"
-            },
-            {
-              "name": "WTOP",
-              "url": "https://wtop.com/college-sports/2026/11/worthys-20-lead-san-diego-past-uc-irvine-67-64/"
+              "url": "https://www.ocregister.com/2026/11/22/uc-irvine-men-edged-by-loyola-marymount-in-palm-desert/"
             }
           ]
         }
@@ -181,20 +197,20 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Alcaraz and Zverev set up ATP Finals title showdown in Turin",
-          "body": "Carlos Alcaraz defeated Ben Shelton 3-6, 6-3, 7-6 in the semifinals, while Alexander Zverev beat Daniil Medvedev in straight sets to advance to the Nitto ATP Finals final.",
+          "headline": "Carlos Alcaraz claims first ATP Finals title over Zverev",
+          "body": "Carlos Alcaraz defeated Alexander Zverev 6-2, 7-6 to win the ATP Finals in Turin, becoming the fourth male player in history to win all four Grand Slams and the season-ending championship.",
           "sources": [
             {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/other-sports/alcaraz-zverev-set-for-blockbuster-atp-finals-title-showdown-in-turin-a001-w02/"
+              "name": "Sports Illustrated",
+              "url": "https://www.si.com/onsi/serve/news/alcaraz-thwarts-zverev-claim-atp-finals-crown-assert-himself-tennis-finest-01m8497t2txh"
+            },
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/carlos-alcaraz-is-the-best-player-if-he-is-motivated-murray-after-spaniard-stuns-zverev-in-atp-finals-article-156556039"
             },
             {
               "name": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-to-face-alexander-zverev-for-atp-finals-title-101795312162283.html"
-            },
-            {
-              "name": "Lokmat Times",
-              "url": "https://www.lokmattimes.com/tennis/zverev-beats-medvedev-sets-up-atp-finals-showdown-against-alcaraz-a001-w01/"
+              "url": "https://www.hindustantimes.com/sports/tennis/carlos-alcaraz-caps-stop-start-season-with-unstoppable-spell-at-atp-finals-101795446936028.html"
             }
           ]
         }
@@ -202,51 +218,55 @@
     }
   ],
   "term": {
-    "name": "EBITDA",
-    "definition": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a business's pure operating performance by stripping out tax rates, debt costs, and accounting choices. Analysts and management consultants use it to evaluate core operational profitability across competing companies. Today, McKinsey reported that sustainability risks could alter long-term free cash flows by up to 20% of corporate EBITDA.",
+    "name": "Corporate Governance",
+    "definition": "The system of rules, practices, and processes by which a firm is directed and controlled by its board of directors. In today's news, Nvidia's board exercised its ultimate authority by unanimously reinstating CEO Jensen Huang after consulting U.S. officials.",
     "sources": [
       {
-        "name": "The Tribune",
-        "url": "https://www.tribuneindia.com/news/business/sustainability-risks-could-impact-companies-long-term-cash-flow-by-20-mckinsey-report/"
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+      },
+      {
+        "name": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/full-list-of-nvidia-board-of-directors-who-reinstated-jensen-huang-article-156556298"
       }
     ]
   },
   "serve": {
-    "headline": "Google contracts 50 MW of geothermal power from Quaise Energy",
-    "body": "Quaise Energy is a Houston-based startup developing rock-vaporizing microwave technology to drill deep geothermal energy wells. Google signed an agreement to purchase 50 megawatts of electricity from Quaise Energy to power its data centers.",
+    "headline": "coprod raised $6M to simplify robot hardware prototyping",
+    "body": "Swiss robotics startup coprod secured a $6 million pre-seed funding round. The company is building a dedicated facility designed to cut the time and cost of developing new robotic platforms.",
     "questions": [
-      "How can deep geothermal technology solve the massive power demands of AI data centers?",
-      "What buyer commitments do hardware energy startups need to secure before scaling up?",
-      "How would you pitch reliable clean energy to tech giants competing for data center capacity?"
+      "What campus resources at UCI could help early hardware startups reduce early prototyping costs?",
+      "How can hardware founders adopt rapid software prototyping techniques without burning capital?",
+      "What milestones should a pre-seed robotics startup demonstrate before raising seed funding?"
     ],
     "sources": [
       {
-        "name": "Newser",
-        "url": "https://www.newser.com/story/400237/could-geothermal-energy-be-a-data-center-power-solution.html"
+        "name": "PR Newswire UK",
+        "url": "https://www.prnewswire.co.uk/news-releases/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software-302947695.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Former Nvidia CEO Jensen Huang ousted over alleged illegal chip sales",
-      "blurb": "Nvidia stock fell over 10% following his resignation amid national security concerns."
+      "headline": "Jensen Huang reinstated as Nvidia CEO after board vote",
+      "blurb": "Nvidia shares jumped and tech indexes rallied after U.S. officials cleared national security concerns."
     },
     {
-      "headline": "Undergrad business salary offers jump over 15% for Class of 2027",
-      "blurb": "McKinsey, Bain, and Deloitte are actively recruiting, though hiring processes remain highly selective."
+      "headline": "Amazon acquires AI startup Decart for $7.5 billion",
+      "blurb": "The cloud giant brings in Decart's optimization team ahead of its Trainium chip launch."
     },
     {
-      "headline": "Anthropic AI tool Claude helps solve the Riemann Hypothesis",
-      "blurb": "Two independent expert groups verified that the AI model helped tackle the 1859 prime number problem."
+      "headline": "Tesla FSD v15 strains AI4 compute limits",
+      "blurb": "Elon Musk confirmed AI4 chips are nearly maxed out while AI5 chips go to Optimus first."
     },
     {
-      "headline": "Trump proposes capping credit card interest rates at 10%",
-      "blurb": "The bipartisan pitch comes as total US credit card debt reaches a record $1.29 trillion."
+      "headline": "BCG details growth roadmap for India's textile exports",
+      "blurb": "The consultancy outlines steps needed to reach a $100 billion export target by FY31."
     },
     {
-      "headline": "Alcaraz and Zverev advance to ATP Finals championship match",
-      "blurb": "Alcaraz rallied past Ben Shelton in three sets to set up a Sunday final against Zverev in Turin."
+      "headline": "Carlos Alcaraz wins ATP Finals with victory over Zverev",
+      "blurb": "Alcaraz secured a straight-sets win to cap off his season in Turin."
     }
   ],
-  "emailQuestion": "How can deep geothermal technology solve the massive power demands of AI data centers?"
+  "emailQuestion": "What campus resources at UCI could help early hardware startups reduce early prototyping costs?"
 }
