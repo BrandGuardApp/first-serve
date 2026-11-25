@@ -1,69 +1,69 @@
 {
-  "id": "2026-11-24-pm",
-  "slot": "evening",
-  "date": "2026-11-24",
-  "dateLabel": "Tue, Nov 24, 2026",
-  "editionLabel": "Evening edition",
-  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
-  "generatedAt": "2026-11-25T02:14:54.654Z",
-  "greeting": "Evening, Samrudh.",
-  "preheader": "Best Buy sales surge, Pentagon eyes automaker drones, and Sinner sidelined by knee surgery.",
-  "storyCount": 10,
-  "readMinutes": 3,
+  "id": "2026-11-25-am",
+  "slot": "morning",
+  "date": "2026-11-25",
+  "dateLabel": "Wed, Nov 25, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-25T22:21:47.602Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia CEO returns, Deloitte suspended over AI reports, and campus tech shifts.",
+  "storyCount": 11,
+  "readMinutes": 4,
   "scoreboard": {
-    "asOf": "Close, Nov 24",
+    "asOf": "Close, Nov 25",
     "rows": [
       {
         "name": "S&P 500",
-        "value": "7,201",
-        "change": "−0.50%",
+        "value": "7,183",
+        "change": "−0.25%",
         "direction": "down"
       },
       {
         "name": "Nasdaq",
-        "value": "23,734",
-        "change": "−1.48%",
+        "value": "23,586",
+        "change": "−0.62%",
         "direction": "down"
       },
       {
         "name": "Dow",
-        "value": "50,019",
-        "change": "+0.85%",
+        "value": "50,183",
+        "change": "+0.33%",
         "direction": "up"
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.90%",
-        "change": "−1 bp",
+        "value": "4.85%",
+        "change": "−6 bp",
         "direction": "down"
       },
       {
         "name": "Gold",
-        "value": "$3,548",
-        "change": "−0.39%",
-        "direction": "down"
+        "value": "$3,618",
+        "change": "+0.74%",
+        "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Best Buy Posts Best Quarterly Sales Growth in Five Years",
-    "body": "Electronics retailer Best Buy reported third-quarter results that beat Wall Street expectations during CEO Jason Bonfig's first quarter leading the company. Same-store sales grew as holiday shopping began, signaling resilient consumer demand for tech products.",
+    "headline": "Nvidia Shares Slump Again as Tech Rally Fades and AI Concerns Return",
+    "body": "Wall Street's recent relief rally following Jensen Huang's return as Nvidia CEO quickly lost momentum as broader fears over the artificial intelligence infrastructure boom returned. Global stocks stumbled on Wednesday amid fresh tariff threats and growing investor anxiety over tech valuations. Markets are closely watching whether heavy investments in AI hardware will deliver sustainable returns.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/best-buy-posts-best-sales-growth-in-5-years-stock-jumps-on-raised-outlook-120414240.html"
-      }
-    ],
-    "why": "Tracking big-box retail earnings ahead of Black Friday gives you real-time sales data to analyze for your Merage business and economics courses.",
-    "kicker": "Retail & Markets",
-    "figures": [
-      {
-        "value": "6.1%",
-        "label": "same-store sales growth"
+        "name": "The Financial Express",
+        "url": "https://www.financialexpress.com/market/global-markets/us-stock-market-under-pressure-as-ai-sell-off-spreads-across-global-markets-nvidia-and-anthropic-shares-slide/4393472/"
       },
       {
-        "value": "5 years",
-        "label": "best quarterly growth mark"
+        "name": "Cable News Network",
+        "url": "https://edition.cnn.com/2026/11/25/economy/stock-market-ai-gdp"
+      }
+    ],
+    "why": "Understanding how market sentiment shifts around infrastructure spending helps you evaluate capital allocation and risk when looking at tech-heavy portfolios.",
+    "kicker": "Markets and Leadership",
+    "figures": [
+      {
+        "value": "$270 million",
+        "label": "AI servers linked to China records"
       }
     ]
   },
@@ -73,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "Pentagon Talks with GM and Ford to Mass-Produce Military Drones",
-          "body": "The U.S. Department of Defense is holding preliminary talks with General Motors, Ford, and Magna International to supply parts and scale up domestic military drone manufacturing.",
+          "headline": "Kroger Faces Backlash Over Plan to Cut U.S. Jobs and Open Bangalore Hub",
+          "body": "Kroger is drawing heavy criticism on social media for plans to eliminate 3,000 domestic jobs while hiring for a new corporate hub in India. The move has fueled public anger over corporate offshoring during a period of high food prices.",
           "sources": [
             {
-              "name": "Fox Business",
-              "url": "https://www.foxbusiness.com/economy/pentagon-reportedly-talks-gm-ford-scale-us-military-drone-production"
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/politics/nations-largest-grocery-chain-cuts-thousands-jobs-sparks-fury-who-hiring-instead-insanity"
             }
           ],
-          "why": "Seeing legacy automakers move into defense hardware shows how traditional supply chains adapt to new tech contracts."
+          "why": "This is a real-world case study in corporate restructuring and public relations fallout, showing how operational cost-cutting decisions can trigger severe brand damage."
         },
         {
-          "headline": "Micron Upgraded as Memory Chip Prices Rise and Capacity Fills",
-          "body": "Semiconductor maker Micron received an upgraded strong buy rating as DRAM memory spot prices crossed $60. The company has already sold 75 percent of its capacity for calendar year 2027.",
+          "headline": "Oracle's 53% Collapse Sparks Fresh Debates Over AI Infrastructure Sustainability",
+          "body": "Wall Street is increasingly questioning the long-term viability of the massive capital expenditures pouring into data centers and hardware. Analysts are closely watching whether companies purchasing high-end chips can monetize them fast enough to justify the costs.",
           "sources": [
             {
-              "name": "Seeking Alpha",
-              "url": "https://seekingalpha.com/article/4971359-micron-pounding-the-buy-table-double-upgrade"
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/investing/2026/11/25/should-buy-oracle-stock-after-53-collapse-answer-shock-you/"
             }
           ],
-          "why": "Monitoring hardware supply bottlenecks helps you evaluate stock valuations and chip sector trends for personal investing."
+          "why": "As an aspiring investor, tracking how infrastructure debt and capital spending impact tech valuations is vital for spotting market bubbles early."
         }
       ]
     },
@@ -101,26 +101,26 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Anthropic AI Solves Unsolved Math Problem and Challenges CS Tenets",
-          "body": "An Anthropic researcher used AI to generate a 17-million-line solution to the Riemann hypothesis. Anthropic and OpenAI also noted that recent breakthroughs disproved a core principle of computer science research.",
+          "headline": "Google Search AI Retrained After Falsely Claiming Bay Area Restaurant Was Closing",
+          "body": "A chef-owner spent two weeks retraining Google's AI search mode after it incorrectly told customers his restaurant of nearly 20 years was permanently shutting its doors. The incident highlights ongoing accuracy flaws in automated search summaries.",
           "sources": [
             {
-              "name": "WIRED",
-              "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+              "name": "SFGATE",
+              "url": "https://www.sfgate.com/food/article/esin-restaurant-google-closing-22548215.php"
             }
           ],
-          "why": "Understanding how to audit complex AI outputs will be essential if you evaluate AI software performance in tech consulting."
+          "why": "For anyone looking at product management or tech startups, hallucinations and poor reliability remain major hurdles for generative AI commercialization."
         },
         {
-          "headline": "Anthropic and OpenAI Employees Warn Unreleased AI Models Are Unsafe",
-          "body": "Internal debates at Anthropic and OpenAI have intensified as more than two dozen sources report employees fear their unreleased AI models are becoming too powerful to deploy safely.",
+          "headline": "Cerebras Stock Highlighted as Wafer-Scale Chips Aim to Speed AI Inference",
+          "body": "Analysts are eyeing wafer-scale chip technology as a way to accelerate AI processing speeds. However, reports note that a significant majority of current revenue remains tied down by a small handful of major customers.",
           "sources": [
             {
-              "name": "Yahoo Tech",
-              "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+              "name": "Seeking Alpha",
+              "url": "https://seekingalpha.com/article/4971773-i-spot-massive-opportunity-in-cerebras-stock"
             }
           ],
-          "why": "Model safety decisions affect product launch timelines and corporate risk governance, topics key to management studies."
+          "why": "Concentrated customer risk is a classic startup and hardware pitfall to analyze when assessing early-stage enterprise tech scaling."
         }
       ]
     },
@@ -129,19 +129,26 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "BCG Report Shows 96 Percent of Indian Workers Use AI Regularly",
-          "body": "A report by Boston Consulting Group revealed that 96 percent of employees in India use AI daily or several times a week, saving an average of 15 hours per week.",
+          "headline": "Deloitte Suspended by Western Australian Government Over AI-Riddled Report",
+          "body": "Accounting firm Deloitte has been suspended from bulk government work for up to three months after delivering a taxpayer-funded report on university mergers that was filled with AI errors.",
           "sources": [
             {
-              "name": "Deccan Chronicle",
-              "url": "https://www.deccanchronicle.com/technology/india-tops-apac-in-ai-use-at-work-96-of-employees-use-it-regularly-bcg-2007557"
-            },
-            {
-              "name": "NDTV Profit",
-              "url": "https://www.ndtvprofit.com/business/is-ai-giving-indian-employees-their-weekends-back-bcg-says-theyre-saving-15-hours-a-week-12371104"
+              "name": "ABC (Australian Broadcasting Corporation)",
+              "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546"
             }
           ],
-          "why": "Seeing where AI productivity tools gain traction globally gives you insight into global consulting operations and workforce shifts."
+          "why": "This is a stark warning for the consulting industry: sloppy automated deliverables and poor quality control can lead to immediate contract suspensions and lost clients."
+        },
+        {
+          "headline": "Anthropic CEO Warns AI Could Eliminate 80 Percent of Junior City Jobs",
+          "body": "Anthropic chief executive Dario Amodei warned that artificial intelligence could wipe out four out of five entry-level roles in law, consulting, and finance over the next five years.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/anthropic-boss-warns-ai-could-wipe-out-80-per-cent-of-junior-city-jobs/"
+            }
+          ],
+          "why": "As a Merage student targeting consulting and finance, you need to understand how automation is reshaping the traditional junior analyst pipeline."
         }
       ]
     },
@@ -150,12 +157,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UC Irvine Researchers Create Physics-Guided AI for Fluid Dynamics",
-          "body": "Researchers at UC Irvine built a computational framework that combines physical laws with AI to reconstruct fluid motion, such as blood flow through the heart, from incomplete data.",
+          "headline": "UC Irvine Surpasses Disneyland to Become Orange County's Largest Employer",
+          "body": "UC Irvine has overtaken Disneyland as Orange County's largest employer, growing its workforce by 9.5 percent to reach 37,350 employees.",
           "sources": [
             {
-              "name": "Phys.org",
-              "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html"
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/24/us-news/disneyland-loses-orange-countys-largest-employer-title-to-uc-irvine/"
             }
           ]
         }
@@ -166,12 +173,12 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Jannik Sinner Undergoes Knee Surgery and Will Miss Australian Open",
-          "body": "Five-time Grand Slam champion Jannik Sinner had surgery on his right knee for iliotibial band syndrome and faces a three-month recovery, ruling him out of the 2027 Australian Open.",
+          "headline": "Carlos Alcaraz Wins 14th Consecutive Match Ahead of Davis Cup Quarter-Finals",
+          "body": "Carlos Alcaraz arrived in Bologna for Spain's Davis Cup clash against Austria less than 24 hours after defeating Alexander Zverev in straight sets at the ATP Finals.",
           "sources": [
             {
-              "name": "Times Now",
-              "url": "https://www.timesnownews.com/sports/tennis/jannik-sinner-undergoes-knee-surgery-expected-to-be-out-for-three-months-article-156560730"
+              "name": "SPORTbible",
+              "url": "https://www.sportbible.com/tennis/carlos-alcaraz-tennis-problem-davis-cup-quarter-finals-482650-20261124"
             }
           ]
         }
@@ -179,51 +186,51 @@
     }
   ],
   "term": {
-    "name": "Same-Store Sales",
-    "definition": "A retail metric that compares sales revenue from existing store locations open for at least one year. It shows organic growth without counting new store openings.",
+    "name": "Dilution",
+    "definition": "Dilution happens when a company issues new shares of stock, which reduces the ownership percentage of existing shareholders. In today's markets, discussions around major corporate stock bids highlight how large transactions can dilute investor stakes. For founders and investors, balancing capital needs against ownership dilution is a constant trade-off.",
     "sources": [
       {
         "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/best-buy-posts-best-sales-growth-in-5-years-stock-jumps-on-raised-outlook-120414240.html"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-could-fall-below-100-080708394.html"
       }
     ]
   },
   "serve": {
-    "headline": "Verra raised $5M to fix institutional memory for consulting firms",
-    "body": "Verra raised a $5 million seed round to build tools that capture and organize historical client project data. The startup aims to stop consulting firms from losing internal expertise between engagements.",
+    "headline": "SUK-M raised a pre-seed round led by Speciale Invest to build micro-modular reactors",
+    "body": "The startup is using the new capital to transition from computer simulations to laboratory testing for a 10 MW electricity or 30 MW heat micro-modular reactor based on molten-salt technology. Speciale Invest backed the round.",
     "questions": [
-      "How do you organize team research so group projects at Merage do not repeat past work?",
-      "What software tools could automatically tag and store presentation decks for easy search later?",
-      "Would enterprise clients pay high consulting rates if AI tools let small teams pull firm knowledge instantly?"
+      "How would you price an energy product for industrial clients when your initial manufacturing costs are extremely high?",
+      "What regulatory hurdles would a hardware startup face when moving from software simulations to physical lab testing?",
+      "How can a pre-revenue deep tech startup de-risk its technology enough to attract Series A venture capital?"
     ],
     "sources": [
       {
-        "name": "TNW",
-        "url": "https://thenextweb.com/news/verra-5m-seed-institutional-memory-consulting-firms"
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/industry/news/suk-m-thorium-micro-modular-reactor-pre-seed-speciale-invest-126112500577_1.html"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Best Buy posts its best quarterly sales growth in five years.",
-      "blurb": "Same-store sales rose 6.1 percent as holiday shopping got under way."
+      "headline": "Nvidia Shares Slump Again as Tech Rally Fades",
+      "blurb": "Broader market anxiety over the AI boom returned as global stocks stumbled."
     },
     {
-      "headline": "Pentagon in talks with GM and Ford for military drone production.",
-      "blurb": "U.S. defense officials want automaker supply chains to help mass-produce uncrewed military systems."
+      "headline": "Kroger Faces Backlash Over Offshoring Jobs",
+      "blurb": "The grocer is cutting 3,000 U.S. roles while hiring for a new hub in India."
     },
     {
-      "headline": "Anthropic AI disproves computer science tenets while solving math problem.",
-      "blurb": "The 17-million-line solution will take human researchers months to fully understand."
+      "headline": "Oracle Collapse Spotlights AI Capital Crunch",
+      "blurb": "Wall Street is questioning whether data center spending is sustainable."
     },
     {
-      "headline": "BCG report reveals 96 percent of Indian employees use AI at work.",
-      "blurb": "Regular AI adoption saves workers in India an average of 15 hours each week."
+      "headline": "Deloitte Suspended Over AI Report Errors",
+      "blurb": "The accounting firm was barred from WA government work for three months."
     },
     {
-      "headline": "Jannik Sinner undergoes knee surgery and will miss the Australian Open.",
-      "blurb": "The five-time Grand Slam winner faces a three-month recovery period following right knee treatment."
+      "headline": "UC Irvine Becomes OC's Largest Employer",
+      "blurb": "The university's workforce grew to 37,350, surpassing Disneyland."
     }
   ],
-  "emailQuestion": "How do you organize team research so group projects at Merage do not repeat past work?"
+  "emailQuestion": "How would you price an energy product for industrial clients when your initial manufacturing costs are extremely high?"
 }
