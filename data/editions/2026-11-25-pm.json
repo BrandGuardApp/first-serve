@@ -1,0 +1,268 @@
+{
+  "id": "2026-11-25-pm",
+  "slot": "evening",
+  "date": "2026-11-25",
+  "dateLabel": "Wed, Nov 25, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-26T04:57:10.299Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Nvidia rally unravels, Fed inflation reaches 3.8%, and Anthropic slide creates paper millionaires.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 25",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,183",
+        "change": "−0.25%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "23,586",
+        "change": "−0.62%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "50,183",
+        "change": "+0.33%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.85%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,626",
+        "change": "+1.72%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "The Nvidia Reinstatement Rally Trashes as Tech Stocks Plunge Again",
+    "body": "U.S. stocks dropped sharply on Wednesday as gains from Jensen Huang's reinstatement as Nvidia CEO completely erased. The Nasdaq tumbled 4.1% while chip makers, neoclouds, and recent IPOs led a steep market sell-off.",
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/market-sell-underway-gains-huangs-nvidia-move-stall-rcna611268"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/nvidia-stock-softbank-kospi-index-nikkei-tsmc-ai-trade-selloff-2026-11"
+      },
+      {
+        "name": "New York Post",
+        "url": "https://nypost.com/2026/11/25/business/nasdaq-tumbles-4-as-nvidia-leads-ai-sell-off-inflation-and-tariffs-weigh-on-investors/"
+      }
+    ],
+    "why": "As a business student following tech valuations, this sudden reversal highlights how quickly market sentiment turns when AI enthusiasm collides with profit concerns.",
+    "kicker": "Markets + AI",
+    "figures": [
+      {
+        "value": "-4.1%",
+        "label": "Nasdaq drop"
+      },
+      {
+        "value": "$2 Trillion",
+        "label": "Chip rally value wiped out"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Anthropic Post-IPO Slide Tests AI Valuations",
+          "body": "Anthropic shares fell below their initial public offering price as Wall Street questions whether AI companies can deliver expected profits. Even with the drop, the debut turned roughly 5,100 employees into paper millionaires.",
+          "sources": [
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
+            }
+          ],
+          "why": "Understanding equity compensation and post-IPO lockup risks will help you evaluate startup job offers down the road."
+        },
+        {
+          "headline": "Fed's Preferred Inflation Metric Hits 3.8%",
+          "body": "The personal consumption expenditures price index rose to 3.8% in October, nearly double the Federal Reserve's target. The jump increases expectations that the central bank might raise interest rates next month.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/25/business/feds-preferred-inflation-gauge-jumps-to-3-8-as-wall-street-braces-for-rate-hike/"
+            }
+          ],
+          "why": "Higher interest rates increase borrowing costs for startups and depress valuation multiples across public equity markets."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "AI Researchers Warn Advanced Models May Be Unsafe to Launch",
+          "body": "Insiders at Anthropic and OpenAI report that their most advanced unreleased models are becoming harder to control. Researchers worry these systems may never reach safety levels required for public distribution.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-and-openai-researchers-fear-their-unreleased-ai-models-are-too-powerful-to-ever-release-warns-they-will-in-fact-be-able-to-/articleshow/136167908.cms"
+            }
+          ],
+          "why": "AI governance and risk management will be critical topics when you advise enterprise clients or launch tech products."
+        },
+        {
+          "headline": "Nvidia Settles $290M Crypto Suit Amid Governance Concerns",
+          "body": "Nvidia agreed to pay $290 million to settle a 2018 shareholder lawsuit regarding crypto revenue disclosures. At the same time, analysts pointed out governance risks in relying heavily on a founder CEO without a clear succession plan.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/opinion/editorial/nvidia-saga-exposes-succession-and-governance-risks-for-founder-led-firms-126112501252_1.html"
+            },
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1425099-nvidia-agrees-to-pay-290-million-to-settle-2018-crypto-investor-lawsuit"
+            }
+          ],
+          "why": "Analyzing how corporate governance impacts market valuation is a key theme in management courses at Merage."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "McKinsey Highlights 3.7 Million European Jobs at Risk",
+          "body": "A new report from McKinsey & Company estimates that 3.7 million European industrial jobs face direct financial risk. Almost half of the region's industrial firms experienced financial stress in 2025.",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/25/around-37-million-jobs-are-directly-at-risk-in-europes-struggling-industry-report-says"
+            }
+          ],
+          "why": "Operational turnarounds and restructuring in distressed international markets will fuel demand for management consulting services."
+        },
+        {
+          "headline": "Campus Tech Placements Drop as Leaders Stress AI Skills",
+          "body": "University campus placements in IT dropped by up to 20% as basic coding tasks get automated. LinkedIn CEO Daniel Shapero noted that graduates who learn to apply AI to solve complex problems still hold an edge.",
+          "sources": [
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/ai-is-replacing-entry-level-jobs-yet-gen-z-may-have-advantage-linkedin-ceo-explains-why-12374071"
+            },
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/city/chennai/it-hiring-in-campus-placements-dips-by-up-to-20-as-ai-reshapes-entry-level-roles/articleshow/136141422.cms"
+            }
+          ],
+          "why": "For your upcoming summer internship hunt, showing practical problem-solving using AI tools will matter more than standard technical skills."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine Team Combines AI and Physics for Fluid Modeling",
+          "body": "Researchers at UC Irvine created a computational method that pairs fundamental physics with AI to reconstruct precise fluid and blood flow models from sparse imaging data.",
+          "sources": [
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Jannik Sinner Undergoes Surgery, Leaving Australian Open in Doubt",
+          "body": "Former world No. 1 Jannik Sinner underwent right knee surgery, threatening his status for the Australian Open. Carlos Alcaraz supported his rival's decision to get treated, even as tour figures show viewership dropped significantly during Sinner's absence.",
+          "sources": [
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/26/tennis-we-are-missing-sinner-says-alcaraz"
+            },
+            {
+              "name": "SPORTbible",
+              "url": "https://www.sportbible.com/tennis/jannik-sinner-injury-viewership-decline-tennis-carlos-alcaraz-finals-164548-20261125"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/tennis/news/13615618/jannik-sinner-former-world-no-1-undergoes-surgery-on-his-right-knee-casting-doubt-over-australian-open-participation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Paper Millionaire",
+    "definition": "A paper millionaire is an employee or early investor whose equity holdings are valued at millions of dollars based on a company's stock price or valuation. Because the shares are often locked up or unliquidated, the wealth exists only on paper and can disappear if the market falls before they can sell.",
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Project Omega raised $12M to build batteries from nuclear waste",
+    "body": "Rhode Island startup Project Omega raised $12 million to transform radioactive nuclear waste into AA-size batteries. The funding will support prototypes built to power military and government devices for years.",
+    "questions": [
+      "How can founders turn hazardous environmental waste into high-value commercial products?",
+      "What regulatory hurdles will a startup face when selling nuclear-powered hardware to defense clients?",
+      "What resources at UCI can you use to test hardware concepts before seeking seed capital?"
+    ],
+    "sources": [
+      {
+        "name": "NewsBytes",
+        "url": "https://www.newsbytesapp.com/news/business/project-omega-raises-12-million-to-build-nuclear-waste-batteries/tldr"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "The Nvidia reinstatement rally unravelled as tech stocks plunged.",
+      "blurb": "The Nasdaq fell 4.1% as markets questioned high AI valuations."
+    },
+    {
+      "headline": "Anthropic's stock slipped below its IPO price while creating 5,100 paper millionaires.",
+      "blurb": "Investors are scrutinizing profitability across top AI software firms."
+    },
+    {
+      "headline": "Campus IT hiring dropped 20% as employers prioritize AI problem-solving.",
+      "blurb": "LinkedIn's CEO urged Gen Z job seekers to highlight AI fluency."
+    },
+    {
+      "headline": "McKinsey reported 3.7 million European industrial jobs face direct financial stress.",
+      "blurb": "Weakening firm balance sheets could create high demand for corporate turnaround consultants."
+    },
+    {
+      "headline": "Project Omega raised $12M to make long-lasting batteries from nuclear waste.",
+      "blurb": "The startup aims to keep military gear running for years without recharging."
+    }
+  ],
+  "emailQuestion": "How can founders turn hazardous environmental waste into high-value commercial products?"
+}
