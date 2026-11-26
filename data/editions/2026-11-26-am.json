@@ -1,0 +1,237 @@
+{
+  "id": "2026-11-26-am",
+  "slot": "morning",
+  "date": "2026-11-26",
+  "dateLabel": "Thu, Nov 26, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-26T14:56:23.991Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "Nvidia shares slip on credit jitters, Norse Atlantic suspends flights, and UCI is now OC's top employer.",
+  "storyCount": 10,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 25",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,183",
+        "change": "−0.25%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "23,586",
+        "change": "−0.62%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "50,183",
+        "change": "+0.33%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.85%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,605",
+        "change": "+1.13%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Nvidia shares slip below $150 amid credit and supply concerns",
+    "body": "Jensen Huang's return as CEO briefly thrilled investors, but Nvidia shares have drifted below $150 over the past three trading days due to lingering credit jitters. At the same time, U.S. officials are investigating whether cutting-edge chips reached Chinese-owned firms through intermediaries in California. These pressures highlight the high stakes and supply chain risks sitting right at the core of the AI hardware boom.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+      },
+      {
+        "name": "The Motley Fool Australia",
+        "url": "https://www.fool.com.au/2026/11/26/credit-jitters-drag-nvidia-shares-back-below-150/"
+      }
+    ],
+    "why": "Understanding how regulatory scrutiny and supply chain leaks affect hardware giants gives you a realistic lens on tech sector valuations for your finance and investing classes.",
+    "kicker": "Markets and Tech",
+    "figures": [
+      {
+        "value": "$150",
+        "label": "share price threshold"
+      },
+      {
+        "value": "31%",
+        "label": "initial post-return stock pop"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Norse Atlantic suspends flights after warning finances are critical",
+          "body": "Low-cost long-haul carrier Norse Atlantic Airways cancelled flights and warned its financial position is critical following soaring fuel costs from West Asian conflicts. The airline's shares plummeted to an all-time low as it scrambles for short-term financing or a potential takeover.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/airline-norse-atlantic-says-it-is-critical-financial-situation-2026-11-25/"
+            }
+          ],
+          "why": "This is a harsh reminder of how macro shocks like fuel spikes can crush asset-heavy, low-margin business models almost overnight."
+        },
+        {
+          "headline": "US weekly jobless claims fall more than expected to 189,000",
+          "body": "New claims for state unemployment benefits dropped by 13,000 last week, pointing to stable labor market conditions ahead of potential Federal Reserve rate actions. The stronger-than-expected data eased some broader economic worries as markets navigated holiday-shortened trading.",
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/world/us-weekly-jobless-claims-fall-more-than-expected-20041669.htm"
+            }
+          ],
+          "why": "Tracking labor data helps you understand how macroeconomic health directly drives Federal Reserve interest rate decisions and equity valuations."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "OpenAI begins testing Private Inference for enterprise data security",
+          "body": "OpenAI is testing a new privacy feature called Private Inference with a small group of corporate customers. The tool aims to protect prompts and responses while advanced models process them to satisfy strict business security needs.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/tech/openai-tests-private-inference-to-keep-sensitive-information-safe-what-is-it-and-how-does-it-work-14062655.html"
+            }
+          ],
+          "why": "As companies build enterprise AI software, data privacy features are the exact type of product differentiation that creates massive B2B software-as-a-service value."
+        },
+        {
+          "headline": "London startup Sequent raises $2.2 million for code safety verification",
+          "body": "Sequent has secured pre-seed funding to build an AI tool that searches for mathematical proofs to show software obeys its safety rules. The round was co-led by Frachtis and Metaplanet, the investment firm of Skype co-founder Jaan Tallinn.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/sequent-2-2m-formal-verification-ai"
+            }
+          ],
+          "why": "Automated software verification tackles the massive reliability bottlenecks that engineering teams face when deploying complex AI code into production."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Anthropic CEO warns artificial intelligence could wipe out 80% of junior finance and consulting jobs",
+          "body": "Anthropic chief executive Dario Amodei warned that artificial intelligence could automate up to 80 per cent of entry-level roles across law, consulting, and finance over the next five years. The warning adds to mounting pressure on traditional white-collar career pipelines as firms adopt generative tools.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/anthropic-boss-warns-ai-could-wipe-out-80-per-cent-of-junior-city-jobs/"
+            }
+          ],
+          "why": "Since you are eyeing consulting, knowing that entry-level analytical tasks are being automated means you will need to focus on client relationship skills and high-level strategy."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UC Irvine surpasses Disneyland to become Orange County's largest employer",
+          "body": "UC Irvine has claimed the title of Orange County's largest employer with a head count of 37,525, edging out Disneyland's 36,000 employees. The milestone reflects the university's expanding institutional footprint across the region.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/california/story/2026-11-25/disneyland-step-aside-uc-irvine-takes-title-of-orange-countys-largest-employer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Australian Open confirms Jannik Sinner will miss the first Grand Slam of 2027",
+          "body": "Tournament officials announced that Jannik Sinner will miss the 2027 Australian Open in Melbourne Park as he continues recovering from right knee surgery. Rivals like Carlos Alcaraz have noted that the tour misses the Italian star's presence at the top of the draw.",
+          "sources": [
+            {
+              "name": "Nbc Sports",
+              "url": "https://www.nbcsports.com/tennis/news/australian-open-says-jannik-sinner-wont-play-the-first-grand-slam-tennis-tournament-of-2027"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/26/tennis-we-are-missing-sinner-says-alcaraz"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Export Controls",
+    "definition": "Government regulations that restrict the sale of sensitive technology and hardware to foreign adversaries or entities. In today's news, investigations into California-based companies illegally supplying advanced chips to Chinese-owned firms highlight how tricky it is for regulators to enforce these boundaries.",
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Emerald Battery Labs raised nearly $1.1 million to build sodium-ion batteries",
+    "body": "A Seattle-based startup is developing sodium-ion batteries using table salt elements as a cheaper alternative to lithium-ion technology. The founders plan to scale production to compete with foreign supply chains and power a local community hub.",
+    "questions": [
+      "How would you price a hardware alternative to lithium when raw material costs fluctuate rapidly?",
+      "What distribution model would you use to pitch a community energy hub over traditional power grids?",
+      "How does relying on abundant salt instead of scarce lithium change a hardware startup's venture capital pitch?"
+    ],
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/world/us/three-seattle-engineers-want-to-replace-lithium-with-the-element-in-table-salt-raise-nearly-1-1-million-to-take-on-china-plan-60-kwh-battery-system-for-washington-community-hub/articleshow/136172253.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Nvidia shares slip below $150 amid credit and supply concerns",
+      "blurb": "Regulatory scrutiny over chip sales and fresh credit jitters weigh on the hardware giant."
+    },
+    {
+      "headline": "Norse Atlantic suspends flights after warning finances are critical",
+      "blurb": "Rising fuel costs and cash crunches force the budget long-haul airline to ground flights."
+    },
+    {
+      "headline": "US weekly jobless claims fall more than expected",
+      "blurb": "New claims dropped to 189,000, pointing to continued stability in the American labor market."
+    },
+    {
+      "headline": "OpenAI begins testing Private Inference for enterprise security",
+      "blurb": "The new privacy feature aims to protect sensitive corporate data while advanced models run."
+    },
+    {
+      "headline": "Anthropic CEO warns AI could automate 80% of junior consulting jobs",
+      "blurb": "A stark warning for entry-level white-collar career tracks over the next five years."
+    }
+  ],
+  "emailQuestion": "How would you price a hardware alternative to lithium when raw material costs fluctuate rapidly?"
+}
