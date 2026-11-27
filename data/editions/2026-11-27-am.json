@@ -1,0 +1,240 @@
+{
+  "id": "2026-11-27-am",
+  "slot": "morning",
+  "date": "2026-11-27",
+  "dateLabel": "Fri, Nov 27, 2026",
+  "editionLabel": "Morning edition",
+  "nextLabel": "Next edition: 5:00 PM PT",
+  "generatedAt": "2026-11-27T18:04:33.854Z",
+  "greeting": "Morning, Samrudh.",
+  "preheader": "BoE warns on $4T AI debt, UCI becomes OC's top employer, and Sinner misses Australian Open.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "1:03 PM ET, Nov 27",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,297",
+        "change": "+1.60%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,130",
+        "change": "+2.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "50,775",
+        "change": "+1.18%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.93%",
+        "change": "+8 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,661",
+        "change": "+2.70%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Bank of England Warns of $4 Trillion AI Financing Risk",
+    "body": "The Bank of England sounded the alarm over the massive investment boom in artificial intelligence. Central bankers caution that heavy borrowing and complex, opaque financing structures pose systemic risks to global financial stability.",
+    "sources": [
+      {
+        "name": "Proto Thema",
+        "url": "https://en.protothema.gr/2026/11/27/ai-the-opaque-4-trillion-web-of-financing-alarming-central-banks-boe-warning-raises-fears-at-ecb-and-fed/"
+      }
+    ],
+    "why": "When you analyze corporate finance and leverage in class, watch how lenders handle tech debt. Stricter debt terms could slow down capital allocation for capital-heavy AI startups.",
+    "kicker": "Macro Risk + AI",
+    "figures": [
+      {
+        "value": "$4 Trillion",
+        "label": "AI financing web"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "SpaceX Premarket Rally Follows Musk Share-Donation Plan",
+          "body": "SpaceX shares jumped 4% in premarket trading after Elon Musk announced on X that he plans to donate company shares to American children every year. The move coincided with a broader rise in major tech stocks.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+            }
+          ],
+          "why": "Tracking how non-traditional corporate announcements move private and public market sentiment is a core skill for evaluating venture-backed companies."
+        },
+        {
+          "headline": "Binance to Reinvest Dividends into Stock Tokens",
+          "body": "Binance announced it will automatically reinvest dividends from stocks like Nvidia, PayPal, Qualcomm, Western Digital, and Wendy's back into additional stock tokens. Balance snapshots taken between December 1 and December 4 will determine user eligibility.",
+          "sources": [
+            {
+              "name": "U.Today",
+              "url": "https://u.today/binance-announces-dividends-for-nvidia-and-other-stocks"
+            }
+          ],
+          "why": "Tokenized equities show how crypto platforms are building synthetic yield products for retail investors, an area worth watching if you care about fintech innovation."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Chinese-Owned California Firms Buy Restricted Nvidia Chips",
+          "body": "Two California companies controlled by Chinese firms, Aivres and RiCloud, have been buying advanced Nvidia AI chips through Nvidia's partner program. Reports indicate some of these restricted chips were later leased or resold to firms in Southeast Asia.",
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/26/us-news/chinese-owned-california-companies-buying-up-advanced-nvidia-ai-chips-report/"
+            }
+          ],
+          "why": "Export control loopholes are a central topic in tech policy and supply chain consulting. Expect tech firms to spend heavily on supply chain compliance."
+        },
+        {
+          "headline": "GTA 6 Launch Overwhelms Consoles as Modders Build PC Ports",
+          "body": "The release of Grand Theft Auto 6 has led to console failures, with repair shops reporting bricked Xbox Series X and S units alongside overheating PS5s. Meanwhile, independent programmers have built unofficial PC ports running at 20 frames per second.",
+          "sources": [
+            {
+              "name": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/GTA-6-release-produces-rash-of-bricked-Xbox-consoles-joining-failing-PS5s.1461079.0.html"
+            },
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown"
+            }
+          ],
+          "why": "Hardware thermal limits and software optimization dictate what consumer platforms can handle, showing why game studios and hardware makers must closely coordinate product launches."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "BCG Partners Lead Corporate Crisis Workshop in Bangkok",
+          "body": "Bangkok executive club House of Wisdom brought together business founders and two Boston Consulting Group partners for a crisis leadership simulation. The forum focused on operational decision making when severe corporate disruptions hit.",
+          "sources": [
+            {
+              "name": "Bangkok Post",
+              "url": "https://www.bangkokpost.com/thailand/pr/3362169/thailands-business-leaders-gather-to-rehearse-their-worst-day-with-a-former-military-chief-and-bcg"
+            }
+          ],
+          "why": "Management consulting firms frequently run crisis management frameworks for top executives. Learning how consultants structure emergency turnarounds can prepare you for case interviews."
+        },
+        {
+          "headline": "BCG Report Details $31 Billion India Climate Equity Boom",
+          "body": "A joint report from IVCA and BCG shows India has attracted $31 billion in climate equity funding since 2021. Power and low-carbon fuels took $19 billion while transport pulled in $9.5 billion, leaving manufacturing and waste lagging behind.",
+          "sources": [
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/industry/news/india-attracts-31-bn-climate-equity-funding-since-2021-ivca-bcg-report-126112601307_1.html"
+            }
+          ],
+          "why": "If you are interested in sustainability consulting or impact investing, capital allocation figures point to where hiring and advisory demand are highest."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Overtakes Disneyland as Orange County's Largest Employer",
+          "body": "The University of California, Irvine has surpassed Disneyland Resort to become the largest employer in Orange County following a significant increase in its workforce.",
+          "sources": [
+            {
+              "name": "wdwnt.com",
+              "url": "https://wdwnt.com/2026/11/disneyland-loses-top-title-as-orange-countys-largest-employer-in-todays-daily-recap-for-11-25-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Jannik Sinner Out of 2027 Australian Open After Knee Surgery",
+          "body": "Two-time Australian Open champion Jannik Sinner will miss the tournament in January 2027 as he recovers from right knee surgery.",
+          "sources": [
+            {
+              "name": "The News International",
+              "url": "https://www.thenews.com.pk/latest/1425247-jannik-sinner-shares-emotional-message-after-being-ruled-out-of-2027-australian-open-due-to-knee-surgery"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/sport/tennis/2026/11/26/tennis-sinner-to-miss-australian-open-after-undergoing-surgery-on-knee-injury"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Systemic Risk",
+    "definition": "Systemic risk is the possibility that an event at the micro level could trigger severe instability or collapse across an entire financial system or market. In today's news, central bankers warn that unchecked borrowing and complex debt structures in the AI sector could create broad market spillover if tech investments fail to yield expected returns.",
+    "sources": [
+      {
+        "name": "Proto Thema",
+        "url": "https://en.protothema.gr/2026/11/27/ai-the-opaque-4-trillion-web-of-financing-alarming-central-banks-boe-warning-raises-fears-at-ecb-and-fed/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "PowerLattice raised $111M for energy-efficient AI hardware",
+    "body": "PowerLattice developed a fingertip-sized chip designed to cut AI data center power usage and heat output in half. The startup raised $25 million initially and gathered another $86 million a year later.",
+    "questions": [
+      "How would you price a hardware chip when pitch savings directly reduce a data center's utility bill?",
+      "What key metrics would you present to VCs to prove lab thermal testing translates to real-world server racks?",
+      "If power consumption is the biggest constraint for AI labs, what business ideas could UCI students test on campus?"
+    ],
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/world/us/a-tiny-chip-the-size-of-a-fingertip-could-cut-ais-power-use-in-half-investors-put-in-25-million-then-86-million-more-a-year-later/articleshow/136191266.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Bank of England warns of $4 trillion AI financing risk",
+      "blurb": "Central banks caution that heavy borrowing and complex debt in AI pose systemic risks."
+    },
+    {
+      "headline": "Chinese-backed firms acquire restricted Nvidia chips",
+      "blurb": "Two California companies bought advanced AI hardware through partner programs."
+    },
+    {
+      "headline": "UCI passes Disneyland as Orange County's top employer",
+      "blurb": "A workforce surge pushed the university past the theme park resort."
+    },
+    {
+      "headline": "Jannik Sinner out of 2027 Australian Open",
+      "blurb": "The world No. 2 will miss Melbourne Park after undergoing knee surgery."
+    },
+    {
+      "headline": "BCG partners host corporate crisis simulation in Bangkok",
+      "blurb": "Consultants and business leaders trained on emergency decision making."
+    }
+  ],
+  "emailQuestion": "How would you price a hardware chip when pitch savings directly reduce a data center's utility bill?"
+}
