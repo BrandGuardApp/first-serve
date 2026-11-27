@@ -1,0 +1,236 @@
+{
+  "id": "2026-11-26-pm",
+  "slot": "evening",
+  "date": "2026-11-26",
+  "dateLabel": "Thu, Nov 26, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-27T07:59:48.176Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "Anthropic's $1.5T valuation, Salesforce's AI threat, and Gen Z's hiring advantage.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 25",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,183",
+        "change": "−0.25%",
+        "direction": "down"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "23,586",
+        "change": "−0.62%",
+        "direction": "down"
+      },
+      {
+        "name": "Dow",
+        "value": "50,183",
+        "change": "+0.33%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.85%",
+        "change": "−6 bp",
+        "direction": "down"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,687",
+        "change": "+3.43%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "Anthropic's $1.5 Trillion Valuation Reshapes Tech Markets",
+    "body": "Anthropic reached a valuation of roughly $1.5 trillion following its recent initial public offering, placing it among the top ten most valuable public companies in the U.S. The massive listing highlights how frontier AI developers are pulling in huge sums of capital while transforming equity markets.",
+    "sources": [
+      {
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/opinion/op-ed/what-anthropics-15-trillion-ipo-means-for-developing-countries/article71747560.ece"
+      }
+    ],
+    "why": "Understanding how mega-cap AI valuations affect public markets will help you analyze tech stock pricing and capital flows in your corporate finance and investing courses.",
+    "kicker": "AI + MARKETS",
+    "figures": [
+      {
+        "value": "$1.5 trillion",
+        "label": "market valuation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Salesforce Shares Fall 25% Ahead of Q3 Earnings on AI Fears",
+          "body": "Salesforce reports Q3 earnings next week on December 2, but its stock has dropped around 25% this year. Investors worry that emerging AI agents could displace traditional enterprise software platforms.",
+          "sources": [
+            {
+              "name": "Markets Insider",
+              "url": "https://markets.businessinsider.com/news/stocks/salesforce-crm-price-forecast-what-financial-analysts-expect-ahead-of-q3-earnings-next-week-1036804034"
+            }
+          ],
+          "why": "This is a prime example of technology disruption, giving you a real-world case study on how market leaders respond when software business models face new threats."
+        },
+        {
+          "headline": "Seagate Stock Drops 40% Due to Multiple Compression",
+          "body": "Mass-capacity hard drive maker Seagate Technology saw its stock fall 40% over three months despite keeping its strong position in data storage. Wall Street analysts attribute the price drop to multiple compression.",
+          "sources": [
+            {
+              "name": "EUROPE SAYS",
+              "url": "https://www.europesays.com/3402849/"
+            }
+          ],
+          "why": "Learning how equity multiples compress helps you understand why stock prices change even when a company maintains strong underlying business operations."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "Firefox Pivots 27% of Engineering Work to AI-Found Security Bugs",
+          "body": "Mozilla now devotes 27% of its Firefox engineering efforts to fixing security vulnerabilities, up from 10% a year ago. Free access to AI models from OpenAI and Anthropic has allowed researchers to uncover complex code flaws much faster.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/firefox-mozilla-security-effort-27-percent-ai-bugs"
+            }
+          ],
+          "why": "This shows how AI code generation forces tech firms to reallocate engineering resources toward security defense and code maintenance."
+        },
+        {
+          "headline": "Huawei Previews High-Density AI Memory Chip to Target Shortages",
+          "body": "Huawei plans to present a high-bandwidth memory chip design with double the data pin density of market leaders Samsung and SK Hynix. The move targets persistent hardware supply constraints facing Chinese tech firms.",
+          "sources": [
+            {
+              "name": "TNW",
+              "url": "https://thenextweb.com/news/huawei-hbm-ai-memory-samsung-sk-hynix-isscc"
+            }
+          ],
+          "why": "Tracking semiconductor innovation gives you context on global supply chain friction and international tech competition."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "LinkedIn CEO Says AI-Fluent Gen Z Has Edge in Tough Job Market",
+          "body": "LinkedIn CEO Daniel Shapero noted that while entry-level hiring remains tight, companies actively seek young candidates who know how to work with AI tools. Employers expect Gen Z to adopt new AI workflows faster than older staff.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/vantage/linkedin-ceo-daniel-shapero-says-ai-savvy-gen-z-has-the-edge-in-frozen-job-market-vantage-vd2337486/"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/ai-is-replacing-entry-level-jobs-yet-gen-z-may-have-advantage-linkedin-ceo-explains-why-12374071"
+            }
+          ],
+          "why": "Building practical experience with AI tools today will give you a clear advantage when applying for competitive summer internships."
+        },
+        {
+          "headline": "Anthropic Rethinks Engineering Promotions as AI Speeds Up Work",
+          "body": "Katelyn Lesse, head of platform engineering at Anthropic, stated that project duration is no longer a useful gauge of engineering seniority. Because AI tools speed up task completion, managers now evaluate output quality over time spent.",
+          "sources": [
+            {
+              "name": "Business Insider",
+              "url": "https://www.businessinsider.com/ai-changing-engineering-promotions-anthropic-2026-11"
+            }
+          ],
+          "why": "As consulting firms and tech startups adopt AI tools, your problem-solving speed and work quality will matter far more than hours logged on a project."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Langson OCMA Debuts Exhibition of California Art",
+          "body": "Following UCI taking over full oversight of the museum, director Kathryn Kanjo organized a new exhibition featuring over a century of California artwork from the integrated collection.",
+          "sources": [
+            {
+              "name": "Los Angeles Times",
+              "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-11-26/new-show-reintroduces-uc-irvine-langson-orange-county-museum-of-art"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "ATP Finals Viewership Drops 10 Million Italian Viewers Without Sinner",
+          "body": "Italian TV viewership for the ATP Finals dropped by 10 million compared to previous broadcasts after Jannik Sinner missed the tournament to undergo knee surgery.",
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/can-tennis-hold-its-tv-audience-without-jannik-sinner-a-10-million-italian-viewer-drop-at-this-years-atp-finals-raises-star-power-concerns/articleshow/136192870.cms"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Multiple Compression",
+    "definition": "Multiple compression happens when a company's stock price falls because investors are willing to pay a lower valuation multiple (such as price-to-earnings) for its financial performance, even if underlying revenue or earnings stay stable. Hard drive manufacturer Seagate experienced this recently, dropping 40% in three months despite maintaining solid operations.",
+    "sources": [
+      {
+        "name": "EUROPE SAYS",
+        "url": "https://www.europesays.com/3402849/"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "PowerLattice raised $111M total to cut AI data center power use",
+    "body": "PowerLattice developed a compact, fingertip-sized chip designed to cut energy consumption and heat output in AI data centers in half. The startup raised an initial $25 million followed by an $86 million funding round within a single year.",
+    "questions": [
+      "How can hardware startups convince enterprise data centers to test new chip designs over established brands?",
+      "What energy management solutions could UCI facilities explore to reduce computing power costs on campus?",
+      "If power availability limits AI growth, how should venture investors balance capital between hardware efficiency and AI software startups?"
+    ],
+    "sources": [
+      {
+        "name": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/world/us/a-tiny-chip-the-size-of-a-fingertip-could-cut-ais-power-use-in-half-investors-put-in-25-million-then-86-million-more-a-year-later/articleshow/136191266.cms"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "Anthropic reached a $1.5 trillion valuation following its public offering.",
+      "blurb": "The listing puts the AI developer among the top ten most valuable public U.S. companies."
+    },
+    {
+      "headline": "Salesforce shares are down 25% this year as AI agent fears grow.",
+      "blurb": "Investors worry new AI tools will undercut traditional software subscription platforms."
+    },
+    {
+      "headline": "LinkedIn's CEO says AI-ready Gen Z applicants hold a hiring advantage.",
+      "blurb": "Employers are prioritizing young candidates who bring practical AI skills to entry-level roles."
+    },
+    {
+      "headline": "Firefox now devotes 27% of engineering work to fixing AI-found bugs.",
+      "blurb": "Security models from OpenAI and Anthropic are discovering complex code flaws faster."
+    },
+    {
+      "headline": "ATP Finals lost 10 million Italian TV viewers without Jannik Sinner.",
+      "blurb": "The broadcast decline highlights how star power drives sports entertainment revenue."
+    }
+  ],
+  "emailQuestion": "How can hardware startups convince enterprise data centers to test new chip designs over established brands?"
+}
