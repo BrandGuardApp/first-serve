@@ -1,0 +1,248 @@
+{
+  "id": "2026-11-27-pm",
+  "slot": "evening",
+  "date": "2026-11-27",
+  "dateLabel": "Fri, Nov 27, 2026",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-28T01:21:12.539Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "SAP plans 10k AI job cuts, Anthropic CEO warns on junior roles, and ElevenLabs eyes $33B valuation.",
+  "storyCount": 11,
+  "readMinutes": 3,
+  "scoreboard": {
+    "asOf": "Close, Nov 27",
+    "rows": [
+      {
+        "name": "S&P 500",
+        "value": "7,297",
+        "change": "+1.60%",
+        "direction": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,130",
+        "change": "+2.31%",
+        "direction": "up"
+      },
+      {
+        "name": "Dow",
+        "value": "50,775",
+        "change": "+1.18%",
+        "direction": "up"
+      },
+      {
+        "name": "10-yr Treasury",
+        "value": "4.94%",
+        "change": "+9 bp",
+        "direction": "up"
+      },
+      {
+        "name": "Gold",
+        "value": "$3,669",
+        "change": "+2.91%",
+        "direction": "up"
+      }
+    ]
+  },
+  "lead": {
+    "headline": "SAP Prepares to Cut 10,000 Jobs in AI Restructuring",
+    "body": "European software leader SAP is drawing up plans to cut at least 10,000 jobs as part of an effort to realign for artificial intelligence. If executed, the restructuring would affect roughly 9% of the company's global workforce.",
+    "sources": [
+      {
+        "name": "Euronews.com",
+        "url": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say"
+      }
+    ],
+    "why": "Tech giants are actively shifting capital from headcount to AI infrastructure. Understanding these operational pivots gives you clearer context when analyzing enterprise tech stocks.",
+    "kicker": "Tech & Restructuring",
+    "figures": [
+      {
+        "value": "10,000",
+        "label": "Planned job cuts"
+      },
+      {
+        "value": "9%",
+        "label": "Of global workforce affected"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "key": "business",
+      "title": "Business & markets",
+      "stories": [
+        {
+          "headline": "Greg Abel Drives Berkshire Hathaway to Record Highs",
+          "body": "Warren Buffett's successor, Greg Abel, has led Berkshire Hathaway to record stock highs. Nearly $163 billion, or 47% of its $346 billion equity portfolio, remains concentrated in three top stock bets.",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102602983.html"
+            }
+          ],
+          "why": "High portfolio concentration is a core value investing strategy. Watching how top asset managers maintain conviction helps you refine your own approach to equity research."
+        },
+        {
+          "headline": "China's 'National Team' Buying Spree Lifts Markets",
+          "body": "China's government signaled a expanded role for state-backed 'national team' funds in domestic markets. The announcement drove benchmark equity indexes to their strongest single-day gains in over two years.",
+          "sources": [
+            {
+              "name": "Bnn Bloomberg",
+              "url": "https://www.bnnbloomberg.ca/business/international/2026/11/27/what-is-chinas-national-team-and-can-it-stop-the-stock-market-slide/"
+            }
+          ],
+          "why": "State interventions can instantly alter market liquidity and trader sentiment. Tracking sovereign fund flows helps you evaluate emerging market investment risks."
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "Tech & AI",
+      "stories": [
+        {
+          "headline": "ElevenLabs Targets $33 Billion Valuation as ARR Reaches $700 Million",
+          "body": "Voice AI startup ElevenLabs is holding early talks to raise capital at a $33 billion valuation. The London-based company's annual recurring revenue recently crossed $700 million.",
+          "sources": [
+            {
+              "name": "Analytics India Magazine",
+              "url": "https://analyticsindiamag.com/ai-news/elevenlabs-targets-33-billion-valuation-in-fresh-funding-round-report"
+            }
+          ],
+          "why": "Fast-growing AI startups are scaling to public-market revenue levels in record time. Monitoring these valuation metrics helps you gauge private equity and venture capital benchmarks."
+        },
+        {
+          "headline": "McKinsey Report Highlights Tightening Enterprise AI Budgets",
+          "body": "A new McKinsey report shows corporate leaders are enforcing stricter spending controls on artificial intelligence. Companies are abandoning generic solutions for specialized, cheaper models to ensure better investment returns.",
+          "sources": [
+            {
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/business/mckinsey-report-says-companies-refine-ai-budgets-as-costs-rise/tldr"
+            },
+            {
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/business/ai-spending-comes-under-scrutiny-as-costs-surge-mckinsey-reveals-how-companies-can-maximise-returns"
+            }
+          ],
+          "why": "Consultants are guiding enterprise clients through AI cost optimization. Knowing how companies measure tech ROI prepares you directly for strategy and tech consulting work."
+        }
+      ]
+    },
+    {
+      "key": "careers",
+      "title": "Consulting & careers",
+      "stories": [
+        {
+          "headline": "Anthropic CEO Warns AI Could Displace 80% of Junior Roles",
+          "body": "Anthropic chief executive Dario Amodei warned that artificial intelligence could eliminate up to 80% of entry-level jobs across consulting, finance, and law over the next five years.",
+          "sources": [
+            {
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/anthropic-boss-warns-ai-could-wipe-out-80-per-cent-of-junior-city-jobs/"
+            }
+          ],
+          "why": "Analyst workloads are shifting fast. Combining strong domain knowledge in corporate finance with practical AI skills will help safeguard your future recruiting competitiveness."
+        },
+        {
+          "headline": "LinkedIn CEO Points to Gen Z Advantage in AI Adoption",
+          "body": "Despite a tight labor market, LinkedIn CEO Daniel Shapero noted that companies favor Gen Z applicants who possess solid AI skills, relying on younger hires to help implement new technology.",
+          "sources": [
+            {
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/vantage/linkedin-ceo-daniel-shapero-says-ai-savvy-gen-z-has-the-edge-in-frozen-job-market-vantage-vd2337486/"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/ai-is-replacing-entry-level-jobs-yet-gen-z-may-have-advantage-linkedin-ceo-explains-why-12374071"
+            }
+          ],
+          "why": "Firms expect incoming graduates to bring tech fluency to the team. Demonstrating practical AI projects on your resume can give you an edge in internship screens."
+        }
+      ]
+    },
+    {
+      "key": "uci",
+      "title": "UC Irvine",
+      "stories": [
+        {
+          "headline": "UCI Researchers Build Physics-Guided AI for Fluid Dynamics",
+          "body": "Researchers at UC Irvine developed a computational method that combines physical laws with artificial intelligence. The system reconstructs complete fluid flow patterns using noisy, incomplete medical scan data.",
+          "sources": [
+            {
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tennis",
+      "title": "Tennis",
+      "stories": [
+        {
+          "headline": "Carlos Alcaraz Wins ATP Finals; ATP Approves Unified Commercial Arm",
+          "body": "Carlos Alcaraz claimed his maiden ATP Finals trophy in Turin, acknowledging his physiotherapist after battling mid-season injuries. Off the court, the ATP created 'ATP Ventures' to consolidate fragmented media, data, and sponsorship rights by 2028.",
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/sports/atp-seeks-to-centralise-rights-to-boost-revenue-20043259.htm"
+            },
+            {
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/together-we-are-the-best-team-carlos-alcaraz-expresses-gratitude-to-physio-after-atp-finals-glory-article-156575943"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "term": {
+    "name": "Annual Recurring Revenue (ARR)",
+    "definition": "A key financial metric used by subscription-based software companies to measure predictable revenue expected over a full year. It excludes one-time fees and helps investors evaluate growth rates and enterprise valuations, as seen in ElevenLabs reaching $700 million in ARR while negotiating a $33 billion valuation.",
+    "sources": [
+      {
+        "name": "Analytics India Magazine",
+        "url": "https://analyticsindiamag.com/ai-news/elevenlabs-targets-33-billion-valuation-in-fresh-funding-round-report"
+      }
+    ]
+  },
+  "serve": {
+    "headline": "Lute raises $20M for touch-trained robotics AI",
+    "body": "Warsaw robotics startup Lute secured $20 million in seed funding co-led by OTB Ventures and FORWARD.one. The company builds AI models for robots that learn through physical touch and tactile feedback.",
+    "questions": [
+      "How could tactile feedback improve how campus delivery robots navigate tight indoor spaces?",
+      "What advantages do hardware-software hybrid startups have when pitching seed funds versus pure software apps?",
+      "If physical touch data becomes an AI moat, how would you gather training data efficiently?"
+    ],
+    "sources": [
+      {
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/lute-20m-seed-robots-touch-physical-ai"
+      }
+    ]
+  },
+  "emailItems": [
+    {
+      "headline": "SAP plans 10,000 job cuts in AI shift.",
+      "blurb": "The German software giant aims to restructure nearly 9% of its global workforce."
+    },
+    {
+      "headline": "Anthropic CEO warns AI could disrupt 80% of junior roles.",
+      "blurb": "Entry-level consulting, finance, and legal positions face heavy automation pressure within five years."
+    },
+    {
+      "headline": "ElevenLabs eyes $33 billion valuation on $700 million ARR.",
+      "blurb": "The voice AI startup is negotiating a massive new funding round as revenue accelerates."
+    },
+    {
+      "headline": "McKinsey report finds corporate AI spending under scrutiny.",
+      "blurb": "Businesses are deploying specialized, cost-effective models to manage rising tech expenses."
+    },
+    {
+      "headline": "Greg Abel leads Berkshire Hathaway to record highs.",
+      "blurb": "Buffett's successor has placed 47% of Berkshire's $346 billion equity portfolio into three top bets."
+    }
+  ],
+  "emailQuestion": "How could tactile feedback improve how campus delivery robots navigate tight indoor spaces?"
+}

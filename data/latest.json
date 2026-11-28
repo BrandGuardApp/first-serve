@@ -1,17 +1,17 @@
 {
-  "id": "2026-11-27-am",
-  "slot": "morning",
+  "id": "2026-11-27-pm",
+  "slot": "evening",
   "date": "2026-11-27",
   "dateLabel": "Fri, Nov 27, 2026",
-  "editionLabel": "Morning edition",
-  "nextLabel": "Next edition: 5:00 PM PT",
-  "generatedAt": "2026-11-27T18:04:33.854Z",
-  "greeting": "Morning, Samrudh.",
-  "preheader": "BoE warns on $4T AI debt, UCI becomes OC's top employer, and Sinner misses Australian Open.",
+  "editionLabel": "Evening edition",
+  "nextLabel": "Next edition: tomorrow, 6:00 AM PT",
+  "generatedAt": "2026-11-28T01:21:12.539Z",
+  "greeting": "Evening, Samrudh.",
+  "preheader": "SAP plans 10k AI job cuts, Anthropic CEO warns on junior roles, and ElevenLabs eyes $33B valuation.",
   "storyCount": 11,
   "readMinutes": 3,
   "scoreboard": {
-    "asOf": "1:03 PM ET, Nov 27",
+    "asOf": "Close, Nov 27",
     "rows": [
       {
         "name": "S&P 500",
@@ -33,33 +33,37 @@
       },
       {
         "name": "10-yr Treasury",
-        "value": "4.93%",
-        "change": "+8 bp",
+        "value": "4.94%",
+        "change": "+9 bp",
         "direction": "up"
       },
       {
         "name": "Gold",
-        "value": "$3,661",
-        "change": "+2.70%",
+        "value": "$3,669",
+        "change": "+2.91%",
         "direction": "up"
       }
     ]
   },
   "lead": {
-    "headline": "Bank of England Warns of $4 Trillion AI Financing Risk",
-    "body": "The Bank of England sounded the alarm over the massive investment boom in artificial intelligence. Central bankers caution that heavy borrowing and complex, opaque financing structures pose systemic risks to global financial stability.",
+    "headline": "SAP Prepares to Cut 10,000 Jobs in AI Restructuring",
+    "body": "European software leader SAP is drawing up plans to cut at least 10,000 jobs as part of an effort to realign for artificial intelligence. If executed, the restructuring would affect roughly 9% of the company's global workforce.",
     "sources": [
       {
-        "name": "Proto Thema",
-        "url": "https://en.protothema.gr/2026/11/27/ai-the-opaque-4-trillion-web-of-financing-alarming-central-banks-boe-warning-raises-fears-at-ecb-and-fed/"
+        "name": "Euronews.com",
+        "url": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say"
       }
     ],
-    "why": "When you analyze corporate finance and leverage in class, watch how lenders handle tech debt. Stricter debt terms could slow down capital allocation for capital-heavy AI startups.",
-    "kicker": "Macro Risk + AI",
+    "why": "Tech giants are actively shifting capital from headcount to AI infrastructure. Understanding these operational pivots gives you clearer context when analyzing enterprise tech stocks.",
+    "kicker": "Tech & Restructuring",
     "figures": [
       {
-        "value": "$4 Trillion",
-        "label": "AI financing web"
+        "value": "10,000",
+        "label": "Planned job cuts"
+      },
+      {
+        "value": "9%",
+        "label": "Of global workforce affected"
       }
     ]
   },
@@ -69,26 +73,26 @@
       "title": "Business & markets",
       "stories": [
         {
-          "headline": "SpaceX Premarket Rally Follows Musk Share-Donation Plan",
-          "body": "SpaceX shares jumped 4% in premarket trading after Elon Musk announced on X that he plans to donate company shares to American children every year. The move coincided with a broader rise in major tech stocks.",
+          "headline": "Greg Abel Drives Berkshire Hathaway to Record Highs",
+          "body": "Warren Buffett's successor, Greg Abel, has led Berkshire Hathaway to record stock highs. Nearly $163 billion, or 47% of its $346 billion equity portfolio, remains concentrated in three top stock bets.",
           "sources": [
             {
-              "name": "CNBC",
-              "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102602983.html"
             }
           ],
-          "why": "Tracking how non-traditional corporate announcements move private and public market sentiment is a core skill for evaluating venture-backed companies."
+          "why": "High portfolio concentration is a core value investing strategy. Watching how top asset managers maintain conviction helps you refine your own approach to equity research."
         },
         {
-          "headline": "Binance to Reinvest Dividends into Stock Tokens",
-          "body": "Binance announced it will automatically reinvest dividends from stocks like Nvidia, PayPal, Qualcomm, Western Digital, and Wendy's back into additional stock tokens. Balance snapshots taken between December 1 and December 4 will determine user eligibility.",
+          "headline": "China's 'National Team' Buying Spree Lifts Markets",
+          "body": "China's government signaled a expanded role for state-backed 'national team' funds in domestic markets. The announcement drove benchmark equity indexes to their strongest single-day gains in over two years.",
           "sources": [
             {
-              "name": "U.Today",
-              "url": "https://u.today/binance-announces-dividends-for-nvidia-and-other-stocks"
+              "name": "Bnn Bloomberg",
+              "url": "https://www.bnnbloomberg.ca/business/international/2026/11/27/what-is-chinas-national-team-and-can-it-stop-the-stock-market-slide/"
             }
           ],
-          "why": "Tokenized equities show how crypto platforms are building synthetic yield products for retail investors, an area worth watching if you care about fintech innovation."
+          "why": "State interventions can instantly alter market liquidity and trader sentiment. Tracking sovereign fund flows helps you evaluate emerging market investment risks."
         }
       ]
     },
@@ -97,30 +101,30 @@
       "title": "Tech & AI",
       "stories": [
         {
-          "headline": "Chinese-Owned California Firms Buy Restricted Nvidia Chips",
-          "body": "Two California companies controlled by Chinese firms, Aivres and RiCloud, have been buying advanced Nvidia AI chips through Nvidia's partner program. Reports indicate some of these restricted chips were later leased or resold to firms in Southeast Asia.",
+          "headline": "ElevenLabs Targets $33 Billion Valuation as ARR Reaches $700 Million",
+          "body": "Voice AI startup ElevenLabs is holding early talks to raise capital at a $33 billion valuation. The London-based company's annual recurring revenue recently crossed $700 million.",
           "sources": [
             {
-              "name": "New York Post",
-              "url": "https://nypost.com/2026/11/26/us-news/chinese-owned-california-companies-buying-up-advanced-nvidia-ai-chips-report/"
+              "name": "Analytics India Magazine",
+              "url": "https://analyticsindiamag.com/ai-news/elevenlabs-targets-33-billion-valuation-in-fresh-funding-round-report"
             }
           ],
-          "why": "Export control loopholes are a central topic in tech policy and supply chain consulting. Expect tech firms to spend heavily on supply chain compliance."
+          "why": "Fast-growing AI startups are scaling to public-market revenue levels in record time. Monitoring these valuation metrics helps you gauge private equity and venture capital benchmarks."
         },
         {
-          "headline": "GTA 6 Launch Overwhelms Consoles as Modders Build PC Ports",
-          "body": "The release of Grand Theft Auto 6 has led to console failures, with repair shops reporting bricked Xbox Series X and S units alongside overheating PS5s. Meanwhile, independent programmers have built unofficial PC ports running at 20 frames per second.",
+          "headline": "McKinsey Report Highlights Tightening Enterprise AI Budgets",
+          "body": "A new McKinsey report shows corporate leaders are enforcing stricter spending controls on artificial intelligence. Companies are abandoning generic solutions for specialized, cheaper models to ensure better investment returns.",
           "sources": [
             {
-              "name": "Notebookcheck",
-              "url": "https://www.notebookcheck.net/GTA-6-release-produces-rash-of-bricked-Xbox-consoles-joining-failing-PS5s.1461079.0.html"
+              "name": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/business/mckinsey-report-says-companies-refine-ai-budgets-as-costs-rise/tldr"
             },
             {
-              "name": "Decrypt",
-              "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown"
+              "name": "Free Press Journal",
+              "url": "https://www.freepressjournal.in/business/ai-spending-comes-under-scrutiny-as-costs-surge-mckinsey-reveals-how-companies-can-maximise-returns"
             }
           ],
-          "why": "Hardware thermal limits and software optimization dictate what consumer platforms can handle, showing why game studios and hardware makers must closely coordinate product launches."
+          "why": "Consultants are guiding enterprise clients through AI cost optimization. Knowing how companies measure tech ROI prepares you directly for strategy and tech consulting work."
         }
       ]
     },
@@ -129,26 +133,30 @@
       "title": "Consulting & careers",
       "stories": [
         {
-          "headline": "BCG Partners Lead Corporate Crisis Workshop in Bangkok",
-          "body": "Bangkok executive club House of Wisdom brought together business founders and two Boston Consulting Group partners for a crisis leadership simulation. The forum focused on operational decision making when severe corporate disruptions hit.",
+          "headline": "Anthropic CEO Warns AI Could Displace 80% of Junior Roles",
+          "body": "Anthropic chief executive Dario Amodei warned that artificial intelligence could eliminate up to 80% of entry-level jobs across consulting, finance, and law over the next five years.",
           "sources": [
             {
-              "name": "Bangkok Post",
-              "url": "https://www.bangkokpost.com/thailand/pr/3362169/thailands-business-leaders-gather-to-rehearse-their-worst-day-with-a-former-military-chief-and-bcg"
+              "name": "City A.M.",
+              "url": "https://www.cityam.com/anthropic-boss-warns-ai-could-wipe-out-80-per-cent-of-junior-city-jobs/"
             }
           ],
-          "why": "Management consulting firms frequently run crisis management frameworks for top executives. Learning how consultants structure emergency turnarounds can prepare you for case interviews."
+          "why": "Analyst workloads are shifting fast. Combining strong domain knowledge in corporate finance with practical AI skills will help safeguard your future recruiting competitiveness."
         },
         {
-          "headline": "BCG Report Details $31 Billion India Climate Equity Boom",
-          "body": "A joint report from IVCA and BCG shows India has attracted $31 billion in climate equity funding since 2021. Power and low-carbon fuels took $19 billion while transport pulled in $9.5 billion, leaving manufacturing and waste lagging behind.",
+          "headline": "LinkedIn CEO Points to Gen Z Advantage in AI Adoption",
+          "body": "Despite a tight labor market, LinkedIn CEO Daniel Shapero noted that companies favor Gen Z applicants who possess solid AI skills, relying on younger hires to help implement new technology.",
           "sources": [
             {
-              "name": "Business Standard",
-              "url": "https://www.business-standard.com/industry/news/india-attracts-31-bn-climate-equity-funding-since-2021-ivca-bcg-report-126112601307_1.html"
+              "name": "Firstpost",
+              "url": "https://www.firstpost.com/vantage/linkedin-ceo-daniel-shapero-says-ai-savvy-gen-z-has-the-edge-in-frozen-job-market-vantage-vd2337486/"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/business/ai-is-replacing-entry-level-jobs-yet-gen-z-may-have-advantage-linkedin-ceo-explains-why-12374071"
             }
           ],
-          "why": "If you are interested in sustainability consulting or impact investing, capital allocation figures point to where hiring and advisory demand are highest."
+          "why": "Firms expect incoming graduates to bring tech fluency to the team. Demonstrating practical AI projects on your resume can give you an edge in internship screens."
         }
       ]
     },
@@ -157,12 +165,12 @@
       "title": "UC Irvine",
       "stories": [
         {
-          "headline": "UCI Overtakes Disneyland as Orange County's Largest Employer",
-          "body": "The University of California, Irvine has surpassed Disneyland Resort to become the largest employer in Orange County following a significant increase in its workforce.",
+          "headline": "UCI Researchers Build Physics-Guided AI for Fluid Dynamics",
+          "body": "Researchers at UC Irvine developed a computational method that combines physical laws with artificial intelligence. The system reconstructs complete fluid flow patterns using noisy, incomplete medical scan data.",
           "sources": [
             {
-              "name": "wdwnt.com",
-              "url": "https://wdwnt.com/2026/11/disneyland-loses-top-title-as-orange-countys-largest-employer-in-todays-daily-recap-for-11-25-2026/"
+              "name": "Phys.org",
+              "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html"
             }
           ]
         }
@@ -173,16 +181,16 @@
       "title": "Tennis",
       "stories": [
         {
-          "headline": "Jannik Sinner Out of 2027 Australian Open After Knee Surgery",
-          "body": "Two-time Australian Open champion Jannik Sinner will miss the tournament in January 2027 as he recovers from right knee surgery.",
+          "headline": "Carlos Alcaraz Wins ATP Finals; ATP Approves Unified Commercial Arm",
+          "body": "Carlos Alcaraz claimed his maiden ATP Finals trophy in Turin, acknowledging his physiotherapist after battling mid-season injuries. Off the court, the ATP created 'ATP Ventures' to consolidate fragmented media, data, and sponsorship rights by 2028.",
           "sources": [
             {
-              "name": "The News International",
-              "url": "https://www.thenews.com.pk/latest/1425247-jannik-sinner-shares-emotional-message-after-being-ruled-out-of-2027-australian-open-due-to-knee-surgery"
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/sports/atp-seeks-to-centralise-rights-to-boost-revenue-20043259.htm"
             },
             {
-              "name": "The Star",
-              "url": "https://www.thestar.com.my/sport/tennis/2026/11/26/tennis-sinner-to-miss-australian-open-after-undergoing-surgery-on-knee-injury"
+              "name": "Times Now",
+              "url": "https://www.timesnownews.com/sports/tennis/together-we-are-the-best-team-carlos-alcaraz-expresses-gratitude-to-physio-after-atp-finals-glory-article-156575943"
             }
           ]
         }
@@ -190,51 +198,51 @@
     }
   ],
   "term": {
-    "name": "Systemic Risk",
-    "definition": "Systemic risk is the possibility that an event at the micro level could trigger severe instability or collapse across an entire financial system or market. In today's news, central bankers warn that unchecked borrowing and complex debt structures in the AI sector could create broad market spillover if tech investments fail to yield expected returns.",
+    "name": "Annual Recurring Revenue (ARR)",
+    "definition": "A key financial metric used by subscription-based software companies to measure predictable revenue expected over a full year. It excludes one-time fees and helps investors evaluate growth rates and enterprise valuations, as seen in ElevenLabs reaching $700 million in ARR while negotiating a $33 billion valuation.",
     "sources": [
       {
-        "name": "Proto Thema",
-        "url": "https://en.protothema.gr/2026/11/27/ai-the-opaque-4-trillion-web-of-financing-alarming-central-banks-boe-warning-raises-fears-at-ecb-and-fed/"
+        "name": "Analytics India Magazine",
+        "url": "https://analyticsindiamag.com/ai-news/elevenlabs-targets-33-billion-valuation-in-fresh-funding-round-report"
       }
     ]
   },
   "serve": {
-    "headline": "PowerLattice raised $111M for energy-efficient AI hardware",
-    "body": "PowerLattice developed a fingertip-sized chip designed to cut AI data center power usage and heat output in half. The startup raised $25 million initially and gathered another $86 million a year later.",
+    "headline": "Lute raises $20M for touch-trained robotics AI",
+    "body": "Warsaw robotics startup Lute secured $20 million in seed funding co-led by OTB Ventures and FORWARD.one. The company builds AI models for robots that learn through physical touch and tactile feedback.",
     "questions": [
-      "How would you price a hardware chip when pitch savings directly reduce a data center's utility bill?",
-      "What key metrics would you present to VCs to prove lab thermal testing translates to real-world server racks?",
-      "If power consumption is the biggest constraint for AI labs, what business ideas could UCI students test on campus?"
+      "How could tactile feedback improve how campus delivery robots navigate tight indoor spaces?",
+      "What advantages do hardware-software hybrid startups have when pitching seed funds versus pure software apps?",
+      "If physical touch data becomes an AI moat, how would you gather training data efficiently?"
     ],
     "sources": [
       {
-        "name": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/world/us/a-tiny-chip-the-size-of-a-fingertip-could-cut-ais-power-use-in-half-investors-put-in-25-million-then-86-million-more-a-year-later/articleshow/136191266.cms"
+        "name": "TNW",
+        "url": "https://thenextweb.com/news/lute-20m-seed-robots-touch-physical-ai"
       }
     ]
   },
   "emailItems": [
     {
-      "headline": "Bank of England warns of $4 trillion AI financing risk",
-      "blurb": "Central banks caution that heavy borrowing and complex debt in AI pose systemic risks."
+      "headline": "SAP plans 10,000 job cuts in AI shift.",
+      "blurb": "The German software giant aims to restructure nearly 9% of its global workforce."
     },
     {
-      "headline": "Chinese-backed firms acquire restricted Nvidia chips",
-      "blurb": "Two California companies bought advanced AI hardware through partner programs."
+      "headline": "Anthropic CEO warns AI could disrupt 80% of junior roles.",
+      "blurb": "Entry-level consulting, finance, and legal positions face heavy automation pressure within five years."
     },
     {
-      "headline": "UCI passes Disneyland as Orange County's top employer",
-      "blurb": "A workforce surge pushed the university past the theme park resort."
+      "headline": "ElevenLabs eyes $33 billion valuation on $700 million ARR.",
+      "blurb": "The voice AI startup is negotiating a massive new funding round as revenue accelerates."
     },
     {
-      "headline": "Jannik Sinner out of 2027 Australian Open",
-      "blurb": "The world No. 2 will miss Melbourne Park after undergoing knee surgery."
+      "headline": "McKinsey report finds corporate AI spending under scrutiny.",
+      "blurb": "Businesses are deploying specialized, cost-effective models to manage rising tech expenses."
     },
     {
-      "headline": "BCG partners host corporate crisis simulation in Bangkok",
-      "blurb": "Consultants and business leaders trained on emergency decision making."
+      "headline": "Greg Abel leads Berkshire Hathaway to record highs.",
+      "blurb": "Buffett's successor has placed 47% of Berkshire's $346 billion equity portfolio into three top bets."
     }
   ],
-  "emailQuestion": "How would you price a hardware chip when pitch savings directly reduce a data center's utility bill?"
+  "emailQuestion": "How could tactile feedback improve how campus delivery robots navigate tight indoor spaces?"
 }
